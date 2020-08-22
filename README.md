@@ -9,5 +9,5 @@
 **_If you have an invitation to contact me for a development project at home or abroad, please do not hesitate to contact me!_** <br>
 **_I look forward to hearing from you!_** 🍺
 
-- 📧 **_Contact_**: kato.shinya.dev@gmail.com
-- 📷 **_Instagram_**: [@thinkit_shinya](https://www.instagram.com/thinkit_shinya/)
+- 📧 **_Contact:_** kato.shinya.dev@gmail.com
+- 📷 **_Instagram:_** [@thinkit_shinya](https://www.instagram.com/thinkit_shinya/)
