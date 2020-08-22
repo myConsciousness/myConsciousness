@@ -10,9 +10,9 @@
 
 I will use the following categories, similar to natural language proficiency, in describing my skills.
 
-| Category           | Description                                                                                                                                                                                                                                                                         |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **_Fluent_**       | More than three years of experience in personal and business development and can write optimized, readable and clean code based on OOP and operate the tool without any difficulties. Also, the state of being able to apply these languages and tools to solve difficult problems. |
+|      Category      | Description                                                                                                                                                                                                                                                                         |
+| :----------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|    **_Fluent_**    | More than three years of experience in personal and business development and can write optimized, readable and clean code based on OOP and operate the tool without any difficulties. Also, the state of being able to apply these languages and tools to solve difficult problems. |
 | **_Intermediate_** | At least one year of experience in personal or business development with a basic understanding of syntax and tool usage. Also, the state of being able to apply these languages and tools to solve basic or more difficult problems.                                                |
 
 ## Skills
