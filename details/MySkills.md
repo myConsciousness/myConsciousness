@@ -60,7 +60,7 @@ I will use the following categories, similar to natural language proficiency, in
   - Spring Boot 2
   - Bootstrap 4
 - **_Intermediate_**
-  - seasar 2
+  - Seasar 2
   - iBatis
 
 ### Object-Relational Mapping (ORM)
