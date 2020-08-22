@@ -22,3 +22,11 @@ My area of expertise is `Java`, but I will basically use any language if I need 
 I also created an [Android app](https://github.com/myConsciousness/duovoc) once in the past and **_published it on the Play Store_**. Only a few people in the world used it, but it feels good to know that someone in the world is using the app I created!🌱
 
 **_Basically, I create everything!_** 😄
+
+## As a developer
+
+In the past, I was responsible for the `design and development` of a `payment processing system for SONY` and a `customer management system for NTT DOCOMO`.
+
+**_These experiences form the basis of my technical capabilities._**
+
+However, I don't rest on my laurels from those experiences, and `I'm always trying to learn the basics and the latest technology!`💪 This attitude will never change, even if I'm getting older!🔥🔥
