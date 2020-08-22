@@ -10,7 +10,7 @@
 
 ## **_Hello guys!👋_**
 
-I'm a `freelance developer` based in Tokyo area, Japan.
+I'm a freelance developer` based in Tokyo area, Japan.
 
 I specialize in `backend development of Java-based web applications and business improvement tools`.
 
