@@ -3,6 +3,7 @@
 ## Details
 
 - [About Me](https://github.com/myConsciousness/myConsciousness/blob/master/details/AboutMe.md)
+- [My Skills](https://github.com/myConsciousness/myConsciousness/blob/master/details/MySkills.md)
 
 ## Contact Me
 
