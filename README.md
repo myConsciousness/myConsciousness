@@ -10,3 +10,4 @@
 **_I look forward to hearing from you!_** 🍺
 
 - 📧 **_Contact_**: kato.shinya.dev@gmail.com
+- 📷 **_Instagram_**: [@thinkit_shinya](https://www.instagram.com/thinkit_shinya/)
