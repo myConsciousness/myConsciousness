@@ -2,11 +2,11 @@
 
 ## Summary about me
 
-- Name: Kato Shinya (加藤 真也)
-- Birthday: 1993/09/24
-- Country: Japan
-- Birthplace: West Shizuoka prefecture
-- Contact: kato.shinya.dev@gmail.com
+- **_Name_**: Kato Shinya (加藤 真也)
+- **_Birthday_**: 1993/09/24
+- **_Country_**: Japan
+- **_Birthplace_**: West Shizuoka prefecture
+- **_Contact_**: kato.shinya.dev@gmail.com
 
 ## **_Hello guys!👋_**
 
