@@ -17,7 +17,7 @@ I will use the following categories, similar to natural language proficiency, in
 
 ## Skills
 
-### IDE or Editor
+### 1. IDE or Editor
 
 - **_Fluent_**
   - Eclipse
@@ -28,7 +28,7 @@ I will use the following categories, similar to natural language proficiency, in
   - Android Studio
   - DB Browser for SQLite
 
-### Programming Language
+### 2. Programming Language
 
 - **_Fluent_**
   - Java (SE 7 ~ SE 14)
@@ -41,9 +41,10 @@ I will use the following categories, similar to natural language proficiency, in
 - **_Intermediate_**
   - Groovy
   - Kotlin
+  - Python (2.x)
   - C
 
-### Build Tool
+### 3. Build Tool
 
 - **_Fluent_**
   - Apache Ant
@@ -51,7 +52,7 @@ I will use the following categories, similar to natural language proficiency, in
 - **_Intermediate_**
   - Apache Maven
 
-### Framework
+### 4. Framework
 
 - **_Fluent_**
   - Struts
@@ -63,7 +64,7 @@ I will use the following categories, similar to natural language proficiency, in
   - Seasar 2
   - iBatis
 
-### Object-Relational Mapping (ORM)
+### 5. Object-Relational Mapping (ORM)
 
 - **_Fluent_**
   - iBatis
@@ -71,7 +72,7 @@ I will use the following categories, similar to natural language proficiency, in
   - MyBatis
   - Hibernate
 
-### Database
+### 6. Database
 
 - **_Fluent_**
   - Oracle Database 11g
@@ -79,14 +80,14 @@ I will use the following categories, similar to natural language proficiency, in
 - **_Intermediate_**
   - SQLite 3
 
-### Application Server
+### 7. Application Server
 
 - **_Fluent_**
   - WebLogic Server
 - **_Intermediate_**
   - Apache Tomcat
 
-### Server
+### 8. Server
 
 - Solaris
 - CentOS
