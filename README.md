@@ -3,14 +3,10 @@
 **_If you have an invitation to contact me for a development project at home or abroad, please do not hesitate to contact me!_** <br>
 **_I look forward to hearing from you!_** 🍺
 
-<br>
-
 ### **_Details About Me:_**
 
 - [About Me](https://github.com/myConsciousness/myConsciousness/blob/master/details/AboutMe.md)
 - [My Skills](https://github.com/myConsciousness/myConsciousness/blob/master/details/MySkills.md)
-
-<br>
 
 ### **_Connect With Me:_**
 
