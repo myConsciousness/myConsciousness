@@ -18,8 +18,8 @@ I specialize in `backend development of Java-based web applications and business
 
 My area of expertise is `Java`, but I will basically use any language if I need it. In fact, in the past I have used `Python` to create a [crawling and scraping desktop app](https://github.com/myConsciousness/metis) in the past.
 
-> Caution:<br>
-> I do not know if I can run the app now and crawl pages successfully, as it's many years old!
+> **_Caution:_**<br>
+> The crawling scraping tool hasn't been updated in the years since I stopped using it personally, so I don't guarantee that it works!
 
 I also created an [Android app](https://github.com/myConsciousness/duovoc) once in the past and **_published it on the Play Store_**. Only a few people in the world used it, but it feels good to know that someone in the world is using the app I created!🌱
 
