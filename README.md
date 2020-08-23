@@ -1,3 +1,5 @@
+Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/)
+
 # **_Welcome to my Profile!_** 👋👨‍💻
 
 **_If you have an invitation to contact me for a development project at home or abroad, please do not hesitate to contact me!_** <br>
@@ -16,7 +18,7 @@
 ---
 
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary>:zap: My Recent Github Activity</summary>
 
 <!--START_SECTION:activity-->
 
@@ -25,7 +27,7 @@
 </details>
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>:zap: My Github Stats</summary>
 
   <img align="left" alt="Kato Shinya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=myConsciousness&show_icons=true&hide_border=true" />
 
