@@ -1,4 +1,6 @@
-Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/)
+### Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/)👋
+
+<br>
 
 # **_Welcome to my Profile!_** 👋👨‍💻
 
