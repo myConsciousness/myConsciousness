@@ -5,7 +5,7 @@
 
 |                     | My Data                                                                                                                           |
 | :------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 **_Work Style_** | I'm currently working as a freelance developer.<br> Lately I'm working from home 🏡                                               |
+| 💻 **_Work Style_** | I'm currently working as a freelance developer<br> Lately I'm working from home 🏡                                                |
 | 🧐 **_Challenges_** | 1. More profound Android app development<br> 2. Recent JavaScript frameworks such as vue.js and React                             |
 | 🐧 **_Learning_**   | EVERYTHING! 😎                                                                                                                    |
 | 🗻 **_2020 Goals_** | 1. More contribute to my packages<br> 2. More publish my packages and applications<br> 3. More contribute to Open Source Projects |
