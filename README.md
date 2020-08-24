@@ -18,9 +18,11 @@
 
 ---
 
-### **_Connect With Me:_**
+### **_Contact:_**
 
-- 📧 **_Contact:_** kato.shinya.dev@gmail.com
+- 📧 kato.shinya.dev@gmail.com
+
+### **_Connect With Me:_**
 
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
