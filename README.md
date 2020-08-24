@@ -20,7 +20,9 @@
 
 ### **_Contact:_**
 
-- 📧 kato.shinya.dev@gmail.com
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+<br />
 
 ### **_Connect With Me:_**
 
@@ -69,5 +71,6 @@
 
 </details>
 
+[gmail]: kato.shinya.dev@gmail.com
 [twitter]: https://twitter.com/thinkit_shinya
 [instagram]: https://instagram.com/thinkit_shinya
