@@ -11,6 +11,22 @@
 | 🗻 **_2020 Goals_** | 1. More contribute to my packages<br> 2. More publish my packages and applications<br> 3. More contribute to Open Source Projects |
 | 🐣 **_Fun Facts_**  | I really like adventuring in nature, and I love to drive a car 🚗🌄                                                               |
 
+### **_Details About Me:_**
+
+- [About Me](https://github.com/myConsciousness/myConsciousness/blob/master/details/AboutMe.md)
+- [My Skills](https://github.com/myConsciousness/myConsciousness/blob/master/details/MySkills.md)
+
+---
+
+### **_Connect With Me:_**
+
+- 📧 **_Contact:_** kato.shinya.dev@gmail.com
+
+[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+<br />
+
 ### **_Languages and Tools (Simplified)_**
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -33,16 +49,6 @@
 <br />
 <br />
 
-### **_Details About Me:_**
-
-- [About Me](https://github.com/myConsciousness/myConsciousness/blob/master/details/AboutMe.md)
-- [My Skills](https://github.com/myConsciousness/myConsciousness/blob/master/details/MySkills.md)
-
-### **_Connect With Me:_**
-
-- 📧 **_Contact:_** kato.shinya.dev@gmail.com
-- 📷 **_Instagram:_** [@thinkit_shinya](https://www.instagram.com/thinkit_shinya/)
-
 ---
 
 <details>
@@ -60,3 +66,6 @@
   <img align="left" alt="Kato Shinya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=myConsciousness&show_icons=true&hide_border=true" />
 
 </details>
+
+[twitter]: https://twitter.com/thinkit_shinya
+[instagram]: https://instagram.com/thinkit_shinya
