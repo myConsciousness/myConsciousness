@@ -71,6 +71,6 @@
 
 </details>
 
-[gmail]: kato.shinya.dev@gmail.com
+[gmail]: mailto:kato.shinya.dev@gmail.com
 [twitter]: https://twitter.com/thinkit_shinya
 [instagram]: https://instagram.com/thinkit_shinya
