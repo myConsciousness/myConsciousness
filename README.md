@@ -70,10 +70,10 @@
   <summary>:zap: My Github Stats</summary>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" alt="Kato Shinya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=myConsciousness&show_icons=true&hide_border=true&count_private=true" />
+  <img align="center" alt="Kato Shinya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=myConsciousness&show_icons=true&hide_border=true&count_private=true" />
   <a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&hide_border=true" />
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&hide_border=true" />
   <a>
 </details>
 
