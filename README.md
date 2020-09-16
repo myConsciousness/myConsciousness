@@ -58,15 +58,6 @@
 ---
 
 <details>
-  <summary>:zap: My Recent Github Activity</summary>
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: My Github Stats</summary>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
