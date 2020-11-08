@@ -1,4 +1,4 @@
-![Kato Shinya: Full-Stack Developer](https://user-images.githubusercontent.com/13072231/98462373-4e589900-21f7-11eb-9de1-7a65edfaa668.png)
+![Kato Shinya: Full-Stack Developer](https://user-images.githubusercontent.com/13072231/98462404-94156180-21f7-11eb-8a18-a001c042e062.png)
 
 ## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
