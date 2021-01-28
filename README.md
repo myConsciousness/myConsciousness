@@ -2,16 +2,16 @@
 
 ## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-**_If you have an invitation to contact me for a development project at home or abroad, please do not hesitate to contact me!_** <br>
+**_If you have an invitation to contact me for a development project at home or abroad, please do not hesitate to contact me!_** </br>
 **_I look forward to hearing from you!_** 🍺
 
-|                     | My Data                                                                                                                           |
-| :------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 **_Work Style_** | I'm currently working as a freelance developer<br> Lately I'm working from home 🏡                                                |
-| 🧐 **_Challenges_** | 1. More profound Android app development<br> 2. Recent JavaScript frameworks such as vue.js and React                             |
-| 🐧 **_Learning_**   | EVERYTHING! 😎                                                                                                                    |
-| 🗻 **_2020 Goals_** | 1. More contribute to my packages<br> 2. More publish my packages and applications<br> 3. More contribute to Open Source Projects |
-| 🐣 **_Fun Facts_**  | I really like adventuring in nature, and I love to drive a car 🚗🌄                                                               |
+|                     | My Data                                                                                                                             |
+| :------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| 💻 **_Work Style_** | I'm currently working as a freelance developer</br> Lately I'm working from home 🏡                                                 |
+| 🧐 **_Challenges_** | 1. More profound Android app development</br> 2. Recent JavaScript frameworks such as vue.js and React                              |
+| 🐧 **_Learning_**   | EVERYTHING! 😎                                                                                                                      |
+| 🗻 **_2021 Goals_** | 1. More contribute to my packages</br> 2. More publish my packages and applications</br> 3. More contribute to Open Source Projects |
+| 🐣 **_Fun Facts_**  | I really like adventuring in nature, and I love to drive a car 🚗🌄                                                                 |
 
 ### **_Details About Me:_**
 
@@ -54,8 +54,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+</br>
+</br>
 
 ---
 
@@ -68,6 +68,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&hide_border=true" />
   </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
+
 </details>
 
 [gmail]: mailto:kato.shinya.dev@gmail.com
