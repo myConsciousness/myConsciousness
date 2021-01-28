@@ -62,11 +62,11 @@
 <details>
   <summary>:zap: My Github Stats</summary>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myConsciousness&show_icons=true&theme=gruvbox)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
 
 </details>
 
