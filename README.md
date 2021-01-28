@@ -62,12 +62,11 @@
 <details>
   <summary>:zap: My Github Stats</summary>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" alt="Kato Shinya's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=myConsciousness&show_icons=true&hide_border=true&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&hide_border=true" />
-  </a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
 
