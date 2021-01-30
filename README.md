@@ -72,7 +72,9 @@
 
 <details>
   <summary>:zap: My wakatime</summary>
+
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 [gmail]: mailto:kato.shinya.dev@gmail.com
