@@ -70,6 +70,11 @@
 
 </details>
 
+<details>
+  <summary>:zap: My wakatime</summary>
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 [gmail]: mailto:kato.shinya.dev@gmail.com
 [twitter]: https://twitter.com/thinkit_shinya
 [instagram]: https://instagram.com/thinkit_shinya
