@@ -77,6 +77,13 @@
 
 </details>
 
+<details>
+  <summary>:zap: My Activity Graph</summary>
+  <div>
+      <img src="https://activity-graph.herokuapp.com/graph?username=myConsciousness&theme=xcode&area=true" />
+  </div>
+</details>
+
 [gmail]: mailto:kato.shinya.dev@gmail.com
 [twitter]: https://twitter.com/thinkit_shinya
 [instagram]: https://instagram.com/thinkit_shinya
