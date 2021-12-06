@@ -1,22 +1,24 @@
-![Kato Shinya: Full-Stack Developer](https://user-images.githubusercontent.com/13072231/98462404-94156180-21f7-11eb-8a18-a001c042e062.png)
+<img src="https://user-images.githubusercontent.com/13072231/144806565-597f5fc7-ef5c-499c-b66d-a91d3cebcdc0.png" min-width="340px" max-width="400px" width="340px" align="right" alt="profile-picture-1">
 
-## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
+<p align="left">
+Hello world, I'm <strong>Kato Shinya (加藤 真也)</strong>! I'm a programmer from Shizuoka, Japan. Currently, <strong>I'm actively working as a freelance engineer</strong>, mainly on projects in the Tokyo area. If I have the opportunity, I would like to actively participate in overseas projects as well.
 
-**_If you have an invitation to contact me for a development project at home or abroad, please do not hesitate to contact me!_** </br>
-**_I look forward to hearing from you!_** 🍺
+I'm good at scratch development of web screens, batch processing, and Android apps using Java. In addition, I've recently become passionate about developing apps that run cross-platform using the Flutter framework, and have published developed apps on the Play Store and libraries that run on Dart on PubDev.
 
-|                     | My Data                                                                                                                             |
-| :------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
-| 💻 **_Work Style_** | I'm currently working as a freelance developer</br> Lately I'm working from home 🏡                                                 |
-| 🧐 **_Challenges_** | 1. More profound Android app development</br> 2. Recent JavaScript frameworks such as vue.js and React                              |
-| 🐧 **_Learning_**   | EVERYTHING! 😎                                                                                                                      |
-| 🗻 **_2021 Goals_** | 1. More contribute to my packages</br> 2. More publish my packages and applications</br> 3. More contribute to Open Source Projects |
-| 🐣 **_Fun Facts_**  | I really like adventuring in nature, and I love to drive a car 🚗🌄                                                                 |
+I'm also actively involved in other OSS activities, and I travel GitHub to find interesting repositories!
 
-### **_Details About Me:_**
+</p>
 
-- [About Me](https://github.com/myConsciousness/myConsciousness/blob/master/details/AboutMe.md)
-- [My Skills](https://github.com/myConsciousness/myConsciousness/blob/master/details/MySkills.md)
+<img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="400px" width="340px" align="left" alt="profile-picture-2">
+
+<p align="left">
+In addition to scratch development, I have also participated in a project to develop a web-based dashboard screen that visualizes big data as a beautiful graph using BI tools, and I'm very skilled in database design and SQL handling.
+
+This experience of visualizing big data into beautiful graphs is also utilized in other development, and we design and create applications that allow users to analyze data intuitively by visualizing huge amounts of data that cannot be processed by humans as simple graphs.
+
+My main motto is to make the world more diverse and efficient. I hope to fulfill this goal through useful open source development and app development. If you are interested in my activities, please contact me. Pull requests for libraries in the repositories I'm developing are also welcome!
+
+</p>
 
 ---
 
