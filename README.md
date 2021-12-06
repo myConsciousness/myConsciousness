@@ -65,7 +65,7 @@ My main motto is <strong>to make the world more diverse and efficient</strong>. 
 ---
 
 <details>
-  <summary>:zap: My Github Stats</summary>
+  <summary>:zap: My Github Status</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
 
@@ -75,9 +75,9 @@ My main motto is <strong>to make the world more diverse and efficient</strong>. 
 </details>
 
 <details>
-  <summary>:zap: My wakatime</summary>
+  <summary>:zap: My Wakatime</summary>
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
