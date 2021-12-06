@@ -27,14 +27,7 @@ My main motto is <strong>to make the world more diverse and efficient</strong>. 
 
 ### **_Contact:_**
 
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-
-<br />
-
-### **_Connect With Me:_**
-
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- kato.shinya.dev@gmail.com
 
 <br />
 
