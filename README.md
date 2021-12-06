@@ -1,7 +1,8 @@
 [![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://github.com/myConsciousness/)
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/YP2nycjVCb)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=kato.shinya.dev@gmail.com&fs=1&tf=cm)
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/YP2nycjVCb)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ThinkitShinya)
+[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/9908914779?pwd=OUFsZUgycENJSTRUVGxrdW1Waldvdz09)
 
 ## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
