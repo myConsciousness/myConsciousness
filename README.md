@@ -9,7 +9,7 @@ I'm also actively involved in other OSS activities, and I travel GitHub to find 
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="400px" width="340px" align="left" alt="profile-picture-2">
+<img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="300px" width="300px" align="left" alt="profile-picture-2">
 
 <p align="left">
 In addition to scratch development, I have also participated in a project to develop a web-based dashboard screen that visualizes big data as a beautiful graph using BI tools, and I'm very skilled in database design and SQL handling.
