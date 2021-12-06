@@ -15,7 +15,7 @@ I'm good at <strong>scratch development of web screens, batch processing, and An
 
 </p>
 
-<img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="300px" width="300px" align="left" alt="profile-picture-2">
+<img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="300px" width="400px" align="left" alt="profile-picture-2">
 
 <p align="left">
 I'm also actively involved in <strong>OSS activities</strong>, and I travel GitHub to find interesting repositories!
