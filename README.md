@@ -1,11 +1,14 @@
-![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)
+[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://github.com/myConsciousness/)
+[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/YP2nycjVCb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=kato.shinya.dev@gmail.com&fs=1&tf=cm)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ThinkitShinya)
 
 ## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
 <img src="https://user-images.githubusercontent.com/13072231/144806565-597f5fc7-ef5c-499c-b66d-a91d3cebcdc0.png" min-width="340px" max-width="400px" width="340px" align="right" alt="profile-picture-1">
 
 <p align="left">
-Hello world, I'm <strong>Kato Shinya (加藤 真也)</strong>! I'm a programmer from Shizuoka, Japan. Currently, <strong>I'm actively working as a freelance engineer</strong>, mainly on projects in the Tokyo area. If I have the opportunity, I would like to actively participate in overseas projects as well.
+Hello world, I'm <strong>Kato Shinya (加藤 真也)</strong>! I'm a programmer from Shizuoka, Japan. Currently, <strong>I'm actively working as a freelance developer</strong>, mainly on projects in the Tokyo area. If I have the opportunity, I would like to actively participate in overseas projects as well.
 
 I'm good at <strong>scratch development of web screens, batch processing, and Android apps using Java</strong>. In addition, I've recently become passionate about <strong>developing apps that run cross-platform using the Flutter framework</strong>, and have published developed apps on the Play Store and libraries that run on Dart on PubDev.
 
@@ -67,6 +70,7 @@ My main motto is <strong>to make the world more diverse and efficient</strong>. 
 
 ### **_Database:_**
 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
