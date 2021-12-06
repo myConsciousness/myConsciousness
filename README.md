@@ -67,12 +67,10 @@ My main motto is <strong>to make the world more diverse and efficient</strong>. 
 <details>
   <summary>:zap: My Github Stats</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myConsciousness&show_icons=true&theme=gruvbox)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&langs_count=8&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
+<div>
+  <img height="180em" src="https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myConsciousness&count_private=true&theme=gruvbox&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&layout=compact&langs_count=7&theme=gruvbox"/>
 </details>
 
 <details>
