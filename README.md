@@ -13,13 +13,13 @@ Hello world, I'm <strong>Kato Shinya (加藤 真也)</strong>! I'm a programmer 
 
 I'm good at <strong>scratch development of web screens, batch processing, and Android apps using Java</strong>. In addition, I've recently become passionate about <strong>developing apps that run cross-platform using the Flutter framework</strong>, and have published developed apps on the Play Store and libraries that run on Dart on PubDev.
 
+I'm also actively involved in <strong>OSS activities</strong>, and I travel GitHub to find interesting repositories!
+
 </p>
 
 <img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="300px" width="400px" align="left" alt="profile-picture-2">
 
 <p align="left">
-I'm also actively involved in <strong>OSS activities</strong>, and I travel GitHub to find interesting repositories!
-
 In addition to scratch development, I have also participated in a project to develop a <strong>web-based dashboard screen that visualizes big data as a beautiful graph using BI tools</strong>, and I'm very skilled in database design and SQL handling.
 
 This experience of visualizing big data into beautiful graphs is also utilized in other development, and <strong>I design and create applications that allow users to analyze data intuitively by visualizing huge amounts of data that cannot be processed by humans as simple graphs</strong>.
