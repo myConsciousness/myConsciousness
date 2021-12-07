@@ -26,6 +26,8 @@ This experience of visualizing big data into beautiful graphs is also utilized i
 
 My main motto is <strong>to make the world more diverse and efficient</strong>. I hope to fulfill this goal through useful open source development and app development. If you are interested in my activities, please contact me! <strong>Pull requests for libraries in the repositories I'm developing are also welcome!</strong>
 
+Finally, I like to drive and visit places rich in nature, and I get most of my inspiration for programming from natural systems. I also like to grow plants and often do gardening.
+  
 </p>
 
 </br>
