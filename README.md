@@ -3,6 +3,7 @@
 [![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/YP2nycjVCb)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ThinkitShinya)
 [![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/9908914779?pwd=OUFsZUgycENJSTRUVGxrdW1Waldvdz09)
+![Discord](https://dcbadge.vercel.app/api/shield/919043517974720514)
 
 ## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
@@ -27,7 +28,7 @@ This experience of visualizing big data into beautiful graphs is also utilized i
 My main motto is <strong>to make the world more diverse and efficient</strong>. I hope to fulfill this goal through useful open source development and app development. If you are interested in my activities, please contact me! <strong>Pull requests for libraries in the repositories I'm developing are also welcome!</strong>
 
 Finally, I'm a multi-talented person and a programmer is just one of my faces. Especially I like to drive and visit places rich in nature, and I get most of my inspiration from natural systems. I also like to workout and have built a simple gym in my house and workout there.
-  
+
 </p>
 
 </br>
