@@ -3,11 +3,11 @@
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-### **_Sponsoring_**
+### **_Sponsoring_** 🙏🙏🙏
 
 <p align="center">
   <a href="https://github.com/batch-dart/batch.dart">
-    <img alt="batch" width="250px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
+    <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
   </a>
 </p>
 
@@ -20,7 +20,6 @@ Thank you!
 - Developing at [GitHub Repository](https://github.com/batch-dart/batch.dart)
 - Released at [pub.dev](https://pub.dev/packages/batch)
 
-</br>
 </br>
 
 ---
