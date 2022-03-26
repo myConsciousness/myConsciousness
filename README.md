@@ -1,35 +1,24 @@
-[![Freelancer](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)](https://github.com/myConsciousness/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?to=kato.shinya.dev@gmail.com&fs=1&tf=cm)
-[![Line](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)](https://line.me/ti/p/YP2nycjVCb)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ThinkitShinya)
-[![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/j/9908914779?pwd=OUFsZUgycENJSTRUVGxrdW1Waldvdz09)
-![Discord](https://dcbadge.vercel.app/api/shield/919043517974720514)
+[![Twitter Badge](https://img.shields.io/badge/-@ThinkitShinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ThinkitShinya)](https://twitter.com/ThinkitShinya)
+[![Gmail Badge](https://img.shields.io/badge/-kato.shinya.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kato.shinya.dev@gmail.com)](mailto:kato.shinya.dev@gmail.com)
 
-## Hi there, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
+## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-<img src="https://user-images.githubusercontent.com/13072231/144806565-597f5fc7-ef5c-499c-b66d-a91d3cebcdc0.png" min-width="340px" max-width="400px" width="340px" align="right" alt="profile-picture-1">
+### **_Sponsoring_**
 
-<p align="left">
-Hello world, I'm <strong>Kato Shinya (加藤 真也)</strong>! I'm a programmer from Shizuoka, Japan. Currently, <strong>I'm actively working as a freelance developer</strong>, mainly on projects in the Tokyo area. If I have the opportunity, I would like to actively participate in overseas projects as well.
-
-I'm good at <strong>scratch development of web screens, batch processing, and Android apps using Java</strong>. In addition, I've recently become passionate about <strong>developing apps that run cross-platform using the Flutter framework</strong>, and have published developed apps on the Play Store and libraries that run on Dart on PubDev.
-
-I'm also actively involved in <strong>OSS activities</strong>, and I travel GitHub to find interesting repositories!
-
+<p align="center">
+  <a href="https://github.com/batch-dart/batch.dart">
+    <img alt="batch" width="250px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
+  </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/13072231/144807504-3d1ab63b-9398-42fd-8132-b7b660ab467c.png" min-width="340px" max-width="300px" width="400px" align="left" alt="profile-picture-2">
+I'm developing a `job scheduling framework` what is called `batch.dart`, and I'm looking for sponsors from around the world to support the development costs. `batch.dart` allows for easy and intuitive job scheduling. Another key advantage of `batch.dart` is that it runs on the `Dart VM` and allows the use of open source libraries of `Dart language` in its development.
 
-<p align="left">
-In addition to scratch development, I have also participated in a project to develop a <strong>web-based dashboard screen that visualizes big data as a beautiful graph using BI tools</strong>, and I'm very skilled in database design and SQL handling.
+If you would like to sponsor me, please check [my sponsorship page](https://github.com/sponsors/myConsciousness) on my account or contact me at kato.shinya.dev@gmail.com.
 
-This experience of visualizing big data into beautiful graphs is also utilized in other development, and <strong>I design and create applications that allow users to analyze data intuitively by visualizing huge amounts of data that cannot be processed by humans as simple graphs</strong>.
+Thank you!
 
-My main motto is <strong>to make the world more diverse and efficient</strong>. I hope to fulfill this goal through useful open source development and app development. If you are interested in my activities, please contact me! <strong>Pull requests for libraries in the repositories I'm developing are also welcome!</strong>
-
-Finally, I'm a multi-talented person and a programmer is just one of my faces. Especially I like to drive and visit places rich in nature, and I get most of my inspiration from natural systems. I also like to workout and have built a simple gym in my house and workout there.
-
-</p>
+- Developing at [GitHub Repository](https://github.com/batch-dart/batch.dart)
+- Released at [pub.dev](https://pub.dev/packages/batch)
 
 </br>
 </br>
@@ -88,7 +77,7 @@ Finally, I'm a multi-talented person and a programmer is just one of my faces. E
 <details>
   <summary>:zap: My Github Status</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=randyaajr&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=myConsciousness&margin-w=15)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myConsciousness&count_private=true&theme=gruvbox&show_icons=true"/>
@@ -108,7 +97,3 @@ Finally, I'm a multi-talented person and a programmer is just one of my faces. E
       <img src="https://activity-graph.herokuapp.com/graph?username=myConsciousness&theme=xcode&area=true" />
   </div>
 </details>
-
-[gmail]: mailto:kato.shinya.dev@gmail.com
-[twitter]: https://twitter.com/thinkit_shinya
-[instagram]: https://instagram.com/thinkit_shinya
