@@ -1,5 +1,6 @@
-[![Twitter Badge](https://img.shields.io/badge/-@ThinkitShinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ThinkitShinya)](https://twitter.com/ThinkitShinya)
 [![Gmail Badge](https://img.shields.io/badge/-kato.shinya.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kato.shinya.dev@gmail.com)](mailto:kato.shinya.dev@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@ThinkitShinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ThinkitShinya)](https://twitter.com/ThinkitShinya)
+[![Medium Badge](https://img.shields.io/badge/-@kato.shinya.dev-000000?style=flat&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@kato.shinya.dev)](https://medium.com/@kato.shinya.dev)
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
