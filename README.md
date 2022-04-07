@@ -14,9 +14,11 @@
 
 I'm developing a `job scheduling framework` what is called `batch.dart`, and I'm looking for sponsors from around the world to support the development costs. `batch.dart` allows for easy and intuitive job scheduling. Another key advantage of `batch.dart` is that it runs on the `Dart VM` and allows the use of open source libraries of `Dart language` in its development.
 
-Click on the button below to see more details! 👇
-
 <div align="center">
+  <p>
+    <b>👇 Click on the button below to see more details! 👇</b>
+  </p>
+
   <p>
     <a href="https://github.com/sponsors/myconsciousness">
       <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="myconsciousness" />
