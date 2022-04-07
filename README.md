@@ -4,7 +4,7 @@
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-### **_Sponsoring_** 🙏🙏🙏
+### **_Sponsoring_**
 
 <p align="center">
   <a href="https://github.com/batch-dart/batch.dart">
@@ -14,11 +14,20 @@
 
 I'm developing a `job scheduling framework` what is called `batch.dart`, and I'm looking for sponsors from around the world to support the development costs. `batch.dart` allows for easy and intuitive job scheduling. Another key advantage of `batch.dart` is that it runs on the `Dart VM` and allows the use of open source libraries of `Dart language` in its development.
 
-If you would like to sponsor me, please check [my sponsorship page](https://github.com/sponsors/myConsciousness) on my account or contact me at kato.shinya.dev@gmail.com.
+Click on the button below to see more details! 👇
+
+<div align="center">
+  <p>
+    <a href="https://github.com/sponsors/myconsciousness">
+      <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="myconsciousness" />
+    </a>
+  </p>
+</div>
 
 Thank you!
 
 - Developing at [GitHub Repository](https://github.com/batch-dart/batch.dart)
+- Organized at [GitHub](https://github.com/batch-dart)
 - Released at [pub.dev](https://pub.dev/packages/batch)
 
 </br>
@@ -77,10 +86,14 @@ Thank you!
 <details>
   <summary>:zap: My Github Status</summary>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox)](https://github-profile-trophy.vercel.app/?username=myConsciousness&margin-w=15)
+[![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=myConsciousness&margin-w=15&include_all_commits=true&count_private=true)
+
+<p>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=myConsciousness&layout=compact&theme=gruvbox" alt="myConsciousness" />
+</p>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myConsciousness&count_private=true&theme=gruvbox&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myConsciousness&count_private=true&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&layout=compact&langs_count=7&theme=gruvbox"/>
 </details>
 
