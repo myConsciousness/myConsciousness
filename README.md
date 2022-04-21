@@ -4,7 +4,7 @@
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-### **_Sponsoring_**
+### **_Enthusiastic Project_**
 
 <p align="center">
   <a href="https://github.com/batch-dart/batch.dart">
@@ -12,7 +12,9 @@
   </a>
 </p>
 
-I'm developing a `job scheduling framework` what is called `batch.dart`, and I'm looking for sponsors from around the world to support the development costs. `batch.dart` allows for easy and intuitive job scheduling. Another key advantage of `batch.dart` is that it runs on the `Dart VM` and allows the use of open source libraries of `Dart language` in its development.
+I'm developing a `Job Scheduling Framework` what is called `Batch.dart`, and I'm looking for sponsors from around the world to support the development costs. `Batch.dart` allows for easy and intuitive job scheduling. Another key advantage of `Batch.dart` is that it runs on the `Dart VM` and allows the use of open source libraries of `Dart language` in its development.
+
+Also, I'm always looking for sponsors to support my open source development. It doesn't matter if you are an individual or a corporation, even a donation for a cup of coffee would be very much appreciated!
 
 <div align="center">
   <p>
@@ -29,7 +31,7 @@ I'm developing a `job scheduling framework` what is called `batch.dart`, and I'm
 Thank you!
 
 - Developing at [GitHub Repository](https://github.com/batch-dart/batch.dart)
-- Organized at [GitHub](https://github.com/batch-dart)
+- Organized at [batch-dart](https://github.com/batch-dart)
 - Released at [pub.dev](https://pub.dev/packages/batch)
 
 </br>
