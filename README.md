@@ -4,7 +4,7 @@
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-## **_Passionate Projects_**
+## **_🚀 Passionate Projects_**
 
 ### Batch.dart
 
