@@ -39,13 +39,9 @@ It is designed to wrap the complexities of using the **Twitter API** and make ea
 
 ---
 
-I'm always looking for sponsors to support my open source development. It doesn't matter if you are an individual or a corporation, even a donation for a cup of coffee would be very much appreciated!
+I'm always looking for sponsors to support my open source development. It doesn't matter if you are an individual or a corporation, even a donation for a cup of coffee would be very much appreciated, thank you!
 
 <div align="center">
-  <p>
-    <b>👇 Click on the button below to see more details! 👇</b>
-  </p>
-
   <p>
     <a href="https://github.com/sponsors/myconsciousness">
       <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="myconsciousness" />
