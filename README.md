@@ -2,6 +2,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kato.shinya.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kato.shinya.dev@gmail.com)](mailto:kato.shinya.dev@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@_kato_shinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_kato_shinya)](https://twitter.com/_kato_shinya)
 [![Medium Badge](https://img.shields.io/badge/-@kato.shinya.dev-000000?style=flat&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@kato.shinya.dev)](https://medium.com/@kato.shinya.dev)
+[![Zenn Badge](https://img.shields.io/badge/-@kato_shinya-000000?style=flat&labelColor=000000&logo=zenn&logoColor=1ca0f1&link=[https://medium.com/@kato.shinya.dev](https://zenn.dev/kato_shinya))](https://zenn.dev/kato_shinya)
+[![Qiita Badge](https://img.shields.io/badge/-@kato_shinya-000000?style=flat&labelColor=000000&logo=qiita&logoColor=green&link=[https://qiita.com/myConsciousness](https://qiita.com/myConsciousness))](https://qiita.com/myConsciousness)
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
@@ -30,7 +32,7 @@ I'm developing a `Job Scheduling Framework` what is called `Batch.dart`, and I'm
   </a>
 </p>
 
-This is a wrapper library for **Twitter API v2**. 
+This is a wrapper library for **Twitter API v2**.
 
 It is designed to wrap the complexities of using the **Twitter API** and make each endpoint very easy to use, supporting both `OAuth 2.0` and `OAuth 1.0a` authentication methods.
 
