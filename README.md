@@ -11,7 +11,7 @@
 
 ### Batch.dart 🚀
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/batch-dart/batch.dart">
     <img alt="batch" width="250px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
   </a>
@@ -34,7 +34,7 @@
 
 ### Twitter API v2 🐦
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/twitter-dart/twitter-api-v2">
     <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/165789212-8f335632-64b2-4eac-be54-8147ccfe7ab1.png">
   </a>
