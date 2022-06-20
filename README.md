@@ -7,37 +7,50 @@
 
 ## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-## **_🚀 Passionate Projects_**
+## **_Passionate Projects_**
 
-### Batch.dart
+### Batch.dart 🚀
 
 <p align="center">
   <a href="https://github.com/batch-dart/batch.dart">
-    <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
+    <img alt="batch" width="250px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
   </a>
 </p>
 
-I'm developing a `Job Scheduling Framework` what is called `Batch.dart`, and I'm looking for sponsors from around the world to support the development costs. `Batch.dart` allows for easy and intuitive job scheduling. Another key advantage of `Batch.dart` is that it runs on the `Dart VM` and allows the use of open source libraries of `Dart language` in its development.
+#### Highlights ✨
 
-- Developing at [GitHub Repository](https://github.com/batch-dart/batch.dart)
-- Released at [pub.dev](https://pub.dev/packages/batch)
+✅ **Job Scheduling Framework** running on **Dart VM**. </br>
+✅ **Easily schedules** with a combination of **Job**, **Step**, and **Task**. </br>
+✅ Supports **job scheduling in Cron** format. </br>
+✅ Supports **convenient logging functions** as a standard. </br>
+✅ Supports the **parallel processing**. </br>
+✅ Supports **conditional branching** of schedules. </br>
+✅ Supports the **customizable retry feature**.
+
+- [Repository](https://github.com/batch-dart/batch.dart)
+- [Pub.dev](https://pub.dev/packages/batch)
 
 ---
 
-### Twitter API v2
+### Twitter API v2 🐦
 
 <p align="center">
   <a href="https://github.com/twitter-dart/twitter-api-v2">
-    <img alt="batch" width="500px" src="https://user-images.githubusercontent.com/13072231/165789212-8f335632-64b2-4eac-be54-8147ccfe7ab1.png">
+    <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/165789212-8f335632-64b2-4eac-be54-8147ccfe7ab1.png">
   </a>
 </p>
 
-This is a wrapper library for **Twitter API v2**.
+#### Highlights ✨
 
-It is designed to wrap the complexities of using the **Twitter API** and make each endpoint very easy to use, supporting both `OAuth 2.0` and `OAuth 1.0a` authentication methods.
+✅ The **wrapper library** for **[Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api)**. </br>
+✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
+✅ Provides response objects with a **guaranteed safe types.** </br>
+✅ Supports **[all endpoints](https://developer.twitter.com/en/docs/api-reference-index)**. </br>
+✅ Supports **high-performance streaming** endpoints. </br>
+✅ Supports **[expansions](https://developer.twitter.com/en/docs/twitter-api/expansions)** and **[fields](https://developer.twitter.com/en/docs/twitter-api/fields)** features. </br>
 
-- Developing at [GitHub Repository](https://github.com/twitter-dart/twitter-api-v2)
-- Released at [pub.dev](https://pub.dev/packages/twitter_api_v2)
+- [Repository](https://github.com/twitter-dart/twitter-api-v2)
+- [Pub.dev](https://pub.dev/packages/twitter_api_v2)
 
 ---
 
