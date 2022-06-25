@@ -54,7 +54,7 @@
 
 ---
 
-I'm always looking for sponsors to support my open source development. It doesn't matter if you are an individual or a corporation, even a donation for a cup of coffee would be very much appreciated, thank you!
+I'm looking for sponsors to support my open source development, please check a link below! :)
 
 <div align="center">
   <p>
