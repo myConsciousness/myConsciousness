@@ -5,7 +5,7 @@
 [![Zenn Badge](https://img.shields.io/badge/-@kato_shinya-000000?style=flat&labelColor=000000&logo=zenn&logoColor=1ca0f1&link=[https://medium.com/@kato.shinya.dev](https://zenn.dev/kato_shinya))](https://zenn.dev/kato_shinya)
 [![Qiita Badge](https://img.shields.io/badge/-@kato_shinya-000000?style=flat&labelColor=000000&logo=qiita&logoColor=green&link=[https://qiita.com/myConsciousness](https://qiita.com/myConsciousness))](https://qiita.com/myConsciousness)
 
-## Hey what's up? 🐦 I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
+## Hi, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
 ## **_Passionate Projects_**
 
@@ -32,7 +32,7 @@
 
 ---
 
-### Twitter API v2 🐦
+### twitter_api_v2 🐦
 
 <p align="center">
   <a href="https://github.com/twitter-dart/twitter-api-v2">
