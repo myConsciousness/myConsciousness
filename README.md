@@ -26,7 +26,7 @@ I'm looking for sponsors to support my open source development, please check a l
 
 ✅ **Job Scheduling Framework** running on **Dart VM**. </br>
 ✅ **Easily schedules** with a combination of **Job**, **Step**, and **Task**. </br>
-✅ Supports **job scheduling in Cron** format. </br>
+✅ Supports **job scheduling in [Cron](https://en.wikipedia.org/wiki/Cron)** format. </br>
 ✅ Supports **convenient logging functions** as a standard. </br>
 ✅ Supports the **parallel processing**. </br>
 ✅ Supports **conditional branching** of schedules. </br>
