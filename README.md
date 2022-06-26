@@ -1,8 +1,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-kato.shinya.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:kato.shinya.dev@gmail.com)](mailto:kato.shinya.dev@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-@_kato_shinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_kato_shinya)](https://twitter.com/_kato_shinya)
 [![Medium Badge](https://img.shields.io/badge/-@kato.shinya.dev-000000?style=flat&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@kato.shinya.dev)](https://medium.com/@kato.shinya.dev)
-[![Zenn Badge](https://img.shields.io/badge/-@kato_shinya-000000?style=flat&labelColor=000000&logo=zenn&logoColor=1ca0f1&link=[https://medium.com/@kato.shinya.dev](https://zenn.dev/kato_shinya))](https://zenn.dev/kato_shinya)
-[![Qiita Badge](https://img.shields.io/badge/-@kato_shinya-000000?style=flat&labelColor=000000&logo=qiita&logoColor=green&link=[https://qiita.com/myConsciousness](https://qiita.com/myConsciousness))](https://qiita.com/myConsciousness)
+[![Zenn Badge](https://img.shields.io/badge/-@kato_shinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=zenn&logoColor=white&link=[https://medium.com/@kato.shinya.dev](https://zenn.dev/kato_shinya))](https://zenn.dev/kato_shinya)
+[![Qiita Badge](https://img.shields.io/badge/-@kato_shinya-green?style=flat&labelColor=green&logo=qiita&logoColor=white&link=[https://qiita.com/myConsciousness](https://qiita.com/myConsciousness))](https://qiita.com/myConsciousness)
 
 ## Hi, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
