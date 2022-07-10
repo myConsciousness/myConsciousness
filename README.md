@@ -51,7 +51,7 @@ I'm looking for sponsors to support my open source development, please check a l
 ✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
 ✅ Provides response objects with a **guaranteed safe types.** </br>
 ✅ Supports **[all endpoints](https://developer.twitter.com/en/docs/api-reference-index)**. </br>
-✅ Support **all request parameters and response fields**.
+✅ Support **all request parameters and response fields**.</br>
 ✅ Supports **high-performance streaming** endpoints. </br>
 ✅ Supports **[expansions](https://developer.twitter.com/en/docs/twitter-api/expansions)** and **[fields](https://developer.twitter.com/en/docs/twitter-api/fields)** features. </br>
 
