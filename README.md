@@ -55,6 +55,7 @@ I'm looking for sponsors to support my open source development, please check a l
 ✅ Supports **high-performance streaming** endpoints. </br>
 ✅ Supports **[expansions](https://developer.twitter.com/en/docs/twitter-api/expansions)** and **[fields](https://developer.twitter.com/en/docs/twitter-api/fields)** features. </br>
 ✅ **Well documented** and **well tested**.</br>
+✅ Supports the powerful **automatic retry**.</br>
 
 - [Repository](https://github.com/twitter-dart/twitter-api-v2)
 - [Pub.dev](https://pub.dev/packages/twitter_api_v2)
