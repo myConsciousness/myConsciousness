@@ -14,6 +14,33 @@ I'm looking for sponsors to support my open source development, please check a l
 
 ## **_Passionate Projects_**
 
+### twitter_api_v2 🐦
+
+<p align="center">
+  <a href="https://github.com/twitter-dart/twitter-api-v2">
+    <img alt="twitter_api_v2" width="500px" src="https://user-images.githubusercontent.com/13072231/199728866-202b9742-d58e-4667-b046-e8096efd2339.png">
+  </a>
+</p>
+
+#### Highlights ✨
+
+✅ The **wrapper library** for **[Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api)**. </br>
+✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
+✅ Provides response objects with a **guaranteed safe types.** </br>
+✅ Supports **[all endpoints](https://developer.twitter.com/en/docs/api-reference-index)**. </br>
+✅ Support **all request parameters and response fields**.</br>
+✅ Supports **high-performance streaming** endpoints. </br>
+✅ Supports **[expansions](https://developer.twitter.com/en/docs/twitter-api/expansions)** and **[fields](https://developer.twitter.com/en/docs/twitter-api/fields)** features. </br>
+✅ **Well documented** and **well tested**.</br>
+✅ Supports the powerful **automatic retry**.</br>
+✅ Supports for **large media uploads** (image, gif, video).</br>
+✅ Supports **safe and powerful paging** feature.
+
+- [Repository](https://github.com/twitter-dart/twitter-api-v2)
+- [Pub.dev](https://pub.dev/packages/twitter_api_v2)
+
+---
+
 ### Batch.dart 🚀
 
 <p align="center">
@@ -34,31 +61,6 @@ I'm looking for sponsors to support my open source development, please check a l
 
 - [Repository](https://github.com/batch-dart/batch.dart)
 - [Pub.dev](https://pub.dev/packages/batch)
-
----
-
-### twitter_api_v2 🐦
-
-<p align="center">
-  <a href="https://github.com/twitter-dart/twitter-api-v2">
-    <img alt="batch" width="500px" src="https://user-images.githubusercontent.com/13072231/165789212-8f335632-64b2-4eac-be54-8147ccfe7ab1.png">
-  </a>
-</p>
-
-#### Highlights ✨
-
-✅ The **wrapper library** for **[Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api)**. </br>
-✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
-✅ Provides response objects with a **guaranteed safe types.** </br>
-✅ Supports **[all endpoints](https://developer.twitter.com/en/docs/api-reference-index)**. </br>
-✅ Support **all request parameters and response fields**.</br>
-✅ Supports **high-performance streaming** endpoints. </br>
-✅ Supports **[expansions](https://developer.twitter.com/en/docs/twitter-api/expansions)** and **[fields](https://developer.twitter.com/en/docs/twitter-api/fields)** features. </br>
-✅ **Well documented** and **well tested**.</br>
-✅ Supports the powerful **automatic retry**.</br>
-
-- [Repository](https://github.com/twitter-dart/twitter-api-v2)
-- [Pub.dev](https://pub.dev/packages/twitter_api_v2)
 
 ---
 
