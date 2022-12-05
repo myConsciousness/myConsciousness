@@ -4,7 +4,7 @@
 [![Zenn Badge](https://img.shields.io/badge/-@kato_shinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=zenn&logoColor=white&link=[https://medium.com/@kato.shinya.dev](https://zenn.dev/kato_shinya))](https://zenn.dev/kato_shinya)
 [![Qiita Badge](https://img.shields.io/badge/-@kato_shinya-green?style=flat&labelColor=green&logo=qiita&logoColor=white&link=[https://qiita.com/myConsciousness](https://qiita.com/myConsciousness))](https://qiita.com/myConsciousness)
 
-## Hi, I'm Kato Shinya (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
+## Hi, I'm Shinya Kato (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
 ## **_Sponsoring_**
 
