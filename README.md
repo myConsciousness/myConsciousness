@@ -12,18 +12,20 @@ I'm looking for sponsors to support my open source development, please check a l
 
 [![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/myConsciousness)
 
-## **_Passionate Projects_**
+## **_Featured Projects_**
 
-### twitter_api_v2 🐦
-
-<p align="center">
-  <a href="https://github.com/twitter-dart/twitter-api-v2">
-    <img alt="twitter_api_v2" width="500px" src="https://user-images.githubusercontent.com/13072231/199728866-202b9742-d58e-4667-b046-e8096efd2339.png">
-  </a>
-</p>
-
-#### Highlights ✨
-
+<details>
+  <summary>🐦 <b><h3>twitter_api_v2 (130+ ⭐)</h3></b></summary>
+  <div>
+    <p align="center">
+      <a href="https://github.com/twitter-dart/twitter-api-v2">
+        <img alt="twitter_api_v2" width="500px" src="https://user-images.githubusercontent.com/13072231/199728866-202b9742-d58e-4667-b046-e8096efd2339.png">
+      </a>
+    </p>
+  </div>
+  
+  <h4><b>Highlights</b> ✨</h4>
+  
 ✅ The **wrapper library** for **[Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api)**. </br>
 ✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
 ✅ Provides response objects with a **guaranteed safe types.** </br>
@@ -39,18 +41,20 @@ I'm looking for sponsors to support my open source development, please check a l
 - [Repository](https://github.com/twitter-dart/twitter-api-v2)
 - [Pub.dev](https://pub.dev/packages/twitter_api_v2)
 
----
+</details>
 
-### Batch.dart 🚀
-
-<p align="center">
-  <a href="https://github.com/batch-dart/batch.dart">
-    <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
-  </a>
-</p>
-
-#### Highlights ✨
-
+<details>
+  <summary>🚀 <b><h3>Batch.dart (20+ ⭐)</h3></b></summary>
+  <div>
+    <p align="center">
+      <a href="https://github.com/batch-dart/batch.dart">
+        <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
+      </a>
+    </p>
+  </div>
+  
+  <h4><b>Highlights</b> ✨</h4>
+  
 ✅ **Job Scheduling Framework** running on **Dart VM**. </br>
 ✅ **Easily schedules** with a combination of **Job**, **Step**, and **Task**. </br>
 ✅ Supports **job scheduling in [Cron](https://en.wikipedia.org/wiki/Cron)** format. </br>
@@ -62,9 +66,12 @@ I'm looking for sponsors to support my open source development, please check a l
 - [Repository](https://github.com/batch-dart/batch.dart)
 - [Pub.dev](https://pub.dev/packages/batch)
 
----
+</details>
 
-### **_Language:_**
+## **_Experience_**
+
+<details>
+  <summary><b><em>Language</em></b></summary>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -80,7 +87,10 @@ I'm looking for sponsors to support my open source development, please check a l
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-### **_Framework:_**
+</details>
+
+<details>
+  <summary><b><em>Framework</em></b></summary>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -93,7 +103,10 @@ I'm looking for sponsors to support my open source development, please check a l
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
-### **_IDE / Editor:_**
+</details>
+
+<details>
+  <summary><b><em>IDE / Editor</em></b></summary>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -102,12 +115,17 @@ I'm looking for sponsors to support my open source development, please check a l
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 
-### **_Database:_**
+</details>
+
+<details>
+  <summary><b><em>Database</em></b></summary>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</details>
 
 </br>
 
