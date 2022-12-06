@@ -71,7 +71,7 @@ I'm looking for sponsors to support my open source development, please check a l
 ## **_Experience_**
 
 <details>
-  <summary><b><em>Language</em></b></summary>
+  <summary><b><em>:zap: Language</em></b></summary>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -90,7 +90,7 @@ I'm looking for sponsors to support my open source development, please check a l
 </details>
 
 <details>
-  <summary><b><em>Framework</em></b></summary>
+  <summary><b><em>:zap: Framework</em></b></summary>
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -106,7 +106,7 @@ I'm looking for sponsors to support my open source development, please check a l
 </details>
 
 <details>
-  <summary><b><em>IDE / Editor</em></b></summary>
+  <summary><b><em>:zap: IDE / Editor</em></b></summary>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
@@ -118,7 +118,7 @@ I'm looking for sponsors to support my open source development, please check a l
 </details>
 
 <details>
-  <summary><b><em>Database</em></b></summary>
+  <summary><b><em>:zap: Database</em></b></summary>
 
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -127,9 +127,7 @@ I'm looking for sponsors to support my open source development, please check a l
 
 </details>
 
-</br>
-
----
+## **_Activity_**
 
 <details>
   <summary>:zap: My Github Status</summary>
