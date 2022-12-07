@@ -44,6 +44,30 @@ I'm looking for sponsors to support my open source development, please check a l
 </details>
 
 <details>
+  <summary>🦣 <b><h3>mastodon_api (10+ ⭐)</h3></b></summary>
+  <div>
+    <p align="center">
+      <a href="https://github.com/mastodon-dart/mastodon-api">
+        <img alt="twitter_api_v2" width="500px" src="https://user-images.githubusercontent.com/13072231/202892481-5b9c8a39-ef55-4dca-a912-e298beb635ca.png">
+      </a>
+    </p>
+  </div>
+ 
+  <h4><b>Highlights</b> ✨</h4>
+  
+✅ The **wrapper library** for **[Mastodon API](https://docs.joinmastodon.org/client/intro/)**. </br>
+✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
+✅ Provides response objects with a **guaranteed safe types.** </br>
+✅ **Well documented** and **well tested**.</br>
+✅ Supports **v1 and v2 endpoints**.</br>
+✅ Supports the powerful **automatic retry**.</br>
+
+- [Repository](https://github.com/mastodon-dart/mastodon-api)
+- [Pub.dev](https://pub.dev/packages/mastodon_api)
+
+</details>
+
+<details>
   <summary>🚀 <b><h3>Batch.dart (20+ ⭐)</h3></b></summary>
   <div>
     <p align="center">
