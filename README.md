@@ -44,7 +44,7 @@ I'm looking for sponsors to support my open source development, please check a l
 </details>
 
 <details>
-  <summary>🦣 <b><h3>mastodon_api (10+ ⭐)</h3></b></summary>
+  <summary>🦣 <b><h3>mastodon_api (20+ ⭐)</h3></b></summary>
   <div>
     <p align="center">
       <a href="https://github.com/mastodon-dart/mastodon-api">
