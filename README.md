@@ -177,7 +177,17 @@ I'm looking for sponsors to support my open source development, please check a l
 <details>
   <summary>:zap: My Tweets</summary>
 
-  <!-- MY-TWEETS:START - Do not remove or modify this section -->> [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+  <!-- MY-TWEETS:START - Do not remove or modify this section -->
+> [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-21T05:16:40.000Z](https://twitter.com/kato__shinya/status/1605432041142714368)
+>
+> My all notifications are gone, what happened?
+>
+> [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1605432041142714368#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1605432041142714368#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1605432041142714368#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1605432041142714368#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1605432041142714368#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1605432041142714368#gh-dark-mode-only)
+
+---
+
+> [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T12:22:15.000Z](https://twitter.com/kato__shinya/status/1604814367043657728)
 >
 > I prefer community timeline
@@ -185,6 +195,7 @@ I'm looking for sponsors to support my open source development, please check a l
 > [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604814367043657728#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604814367043657728#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604814367043657728#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604814367043657728#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604814367043657728#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604814367043657728#gh-dark-mode-only)
 
 ---
+
 > [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T12:21:55.000Z](https://twitter.com/kato__shinya/status/1604814282134151168)
 >
@@ -193,6 +204,7 @@ I'm looking for sponsors to support my open source development, please check a l
 > [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604814282134151168#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604814282134151168#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604814282134151168#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604814282134151168#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604814282134151168#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604814282134151168#gh-dark-mode-only)
 
 ---
+
 > [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T03:42:56.000Z](https://twitter.com/kato__shinya/status/1604683676788219907)
 >
@@ -201,6 +213,7 @@ I'm looking for sponsors to support my open source development, please check a l
 > [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604683676788219907#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604683676788219907#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604683676788219907#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604683676788219907#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604683676788219907#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604683676788219907#gh-dark-mode-only)
 
 ---
+
 > [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T02:40:03.000Z](https://twitter.com/kato__shinya/status/1604667852430004224)
 >
@@ -208,12 +221,6 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604667852430004224#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604667852430004224#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604667852430004224#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604667852430004224#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604667852430004224#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604667852430004224#gh-dark-mode-only)
 
----
-> [![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T02:11:02.000Z](https://twitter.com/kato__shinya/status/1604660547626012672)
->
-> Isn't #Twitter's competitor every social networking site in the world? It is like the #Nazis that only #Mastodon is subject to regulation.
->
-> [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604660547626012672#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=1604660547626012672#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604660547626012672#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=1604660547626012672#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604660547626012672#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=1604660547626012672#gh-dark-mode-only)
+Last Updated at 2022-12-21T06:06:40.291758Z
 <!-- MY-TWEETS:END -->
 </details>
