@@ -173,3 +173,11 @@ I'm looking for sponsors to support my open source development, please check a l
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+<details>
+  <summary>:zap: My Tweets</summary>
+
+  <!-- MY-TWEETS:START - Do not remove or modify this section -->
+
+  <!-- MY-TWEETS:END -->
+</details>
