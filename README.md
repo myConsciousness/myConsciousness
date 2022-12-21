@@ -187,7 +187,7 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > My all notifications are gone, what happened?
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605432041142714368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605432041142714368)emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605432041142714368)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605432041142714368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605432041142714368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605432041142714368)
 
 ---
 
@@ -196,7 +196,7 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > I prefer community timeline
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604814367043657728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604814367043657728)emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604814367043657728)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604814367043657728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604814367043657728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604814367043657728)
 
 ---
 
@@ -205,7 +205,7 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > Why #TwitterAPI has not endpoints for community service?
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604814282134151168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604814282134151168)emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604814282134151168)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604814282134151168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604814282134151168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604814282134151168)
 
 ---
 
@@ -214,7 +214,7 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > It’s funny if @elonmusk uses bots to vote him
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604683676788219907)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604683676788219907)emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604683676788219907)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604683676788219907)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604683676788219907)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604683676788219907)
 
 ---
 
@@ -223,8 +223,8 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > Vote https://t.co/3OaEEGAPPo
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604667852430004224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604667852430004224)emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604667852430004224)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604667852430004224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604667852430004224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604667852430004224)
 
-**_Last Updated at 2022-12-21T08:06:41.545357Z_**
+**_Last Updated at 2022-12-21T08:12:34.778439Z_**
 <!-- MY-TWEETS:END -->
 </details>
