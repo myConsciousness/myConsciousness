@@ -46,7 +46,7 @@ Future<void> main(List<String> arguments) async {
 >
 > ${tweet.text}
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=${tweet.id})&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=${tweet.id})emsp;[Like](https://twitter.com/intent/favorite?tweet_id=${tweet.id})
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=${tweet.id})&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=${tweet.id})&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=${tweet.id})
 ''');
   }
 
