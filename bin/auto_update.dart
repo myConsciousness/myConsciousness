@@ -56,6 +56,6 @@ Future<void> main(List<String> arguments) async {
   readme.writeAsStringSync(content.replaceRange(
     content.indexOf(_myTweetSectionStart) + _myTweetSectionStart.length,
     content.indexOf(_myTweetSectionEnd),
-    tweetUIs.join('\n---\n'),
+    '${tweetUIs.join('\n---\n')}\nLast Updated at ${DateTime.now().toUtc().toIso8601String()}\n',
   ));
 }
