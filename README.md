@@ -6,6 +6,10 @@
 
 ## Hi, I'm Shinya Kato (加藤 真也) - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
+🤖 **Fun fact 1**: I'm currently rated as [the 31st most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the 21st most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 3**: I'm titled as **_Regular_** in [Twitter Forum](https://twittercommunity.com/u/kato_shinya/summary).
+
 ## **_Sponsoring_**
 
 I'm looking for sponsors to support my open source development, please check a link below! :)
@@ -23,9 +27,9 @@ I'm looking for sponsors to support my open source development, please check a l
       </a>
     </p>
   </div>
-  
+
   <h4><b>Highlights</b> ✨</h4>
-  
+
 ✅ The **wrapper library** for **[Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api)**. </br>
 ✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
 ✅ Provides response objects with a **guaranteed safe types.** </br>
@@ -52,9 +56,9 @@ I'm looking for sponsors to support my open source development, please check a l
       </a>
     </p>
   </div>
- 
+
   <h4><b>Highlights</b> ✨</h4>
-  
+
 ✅ The **wrapper library** for **[Mastodon API](https://docs.joinmastodon.org/client/intro/)**. </br>
 ✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
 ✅ Provides response objects with a **guaranteed safe types.** </br>
@@ -76,9 +80,9 @@ I'm looking for sponsors to support my open source development, please check a l
       </a>
     </p>
   </div>
-  
+
   <h4><b>Highlights</b> ✨</h4>
-  
+
 ✅ **Job Scheduling Framework** running on **Dart VM**. </br>
 ✅ **Easily schedules** with a combination of **Job**, **Step**, and **Task**. </br>
 ✅ Supports **job scheduling in [Cron](https://en.wikipedia.org/wiki/Cron)** format. </br>
