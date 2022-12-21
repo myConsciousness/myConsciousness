@@ -173,10 +173,3 @@ I'm looking for sponsors to support my open source development, please check a l
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-<details>
-  <summary>:zap: My Activity Graph</summary>
-  <div>
-      <img src="https://activity-graph.herokuapp.com/graph?username=myConsciousness&theme=xcode&area=true" />
-  </div>
-</details>
