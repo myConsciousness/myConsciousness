@@ -46,7 +46,7 @@ Future<void> main(List<String> arguments) async {
 >
 > ${tweet.text}
 >
-> [![Reply](./images/reply_light.svg#gh-light-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=${tweet.id}#gh-light-mode-only)[![Reply](./images/reply.svg#gh-dark-mode-only 'Reply')](https://twitter.com/intent/tweet?in_reply_to=${tweet.id}#gh-dark-mode-only)&emsp;[![Retweet](./images/retweet_light.svg#gh-light-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=${tweet.id}#gh-light-mode-only)[![Retweet](./images/retweet.svg#gh-dark-mode-only 'Retweet')](https://twitter.com/intent/retweet?tweet_id=${tweet.id}#gh-dark-mode-only)&emsp;[![Like](./images/like_light.svg#gh-light-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=${tweet.id}#gh-light-mode-only)[![Like](./images/like.svg#gh-dark-mode-only 'Like')](https://twitter.com/intent/favorite?tweet_id=${tweet.id}#gh-dark-mode-only)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=${tweet.id})&emsp;[Retweet]](https://twitter.com/intent/retweet?tweet_id=${tweet.id})emsp;[Like](https://twitter.com/intent/favorite?tweet_id=${tweet.id})
 ''');
   }
 
