@@ -41,7 +41,7 @@ Future<void> main(List<String> arguments) async {
 
   final tweetUIs = <String>[];
   for (final tweet in tweets.data) {
-    tweetUIs.add('''\n> [![${me.data.name}'s avatar](${me.data.profileImageUrl})
+    tweetUIs.add('''\n> ![${me.data.name}'s avatar](${me.data.profileImageUrl})
 [${me.data.name}](https://twitter.com/${me.data.username}) [@${me.data.username}](https://twitter.com/${me.data.username}) [${tweet.createdAt!.toUtc().toIso8601String()}](https://twitter.com/${me.data.username}/status/${tweet.id})
 >
 > ${tweet.text}
