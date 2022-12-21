@@ -183,6 +183,15 @@ I'm looking for sponsors to support my open source development, please check a l
 
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-21T14:47:43.000Z](https://twitter.com/kato__shinya/status/1605575747841626112)
+>
+> Okay, @elonmusk didn’t delete inactive accounts, I’m very disappointed
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605575747841626112)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605575747841626112)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605575747841626112)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-21T05:16:40.000Z](https://twitter.com/kato__shinya/status/1605432041142714368)
 >
 > My all notifications are gone, what happened?
@@ -216,15 +225,6 @@ I'm looking for sponsors to support my open source development, please check a l
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1604683676788219907)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604683676788219907)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604683676788219907)
 
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T02:40:03.000Z](https://twitter.com/kato__shinya/status/1604667852430004224)
->
-> Vote https://t.co/3OaEEGAPPo
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604667852430004224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604667852430004224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604667852430004224)
-
-**_Last Updated at 2022-12-21T14:05:51.477965Z_**
+**_Last Updated at 2022-12-21T15:06:02.210643Z_**
 <!-- MY-TWEETS:END -->
 </details>
