@@ -100,6 +100,15 @@ I'm looking for sponsors to support my open source development, please check a l
 
 </details>
 
+#### Others
+
+- [flutter-ranking](https://github.com/myConsciousness/flutter-ranking) (10+ ⭐)
+- [freezer](https://github.com/myConsciousness/freezer) (10+ ⭐)
+- [twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce) (10+ ⭐)
+- [mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)
+- [duolingo4d](https://github.com/duolingo-dart/duolingo4d) (10+ ⭐)
+- [tweet](https://github.com/dart-actions/tweet)
+
 ## **_Experience_**
 
 <details>
