@@ -95,11 +95,25 @@ String _getRank(final String html) {
 
   for (final element in document.body!.querySelectorAll('tr')) {
     if (element.innerHtml.contains('https://github.com/myConsciousness')) {
-      return element.querySelector('td')!.innerHtml;
+      final rank = element.querySelector('td')!.innerHtml;
+
+      return _getRankWithUnit(rank.substring(0, rank.indexOf('.')));
     }
   }
 
   return 'N/A';
+}
+
+String _getRankWithUnit(final String rank) {
+  if (rank.endsWith('1')) {
+    return '{$rank}st';
+  } else if (rank.endsWith('2')) {
+    return '{$rank}nd';
+  } else if (rank.endsWith('3')) {
+    return '{$rank}rd';
+  }
+
+  return '{$rank}th';
 }
 
 String _replaceFileContent(
