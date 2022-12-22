@@ -189,6 +189,35 @@ I'm looking for sponsors to support my open source development, please check a l
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T11:29:56.000Z](https://twitter.com/kato__shinya/status/1605888362111451136)
+>
+> RT @_Mo_Malaka_: 💙 Are you a Flutter Developer? 💙
+
+What's stopping you from coding like this? https://t.co/ZWUNAy56C7
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888362111451136)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888362111451136)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888362111451136)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T11:29:39.000Z](https://twitter.com/kato__shinya/status/1605888293517885441)
+>
+> I rarely even look at the #GitHub timeline.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888293517885441)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888293517885441)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888293517885441)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T11:28:57.000Z](https://twitter.com/kato__shinya/status/1605888115058434051)
+>
+> I haven't used #GitHub's "watch" much, is there any way to make good use of it?
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888115058434051)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888115058434051)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888115058434051)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-21T14:47:43.000Z](https://twitter.com/kato__shinya/status/1605575747841626112)
 >
 > Okay, @elonmusk didn’t delete inactive accounts, I’m very disappointed
@@ -203,33 +232,6 @@ I'm looking for sponsors to support my open source development, please check a l
 > My all notifications are gone, what happened?
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1605432041142714368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605432041142714368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605432041142714368)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T12:22:15.000Z](https://twitter.com/kato__shinya/status/1604814367043657728)
->
-> I prefer community timeline
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604814367043657728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604814367043657728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604814367043657728)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T12:21:55.000Z](https://twitter.com/kato__shinya/status/1604814282134151168)
->
-> Why #TwitterAPI has not endpoints for community service?
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604814282134151168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604814282134151168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604814282134151168)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-19T03:42:56.000Z](https://twitter.com/kato__shinya/status/1604683676788219907)
->
-> It’s funny if @elonmusk uses bots to vote him
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1604683676788219907)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1604683676788219907)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1604683676788219907)
 
 ---
 <!-- MY-TWEETS:END -->
