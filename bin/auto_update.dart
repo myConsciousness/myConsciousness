@@ -63,7 +63,7 @@ Future<void> main(List<String> arguments) async {
     content,
     _myTweetSectionStart,
     _myTweetSectionEnd,
-    '---\n${tweetUIs.join('\n---\n')}\n---\n',
+    '\n---\n${tweetUIs.join('\n---\n')}\n---\n',
   );
 
   content = _replaceFileContent(
