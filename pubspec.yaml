@@ -6,6 +6,8 @@ environment:
   sdk: '>=2.18.6 <3.0.0'
 
 dependencies:
+  html: ^0.15.1
+  http: ^0.13.5
   twitter_api_v2: ^4.7.0
 
 dev_dependencies:

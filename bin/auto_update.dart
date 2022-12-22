@@ -1,6 +1,12 @@
 import 'dart:io';
 
+import 'package:html/parser.dart';
+import 'package:http/http.dart';
 import 'package:twitter_api_v2/twitter_api_v2.dart';
+
+const _myRankInGitHubSectionStart =
+    '<!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->';
+const _myRankInGitHubSectionEnd = '<!-- MY-RANK-IN-GITHUB:END -->';
 
 const _myTweetSectionStart =
     '<!-- MY-TWEETS:START - Do not remove or modify this section -->';
@@ -51,11 +57,59 @@ Future<void> main(List<String> arguments) async {
   }
 
   final readme = File('README.md');
-  final content = readme.readAsStringSync();
+  String content = readme.readAsStringSync();
 
-  readme.writeAsStringSync(content.replaceRange(
-    content.indexOf(_myTweetSectionStart) + _myTweetSectionStart.length,
-    content.indexOf(_myTweetSectionEnd),
-    '---\n${tweetUIs.join('\n---\n')}\n---\n**_Last Updated at ${DateTime.now().toUtc().toIso8601String()}_**\n',
-  ));
+  content = _replaceFileContent(
+    content,
+    _myTweetSectionStart,
+    _myTweetSectionEnd,
+    '---\n${tweetUIs.join('\n---\n')}\n---\n',
+  );
+
+  content = _replaceFileContent(
+    content,
+    _myRankInGitHubSectionStart,
+    _myRankInGitHubSectionEnd,
+    '''\n\n🤖 **Fun fact 1**: I'm currently [the ${await _getRankAsGitHubCommitter()} most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the ${await _getRankAsGitHubContributor()} most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 3**: I'm titled as **_Regular_** in [Twitter Forum](https://twittercommunity.com/u/kato_shinya/summary).\n\n''',
+  );
+
+  readme.writeAsStringSync(content);
 }
+
+Future<String> _getRankAsGitHubCommitter() async {
+  final response = await get(Uri.https('commits.top', '/japan.html'));
+
+  return _getRank(response.body);
+}
+
+Future<String> _getRankAsGitHubContributor() async {
+  final response = await get(Uri.https('commits.top', '/japan_public.html'));
+
+  return _getRank(response.body);
+}
+
+String _getRank(final String html) {
+  final document = parse(html);
+
+  for (final element in document.body!.querySelectorAll('tr')) {
+    if (element.innerHtml.contains('https://github.com/myConsciousness')) {
+      return element.querySelector('td')!.innerHtml;
+    }
+  }
+
+  return 'N/A';
+}
+
+String _replaceFileContent(
+  final String content,
+  final String startSection,
+  final String endSection,
+  final String newContent,
+) =>
+    content.replaceRange(
+      content.indexOf(startSection) + startSection.length,
+      content.indexOf(endSection),
+      newContent,
+    );
