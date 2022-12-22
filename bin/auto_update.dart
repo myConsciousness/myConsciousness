@@ -106,11 +106,11 @@ String _getRank(final String html) {
 
 String _getRankWithUnit(final String rank) {
   if (rank.endsWith('1')) {
-    return '{$rank}st';
+    return '${rank}st';
   } else if (rank.endsWith('2')) {
-    return '{$rank}nd';
+    return '${rank}nd';
   } else if (rank.endsWith('3')) {
-    return '{$rank}rd';
+    return '${rank}rd';
   }
 
   return '{$rank}th';
