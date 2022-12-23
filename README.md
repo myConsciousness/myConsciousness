@@ -198,6 +198,15 @@ I'm looking for sponsors to support my open source development, please check a l
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-23T10:00:36.000Z](https://twitter.com/kato__shinya/status/1606228269711269888)
+>
+> It’s useful to #visualize my #impressions, but what is the value of other people's impressions? At the very least, this feature should be user-configurable in terms of validity.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606228269711269888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606228269711269888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606228269711269888)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T13:39:04.000Z](https://twitter.com/kato__shinya/status/1605920860250210304)
 >
 > @xsgames_ https://t.co/7duLtp4w2N
@@ -232,15 +241,6 @@ What's stopping you from coding like this? https://t.co/ZWUNAy56C7
 > I haven't used #GitHub's "watch" much, is there any way to make good use of it?
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888115058434051)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888115058434051)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888115058434051)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-21T14:47:43.000Z](https://twitter.com/kato__shinya/status/1605575747841626112)
->
-> Okay, @elonmusk didn’t delete inactive accounts, I’m very disappointed
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605575747841626112)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605575747841626112)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605575747841626112)
 
 ---
 <!-- MY-TWEETS:END -->
