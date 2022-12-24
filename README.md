@@ -198,49 +198,47 @@ I'm looking for sponsors to support my open source development, please check a l
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-23T10:00:36.000Z](https://twitter.com/kato__shinya/status/1606228269711269888)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:54:38.000Z](https://twitter.com/realshinyakato/status/1606438159923150849)
 >
-> It’s useful to #visualize my #impressions, but what is the value of other people's impressions? At the very least, this feature should be user-configurable in terms of validity.
+> I’m very disappointed, there is no faster innovation but only useless garbage
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606228269711269888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606228269711269888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606228269711269888)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606438159923150849)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606438159923150849)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606438159923150849)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T13:39:04.000Z](https://twitter.com/kato__shinya/status/1605920860250210304)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:52:05.000Z](https://twitter.com/realshinyakato/status/1606437521487167489)
 >
-> @xsgames_ https://t.co/7duLtp4w2N
+> @elonmusk you have no time to watch soccer games, work! 😡
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605920860250210304)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605920860250210304)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605920860250210304)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606437521487167489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606437521487167489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606437521487167489)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T11:29:56.000Z](https://twitter.com/kato__shinya/status/1605888362111451136)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:17:44.000Z](https://twitter.com/realshinyakato/status/1606428874057068544)
 >
-> RT @_Mo_Malaka_: 💙 Are you a Flutter Developer? 💙
-
-What's stopping you from coding like this? https://t.co/ZWUNAy56C7
+> Why @elonmusk doesn’t delete inactive accounts?
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888362111451136)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888362111451136)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888362111451136)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606428874057068544)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606428874057068544)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606428874057068544)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T11:29:39.000Z](https://twitter.com/kato__shinya/status/1605888293517885441)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T22:55:01.000Z](https://twitter.com/realshinyakato/status/1606423159087005696)
 >
-> I rarely even look at the #GitHub timeline.
+> It’s awful our #tweets are #monitoring
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888293517885441)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888293517885441)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888293517885441)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606423159087005696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606423159087005696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606423159087005696)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/kato__shinya) [@kato__shinya](https://twitter.com/kato__shinya) [2022-12-22T11:28:57.000Z](https://twitter.com/kato__shinya/status/1605888115058434051)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T22:50:42.000Z](https://twitter.com/realshinyakato/status/1606422073743912960)
 >
-> I haven't used #GitHub's "watch" much, is there any way to make good use of it?
+> I was given the title of #Regular in the #TwitterForum, but it is unlikely that I will ever be active there again. I do not agree with their self-serving #TwitterRule changes and #TwitterAPI modifications.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1605888115058434051)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1605888115058434051)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1605888115058434051)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606422073743912960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606422073743912960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606422073743912960)
 
 ---
 <!-- MY-TWEETS:END -->
