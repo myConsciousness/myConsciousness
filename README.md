@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T14:37:44.000Z](https://twitter.com/realshinyakato/status/1606660399361060865)
+>
+> SEOもZennのほうが強い？記事によるのか？
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606660399361060865)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606660399361060865)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606660399361060865)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T14:33:42.000Z](https://twitter.com/realshinyakato/status/1606659387762053120)
+>
+> ZennのUIはブログの完成形に近い。Qiitaはごちゃごちゃし過ぎてる。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606659387762053120)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606659387762053120)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606659387762053120)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T14:32:34.000Z](https://twitter.com/realshinyakato/status/1606659099944706049)
+>
+> 見やすさと使いやすさを追求するとZennみたいなUIに収斂される気がする
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606659099944706049)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606659099944706049)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606659099944706049)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:52:41.000Z](https://twitter.com/realshinyakato/status/1606633962042175488)
 >
 > Twitter API v2.0は使い物にならない
@@ -207,34 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > もはや #Twitter のトップは誰でもいいから #TwitterAPI の開発にリソースを割り振ってくれ
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606633826842996738)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606633826842996738)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606633826842996738)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:43:21.000Z](https://twitter.com/realshinyakato/status/1606631614888693760)
->
-> #TwitterAPI に関わるとアカウントを凍結されます（実体験）
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606631614888693760)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606631614888693760)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606631614888693760)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:13:01.000Z](https://twitter.com/realshinyakato/status/1606608882671194113)
->
-> RT @RydMike: Ho ho ho, Merry Christmas 🎅 and a Happy New Year 🎄🎁🦌❄️
-#Flutter #Santa revealed 😎 predicts that in 2023 @materialdesign 3 will…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606608882671194113)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606608882671194113)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606608882671194113)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:12:30.000Z](https://twitter.com/realshinyakato/status/1606608751301361665)
->
-> #ChatGPT は面白いけど、回答がリベラル寄りの優等生でユーモアがないんだよな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606608751301361665)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606608751301361665)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606608751301361665)
 
 ---
 <!-- MY-TWEETS:END -->
