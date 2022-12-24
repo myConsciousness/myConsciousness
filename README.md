@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T08:31:25.000Z](https://twitter.com/realshinyakato/status/1606568215391670272)
+>
+> 久しぶりに #GraphQL 触るな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606568215391670272)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606568215391670272)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606568215391670272)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T08:18:10.000Z](https://twitter.com/realshinyakato/status/1606564879309373442)
+>
+> とりあえず流行りのgatsby.jsでも使ってブログサイト作るか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606564879309373442)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606564879309373442)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606564879309373442)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T05:14:22.000Z](https://twitter.com/realshinyakato/status/1606518624965242880)
 >
 > 自分で持ってるドメインを使ってブログ書きたいな
@@ -220,26 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 https://t.co/kVhjMfUEQI
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606501043336249346)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606501043336249346)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606501043336249346)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:02:52.000Z](https://twitter.com/realshinyakato/status/1606500629559775233)
->
-> #Zig やってみるか
-
-https://t.co/3duzNMMdUf
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606500629559775233)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606500629559775233)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606500629559775233)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:40:43.000Z](https://twitter.com/realshinyakato/status/1606495057087172608)
->
-> そろそろ #Dart 以外の言語も触っていきたいな〜
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606495057087172608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606495057087172608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606495057087172608)
 
 ---
 <!-- MY-TWEETS:END -->
