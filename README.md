@@ -1,5 +1,5 @@
 [![Mail Badge](https://img.shields.io/badge/contact@shinyakato.dev-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contact@shinyakato.dev)](mailto:contact@shinyakato.dev)
-[![Twitter Badge](https://img.shields.io/badge/-@kato__shinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/kato__shinya)](https://twitter.com/kato__shinya)
+[![Twitter Badge](https://img.shields.io/badge/-@realshinyakato-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/realshinyakato)](https://twitter.com/realshinyakato)
 [![Medium Badge](https://img.shields.io/badge/-@kato.shinya.dev-000000?style=flat&labelColor=000000&logo=medium&logoColor=white&link=https://medium.com/@kato.shinya.dev)](https://medium.com/@kato.shinya.dev)
 [![Zenn Badge](https://img.shields.io/badge/-@kato_shinya-1ca0f1?style=flat&labelColor=1ca0f1&logo=zenn&logoColor=white&link=[https://medium.com/@kato.shinya.dev](https://zenn.dev/kato_shinya))](https://zenn.dev/kato_shinya)
 [![Qiita Badge](https://img.shields.io/badge/-@kato_shinya-green?style=flat&labelColor=green&logo=qiita&logoColor=white&link=[https://qiita.com/myConsciousness](https://qiita.com/myConsciousness))](https://qiita.com/myConsciousness)
