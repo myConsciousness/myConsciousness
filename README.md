@@ -192,52 +192,48 @@ I'm looking for sponsors to support my open source development, I appreciate you
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T01:03:45.000Z](https://twitter.com/realshinyakato/status/1606455556944056322)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:51:31.000Z](https://twitter.com/realshinyakato/status/1606482674952318978)
 >
-> Since #tweets with links to external #SNS clearly have low #impressions, it appears that #Twitter has begun censoring them in earnest. Welcome to the beautiful world.
+> #Twitter にマークされてる要注意人物なので、もうTwitter関連のことツイートするの止めます
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606455556944056322)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606455556944056322)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606455556944056322)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606482674952318978)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606482674952318978)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606482674952318978)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T00:34:50.000Z](https://twitter.com/realshinyakato/status/1606448276441821184)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:50:06.000Z](https://twitter.com/realshinyakato/status/1606482318017036289)
 >
-> I have changed the list limit for #FlutterRanking. This change is due to #GitHub's #markdown spec, which may not be able to display all 1,024 records. This change will take effect from today's tally :)
-
-#Flutter #Dart #Ranking #Programming
-
-https://t.co/oRFvyQytB0
+> Twitterのシャドーバンの基準、もはやわけがわからない
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606448276441821184)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606448276441821184)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606448276441821184)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606482318017036289)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606482318017036289)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606482318017036289)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T00:06:33.000Z](https://twitter.com/realshinyakato/status/1606441161924968448)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:46:07.000Z](https://twitter.com/realshinyakato/status/1606481314630500358)
 >
-> My previous account was frozen just for this great innovations, thanks @elonmusk
+> 今まで資格関連の話題に一切関わってこなかったから、持ってる資格の名前言われてもなにを証明するものなのかまったくわからん
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606441161924968448)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606441161924968448)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606441161924968448)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606481314630500358)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606481314630500358)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606481314630500358)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:54:38.000Z](https://twitter.com/realshinyakato/status/1606438159923150849)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:43:05.000Z](https://twitter.com/realshinyakato/status/1606480552013762562)
 >
-> I’m very disappointed, there is no faster innovation but only useless garbage
+> 無資格で日本の業界最大手渡り歩いてきたけど、今までそれで不利になったり待遇が悪くなったことは一度もないな。実技を伴わない資格をとる人を揶揄するわけではないけど、実力と実績がいちばん大切だと思うな。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606438159923150849)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606438159923150849)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606438159923150849)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606480552013762562)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606480552013762562)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606480552013762562)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:52:05.000Z](https://twitter.com/realshinyakato/status/1606437521487167489)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:38:00.000Z](https://twitter.com/realshinyakato/status/1606479273057193985)
 >
-> @elonmusk you have no time to watch soccer games, work! 😡
+> @garamlover 無資格で大手の基幹システムいじってるアカウントはこちらです
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606437521487167489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606437521487167489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606437521487167489)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606479273057193985)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606479273057193985)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606479273057193985)
 
 ---
 <!-- MY-TWEETS:END -->
