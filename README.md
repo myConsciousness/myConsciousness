@@ -17,9 +17,10 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 ## **_Sponsoring_**
 
-I'm looking for sponsors to support my open source development, please check a link below! :)
+I'm looking for sponsors to support my open source development, I appreciate your support! :)
 
-[![GitHub Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4)](https://github.com/sponsors/myConsciousness)
+[![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
+[![GitHub sponsors](https://img.shields.io/github/sponsors/myConsciousness?color=orange&style=for-the-badge)](https://github.com/sponsors/myConsciousness)
 
 ## **_Featured Projects_**
 
