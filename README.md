@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:09:16.000Z](https://twitter.com/realshinyakato/status/1606577740307927040)
+>
+> 2023年は #TypeScript と #React で攻めていくか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606577740307927040)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606577740307927040)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606577740307927040)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:08:03.000Z](https://twitter.com/realshinyakato/status/1606577432861233152)
+>
+> #TypeScript の感覚を取り戻しながら設定いじっていくか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606577432861233152)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606577432861233152)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606577432861233152)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:06:15.000Z](https://twitter.com/realshinyakato/status/1606576981038215168)
+>
+> とりあえずあっという間にブログの雛形が完成。#Gatsby 最高だな https://t.co/OFlJ5UuPuk
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606576981038215168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606576981038215168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606576981038215168)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T08:31:25.000Z](https://twitter.com/realshinyakato/status/1606568215391670272)
 >
 > 久しぶりに #GraphQL 触るな
@@ -207,37 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > とりあえず流行りのgatsby.jsでも使ってブログサイト作るか
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606564879309373442)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606564879309373442)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606564879309373442)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T05:14:22.000Z](https://twitter.com/realshinyakato/status/1606518624965242880)
->
-> 自分で持ってるドメインを使ってブログ書きたいな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606518624965242880)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606518624965242880)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606518624965242880)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:06:01.000Z](https://twitter.com/realshinyakato/status/1606501423935795200)
->
-> #Flutter のオープンソースライブラリはウィジェットの見た目だけにこだわって実用性がないもので溢れている
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606501423935795200)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606501423935795200)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606501423935795200)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:04:30.000Z](https://twitter.com/realshinyakato/status/1606501043336249346)
->
-> 昔懐かしい感じのリファレンスだな
-
-#Zig
-
-https://t.co/kVhjMfUEQI
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606501043336249346)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606501043336249346)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606501043336249346)
 
 ---
 <!-- MY-TWEETS:END -->
