@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:52:41.000Z](https://twitter.com/realshinyakato/status/1606633962042175488)
+>
+> Twitter API v2.0は使い物にならない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606633962042175488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606633962042175488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606633962042175488)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:52:08.000Z](https://twitter.com/realshinyakato/status/1606633826842996738)
+>
+> もはや #Twitter のトップは誰でもいいから #TwitterAPI の開発にリソースを割り振ってくれ
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606633826842996738)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606633826842996738)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606633826842996738)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:43:21.000Z](https://twitter.com/realshinyakato/status/1606631614888693760)
+>
+> #TwitterAPI に関わるとアカウントを凍結されます（実体験）
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606631614888693760)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606631614888693760)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606631614888693760)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:13:01.000Z](https://twitter.com/realshinyakato/status/1606608882671194113)
 >
 > RT @RydMike: Ho ho ho, Merry Christmas 🎅 and a Happy New Year 🎄🎁🦌❄️
@@ -208,35 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > #ChatGPT は面白いけど、回答がリベラル寄りの優等生でユーモアがないんだよな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606608751301361665)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606608751301361665)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606608751301361665)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:08:48.000Z](https://twitter.com/realshinyakato/status/1606607822476955649)
->
-> #Medium で執筆活動してもよかったけど、自分のドメイン持ってるなら使わないのはもったいないね。Mediumは自分のドメイン使う機能が有料だし。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606607822476955649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606607822476955649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606607822476955649)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:02:36.000Z](https://twitter.com/realshinyakato/status/1606606260165824514)
->
-> まだなにもいじってない状態だけど #Netlify にデプロイも完了した
-
-https://t.co/ivL4NlWHpg
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606606260165824514)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606606260165824514)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606606260165824514)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:09:16.000Z](https://twitter.com/realshinyakato/status/1606577740307927040)
->
-> 2023年は #TypeScript と #React で攻めていくか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606577740307927040)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606577740307927040)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606577740307927040)
 
 ---
 <!-- MY-TWEETS:END -->
