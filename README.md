@@ -193,6 +193,39 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:06:01.000Z](https://twitter.com/realshinyakato/status/1606501423935795200)
+>
+> #Flutter のオープンソースライブラリはウィジェットの見た目だけにこだわって実用性がないもので溢れている
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606501423935795200)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606501423935795200)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606501423935795200)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:04:30.000Z](https://twitter.com/realshinyakato/status/1606501043336249346)
+>
+> 昔懐かしい感じのリファレンスだな
+
+#Zig
+
+https://t.co/kVhjMfUEQI
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606501043336249346)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606501043336249346)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606501043336249346)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:02:52.000Z](https://twitter.com/realshinyakato/status/1606500629559775233)
+>
+> #Zig やってみるか
+
+https://t.co/3duzNMMdUf
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606500629559775233)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606500629559775233)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606500629559775233)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:40:43.000Z](https://twitter.com/realshinyakato/status/1606495057087172608)
 >
 > そろそろ #Dart 以外の言語も触っていきたいな〜
@@ -207,33 +240,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > @garamlover 自分のプロフィールリロードするだけで等間隔でカウント増えていくので怪しいと思ってました
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606494747543343104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606494747543343104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606494747543343104)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:38:19.000Z](https://twitter.com/realshinyakato/status/1606494454357315586)
->
-> Twitterのハッシュタグの予測変換バグってない？
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606494454357315586)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606494454357315586)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606494454357315586)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:25:03.000Z](https://twitter.com/realshinyakato/status/1606491113434800130)
->
-> 特定の言語がサポートする構文に頼らなければプログラムが書けないのは甘え
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606491113434800130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606491113434800130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606491113434800130)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:24:05.000Z](https://twitter.com/realshinyakato/status/1606490869200457728)
->
-> #Dart も流行りの構文サポートしようとしてるけど、用途がわからない上に必要性を感じない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606490869200457728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606490869200457728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606490869200457728)
 
 ---
 <!-- MY-TWEETS:END -->
