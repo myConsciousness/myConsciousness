@@ -193,47 +193,50 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:13:01.000Z](https://twitter.com/realshinyakato/status/1606608882671194113)
+>
+> RT @RydMike: Ho ho ho, Merry Christmas 🎅 and a Happy New Year 🎄🎁🦌❄️
+#Flutter #Santa revealed 😎 predicts that in 2023 @materialdesign 3 will…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606608882671194113)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606608882671194113)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606608882671194113)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:12:30.000Z](https://twitter.com/realshinyakato/status/1606608751301361665)
+>
+> #ChatGPT は面白いけど、回答がリベラル寄りの優等生でユーモアがないんだよな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606608751301361665)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606608751301361665)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606608751301361665)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:08:48.000Z](https://twitter.com/realshinyakato/status/1606607822476955649)
+>
+> #Medium で執筆活動してもよかったけど、自分のドメイン持ってるなら使わないのはもったいないね。Mediumは自分のドメイン使う機能が有料だし。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606607822476955649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606607822476955649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606607822476955649)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T11:02:36.000Z](https://twitter.com/realshinyakato/status/1606606260165824514)
+>
+> まだなにもいじってない状態だけど #Netlify にデプロイも完了した
+
+https://t.co/ivL4NlWHpg
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606606260165824514)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606606260165824514)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606606260165824514)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:09:16.000Z](https://twitter.com/realshinyakato/status/1606577740307927040)
 >
 > 2023年は #TypeScript と #React で攻めていくか
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606577740307927040)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606577740307927040)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606577740307927040)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:08:03.000Z](https://twitter.com/realshinyakato/status/1606577432861233152)
->
-> #TypeScript の感覚を取り戻しながら設定いじっていくか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606577432861233152)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606577432861233152)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606577432861233152)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T09:06:15.000Z](https://twitter.com/realshinyakato/status/1606576981038215168)
->
-> とりあえずあっという間にブログの雛形が完成。#Gatsby 最高だな https://t.co/OFlJ5UuPuk
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606576981038215168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606576981038215168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606576981038215168)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T08:31:25.000Z](https://twitter.com/realshinyakato/status/1606568215391670272)
->
-> 久しぶりに #GraphQL 触るな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606568215391670272)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606568215391670272)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606568215391670272)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T08:18:10.000Z](https://twitter.com/realshinyakato/status/1606564879309373442)
->
-> とりあえず流行りのgatsby.jsでも使ってブログサイト作るか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606564879309373442)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606564879309373442)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606564879309373442)
 
 ---
 <!-- MY-TWEETS:END -->
