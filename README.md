@@ -192,7 +192,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T05:14:22.000Z](https://twitter.com/realshinyakato/status/1606518624965242880)
+>
+> 自分で持ってるドメインを使ってブログ書きたいな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606518624965242880)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606518624965242880)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606518624965242880)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:06:01.000Z](https://twitter.com/realshinyakato/status/1606501423935795200)
 >
 > #Flutter のオープンソースライブラリはウィジェットの見た目だけにこだわって実用性がないもので溢れている
@@ -201,7 +210,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:04:30.000Z](https://twitter.com/realshinyakato/status/1606501043336249346)
 >
 > 昔懐かしい感じのリファレンスだな
@@ -214,7 +223,7 @@ https://t.co/kVhjMfUEQI
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T04:02:52.000Z](https://twitter.com/realshinyakato/status/1606500629559775233)
 >
 > #Zig やってみるか
@@ -225,21 +234,12 @@ https://t.co/3duzNMMdUf
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:40:43.000Z](https://twitter.com/realshinyakato/status/1606495057087172608)
 >
 > そろそろ #Dart 以外の言語も触っていきたいな〜
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606495057087172608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606495057087172608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606495057087172608)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:39:29.000Z](https://twitter.com/realshinyakato/status/1606494747543343104)
->
-> @garamlover 自分のプロフィールリロードするだけで等間隔でカウント増えていくので怪しいと思ってました
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606494747543343104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606494747543343104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606494747543343104)
 
 ---
 <!-- MY-TWEETS:END -->
