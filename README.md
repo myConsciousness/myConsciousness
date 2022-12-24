@@ -193,47 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:51:31.000Z](https://twitter.com/realshinyakato/status/1606482674952318978)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:40:43.000Z](https://twitter.com/realshinyakato/status/1606495057087172608)
 >
-> #Twitter にマークされてる要注意人物なので、もうTwitter関連のことツイートするの止めます
+> そろそろ #Dart 以外の言語も触っていきたいな〜
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606482674952318978)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606482674952318978)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606482674952318978)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606495057087172608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606495057087172608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606495057087172608)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:50:06.000Z](https://twitter.com/realshinyakato/status/1606482318017036289)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:39:29.000Z](https://twitter.com/realshinyakato/status/1606494747543343104)
 >
-> Twitterのシャドーバンの基準、もはやわけがわからない
+> @garamlover 自分のプロフィールリロードするだけで等間隔でカウント増えていくので怪しいと思ってました
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606482318017036289)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606482318017036289)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606482318017036289)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606494747543343104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606494747543343104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606494747543343104)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:46:07.000Z](https://twitter.com/realshinyakato/status/1606481314630500358)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:38:19.000Z](https://twitter.com/realshinyakato/status/1606494454357315586)
 >
-> 今まで資格関連の話題に一切関わってこなかったから、持ってる資格の名前言われてもなにを証明するものなのかまったくわからん
+> Twitterのハッシュタグの予測変換バグってない？
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606481314630500358)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606481314630500358)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606481314630500358)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606494454357315586)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606494454357315586)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606494454357315586)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:43:05.000Z](https://twitter.com/realshinyakato/status/1606480552013762562)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:25:03.000Z](https://twitter.com/realshinyakato/status/1606491113434800130)
 >
-> 無資格で日本の業界最大手渡り歩いてきたけど、今までそれで不利になったり待遇が悪くなったことは一度もないな。実技を伴わない資格をとる人を揶揄するわけではないけど、実力と実績がいちばん大切だと思うな。
+> 特定の言語がサポートする構文に頼らなければプログラムが書けないのは甘え
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606480552013762562)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606480552013762562)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606480552013762562)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606491113434800130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606491113434800130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606491113434800130)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606482104619261952/de6LEjdb_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T02:38:00.000Z](https://twitter.com/realshinyakato/status/1606479273057193985)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T03:24:05.000Z](https://twitter.com/realshinyakato/status/1606490869200457728)
 >
-> @garamlover 無資格で大手の基幹システムいじってるアカウントはこちらです
+> #Dart も流行りの構文サポートしようとしてるけど、用途がわからない上に必要性を感じない
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606479273057193985)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606479273057193985)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606479273057193985)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606490869200457728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606490869200457728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606490869200457728)
 
 ---
 <!-- MY-TWEETS:END -->
