@@ -109,7 +109,7 @@ I'm looking for sponsors to support my open source development, please check a l
 - [duolingo4d](https://github.com/duolingo-dart/duolingo4d) (10+ ⭐)
 - [tweet](https://github.com/dart-actions/tweet)
 
-## **_Experience_**
+## **_Experiences_**
 
 <details>
   <summary><b><em>:zap: Language</em></b></summary>
@@ -168,10 +168,10 @@ I'm looking for sponsors to support my open source development, please check a l
 
 </details>
 
-## **_Activity_**
+## **_Activities_**
 
 <details>
-  <summary>:zap: My Github Status</summary>
+  <summary>:zap: Github Status</summary>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=myConsciousness&margin-w=15&include_all_commits=true&count_private=true)
 
@@ -185,14 +185,7 @@ I'm looking for sponsors to support my open source development, please check a l
 </details>
 
 <details>
-  <summary>:zap: My Wakatime</summary>
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=myConsciousness&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
-
-</details>
-
-<details>
-  <summary>:zap: My Tweets</summary>
+  <summary>:zap: Tweets</summary>
 
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
