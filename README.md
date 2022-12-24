@@ -193,6 +193,37 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T01:03:45.000Z](https://twitter.com/realshinyakato/status/1606455556944056322)
+>
+> Since #tweets with links to external #SNS clearly have low #impressions, it appears that #Twitter has begun censoring them in earnest. Welcome to the beautiful world.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606455556944056322)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606455556944056322)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606455556944056322)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T00:34:50.000Z](https://twitter.com/realshinyakato/status/1606448276441821184)
+>
+> I have changed the list limit for #FlutterRanking. This change is due to #GitHub's #markdown spec, which may not be able to display all 1,024 records. This change will take effect from today's tally :)
+
+#Flutter #Dart #Ranking #Programming
+
+https://t.co/oRFvyQytB0
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606448276441821184)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606448276441821184)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606448276441821184)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T00:06:33.000Z](https://twitter.com/realshinyakato/status/1606441161924968448)
+>
+> My previous account was frozen just for this great innovations, thanks @elonmusk
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606441161924968448)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606441161924968448)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606441161924968448)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:54:38.000Z](https://twitter.com/realshinyakato/status/1606438159923150849)
 >
 > I’m very disappointed, there is no faster innovation but only useless garbage
@@ -207,33 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > @elonmusk you have no time to watch soccer games, work! 😡
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606437521487167489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606437521487167489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606437521487167489)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T23:17:44.000Z](https://twitter.com/realshinyakato/status/1606428874057068544)
->
-> Why @elonmusk doesn’t delete inactive accounts?
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606428874057068544)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606428874057068544)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606428874057068544)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T22:55:01.000Z](https://twitter.com/realshinyakato/status/1606423159087005696)
->
-> It’s awful our #tweets are #monitoring
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606423159087005696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606423159087005696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606423159087005696)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1604051579568623617/kH-2J1m8_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-23T22:50:42.000Z](https://twitter.com/realshinyakato/status/1606422073743912960)
->
-> I was given the title of #Regular in the #TwitterForum, but it is unlikely that I will ever be active there again. I do not agree with their self-serving #TwitterRule changes and #TwitterAPI modifications.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606422073743912960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606422073743912960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606422073743912960)
 
 ---
 <!-- MY-TWEETS:END -->
