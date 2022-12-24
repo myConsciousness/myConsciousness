@@ -13,6 +13,8 @@
 
 <!-- MY-RANK-IN-GITHUB:END -->
 
+If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Twitter](https://twitter.com/realshinyakato).
+
 ## **_Sponsoring_**
 
 I'm looking for sponsors to support my open source development, please check a link below! :)
