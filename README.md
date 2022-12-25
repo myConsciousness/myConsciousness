@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T10:13:52.000Z](https://twitter.com/realshinyakato/status/1606956382942801922)
+>
+> RT @jonobacon: Brutal. https://t.co/2ew5Hj01Ex
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606956382942801922)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606956382942801922)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606956382942801922)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T07:50:52.000Z](https://twitter.com/realshinyakato/status/1606920397039243265)
 >
 > #ChatGPT もそうだけど、AIにプログラミングさせるためには自らが生み出したコードの正しさを証明するプロセスが必要だわな
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > SEOもZennのほうが強い？記事によるのか？
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606660399361060865)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606660399361060865)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606660399361060865)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T14:33:42.000Z](https://twitter.com/realshinyakato/status/1606659387762053120)
->
-> ZennのUIはブログの完成形に近い。Qiitaはごちゃごちゃし過ぎてる。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606659387762053120)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606659387762053120)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606659387762053120)
 
 ---
 <!-- MY-TWEETS:END -->
