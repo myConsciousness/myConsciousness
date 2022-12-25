@@ -193,6 +193,26 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T14:36:42.000Z](https://twitter.com/realshinyakato/status/1607022529587343361)
+>
+> なぜ実績のある日本人プログラマーは往々にして他人を煽ってしまうのか。Twitterで日本人プログラマーと関わるのはこれがあるから嫌なんだよな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607022529587343361)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607022529587343361)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607022529587343361)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T14:27:08.000Z](https://twitter.com/realshinyakato/status/1607020121993928705)
+>
+> 日本人プログラマーはなぜユーモアのない煽りから文章を書き始めてしまうのか
+
+https://t.co/Xk7LeD2pNI
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607020121993928705)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607020121993928705)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607020121993928705)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T11:08:39.000Z](https://twitter.com/realshinyakato/status/1606970169062199298)
 >
 > RT @Tats_y: 小飼「どうしてChatGPTが「冷却ファンを回すように」ウソをつくかと言えば、今まで食ったデータの中で一番近い答えを出しているだけだから。ゴミを食ってきたからゴミを吐き出しているわけで、これはむしろ人間側が反省するべきなんだよね」 https://t.c…
@@ -216,24 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > #ChatGPT もそうだけど、AIにプログラミングさせるためには自らが生み出したコードの正しさを証明するプロセスが必要だわな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606920397039243265)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606920397039243265)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606920397039243265)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T01:45:34.000Z](https://twitter.com/realshinyakato/status/1606828467462766593)
->
-> #Zenn の記事は #GitHub で管理してるからこの際に全部引っ越ししようかな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606828467462766593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606828467462766593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606828467462766593)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T01:10:30.000Z](https://twitter.com/realshinyakato/status/1606819642580029446)
->
-> @elonmusk をNGワードにしたらタイムラインが綺麗になった
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606819642580029446)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606819642580029446)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606819642580029446)
 
 ---
 <!-- MY-TWEETS:END -->
