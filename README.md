@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T01:45:34.000Z](https://twitter.com/realshinyakato/status/1606828467462766593)
+>
+> #Zenn の記事は #GitHub で管理してるからこの際に全部引っ越ししようかな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606828467462766593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606828467462766593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606828467462766593)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T01:10:30.000Z](https://twitter.com/realshinyakato/status/1606819642580029446)
 >
 > @elonmusk をNGワードにしたらタイムラインが綺麗になった
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 見やすさと使いやすさを追求するとZennみたいなUIに収斂される気がする
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606659099944706049)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606659099944706049)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606659099944706049)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:52:41.000Z](https://twitter.com/realshinyakato/status/1606633962042175488)
->
-> Twitter API v2.0は使い物にならない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606633962042175488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606633962042175488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606633962042175488)
 
 ---
 <!-- MY-TWEETS:END -->
