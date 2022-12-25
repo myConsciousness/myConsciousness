@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T01:10:30.000Z](https://twitter.com/realshinyakato/status/1606819642580029446)
+>
+> @elonmusk をNGワードにしたらタイムラインが綺麗になった
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606819642580029446)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606819642580029446)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606819642580029446)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T14:37:44.000Z](https://twitter.com/realshinyakato/status/1606660399361060865)
 >
 > SEOもZennのほうが強い？記事によるのか？
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitter API v2.0は使い物にならない
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606633962042175488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606633962042175488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606633962042175488)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-24T12:52:08.000Z](https://twitter.com/realshinyakato/status/1606633826842996738)
->
-> もはや #Twitter のトップは誰でもいいから #TwitterAPI の開発にリソースを割り振ってくれ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606633826842996738)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606633826842996738)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606633826842996738)
 
 ---
 <!-- MY-TWEETS:END -->
