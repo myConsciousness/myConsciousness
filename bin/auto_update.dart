@@ -113,7 +113,7 @@ String _getRankWithUnit(final String rank) {
     return '${rank}rd';
   }
 
-  return '{$rank}th';
+  return '${rank}th';
 }
 
 String _replaceFileContent(
