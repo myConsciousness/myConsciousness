@@ -193,51 +193,51 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:54:34.000Z](https://twitter.com/realshinyakato/status/1607298814561628160)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T13:58:59.000Z](https://twitter.com/realshinyakato/status/1607375423821971457)
 >
-> @Amani_Art Dark. Dark mode is kind to both our eyes and wallets.
+> #MastodonAPI のラッパーライブラリがまだ道半ばなのに既に5万行到達してるあたりエンドポイントのバリエーションが豊かなんだなと感じる。#TwitterAPIv2 は全エンドポイント実装して6万行いくかどうかだったな。
+
+#プログラミング #Programming #Dart #Flutter
+
+https://t.co/VGJTOW4MAL https://t.co/YAYeidrksg
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607298814561628160)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607298814561628160)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607298814561628160)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607375423821971457)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607375423821971457)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607375423821971457)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:53:23.000Z](https://twitter.com/realshinyakato/status/1607298516308873216)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T13:50:04.000Z](https://twitter.com/realshinyakato/status/1607373179563147266)
 >
-> RT @Amani_Art: Which one do you prefer? 
-
-Light vs Dark mode 
-
-( Zoom in on the dark mode to see real color ) https://t.co/EpmKl29Hqi
+> @aya__yowa 考えるな、感じろ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607298516308873216)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607298516308873216)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607298516308873216)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607373179563147266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607373179563147266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607373179563147266)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:19:37.000Z](https://twitter.com/realshinyakato/status/1607290019215192064)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T13:48:15.000Z](https://twitter.com/realshinyakato/status/1607372722304352256)
 >
-> そもそも、状態管理ライブラリを使わなくてもアプリは作れる。あればあったで便利というだけで、これがなければアプリが作れないと言うのはおかしい。
+> #ローコード や #ノーコード は便利なんだけど、#GUI でオブジェクトつなげたりするよりも結局テキストでコーディングしたほうが生産性高いんだよな。こういったツールの #GUI は相応のスペックのPC用意しないとかえって生産性が落ちる。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607290019215192064)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607290019215192064)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607290019215192064)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607372722304352256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607372722304352256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607372722304352256)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:18:00.000Z](https://twitter.com/realshinyakato/status/1607289613990891521)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T13:44:31.000Z](https://twitter.com/realshinyakato/status/1607371785296818177)
 >
-> #Flutter を使っているとやたらと #Provider や #Riverpod といった状態管理ライブラリを勧めてくる人がいるけど、こういったライブラリの #ベストプラクティス を教えられる人はまずいない。技術記事も #アンチパターン で溢れている。
+> #Flutter は痒いところに手が届かない場面がたびたびあるので、そういうケースではHTMLとCSSを直接書いたほうが幸せになれる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607289613990891521)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607289613990891521)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607289613990891521)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607371785296818177)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607371785296818177)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607371785296818177)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:11:25.000Z](https://twitter.com/realshinyakato/status/1607287957278580736)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T13:42:51.000Z](https://twitter.com/realshinyakato/status/1607371362817175552)
 >
-> ただ、#GitHub スタッフの @abraham も #GitHubActions を使用した #テスト や #デプロイ 以外での #自動化 を実装していて、すべてがアウトというわけではなさそう
+> 細かいところ気にしないでアプリ作るなら #Flutter で、細部にこだわりたいのであれば #React といった感じ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607287957278580736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607287957278580736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607287957278580736)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607371362817175552)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607371362817175552)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607371362817175552)
 
 ---
 <!-- MY-TWEETS:END -->
