@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:38:39.000Z](https://twitter.com/realshinyakato/status/1607234410243592192)
+>
+> If #spammy #Likes and #Follows using the #TwitterAPI are prohibited, then it is highly inconsistent that the rate limits for these endpoints of the Twitter API are set so high
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607234410243592192)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607234410243592192)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607234410243592192)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:34:29.000Z](https://twitter.com/realshinyakato/status/1607233361600446464)
+>
+> Want to know how to use #Twitter #safely without being #banned or #frozen? Ignore Twitter employees, and don't replying to anyone
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607233361600446464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607233361600446464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607233361600446464)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:28:51.000Z](https://twitter.com/realshinyakato/status/1607231944731013122)
+>
+> I really don't understand the #algorithm for calculating https://t.co/fWhEOPbY2N's popularity index. What data is used to calculate this?
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607231944731013122)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607231944731013122)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607231944731013122)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T03:41:21.000Z](https://twitter.com/realshinyakato/status/1607219991115595779)
 >
 > But who cares about this?
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > #Twitter is now a hotbed of bugs. I have discovered a #bug that rewrites the #text you enter when you try to #tweet using a #hashtag.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607219812366974976)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607219812366974976)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607219812366974976)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T03:39:13.000Z](https://twitter.com/realshinyakato/status/1607219453665873921)
->
-> I added ElonMusk to my NG word list and my timeline is now peaceful
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607219453665873921)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607219453665873921)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607219453665873921)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T03:34:25.000Z](https://twitter.com/realshinyakato/status/1607218246998183937)
->
-> オープンソース以下なのかこのプラットフォームは
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607218246998183937)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607218246998183937)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607218246998183937)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T03:33:52.000Z](https://twitter.com/realshinyakato/status/1607218107122352129)
->
-> ハッシュタグ使うと入力したテキストがたまにバグるの本当にクソ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607218107122352129)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607218107122352129)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607218107122352129)
 
 ---
 <!-- MY-TWEETS:END -->
