@@ -193,47 +193,51 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T06:12:29.000Z](https://twitter.com/realshinyakato/status/1607258028021256195)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:54:34.000Z](https://twitter.com/realshinyakato/status/1607298814561628160)
 >
-> What I see in the #TwitterAPI wrapper libraries developed by others is that by not utilizing #Enum, they require library users to have unnecessary knowledge of constant values. All of these constant values should have been provided as Enum with guaranteed values.
+> @Amani_Art Dark. Dark mode is kind to both our eyes and wallets.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607258028021256195)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607258028021256195)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607258028021256195)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607298814561628160)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607298814561628160)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607298814561628160)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:38:39.000Z](https://twitter.com/realshinyakato/status/1607234410243592192)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:53:23.000Z](https://twitter.com/realshinyakato/status/1607298516308873216)
 >
-> If #spammy #Likes and #Follows using the #TwitterAPI are prohibited, then it is highly inconsistent that the rate limits for these endpoints of the Twitter API are set so high
+> RT @Amani_Art: Which one do you prefer? 
+
+Light vs Dark mode 
+
+( Zoom in on the dark mode to see real color ) https://t.co/EpmKl29Hqi
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607234410243592192)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607234410243592192)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607234410243592192)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607298516308873216)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607298516308873216)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607298516308873216)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:34:29.000Z](https://twitter.com/realshinyakato/status/1607233361600446464)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:19:37.000Z](https://twitter.com/realshinyakato/status/1607290019215192064)
 >
-> Want to know how to use #Twitter #safely without being #banned or #frozen? Ignore Twitter employees, and don't replying to anyone
+> そもそも、状態管理ライブラリを使わなくてもアプリは作れる。あればあったで便利というだけで、これがなければアプリが作れないと言うのはおかしい。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607233361600446464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607233361600446464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607233361600446464)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607290019215192064)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607290019215192064)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607290019215192064)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:28:51.000Z](https://twitter.com/realshinyakato/status/1607231944731013122)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:18:00.000Z](https://twitter.com/realshinyakato/status/1607289613990891521)
 >
-> I really don't understand the #algorithm for calculating https://t.co/fWhEOPbY2N's popularity index. What data is used to calculate this?
+> #Flutter を使っているとやたらと #Provider や #Riverpod といった状態管理ライブラリを勧めてくる人がいるけど、こういったライブラリの #ベストプラクティス を教えられる人はまずいない。技術記事も #アンチパターン で溢れている。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607231944731013122)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607231944731013122)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607231944731013122)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607289613990891521)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607289613990891521)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607289613990891521)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T03:41:21.000Z](https://twitter.com/realshinyakato/status/1607219991115595779)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T08:11:25.000Z](https://twitter.com/realshinyakato/status/1607287957278580736)
 >
-> But who cares about this?
+> ただ、#GitHub スタッフの @abraham も #GitHubActions を使用した #テスト や #デプロイ 以外での #自動化 を実装していて、すべてがアウトというわけではなさそう
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607219991115595779)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607219991115595779)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607219991115595779)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607287957278580736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607287957278580736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607287957278580736)
 
 ---
 <!-- MY-TWEETS:END -->
