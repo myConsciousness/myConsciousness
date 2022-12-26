@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T23:41:25.000Z](https://twitter.com/realshinyakato/status/1607159609990721536)
+>
+> 一般的には軽視されがちだけど、広告とかでもコンテンツよりも色が重要だったりする。色の暴力なんだよな https://t.co/ukNJdYEYSz
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607159609990721536)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607159609990721536)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607159609990721536)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T14:36:42.000Z](https://twitter.com/realshinyakato/status/1607022529587343361)
 >
 > なぜ実績のある日本人プログラマーは往々にして他人を煽ってしまうのか。Twitterで日本人プログラマーと関わるのはこれがあるから嫌なんだよな
@@ -227,15 +236,6 @@ https://t.co/Xk7LeD2pNI
 > RT @jonobacon: Brutal. https://t.co/2ew5Hj01Ex
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1606956382942801922)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606956382942801922)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606956382942801922)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1606518316834906113/3NmDy7YM_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-25T07:50:52.000Z](https://twitter.com/realshinyakato/status/1606920397039243265)
->
-> #ChatGPT もそうだけど、AIにプログラミングさせるためには自らが生み出したコードの正しさを証明するプロセスが必要だわな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1606920397039243265)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1606920397039243265)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1606920397039243265)
 
 ---
 <!-- MY-TWEETS:END -->
