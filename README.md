@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T06:12:29.000Z](https://twitter.com/realshinyakato/status/1607258028021256195)
+>
+> What I see in the #TwitterAPI wrapper libraries developed by others is that by not utilizing #Enum, they require library users to have unnecessary knowledge of constant values. All of these constant values should have been provided as Enum with guaranteed values.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607258028021256195)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607258028021256195)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607258028021256195)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T04:38:39.000Z](https://twitter.com/realshinyakato/status/1607234410243592192)
 >
 > If #spammy #Likes and #Follows using the #TwitterAPI are prohibited, then it is highly inconsistent that the rate limits for these endpoints of the Twitter API are set so high
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > But who cares about this?
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607219991115595779)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607219991115595779)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607219991115595779)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T03:40:38.000Z](https://twitter.com/realshinyakato/status/1607219812366974976)
->
-> #Twitter is now a hotbed of bugs. I have discovered a #bug that rewrites the #text you enter when you try to #tweet using a #hashtag.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607219812366974976)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607219812366974976)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607219812366974976)
 
 ---
 <!-- MY-TWEETS:END -->
