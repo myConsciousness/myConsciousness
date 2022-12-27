@@ -204,7 +204,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:08:31.000Z](https://twitter.com/realshinyakato/status/1607619416719781888)
 >
-> @LilMoonLambo I'm expecting for next summer... 👀
+> [@LilMoonLambo](https://twitter.com/LilMoonLambo) I'm expecting for next summer... 👀
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607619416719781888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607619416719781888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607619416719781888)
 
