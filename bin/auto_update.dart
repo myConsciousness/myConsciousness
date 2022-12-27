@@ -129,7 +129,25 @@ String _replaceFileContent(
     );
 
 String _getTweetText(final TweetData tweet) {
-  return _activateHashtags(tweet.text).split('\n').join('\n> ');
+  return _activateUserReference(_activateHashtags(tweet.text))
+      .split('\n')
+      .join('\n> ');
+}
+
+String _activateUserReference(final String text) {
+  final activatedText = <String>[];
+
+  final elements = text.split(' ');
+  for (final element in elements) {
+    if (element.startsWith('@')) {
+      activatedText
+          .add('[$element](https://twitter.com/${element.substring(1)})');
+    } else {
+      activatedText.add(element);
+    }
+  }
+
+  return activatedText.join(' ');
 }
 
 String _activateHashtags(final String text) {
