@@ -193,51 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:48:21.000Z](https://twitter.com/realshinyakato/status/1607629438891720708)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T08:44:41.000Z](https://twitter.com/realshinyakato/status/1607658717243404288)
 >
-> I implemented an automatic display of my 5 latest [#tweets](https://twitter.com/hashtag/tweets?src=hashtag_click) in my [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) profile [#README](https://twitter.com/hashtag/README?src=hashtag_click) :) It's made by [#Dart!](https://twitter.com/hashtag/Dart!?src=hashtag_click) 🎯
-> 
-> #Programming
-> 
-> https://t.co/mVSnGNVko1 https://t.co/smoxAc1vAU
+> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) に登録してそろそろ10年ってそれマジ？
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607629438891720708)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607629438891720708)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607629438891720708)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607658717243404288)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607658717243404288)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607658717243404288)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:41:32.000Z](https://twitter.com/realshinyakato/status/1607627724444827650)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T08:14:17.000Z](https://twitter.com/realshinyakato/status/1607651064962244611)
 >
-> [@s5ml](https://twitter.com/s5ml) 一時的なネットワーク障害とかだとどうもできないですね
+> RT [@molly_struve:](https://twitter.com/molly_struve:) The sooner you embrace it the better https://t.co/Xej9vKvROj
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607627724444827650)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607627724444827650)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607627724444827650)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607651064962244611)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607651064962244611)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607651064962244611)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:18:39.000Z](https://twitter.com/realshinyakato/status/1607621965426356225)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T08:12:02.000Z](https://twitter.com/realshinyakato/status/1607650500580868096)
 >
-> どっちも古い価値観の職場だな。 https://t.co/1xY55NNP9i
+> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) で [#Withheld](https://twitter.com/hashtag/Withheld?src=hashtag_click) があるのは知ってたけど、実際に実行されたアカウントは初めて見たな。テストデータとしてユーザーID欲しいかも。 https://t.co/TiMRRgVqEQ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607621965426356225)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607621965426356225)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607621965426356225)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607650500580868096)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607650500580868096)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607650500580868096)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:08:31.000Z](https://twitter.com/realshinyakato/status/1607619416719781888)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T08:08:26.000Z](https://twitter.com/realshinyakato/status/1607649594435043328)
 >
-> [@LilMoonLambo](https://twitter.com/LilMoonLambo) I'm expecting for next summer... 👀
+> [@flaflaflutter](https://twitter.com/flaflaflutter) mainがなかったりtest関数を使ってないとか？👀
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607619416719781888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607619416719781888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607619416719781888)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607649594435043328)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607649594435043328)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607649594435043328)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:01:13.000Z](https://twitter.com/realshinyakato/status/1607617580155678722)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T08:06:13.000Z](https://twitter.com/realshinyakato/status/1607649036122873857)
 >
-> All accounts that have not tweeted a single tweet for more than a month after [#account](https://twitter.com/hashtag/account?src=hashtag_click) creation should be deleted.
+> RT [@MichaelWarbur17:](https://twitter.com/MichaelWarbur17:) A doorbell camera in Houston - Alaska captures the rare sight of a Moose shedding both his antlers last week. https://…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607617580155678722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607617580155678722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607617580155678722)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607649036122873857)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607649036122873857)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607649036122873857)
 
 ---
 <!-- MY-TWEETS:END -->
