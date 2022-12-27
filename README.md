@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:08:31.000Z](https://twitter.com/realshinyakato/status/1607619416719781888)
+>
+> @LilMoonLambo I'm expecting for next summer... 👀
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607619416719781888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607619416719781888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607619416719781888)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:01:13.000Z](https://twitter.com/realshinyakato/status/1607617580155678722)
+>
+> All accounts that have not tweeted a single tweet for more than a month after #account creation should be deleted.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607617580155678722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607617580155678722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607617580155678722)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:59:33.000Z](https://twitter.com/realshinyakato/status/1607617160318418944)
 >
 > The problem is that useful account names are being obtained for already trashy, inactive accounts.
@@ -216,30 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Although it is overshadowed by #Flutter, #Dart is also an awesome #language. It has none of the useless features offered by other languages and, on the contrary, has all of the necessary features.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607611477414010883)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607611477414010883)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607611477414010883)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T04:52:08.000Z](https://twitter.com/realshinyakato/status/1607600191842177024)
->
-> Hi #Flutter developers,
-
-#twitter_api_v2 v4.7.1 has been released :)
-
-#Dart #Programming
-
-https://t.co/L6bKn4Pjsf
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607600191842177024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607600191842177024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607600191842177024)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T14:37:20.000Z](https://twitter.com/realshinyakato/status/1607385075263623168)
->
-> #Windows98 の筐体がまだ家にあるんだよな。さすがに自分が使ってたわけじゃないけど、一昔前の #Windows の壁紙は心に響くものがある
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607385075263623168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607385075263623168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607385075263623168)
 
 ---
 <!-- MY-TWEETS:END -->
