@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:59:33.000Z](https://twitter.com/realshinyakato/status/1607617160318418944)
+>
+> The problem is that useful account names are being obtained for already trashy, inactive accounts.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607617160318418944)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607617160318418944)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607617160318418944)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:57:24.000Z](https://twitter.com/realshinyakato/status/1607616616690483200)
+>
+> I imagined a #Twitter #BOT account that could talk to #ChatGPT through the API. It's not at all difficult to implement and seems like an interesting idea.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607616616690483200)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607616616690483200)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607616616690483200)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:36:58.000Z](https://twitter.com/realshinyakato/status/1607611477414010883)
+>
+> Although it is overshadowed by #Flutter, #Dart is also an awesome #language. It has none of the useless features offered by other languages and, on the contrary, has all of the necessary features.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607611477414010883)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607611477414010883)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607611477414010883)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T04:52:08.000Z](https://twitter.com/realshinyakato/status/1607600191842177024)
 >
 > Hi #Flutter developers,
@@ -213,35 +240,6 @@ https://t.co/L6bKn4Pjsf
 > #Windows98 の筐体がまだ家にあるんだよな。さすがに自分が使ってたわけじゃないけど、一昔前の #Windows の壁紙は心に響くものがある
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607385075263623168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607385075263623168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607385075263623168)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T14:34:05.000Z](https://twitter.com/realshinyakato/status/1607384257458208771)
->
-> 6問中、6問正解です！インターネットの申し子 | 平成生まれには無理？ 昔のネット文化クイズ！ https://t.co/HjbAphkAxi
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607384257458208771)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607384257458208771)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607384257458208771)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T14:32:03.000Z](https://twitter.com/realshinyakato/status/1607383744524214273)
->
-> ひとまず今日はこれをマージしてよしとするか。
-
-https://t.co/TLgNo8SSQT
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607383744524214273)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607383744524214273)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607383744524214273)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T14:15:03.000Z](https://twitter.com/realshinyakato/status/1607379466220896257)
->
-> #コード ならまだマシなんだけど、#マークダウン は行数増えてくると本当にダメだな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607379466220896257)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607379466220896257)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607379466220896257)
 
 ---
 <!-- MY-TWEETS:END -->
