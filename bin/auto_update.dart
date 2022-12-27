@@ -50,7 +50,7 @@ Future<void> main(List<String> arguments) async {
     tweetUIs.add('''\n> ![${me.data.name}'s avatar](${me.data.profileImageUrl})
 [${me.data.name}](https://twitter.com/${me.data.username}) [@${me.data.username}](https://twitter.com/${me.data.username}) [${tweet.createdAt!.toUtc().toIso8601String()}](https://twitter.com/${me.data.username}/status/${tweet.id})
 >
-> ${tweet.text}
+> ${_getTweetText(tweet)}
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=${tweet.id})&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=${tweet.id})&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=${tweet.id})
 ''');
@@ -127,3 +127,6 @@ String _replaceFileContent(
       content.indexOf(endSection),
       newContent,
     );
+
+String _getTweetText(final TweetData tweet) =>
+    tweet.text.split('\n').join('\n> ');
