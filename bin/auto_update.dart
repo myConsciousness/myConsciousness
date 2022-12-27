@@ -128,5 +128,22 @@ String _replaceFileContent(
       newContent,
     );
 
-String _getTweetText(final TweetData tweet) =>
-    tweet.text.split('\n').join('\n> ');
+String _getTweetText(final TweetData tweet) {
+  return _activateHashtags(tweet.text).split('\n').join('\n> ');
+}
+
+String _activateHashtags(final String text) {
+  final activatedText = <String>[];
+
+  final elements = text.split(' ');
+  for (final element in elements) {
+    if (element.startsWith('#')) {
+      activatedText.add(
+          '[$element](https://twitter.com/hashtag/${element.substring(1)}?src=hashtag_click)');
+    } else {
+      activatedText.add(element);
+    }
+  }
+
+  return activatedText.join(' ');
+}
