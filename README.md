@@ -193,6 +193,28 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:48:21.000Z](https://twitter.com/realshinyakato/status/1607629438891720708)
+>
+> I implemented an automatic display of my 5 latest [#tweets](https://twitter.com/hashtag/tweets?src=hashtag_click) in my [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) profile [#README](https://twitter.com/hashtag/README?src=hashtag_click) :) It's made by [#Dart!](https://twitter.com/hashtag/Dart!?src=hashtag_click) 🎯
+> 
+> #Programming
+> 
+> https://t.co/mVSnGNVko1 https://t.co/smoxAc1vAU
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607629438891720708)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607629438891720708)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607629438891720708)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:41:32.000Z](https://twitter.com/realshinyakato/status/1607627724444827650)
+>
+> [@s5ml](https://twitter.com/s5ml) 一時的なネットワーク障害とかだとどうもできないですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607627724444827650)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607627724444827650)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607627724444827650)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:18:39.000Z](https://twitter.com/realshinyakato/status/1607621965426356225)
 >
 > どっちも古い価値観の職場だな。 https://t.co/1xY55NNP9i
@@ -216,24 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > All accounts that have not tweeted a single tweet for more than a month after [#account](https://twitter.com/hashtag/account?src=hashtag_click) creation should be deleted.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607617580155678722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607617580155678722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607617580155678722)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:59:33.000Z](https://twitter.com/realshinyakato/status/1607617160318418944)
->
-> The problem is that useful account names are being obtained for already trashy, inactive accounts.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607617160318418944)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607617160318418944)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607617160318418944)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:57:24.000Z](https://twitter.com/realshinyakato/status/1607616616690483200)
->
-> I imagined a [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) [#BOT](https://twitter.com/hashtag/BOT?src=hashtag_click) account that could talk to [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) through the API. It's not at all difficult to implement and seems like an interesting idea.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607616616690483200)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607616616690483200)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607616616690483200)
 
 ---
 <!-- MY-TWEETS:END -->
