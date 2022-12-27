@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:18:39.000Z](https://twitter.com/realshinyakato/status/1607621965426356225)
+>
+> どっちも古い価値観の職場だな。 https://t.co/1xY55NNP9i
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607621965426356225)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607621965426356225)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607621965426356225)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:08:31.000Z](https://twitter.com/realshinyakato/status/1607619416719781888)
 >
 > @LilMoonLambo I'm expecting for next summer... 👀
@@ -204,7 +213,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T06:01:13.000Z](https://twitter.com/realshinyakato/status/1607617580155678722)
 >
-> All accounts that have not tweeted a single tweet for more than a month after #account creation should be deleted.
+> All accounts that have not tweeted a single tweet for more than a month after [#account](https://twitter.com/hashtag/account?src=hashtag_click) creation should be deleted.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607617580155678722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607617580155678722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607617580155678722)
 
@@ -222,18 +231,9 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:57:24.000Z](https://twitter.com/realshinyakato/status/1607616616690483200)
 >
-> I imagined a #Twitter #BOT account that could talk to #ChatGPT through the API. It's not at all difficult to implement and seems like an interesting idea.
+> I imagined a [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) [#BOT](https://twitter.com/hashtag/BOT?src=hashtag_click) account that could talk to [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) through the API. It's not at all difficult to implement and seems like an interesting idea.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607616616690483200)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607616616690483200)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607616616690483200)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T05:36:58.000Z](https://twitter.com/realshinyakato/status/1607611477414010883)
->
-> Although it is overshadowed by #Flutter, #Dart is also an awesome #language. It has none of the useless features offered by other languages and, on the contrary, has all of the necessary features.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607611477414010883)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607611477414010883)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607611477414010883)
 
 ---
 <!-- MY-TWEETS:END -->
