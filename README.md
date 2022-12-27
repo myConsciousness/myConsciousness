@@ -193,6 +193,21 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T04:52:08.000Z](https://twitter.com/realshinyakato/status/1607600191842177024)
+>
+> Hi #Flutter developers,
+
+#twitter_api_v2 v4.7.1 has been released :)
+
+#Dart #Programming
+
+https://t.co/L6bKn4Pjsf
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607600191842177024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607600191842177024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607600191842177024)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T14:37:20.000Z](https://twitter.com/realshinyakato/status/1607385075263623168)
 >
 > #Windows98 の筐体がまだ家にあるんだよな。さすがに自分が使ってたわけじゃないけど、一昔前の #Windows の壁紙は心に響くものがある
@@ -227,15 +242,6 @@ https://t.co/TLgNo8SSQT
 > #コード ならまだマシなんだけど、#マークダウン は行数増えてくると本当にダメだな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607379466220896257)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607379466220896257)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607379466220896257)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-26T14:14:20.000Z](https://twitter.com/realshinyakato/status/1607379287031828480)
->
-> 1ファイルあたり2000行を超えたあたりで #VSCode がめちゃくちゃ重くなるのは俺の #M1 の限界なのか、それともVSCodeの性能の問題なのか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607379287031828480)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607379287031828480)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607379287031828480)
 
 ---
 <!-- MY-TWEETS:END -->
