@@ -40,8 +40,16 @@ Future<void> main(List<String> arguments) async {
   final tweets = await twitter.tweets.lookupTweets(
     userId: me.data.id,
     maxResults: 5,
+    expansions: [
+      TweetExpansion.attachmentsMediaKeys,
+    ],
     tweetFields: [
       TweetField.createdAt,
+      TweetField.attachments,
+    ],
+    mediaFields: [
+      MediaField.altText,
+      MediaField.url,
     ],
   );
 
@@ -50,7 +58,7 @@ Future<void> main(List<String> arguments) async {
     tweetUIs.add('''\n> ![${me.data.name}'s avatar](${me.data.profileImageUrl})
 [${me.data.name}](https://twitter.com/${me.data.username}) [@${me.data.username}](https://twitter.com/${me.data.username}) [${tweet.createdAt!.toUtc().toIso8601String()}](https://twitter.com/${me.data.username}/status/${tweet.id})
 >
-> ${_getTweetText(tweet)}
+> ${_getTweetText(me.data, tweet, tweets.includes)}
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=${tweet.id})&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=${tweet.id})&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=${tweet.id})
 ''');
@@ -128,10 +136,30 @@ String _replaceFileContent(
       newContent,
     );
 
-String _getTweetText(final TweetData tweet) {
-  return _activateUserReference(_activateHashtags(tweet.text))
-      .split('\n')
-      .join('\n> ');
+String _getTweetText(
+  final UserData me,
+  final TweetData tweet,
+  final Includes? includes,
+) {
+  final textElements = _activateUserReference(
+    _activateHashtags(tweet.text),
+  ).split('\n');
+
+  if (tweet.attachments != null) {
+    final attachments = tweet.attachments!;
+
+    if (attachments.mediaKeys != null) {
+      for (final mediaKey in attachments.mediaKeys!) {
+        for (final media in includes!.media!) {
+          if (media.key == mediaKey) {
+            textElements.add(media.url!);
+          }
+        }
+      }
+    }
+  }
+
+  return textElements.join('\n> ');
 }
 
 String _activateUserReference(final String text) {
