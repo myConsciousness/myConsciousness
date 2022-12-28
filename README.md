@@ -234,7 +234,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T00:12:14.000Z](https://twitter.com/realshinyakato/status/1607892141514293250)
 >
 > RT [@PR0GRAMMERHUM0R:](https://twitter.com/PR0GRAMMERHUM0R:) Like, every time. https://t.co/Cl0lrqU4GT https://t.co/aaEzyWmyLL
-> https://pbs.twimg.com/media/FlA1Z8_WAAAZK5O.jpg
+> ![No AltText](https://pbs.twimg.com/media/FlA1Z8_WAAAZK5O.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607892141514293250)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607892141514293250)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607892141514293250)
 
