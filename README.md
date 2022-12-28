@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T00:12:14.000Z](https://twitter.com/realshinyakato/status/1607892141514293250)
+>
+> RT [@PR0GRAMMERHUM0R:](https://twitter.com/PR0GRAMMERHUM0R:) Like, every time. https://t.co/Cl0lrqU4GT https://t.co/aaEzyWmyLL
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607892141514293250)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607892141514293250)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607892141514293250)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T15:29:12.000Z](https://twitter.com/realshinyakato/status/1607760516419817473)
 >
 > After all this time I have found an interesting project. Now I can make some fancy code images too! 🫡
@@ -229,15 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > RT [@CFDevelop:](https://twitter.com/CFDevelop:) This is what happens when you select text on a tweet in Android. A new bug that came up in the last week or so. This is wher…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607757347883225089)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607757347883225089)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607757347883225089)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T15:16:22.000Z](https://twitter.com/realshinyakato/status/1607757286151458816)
->
-> RT [@_incendial:](https://twitter.com/_incendial:) [@CFDevelop](https://twitter.com/CFDevelop) New interactive feature: guess what’s behind 😁
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607757286151458816)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607757286151458816)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607757286151458816)
 
 ---
 <!-- MY-TWEETS:END -->
