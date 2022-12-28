@@ -193,6 +193,22 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T06:24:26.000Z](https://twitter.com/realshinyakato/status/1607985808304410624)
+>
+> Let's post mastodon toot with mastodon_api :)
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
+> 
+> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/VGJTOW4MAL?src=hashtag_click) https://t.co/eQkuCCyv1M
+> ![No AltText](https://pbs.twimg.com/media/FlC2gJoaMAIlAko.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607985808304410624)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607985808304410624)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607985808304410624)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T05:36:06.000Z](https://twitter.com/realshinyakato/status/1607973647733641216)
 >
 > RT [@MoureDev:](https://twitter.com/MoureDev:) Flutter &gt;&gt;&gt;&gt;&gt; iOS/Android nativo
@@ -225,17 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > I don't recommend creating an overly detailed design docs for app development. Once you actually start developing the product, this doc will be of little use and will quickly become a resource that you will waste time reading because maintenance will not be able to keep up.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607913085800710146)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607913085800710146)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607913085800710146)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:33:05.000Z](https://twitter.com/realshinyakato/status/1607912490465386496)
->
-> [#Design](https://twitter.com/hashtag/Design?src=hashtag_click) is important when building an [#app,](https://twitter.com/hashtag/app,?src=hashtag_click) but more important is the actual completion of the [#prototype.](https://twitter.com/hashtag/prototype.?src=hashtag_click) By completing the prototype, you will notice [#difficulties](https://twitter.com/hashtag/difficulties?src=hashtag_click) and further [#possibilities](https://twitter.com/hashtag/possibilities?src=hashtag_click) that were not apparent in the design.
-> 
-> #Programming
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607912490465386496)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607912490465386496)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607912490465386496)
 
 ---
 <!-- MY-TWEETS:END -->
