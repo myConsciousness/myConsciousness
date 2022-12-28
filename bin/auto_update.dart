@@ -152,7 +152,9 @@ String _getTweetText(
       for (final mediaKey in attachments.mediaKeys!) {
         for (final media in includes!.media!) {
           if (media.key == mediaKey) {
-            textElements.add(media.url!);
+            textElements.add(
+              '![${media.altText ?? 'No AltText'}](${media.url!})',
+            );
           }
         }
       }
