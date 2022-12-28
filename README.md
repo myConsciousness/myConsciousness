@@ -193,51 +193,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:48:56.000Z](https://twitter.com/realshinyakato/status/1607916475800752130)
+>
+> I like automated projects. Our lives are too short to try every idea manually.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607916475800752130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607916475800752130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607916475800752130)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:42:08.000Z](https://twitter.com/realshinyakato/status/1607914767288762368)
+>
+> I get impatient when I come across an [#authentication](https://twitter.com/hashtag/authentication?src=hashtag_click) screen that suddenly asks for a [#password.](https://twitter.com/hashtag/password.?src=hashtag_click) I have become so accustomed to the automatic password input function built into our browsers or operating systems that I rarely remember our own passwords.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607914767288762368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607914767288762368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607914767288762368)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:35:27.000Z](https://twitter.com/realshinyakato/status/1607913085800710146)
+>
+> I don't recommend creating an overly detailed design docs for app development. Once you actually start developing the product, this doc will be of little use and will quickly become a resource that you will waste time reading because maintenance will not be able to keep up.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607913085800710146)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607913085800710146)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607913085800710146)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:33:05.000Z](https://twitter.com/realshinyakato/status/1607912490465386496)
+>
+> [#Design](https://twitter.com/hashtag/Design?src=hashtag_click) is important when building an [#app,](https://twitter.com/hashtag/app,?src=hashtag_click) but more important is the actual completion of the [#prototype.](https://twitter.com/hashtag/prototype.?src=hashtag_click) By completing the prototype, you will notice [#difficulties](https://twitter.com/hashtag/difficulties?src=hashtag_click) and further [#possibilities](https://twitter.com/hashtag/possibilities?src=hashtag_click) that were not apparent in the design.
+> 
+> #Programming
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607912490465386496)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607912490465386496)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607912490465386496)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T00:12:14.000Z](https://twitter.com/realshinyakato/status/1607892141514293250)
 >
 > RT [@PR0GRAMMERHUM0R:](https://twitter.com/PR0GRAMMERHUM0R:) Like, every time. https://t.co/Cl0lrqU4GT https://t.co/aaEzyWmyLL
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607892141514293250)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607892141514293250)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607892141514293250)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T15:29:12.000Z](https://twitter.com/realshinyakato/status/1607760516419817473)
->
-> After all this time I have found an interesting project. Now I can make some fancy code images too! 🫡
-> 
-> #Programming
-> 
-> https://t.co/uZTgc6HJqK
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607760516419817473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607760516419817473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607760516419817473)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T15:22:00.000Z](https://twitter.com/realshinyakato/status/1607758702903451649)
->
-> Okay, I have figured out how to generate the path to the [#image](https://twitter.com/hashtag/image?src=hashtag_click) file contained in the [#tweet](https://twitter.com/hashtag/tweet?src=hashtag_click) using [#TwitterAPI.](https://twitter.com/hashtag/TwitterAPI.?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607758702903451649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607758702903451649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607758702903451649)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T15:18:50.000Z](https://twitter.com/realshinyakato/status/1607757909005602817)
->
-> We can get the media key, but there is no way to search for media using this key, so what exactly does the [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) want us to do with this key? 😒
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607757909005602817)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607757909005602817)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607757909005602817)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-27T15:16:37.000Z](https://twitter.com/realshinyakato/status/1607757347883225089)
->
-> RT [@CFDevelop:](https://twitter.com/CFDevelop:) This is what happens when you select text on a tweet in Android. A new bug that came up in the last week or so. This is wher…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607757347883225089)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607757347883225089)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607757347883225089)
 
 ---
 <!-- MY-TWEETS:END -->
