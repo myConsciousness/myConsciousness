@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T01:00:51.000Z](https://twitter.com/realshinyakato/status/1608266766467338242)
+>
+> まーた冤罪でアカウント凍結されたかと思ったら他にもなってる人いて安心したわ、死なば諸共
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608266766467338242)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608266766467338242)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608266766467338242)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T00:49:32.000Z](https://twitter.com/realshinyakato/status/1608263915338870784)
+>
+> Twitterは絶賛障害発生中だな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608263915338870784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608263915338870784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608263915338870784)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T06:24:26.000Z](https://twitter.com/realshinyakato/status/1607985808304410624)
 >
 > Let's post mastodon toot with mastodon_api :)
@@ -223,24 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > I like automated projects. Our lives are too short to try every idea manually.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607916475800752130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607916475800752130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607916475800752130)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:42:08.000Z](https://twitter.com/realshinyakato/status/1607914767288762368)
->
-> I get impatient when I come across an [#authentication](https://twitter.com/hashtag/authentication?src=hashtag_click) screen that suddenly asks for a [#password.](https://twitter.com/hashtag/password.?src=hashtag_click) I have become so accustomed to the automatic password input function built into our browsers or operating systems that I rarely remember our own passwords.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607914767288762368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607914767288762368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607914767288762368)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:35:27.000Z](https://twitter.com/realshinyakato/status/1607913085800710146)
->
-> I don't recommend creating an overly detailed design docs for app development. Once you actually start developing the product, this doc will be of little use and will quickly become a resource that you will waste time reading because maintenance will not be able to keep up.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607913085800710146)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607913085800710146)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607913085800710146)
 
 ---
 <!-- MY-TWEETS:END -->
