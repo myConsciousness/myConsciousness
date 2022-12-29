@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T03:27:52.000Z](https://twitter.com/realshinyakato/status/1608303764233981952)
+>
+> [@arrow_2nd](https://twitter.com/arrow_2nd) Twitterスタッフにリプライ投げても音沙汰がないので、急に方針が変わって本当に削除の可能性もありますね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608303764233981952)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608303764233981952)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608303764233981952)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T01:00:51.000Z](https://twitter.com/realshinyakato/status/1608266766467338242)
 >
 > まーた冤罪でアカウント凍結されたかと思ったら他にもなってる人いて安心したわ、死なば諸共
@@ -232,15 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > RT [@MoureDev:](https://twitter.com/MoureDev:) Flutter &gt;&gt;&gt;&gt;&gt; iOS/Android nativo
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1607973647733641216)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607973647733641216)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607973647733641216)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T01:48:56.000Z](https://twitter.com/realshinyakato/status/1607916475800752130)
->
-> I like automated projects. Our lives are too short to try every idea manually.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607916475800752130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607916475800752130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607916475800752130)
 
 ---
 <!-- MY-TWEETS:END -->
