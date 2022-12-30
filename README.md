@@ -193,47 +193,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:51:03.000Z](https://twitter.com/realshinyakato/status/1608732383058231296)
+>
+> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) も早いところv1.1エンドポイントをv2に移植してOAuth 1.0aを廃止してほしいんだよな。#ElevatedAccess でv1.1のエンドポイントを使えるようにしましたとかいう超妥協案を発表するよりやることあるでしょうに。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608732383058231296)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608732383058231296)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608732383058231296)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:14:14.000Z](https://twitter.com/realshinyakato/status/1608723118323011584)
+>
+> [@simonleier](https://twitter.com/simonleier) [@hfz_rana](https://twitter.com/hfz_rana) Interesting package! But what is this package to solve? At first glance, it appears to be similar in feature to freezed 👀
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608723118323011584)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608723118323011584)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608723118323011584)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:07:25.000Z](https://twitter.com/realshinyakato/status/1608721402131263490)
+>
+> 決め手は神エンドポイントとして残したほうが使いやすいかどうかなんだよな〜
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608721402131263490)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608721402131263490)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608721402131263490)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:04:57.000Z](https://twitter.com/realshinyakato/status/1608720779193225217)
+>
+> [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) のこのエンドポイントの実装すごく迷うな。#TwitterAPI でも与えたパラメータに応じていろいろできてしまう神エンドポイントがあるんだけど、個人的にはこういうエンドポイントは役割に応じた独立したメソッドとして実装したいんだよね。
+> 
+> https://t.co/LCFUHh6N0z
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608720779193225217)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608720779193225217)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608720779193225217)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:00:12.000Z](https://twitter.com/realshinyakato/status/1608719587000086528)
 >
 > [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) の残念な点を挙げるとすれば、#AltJS として開発が始まりながらAltJSになりきれなかったところだろう。WebブラウザでDartを [#JavaScript](https://twitter.com/hashtag/JavaScript?src=hashtag_click) のように実行できればどれほど素晴らしかったことか。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1608719587000086528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608719587000086528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608719587000086528)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T06:53:42.000Z](https://twitter.com/realshinyakato/status/1608717951125032960)
->
-> [@garamlover](https://twitter.com/garamlover) 広告でよく見たゲームですね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608717951125032960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608717951125032960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608717951125032960)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T03:27:52.000Z](https://twitter.com/realshinyakato/status/1608303764233981952)
->
-> [@arrow_2nd](https://twitter.com/arrow_2nd) Twitterスタッフにリプライ投げても音沙汰がないので、急に方針が変わって本当に削除の可能性もありますね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608303764233981952)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608303764233981952)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608303764233981952)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T01:00:51.000Z](https://twitter.com/realshinyakato/status/1608266766467338242)
->
-> まーた冤罪でアカウント凍結されたかと思ったら他にもなってる人いて安心したわ、死なば諸共
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608266766467338242)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608266766467338242)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608266766467338242)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T00:49:32.000Z](https://twitter.com/realshinyakato/status/1608263915338870784)
->
-> Twitterは絶賛障害発生中だな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608263915338870784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608263915338870784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608263915338870784)
 
 ---
 <!-- MY-TWEETS:END -->
