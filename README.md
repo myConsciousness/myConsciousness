@@ -193,6 +193,17 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T14:09:03.000Z](https://twitter.com/realshinyakato/status/1608827509457686530)
+>
+> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) のアナウンスメントにもう期待できないから、#OpenAPI の定義ファイルを探索して新機能を探索する [#プログラム](https://twitter.com/hashtag/プログラム?src=hashtag_click) を書いたほうが良さそう
+> 
+> https://t.co/lYWTZqhZCh
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608827509457686530)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608827509457686530)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608827509457686530)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:47:20.000Z](https://twitter.com/realshinyakato/status/1608806944449638401)
 >
 > [@that_anokha_boy](https://twitter.com/that_anokha_boy) Give me eye drops plz 😂
@@ -225,15 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > GitHubディスカッションで解決方法を回答しても「解決」ボタンを押してくれる人が少なくて悲しいよ 🥲
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1608752503927214080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608752503927214080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608752503927214080)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T09:07:19.000Z](https://twitter.com/realshinyakato/status/1608751576147189763)
->
-> 日本人の [#GDE](https://twitter.com/hashtag/GDE?src=hashtag_click) 見たことないけどいるんだろうか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608751576147189763)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608751576147189763)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608751576147189763)
 
 ---
 <!-- MY-TWEETS:END -->
