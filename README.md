@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:00:12.000Z](https://twitter.com/realshinyakato/status/1608719587000086528)
+>
+> [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) の残念な点を挙げるとすれば、#AltJS として開発が始まりながらAltJSになりきれなかったところだろう。WebブラウザでDartを [#JavaScript](https://twitter.com/hashtag/JavaScript?src=hashtag_click) のように実行できればどれほど素晴らしかったことか。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608719587000086528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608719587000086528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608719587000086528)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T06:53:42.000Z](https://twitter.com/realshinyakato/status/1608717951125032960)
+>
+> [@garamlover](https://twitter.com/garamlover) 広告でよく見たゲームですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608717951125032960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608717951125032960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608717951125032960)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-29T03:27:52.000Z](https://twitter.com/realshinyakato/status/1608303764233981952)
 >
 > [@arrow_2nd](https://twitter.com/arrow_2nd) Twitterスタッフにリプライ投げても音沙汰がないので、急に方針が変わって本当に削除の可能性もありますね
@@ -216,31 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitterは絶賛障害発生中だな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1608263915338870784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608263915338870784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608263915338870784)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T06:24:26.000Z](https://twitter.com/realshinyakato/status/1607985808304410624)
->
-> Let's post mastodon toot with mastodon_api :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
-> 
-> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/VGJTOW4MAL?src=hashtag_click) https://t.co/eQkuCCyv1M
-> ![No AltText](https://pbs.twimg.com/media/FlC2gJoaMAIlAko.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607985808304410624)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607985808304410624)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607985808304410624)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-28T05:36:06.000Z](https://twitter.com/realshinyakato/status/1607973647733641216)
->
-> RT [@MoureDev:](https://twitter.com/MoureDev:) Flutter &gt;&gt;&gt;&gt;&gt; iOS/Android nativo
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1607973647733641216)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1607973647733641216)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1607973647733641216)
 
 ---
 <!-- MY-TWEETS:END -->
