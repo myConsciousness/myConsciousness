@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T09:11:00.000Z](https://twitter.com/realshinyakato/status/1608752503927214080)
+>
+> GitHubディスカッションで解決方法を回答しても「解決」ボタンを押してくれる人が少なくて悲しいよ 🥲
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608752503927214080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608752503927214080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608752503927214080)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T09:07:19.000Z](https://twitter.com/realshinyakato/status/1608751576147189763)
+>
+> 日本人の [#GDE](https://twitter.com/hashtag/GDE?src=hashtag_click) 見たことないけどいるんだろうか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608751576147189763)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608751576147189763)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608751576147189763)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:51:03.000Z](https://twitter.com/realshinyakato/status/1608732383058231296)
 >
 > [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) も早いところv1.1エンドポイントをv2に移植してOAuth 1.0aを廃止してほしいんだよな。#ElevatedAccess でv1.1のエンドポイントを使えるようにしましたとかいう超妥協案を発表するよりやることあるでしょうに。
@@ -216,26 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 決め手は神エンドポイントとして残したほうが使いやすいかどうかなんだよな〜
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1608721402131263490)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608721402131263490)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608721402131263490)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:04:57.000Z](https://twitter.com/realshinyakato/status/1608720779193225217)
->
-> [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) のこのエンドポイントの実装すごく迷うな。#TwitterAPI でも与えたパラメータに応じていろいろできてしまう神エンドポイントがあるんだけど、個人的にはこういうエンドポイントは役割に応じた独立したメソッドとして実装したいんだよね。
-> 
-> https://t.co/LCFUHh6N0z
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608720779193225217)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608720779193225217)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608720779193225217)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:00:12.000Z](https://twitter.com/realshinyakato/status/1608719587000086528)
->
-> [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) の残念な点を挙げるとすれば、#AltJS として開発が始まりながらAltJSになりきれなかったところだろう。WebブラウザでDartを [#JavaScript](https://twitter.com/hashtag/JavaScript?src=hashtag_click) のように実行できればどれほど素晴らしかったことか。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608719587000086528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608719587000086528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608719587000086528)
 
 ---
 <!-- MY-TWEETS:END -->
