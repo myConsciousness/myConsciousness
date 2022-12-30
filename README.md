@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:47:20.000Z](https://twitter.com/realshinyakato/status/1608806944449638401)
+>
+> [@that_anokha_boy](https://twitter.com/that_anokha_boy) Give me eye drops plz 😂
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608806944449638401)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608806944449638401)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608806944449638401)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:46:08.000Z](https://twitter.com/realshinyakato/status/1608806643277639683)
+>
+> Of course, you never know what will be an innovative product until you actually make it and try it out :)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608806643277639683)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608806643277639683)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608806643277639683)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:44:58.000Z](https://twitter.com/realshinyakato/status/1608806348229324800)
+>
+> IMO, [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) community is already ripe with [#tools](https://twitter.com/hashtag/tools?src=hashtag_click) and [#libraries](https://twitter.com/hashtag/libraries?src=hashtag_click) to streamline development. From now on, instead of a barrage of similar packages, we will need to be more innovative.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608806348229324800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608806348229324800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608806348229324800)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T09:11:00.000Z](https://twitter.com/realshinyakato/status/1608752503927214080)
 >
 > GitHubディスカッションで解決方法を回答しても「解決」ボタンを押してくれる人が少なくて悲しいよ 🥲
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 日本人の [#GDE](https://twitter.com/hashtag/GDE?src=hashtag_click) 見たことないけどいるんだろうか
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1608751576147189763)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608751576147189763)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608751576147189763)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:51:03.000Z](https://twitter.com/realshinyakato/status/1608732383058231296)
->
-> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) も早いところv1.1エンドポイントをv2に移植してOAuth 1.0aを廃止してほしいんだよな。#ElevatedAccess でv1.1のエンドポイントを使えるようにしましたとかいう超妥協案を発表するよりやることあるでしょうに。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608732383058231296)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608732383058231296)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608732383058231296)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:14:14.000Z](https://twitter.com/realshinyakato/status/1608723118323011584)
->
-> [@simonleier](https://twitter.com/simonleier) [@hfz_rana](https://twitter.com/hfz_rana) Interesting package! But what is this package to solve? At first glance, it appears to be similar in feature to freezed 👀
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608723118323011584)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608723118323011584)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608723118323011584)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T07:07:25.000Z](https://twitter.com/realshinyakato/status/1608721402131263490)
->
-> 決め手は神エンドポイントとして残したほうが使いやすいかどうかなんだよな〜
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608721402131263490)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608721402131263490)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608721402131263490)
 
 ---
 <!-- MY-TWEETS:END -->
