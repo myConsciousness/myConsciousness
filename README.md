@@ -193,49 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T14:09:03.000Z](https://twitter.com/realshinyakato/status/1608827509457686530)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:59:57.000Z](https://twitter.com/realshinyakato/status/1608976215163174912)
 >
-> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) のアナウンスメントにもう期待できないから、#OpenAPI の定義ファイルを探索して新機能を探索する [#プログラム](https://twitter.com/hashtag/プログラム?src=hashtag_click) を書いたほうが良さそう
-> 
-> https://t.co/lYWTZqhZCh
+> 年明けで [#ドル円](https://twitter.com/hashtag/ドル円?src=hashtag_click) が130円を割るかどうかが見どころ。このラインを超えてこなければまた140円に届かない程度の円安でしばらくは揉めるだろうね。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608827509457686530)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608827509457686530)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608827509457686530)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608976215163174912)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608976215163174912)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608976215163174912)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:47:20.000Z](https://twitter.com/realshinyakato/status/1608806944449638401)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:56:47.000Z](https://twitter.com/realshinyakato/status/1608975417087758337)
 >
-> [@that_anokha_boy](https://twitter.com/that_anokha_boy) Give me eye drops plz 😂
+> 悲惨だなと思うのは、#テスラ株 をガチホしてる人たちかな。特に [#TESLA](https://twitter.com/hashtag/TESLA?src=hashtag_click) が成功し始めてから株を買い始めた人。2020年あたりから既に [#ビットコイン](https://twitter.com/hashtag/ビットコイン?src=hashtag_click) みたいな値動きだったから敬遠してたけど正解だったな。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608806944449638401)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608806944449638401)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608806944449638401)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608975417087758337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608975417087758337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608975417087758337)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:46:08.000Z](https://twitter.com/realshinyakato/status/1608806643277639683)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:54:02.000Z](https://twitter.com/realshinyakato/status/1608974727267373056)
 >
-> Of course, you never know what will be an innovative product until you actually make it and try it out :)
+> [#FRB](https://twitter.com/hashtag/FRB?src=hashtag_click) の方針に逆らって生き残ったトレーダーはいない。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608806643277639683)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608806643277639683)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608806643277639683)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608974727267373056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608974727267373056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608974727267373056)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T12:44:58.000Z](https://twitter.com/realshinyakato/status/1608806348229324800)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:53:07.000Z](https://twitter.com/realshinyakato/status/1608974494571565056)
 >
-> IMO, [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) community is already ripe with [#tools](https://twitter.com/hashtag/tools?src=hashtag_click) and [#libraries](https://twitter.com/hashtag/libraries?src=hashtag_click) to streamline development. From now on, instead of a barrage of similar packages, we will need to be more innovative.
+> 来年上旬の [#FOMC](https://twitter.com/hashtag/FOMC?src=hashtag_click) が楽しみだな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608806348229324800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608806348229324800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608806348229324800)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608974494571565056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608974494571565056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608974494571565056)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T09:11:00.000Z](https://twitter.com/realshinyakato/status/1608752503927214080)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:51:05.000Z](https://twitter.com/realshinyakato/status/1608973982820364290)
 >
-> GitHubディスカッションで解決方法を回答しても「解決」ボタンを押してくれる人が少なくて悲しいよ 🥲
+> 数年ぶりに現金保有率がかなり高めになってる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608752503927214080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608752503927214080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608752503927214080)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608973982820364290)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608973982820364290)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608973982820364290)
 
 ---
 <!-- MY-TWEETS:END -->
