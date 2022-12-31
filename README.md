@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T02:49:28.000Z](https://twitter.com/realshinyakato/status/1609018873055170561)
+>
+> 特定の入力パラメーターが空であれば空配列を返すみたいなエンドポイントってなにを意図しているのだろうか。入力がなければ空ではなくて全件返すほうが使いやすいよね。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609018873055170561)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609018873055170561)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609018873055170561)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T00:05:39.000Z](https://twitter.com/realshinyakato/status/1608977650474946560)
 >
 > [#楽天証券](https://twitter.com/hashtag/楽天証券?src=hashtag_click) って [#大口優遇](https://twitter.com/hashtag/大口優遇?src=hashtag_click) 適用の条件の一つが3000万円なんだけど、3000万円で大口認定されるのはちょっとハードルが低すぎる感じがする。といっても、大口優遇の中身は [#日本株](https://twitter.com/hashtag/日本株?src=hashtag_click) に対してだけだから [#米国株](https://twitter.com/hashtag/米国株?src=hashtag_click) 専門の俺にあまり旨味がないからいつも案内無視してるんだけど。
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [#FRB](https://twitter.com/hashtag/FRB?src=hashtag_click) の方針に逆らって生き残ったトレーダーはいない。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1608974727267373056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608974727267373056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608974727267373056)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:53:07.000Z](https://twitter.com/realshinyakato/status/1608974494571565056)
->
-> 来年上旬の [#FOMC](https://twitter.com/hashtag/FOMC?src=hashtag_click) が楽しみだな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608974494571565056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608974494571565056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608974494571565056)
 
 ---
 <!-- MY-TWEETS:END -->
