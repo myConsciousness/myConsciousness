@@ -193,47 +193,58 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T02:49:28.000Z](https://twitter.com/realshinyakato/status/1609018873055170561)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:55:56.000Z](https://twitter.com/realshinyakato/status/1609050700432166915)
 >
-> 特定の入力パラメーターが空であれば空配列を返すみたいなエンドポイントってなにを意図しているのだろうか。入力がなければ空ではなくて全件返すほうが使いやすいよね。
+> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> 
+> #mastodon_api v0.3.0 has been released :)
+> 
+> #Programming [#Mastodon
+> 
+> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Mastodon
+> 
+> https://t.co/VGJTOW4MAL?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609018873055170561)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609018873055170561)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609018873055170561)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609050700432166915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609050700432166915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609050700432166915)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T00:05:39.000Z](https://twitter.com/realshinyakato/status/1608977650474946560)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:50:03.000Z](https://twitter.com/realshinyakato/status/1609049220631396353)
 >
-> [#楽天証券](https://twitter.com/hashtag/楽天証券?src=hashtag_click) って [#大口優遇](https://twitter.com/hashtag/大口優遇?src=hashtag_click) 適用の条件の一つが3000万円なんだけど、3000万円で大口認定されるのはちょっとハードルが低すぎる感じがする。といっても、大口優遇の中身は [#日本株](https://twitter.com/hashtag/日本株?src=hashtag_click) に対してだけだから [#米国株](https://twitter.com/hashtag/米国株?src=hashtag_click) 専門の俺にあまり旨味がないからいつも案内無視してるんだけど。
+> I'm already fed up with the slow development of [#Twitter's](https://twitter.com/hashtag/Twitter's?src=hashtag_click) development team. I will implement the v1.1 endpoint with [#twitter_api_v2.](https://twitter.com/hashtag/twitter_api_v2.?src=hashtag_click) I will implement it so that it is as compatible with the v2 endpoint structure as possible.
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608977650474946560)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608977650474946560)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608977650474946560)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609049220631396353)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609049220631396353)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609049220631396353)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:59:57.000Z](https://twitter.com/realshinyakato/status/1608976215163174912)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:26:06.000Z](https://twitter.com/realshinyakato/status/1609043192221167622)
 >
-> 年明けで [#ドル円](https://twitter.com/hashtag/ドル円?src=hashtag_click) が130円を割るかどうかが見どころ。このラインを超えてこなければまた140円に届かない程度の円安でしばらくは揉めるだろうね。
+> RT [@TechBroDrip:](https://twitter.com/TechBroDrip:) Linus Torvalds (software engineer and creator of the Linux kernel) https://t.co/OqUPS5zndH
+> ![No AltText](https://pbs.twimg.com/media/FlJwVcJXoAMvWHW.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608976215163174912)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608976215163174912)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608976215163174912)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609043192221167622)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609043192221167622)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609043192221167622)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:56:47.000Z](https://twitter.com/realshinyakato/status/1608975417087758337)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:24:33.000Z](https://twitter.com/realshinyakato/status/1609042803040083968)
 >
-> 悲惨だなと思うのは、#テスラ株 をガチホしてる人たちかな。特に [#TESLA](https://twitter.com/hashtag/TESLA?src=hashtag_click) が成功し始めてから株を買い始めた人。2020年あたりから既に [#ビットコイン](https://twitter.com/hashtag/ビットコイン?src=hashtag_click) みたいな値動きだったから敬遠してたけど正解だったな。
+> 外部 [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) へのリンクを貼るとそれ以降の [#ツイート](https://twitter.com/hashtag/ツイート?src=hashtag_click) で [#インプレッション数](https://twitter.com/hashtag/インプレッション数?src=hashtag_click) が下がるの露骨すぎて面白いな。#GitHub へのリンクも規制対象とかもうなにがしたいのかわからない。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608975417087758337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608975417087758337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608975417087758337)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609042803040083968)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609042803040083968)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609042803040083968)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-30T23:54:02.000Z](https://twitter.com/realshinyakato/status/1608974727267373056)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:22:07.000Z](https://twitter.com/realshinyakato/status/1609042189409202177)
 >
-> [#FRB](https://twitter.com/hashtag/FRB?src=hashtag_click) の方針に逆らって生き残ったトレーダーはいない。
+> もう [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) は破壊的変更もお構いなしだな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1608974727267373056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1608974727267373056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1608974727267373056)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609042189409202177)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609042189409202177)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609042189409202177)
 
 ---
 <!-- MY-TWEETS:END -->
