@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T23:39:23.000Z](https://twitter.com/realshinyakato/status/1609333426515226624)
+>
+> [@elonmusk](https://twitter.com/elonmusk) は [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) にとって日本市場が重要と語りながら、日本のユーザーにとって何一つ有益な計画を提示できていない。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609333426515226624)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609333426515226624)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609333426515226624)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T22:47:07.000Z](https://twitter.com/realshinyakato/status/1609320271911190529)
 >
 > [@codewithvoid](https://twitter.com/codewithvoid) [@raphaelbqwerty](https://twitter.com/raphaelbqwerty) Wrong. Readable code is very easy to write even for developers. If you can’t, then you don’t exactly figured out what you’re writing.
@@ -236,15 +245,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FlJwVcJXoAMvWHW.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1609043192221167622)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609043192221167622)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609043192221167622)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:24:33.000Z](https://twitter.com/realshinyakato/status/1609042803040083968)
->
-> 外部 [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) へのリンクを貼るとそれ以降の [#ツイート](https://twitter.com/hashtag/ツイート?src=hashtag_click) で [#インプレッション数](https://twitter.com/hashtag/インプレッション数?src=hashtag_click) が下がるの露骨すぎて面白いな。#GitHub へのリンクも規制対象とかもうなにがしたいのかわからない。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609042803040083968)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609042803040083968)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609042803040083968)
 
 ---
 <!-- MY-TWEETS:END -->
