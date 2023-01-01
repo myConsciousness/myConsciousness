@@ -193,6 +193,28 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T12:03:57.000Z](https://twitter.com/realshinyakato/status/1609520803510620160)
+>
+> [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) でのアクティビティを [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) のプロフィールREADMEに表示できたら面白そう
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609520803510620160)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609520803510620160)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609520803510620160)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T12:02:04.000Z](https://twitter.com/realshinyakato/status/1609520328514076674)
+>
+> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> 
+> #mastodon_api v0.3.1 has been released :)
+> 
+> https://t.co/VGJTOW4MAL
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609520328514076674)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609520328514076674)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609520328514076674)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T06:13:32.000Z](https://twitter.com/realshinyakato/status/1609432619128881153)
 >
 > [@Amani_Art](https://twitter.com/Amani_Art) I feel it’s better to use it in just [#SPA](https://twitter.com/hashtag/SPA?src=hashtag_click) 🤔
@@ -216,32 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@elonmusk](https://twitter.com/elonmusk) は [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) にとって日本市場が重要と語りながら、日本のユーザーにとって何一つ有益な計画を提示できていない。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1609333426515226624)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609333426515226624)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609333426515226624)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T22:47:07.000Z](https://twitter.com/realshinyakato/status/1609320271911190529)
->
-> [@codewithvoid](https://twitter.com/codewithvoid) [@raphaelbqwerty](https://twitter.com/raphaelbqwerty) Wrong. Readable code is very easy to write even for developers. If you can’t, then you don’t exactly figured out what you’re writing.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609320271911190529)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609320271911190529)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609320271911190529)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:55:56.000Z](https://twitter.com/realshinyakato/status/1609050700432166915)
->
-> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
-> 
-> #mastodon_api v0.3.0 has been released :)
-> 
-> #Programming [#Mastodon
-> 
-> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Mastodon
-> 
-> https://t.co/VGJTOW4MAL?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609050700432166915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609050700432166915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609050700432166915)
 
 ---
 <!-- MY-TWEETS:END -->
