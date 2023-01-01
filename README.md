@@ -193,52 +193,56 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T14:19:44.000Z](https://twitter.com/realshinyakato/status/1609554974245257216)
+>
+> [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) reached 30 stars, thanks! 👍✨
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click) [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) [#Mastodon
+> 
+> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Mastodon
+> 
+> https://t.co/VGJTOW4MAL?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609554974245257216)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609554974245257216)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609554974245257216)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T14:18:07.000Z](https://twitter.com/realshinyakato/status/1609554567112589312)
+>
+> Okay, this is a so beautiful beginning of 2023 😂
+> 
+> #Programming [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) [#Contribution](https://twitter.com/hashtag/Contribution?src=hashtag_click) https://t.co/FuZTmrmqxA
+> ![No AltText](https://pbs.twimg.com/media/FlZI8VUaYAAgnND.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609554567112589312)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609554567112589312)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609554567112589312)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T14:10:00.000Z](https://twitter.com/realshinyakato/status/1609552523383418882)
+>
+> [@teajhaneyUTD](https://twitter.com/teajhaneyUTD) I don't see much point in learning JavaScript before TypeScript🤔 This is similar to motivation to learn Java before learning Kotlin. But, since these languages are in similar but different paradigms, I recommend that you focus on TypeScript if you are going to learn it now 😃
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609552523383418882)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609552523383418882)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609552523383418882)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T14:01:51.000Z](https://twitter.com/realshinyakato/status/1609550474407211008)
+>
+> [@teajhaneyUTD](https://twitter.com/teajhaneyUTD) That's great, but I recommend you to learn [#TypeScript](https://twitter.com/hashtag/TypeScript?src=hashtag_click) instead! :)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609550474407211008)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609550474407211008)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609550474407211008)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:57:43.000Z](https://twitter.com/realshinyakato/status/1609549432164581376)
 >
 > [@someone7140](https://twitter.com/someone7140) BIツールを使用してビッグデータを可視化する仕事を何回かしたことがあるんですけど、作る側だけではなくて使う側もグラフなどから数値を読み取る統計の知識が必須になるので敷居が高いのはたしかですね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1609549432164581376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609549432164581376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609549432164581376)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:53:01.000Z](https://twitter.com/realshinyakato/status/1609548249077280768)
->
-> As a matter of fact, [#OSS](https://twitter.com/hashtag/OSS?src=hashtag_click) will sooner or later encounter a succession problem. In particular, open source that is maintained by a few or a single person will have no one authorized to operate it if the developer suddenly disappears or died.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609548249077280768)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609548249077280768)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609548249077280768)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:50:14.000Z](https://twitter.com/realshinyakato/status/1609547548402020358)
->
-> RT [@_Mo_Malaka_:](https://twitter.com/_Mo_Malaka_:) 💙 Are you a Flutter Developer? 💙
-> 
-> How did you celebrate the new year?
-> 
-> Me👇 https://t.co/oSg8XBdZOT
-> ![No AltText](https://pbs.twimg.com/media/FlWfsP4XEAA-uZJ.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609547548402020358)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609547548402020358)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609547548402020358)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:49:36.000Z](https://twitter.com/realshinyakato/status/1609547391778312195)
->
-> I started using [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) after [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) became null-safe, so I don't know the situation, but there are many packages in https://t.co/fWhEOPbY2N that are left without null-safe support. Often the maintainer of the package is also missing, this is a very big problem.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609547391778312195)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609547391778312195)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609547391778312195)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:46:32.000Z](https://twitter.com/realshinyakato/status/1609546617094565888)
->
-> [@newlamplife](https://twitter.com/newlamplife) コミュ力は話す力だけではなくて、自分の考えていることを文章で的確に相手に伝える力も含まれてると思うんですよね。たしかにエンジニア同士で話す時間はあまりないですけど、たまに往復を前提とした意味不明な文章でメールやチャットを送ってくる人がいるのでコミュ力はやはり重要だと感じます。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609546617094565888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609546617094565888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609546617094565888)
 
 ---
 <!-- MY-TWEETS:END -->
