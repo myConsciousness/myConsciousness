@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T06:13:32.000Z](https://twitter.com/realshinyakato/status/1609432619128881153)
+>
+> [@Amani_Art](https://twitter.com/Amani_Art) I feel it’s better to use it in just [#SPA](https://twitter.com/hashtag/SPA?src=hashtag_click) 🤔
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609432619128881153)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609432619128881153)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609432619128881153)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T01:54:46.000Z](https://twitter.com/realshinyakato/status/1609367497719054338)
 >
 > [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is too heavy and too slow
@@ -233,17 +242,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/VGJTOW4MAL?src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1609050700432166915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609050700432166915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609050700432166915)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T04:50:03.000Z](https://twitter.com/realshinyakato/status/1609049220631396353)
->
-> I'm already fed up with the slow development of [#Twitter's](https://twitter.com/hashtag/Twitter's?src=hashtag_click) development team. I will implement the v1.1 endpoint with [#twitter_api_v2.](https://twitter.com/hashtag/twitter_api_v2.?src=hashtag_click) I will implement it so that it is as compatible with the v2 endpoint structure as possible.
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609049220631396353)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609049220631396353)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609049220631396353)
 
 ---
 <!-- MY-TWEETS:END -->
