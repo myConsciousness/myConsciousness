@@ -193,51 +193,52 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T12:03:57.000Z](https://twitter.com/realshinyakato/status/1609520803510620160)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:57:43.000Z](https://twitter.com/realshinyakato/status/1609549432164581376)
 >
-> [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) でのアクティビティを [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) のプロフィールREADMEに表示できたら面白そう
+> [@someone7140](https://twitter.com/someone7140) BIツールを使用してビッグデータを可視化する仕事を何回かしたことがあるんですけど、作る側だけではなくて使う側もグラフなどから数値を読み取る統計の知識が必須になるので敷居が高いのはたしかですね
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609520803510620160)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609520803510620160)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609520803510620160)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609549432164581376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609549432164581376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609549432164581376)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T12:02:04.000Z](https://twitter.com/realshinyakato/status/1609520328514076674)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:53:01.000Z](https://twitter.com/realshinyakato/status/1609548249077280768)
 >
-> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> As a matter of fact, [#OSS](https://twitter.com/hashtag/OSS?src=hashtag_click) will sooner or later encounter a succession problem. In particular, open source that is maintained by a few or a single person will have no one authorized to operate it if the developer suddenly disappears or died.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609548249077280768)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609548249077280768)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609548249077280768)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:50:14.000Z](https://twitter.com/realshinyakato/status/1609547548402020358)
+>
+> RT [@_Mo_Malaka_:](https://twitter.com/_Mo_Malaka_:) 💙 Are you a Flutter Developer? 💙
 > 
-> #mastodon_api v0.3.1 has been released :)
+> How did you celebrate the new year?
 > 
-> https://t.co/VGJTOW4MAL
+> Me👇 https://t.co/oSg8XBdZOT
+> ![No AltText](https://pbs.twimg.com/media/FlWfsP4XEAA-uZJ.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609520328514076674)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609520328514076674)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609520328514076674)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609547548402020358)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609547548402020358)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609547548402020358)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T06:13:32.000Z](https://twitter.com/realshinyakato/status/1609432619128881153)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:49:36.000Z](https://twitter.com/realshinyakato/status/1609547391778312195)
 >
-> [@Amani_Art](https://twitter.com/Amani_Art) I feel it’s better to use it in just [#SPA](https://twitter.com/hashtag/SPA?src=hashtag_click) 🤔
+> I started using [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) after [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) became null-safe, so I don't know the situation, but there are many packages in https://t.co/fWhEOPbY2N that are left without null-safe support. Often the maintainer of the package is also missing, this is a very big problem.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609432619128881153)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609432619128881153)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609432619128881153)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609547391778312195)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609547391778312195)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609547391778312195)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T01:54:46.000Z](https://twitter.com/realshinyakato/status/1609367497719054338)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T13:46:32.000Z](https://twitter.com/realshinyakato/status/1609546617094565888)
 >
-> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is too heavy and too slow
+> [@newlamplife](https://twitter.com/newlamplife) コミュ力は話す力だけではなくて、自分の考えていることを文章で的確に相手に伝える力も含まれてると思うんですよね。たしかにエンジニア同士で話す時間はあまりないですけど、たまに往復を前提とした意味不明な文章でメールやチャットを送ってくる人がいるのでコミュ力はやはり重要だと感じます。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609367497719054338)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609367497719054338)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609367497719054338)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2022-12-31T23:39:23.000Z](https://twitter.com/realshinyakato/status/1609333426515226624)
->
-> [@elonmusk](https://twitter.com/elonmusk) は [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) にとって日本市場が重要と語りながら、日本のユーザーにとって何一つ有益な計画を提示できていない。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609333426515226624)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609333426515226624)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609333426515226624)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609546617094565888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609546617094565888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609546617094565888)
 
 ---
 <!-- MY-TWEETS:END -->
