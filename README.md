@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T15:20:17.000Z](https://twitter.com/realshinyakato/status/1609932599149080576)
+>
+> [#ドル円](https://twitter.com/hashtag/ドル円?src=hashtag_click) 130円割るなこれ。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609932599149080576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609932599149080576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609932599149080576)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T15:19:16.000Z](https://twitter.com/realshinyakato/status/1609932345821499394)
+>
+> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) では煽り系の日本人エンジニアを避けるだけでとても平和に過ごせる
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609932345821499394)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609932345821499394)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609932345821499394)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:48:39.000Z](https://twitter.com/realshinyakato/status/1609924639463202818)
 >
 > [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) でたまに数万人をフォローしてるちょっとスパムチックなアカウントを見かけるけど、フォロー数よりも [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) のアカウント数がそれだけあることに驚く
@@ -222,24 +240,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/L6bKn4Pjsf?src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1609920626797731845)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609920626797731845)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609920626797731845)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:31:06.000Z](https://twitter.com/realshinyakato/status/1609920222689103875)
->
-> [@fumokmm](https://twitter.com/fumokmm) GitHub Copilotでそれっぽいことができますね。ただあくまでもコードの内容をそのまま解釈するだけなので、文脈までは読み取ってくれませんけど。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609920222689103875)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609920222689103875)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609920222689103875)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:09:21.000Z](https://twitter.com/realshinyakato/status/1609914750342950913)
->
-> [@tdinh_me](https://twitter.com/tdinh_me) Twitter is dying
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609914750342950913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609914750342950913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609914750342950913)
 
 ---
 <!-- MY-TWEETS:END -->
