@@ -193,54 +193,53 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T02:39:01.000Z](https://twitter.com/realshinyakato/status/1609741022594228224)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:48:39.000Z](https://twitter.com/realshinyakato/status/1609924639463202818)
 >
-> RT [@LefterisJP:](https://twitter.com/LefterisJP:) 2022 was a good year for me. Spent lots of time [#coding.](https://twitter.com/hashtag/coding.?src=hashtag_click) Was happy. https://t.co/mgraNvB4YJ
-> ![No AltText](https://pbs.twimg.com/media/FlakBKVWQAIVf9T.png)
+> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) でたまに数万人をフォローしてるちょっとスパムチックなアカウントを見かけるけど、フォロー数よりも [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) のアカウント数がそれだけあることに驚く
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609741022594228224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609741022594228224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609741022594228224)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609924639463202818)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609924639463202818)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609924639463202818)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T02:35:26.000Z](https://twitter.com/realshinyakato/status/1609740117295628288)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:44:24.000Z](https://twitter.com/realshinyakato/status/1609923567503970304)
 >
-> 一日一PR
+> [@chome2xx](https://twitter.com/chome2xx) スリーダイヤのワイ困惑
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609740117295628288)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609740117295628288)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609740117295628288)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609923567503970304)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609923567503970304)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609923567503970304)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T02:34:37.000Z](https://twitter.com/realshinyakato/status/1609739915314745346)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:32:42.000Z](https://twitter.com/realshinyakato/status/1609920626797731845)
 >
-> ゴードン・ラムゼイがやるレストランの事業再生プログラムを見てると心理的安全性の重要性がよくわかるよね。威圧的なボスがいると途端に職場の生産性が落ちる。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609739915314745346)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609739915314745346)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609739915314745346)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T02:32:13.000Z](https://twitter.com/realshinyakato/status/1609739308726112257)
->
-> [@chome2xx](https://twitter.com/chome2xx) コミュ力1％の職場、ちょっとした会議でも会話が成り立たなそうで恐ろしいですね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609739308726112257)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609739308726112257)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609739308726112257)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-01T14:19:44.000Z](https://twitter.com/realshinyakato/status/1609554974245257216)
->
-> [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) reached 30 stars, thanks! 👍✨
+> I will support an endpoint in [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) that allows users to manipulate their banner and profile images :)
 > 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click) [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) [#Mastodon
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click) [#TwitterAPI
 > 
-> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Mastodon
+> https://t.co/L6bKn4Pjsf](https://twitter.com/hashtag/TwitterAPI
 > 
-> https://t.co/VGJTOW4MAL?src=hashtag_click)
+> https://t.co/L6bKn4Pjsf?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609554974245257216)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609554974245257216)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609554974245257216)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609920626797731845)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609920626797731845)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609920626797731845)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:31:06.000Z](https://twitter.com/realshinyakato/status/1609920222689103875)
+>
+> [@fumokmm](https://twitter.com/fumokmm) GitHub Copilotでそれっぽいことができますね。ただあくまでもコードの内容をそのまま解釈するだけなので、文脈までは読み取ってくれませんけど。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609920222689103875)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609920222689103875)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609920222689103875)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:09:21.000Z](https://twitter.com/realshinyakato/status/1609914750342950913)
+>
+> [@tdinh_me](https://twitter.com/tdinh_me) Twitter is dying
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609914750342950913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609914750342950913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609914750342950913)
 
 ---
 <!-- MY-TWEETS:END -->
