@@ -192,50 +192,48 @@ I'm looking for sponsors to support my open source development, I appreciate you
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610273921798139905/ScPrhYG5_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T13:24:16.000Z](https://twitter.com/realshinyakato/status/1610265788824576000)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:38:07.000Z](https://twitter.com/realshinyakato/status/1610284377531121664)
 >
-> この勢いでAcademicの権限も欲しいんですけど、ダメですかね
+> うん、v1.1エンドポイントのレスポンスをv2形式のオブジェクトに変換できることを確認できたので、明日ユニットテストを書いてマージしよう。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610265788824576000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610265788824576000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610265788824576000)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610284377531121664)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610284377531121664)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610284377531121664)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610273921798139905/ScPrhYG5_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T13:23:22.000Z](https://twitter.com/realshinyakato/status/1610265565507248129)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:20:45.000Z](https://twitter.com/realshinyakato/status/1610280007410286592)
 >
-> テスト用アカウントの [#ElevatedAccess](https://twitter.com/hashtag/ElevatedAccess?src=hashtag_click) を申請したんだけど、審査と確認メールなしで即時付与された。#TwitterForum で権限申請が完了しない云々の話をよく聞いていたんだけど、やっぱり開発者の出身国ごとに区別とかがありそうだな・・・
+> よくわからない日付形式だったのでひとまず保留でいいか。需要があったら実装する
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610265565507248129)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610265565507248129)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610265565507248129)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610280007410286592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610280007410286592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610280007410286592)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610273921798139905/ScPrhYG5_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T12:34:27.000Z](https://twitter.com/realshinyakato/status/1610253253832495104)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:11:47.000Z](https://twitter.com/realshinyakato/status/1610277749356367872)
 >
-> [@ose_tweety](https://twitter.com/ose_tweety) トレードしてる側からすると数ヶ月前と比較して相対的に円高といったニュアンスですかね。たしかに適正レートとして見るなら特段円高でもなく円安でもない水準に感じます。
+> えっ、なんか日付形式が違うみたいなエラーが出たんだけど、まさかv1.1エンドポイントの日付文字列はISO8601形式じゃないのか・・・
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610253253832495104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610253253832495104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610253253832495104)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610277749356367872)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610277749356367872)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610277749356367872)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610273921798139905/ScPrhYG5_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T12:06:46.000Z](https://twitter.com/realshinyakato/status/1610246288477675520)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:05:48.000Z](https://twitter.com/realshinyakato/status/1610276243668340736)
 >
-> APIリファレンスを読み直してみたらsearch/recentだけユーザーコンテキストのトークンを使用できるようになってる。なんだこの変な仕様・・・
-> 
-> https://t.co/61DOwtXOqN
+> というか冤罪であっても一度アカウント凍結された人間にホイホイとTwitter APIの権限を付与していいのか？
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610246288477675520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610246288477675520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610246288477675520)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610276243668340736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610276243668340736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610276243668340736)
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610273921798139905/ScPrhYG5_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T11:56:25.000Z](https://twitter.com/realshinyakato/status/1610243682879561730)
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:02:45.000Z](https://twitter.com/realshinyakato/status/1610275475125055488)
 >
-> [@369code_](https://twitter.com/369code_) テーブル内の単純なカラムの個数ではなくて、スキーマ内の全テーブルの構造を並べた時に、実際にデータを使用するアプリケーションで考えられるユースケースに耐えられる程度に整理されているかどうかが重要ですね
+> v1.1をv2形式へ変換するアダプターをどこで適用するか悩むな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610243682879561730)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610243682879561730)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610243682879561730)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610275475125055488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610275475125055488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610275475125055488)
 
 ---
 <!-- MY-TWEETS:END -->
