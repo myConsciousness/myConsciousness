@@ -193,6 +193,25 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T02:58:24.000Z](https://twitter.com/realshinyakato/status/1610108285667115011)
+>
+> Twitter API v2.0のUserオブジェクトにプロフィールのヘッダー画像のURLが含まれていないのは本当に解せない。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610108285667115011)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610108285667115011)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610108285667115011)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T02:54:04.000Z](https://twitter.com/realshinyakato/status/1610107194535710722)
+>
+> [#ドル円](https://twitter.com/hashtag/ドル円?src=hashtag_click) がなかなか読み通りに動いていていい感じだな。#米国株 もこのまま夏あたりまで下がってくれると、#日銀ショック 前に現金化した潤沢な資金で安く爆買できるから嬉しい https://t.co/2phV4lapIj
+> ![No AltText](https://pbs.twimg.com/media/Flg_67laYAASgSf.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610107194535710722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610107194535710722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610107194535710722)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:54:37.000Z](https://twitter.com/realshinyakato/status/1610092234401280000)
 >
 > やはりいい感じに [#円高](https://twitter.com/hashtag/円高?src=hashtag_click) になってきたね、今年夏あたりに120円を割ってくれるとありがたい。 https://t.co/hPOZj5I3v2
@@ -217,24 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) で最も人気のあるリポジトリの多くがドキュメントだけのリポジトリである点がなかなか感慨深い
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610078808157360130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610078808157360130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610078808157360130)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T00:57:51.000Z](https://twitter.com/realshinyakato/status/1610077950539599873)
->
-> [@elonmusk](https://twitter.com/elonmusk)  [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) だけでもいいからオープンソースにしてくれ。プルリクエスト送るから。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610077950539599873)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610077950539599873)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610077950539599873)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T00:55:32.000Z](https://twitter.com/realshinyakato/status/1610077367699148800)
->
-> エンティティの構造はもう決定されてるんだから、v1.1エンドポイントをv2エンドポイントへ移植する際の問題はマッピングだけだと思うんだけど、Twitterの開発チームがいかに [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) に無関心かがこの態度を見てわかるね。フラグひとつ増やすのにも何ヶ月かかってるんだよ。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610077367699148800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610077367699148800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610077367699148800)
 
 ---
 <!-- MY-TWEETS:END -->
