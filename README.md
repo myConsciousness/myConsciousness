@@ -193,6 +193,26 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T10:35:31.000Z](https://twitter.com/realshinyakato/status/1610223325342752770)
+>
+> 記憶がたしかだと前まではAppOnly以外のトークンだとAPIエラーになったよね https://t.co/WLaoSHSwHl
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610223325342752770)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610223325342752770)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610223325342752770)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T10:34:19.000Z](https://twitter.com/realshinyakato/status/1610223021503176704)
+>
+> ん？Twitter API v2.0のsearch/recentエンドポイントとかっていつの間にAppOnly以外のトークンでも使えるようになったんだ？
+> 
+> https://t.co/nUaiGhnvv3
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610223021503176704)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610223021503176704)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610223021503176704)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T02:58:24.000Z](https://twitter.com/realshinyakato/status/1610108285667115011)
 >
 > Twitter API v2.0のUserオブジェクトにプロフィールのヘッダー画像のURLが含まれていないのは本当に解せない。
@@ -218,24 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FlgyWgbagAAktJM.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610092234401280000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610092234401280000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610092234401280000)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:02:34.000Z](https://twitter.com/realshinyakato/status/1610079137531826176)
->
-> [@luke_pighetti](https://twitter.com/luke_pighetti) Japan, maybe 👀
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610079137531826176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610079137531826176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610079137531826176)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:01:16.000Z](https://twitter.com/realshinyakato/status/1610078808157360130)
->
-> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) で最も人気のあるリポジトリの多くがドキュメントだけのリポジトリである点がなかなか感慨深い
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610078808157360130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610078808157360130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610078808157360130)
 
 ---
 <!-- MY-TWEETS:END -->
