@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T11:56:25.000Z](https://twitter.com/realshinyakato/status/1610243682879561730)
+>
+> [@369code_](https://twitter.com/369code_) テーブル内の単純なカラムの個数ではなくて、スキーマ内の全テーブルの構造を並べた時に、実際にデータを使用するアプリケーションで考えられるユースケースに耐えられる程度に整理されているかどうかが重要ですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610243682879561730)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610243682879561730)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610243682879561730)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T10:35:31.000Z](https://twitter.com/realshinyakato/status/1610223325342752770)
 >
 > 記憶がたしかだと前まではAppOnly以外のトークンだとAPIエラーになったよね https://t.co/WLaoSHSwHl
@@ -228,16 +237,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/Flg_67laYAASgSf.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610107194535710722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610107194535710722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610107194535710722)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:54:37.000Z](https://twitter.com/realshinyakato/status/1610092234401280000)
->
-> やはりいい感じに [#円高](https://twitter.com/hashtag/円高?src=hashtag_click) になってきたね、今年夏あたりに120円を割ってくれるとありがたい。 https://t.co/hPOZj5I3v2
-> ![No AltText](https://pbs.twimg.com/media/FlgyWgbagAAktJM.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610092234401280000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610092234401280000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610092234401280000)
 
 ---
 <!-- MY-TWEETS:END -->
