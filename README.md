@@ -193,6 +193,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:54:37.000Z](https://twitter.com/realshinyakato/status/1610092234401280000)
+>
+> やはりいい感じに [#円高](https://twitter.com/hashtag/円高?src=hashtag_click) になってきたね、今年夏あたりに120円を割ってくれるとありがたい。 https://t.co/hPOZj5I3v2
+> ![No AltText](https://pbs.twimg.com/media/FlgyWgbagAAktJM.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610092234401280000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610092234401280000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610092234401280000)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:02:34.000Z](https://twitter.com/realshinyakato/status/1610079137531826176)
 >
 > [@luke_pighetti](https://twitter.com/luke_pighetti) Japan, maybe 👀
@@ -225,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > エンティティの構造はもう決定されてるんだから、v1.1エンドポイントをv2エンドポイントへ移植する際の問題はマッピングだけだと思うんだけど、Twitterの開発チームがいかに [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) に無関心かがこの態度を見てわかるね。フラグひとつ増やすのにも何ヶ月かかってるんだよ。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610077367699148800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610077367699148800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610077367699148800)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T00:52:04.000Z](https://twitter.com/realshinyakato/status/1610076493119639554)
->
-> Twitter API v2.0のexpansionsとfieldsの動作も再現しようかな、大した処理じゃないし。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610076493119639554)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610076493119639554)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610076493119639554)
 
 ---
 <!-- MY-TWEETS:END -->
