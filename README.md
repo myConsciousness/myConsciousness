@@ -193,6 +193,26 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T12:34:27.000Z](https://twitter.com/realshinyakato/status/1610253253832495104)
+>
+> [@ose_tweety](https://twitter.com/ose_tweety) トレードしてる側からすると数ヶ月前と比較して相対的に円高といったニュアンスですかね。たしかに適正レートとして見るなら特段円高でもなく円安でもない水準に感じます。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610253253832495104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610253253832495104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610253253832495104)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T12:06:46.000Z](https://twitter.com/realshinyakato/status/1610246288477675520)
+>
+> APIリファレンスを読み直してみたらsearch/recentだけユーザーコンテキストのトークンを使用できるようになってる。なんだこの変な仕様・・・
+> 
+> https://t.co/61DOwtXOqN
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610246288477675520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610246288477675520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610246288477675520)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T11:56:25.000Z](https://twitter.com/realshinyakato/status/1610243682879561730)
 >
 > [@369code_](https://twitter.com/369code_) テーブル内の単純なカラムの個数ではなくて、スキーマ内の全テーブルの構造を並べた時に、実際にデータを使用するアプリケーションで考えられるユースケースに耐えられる程度に整理されているかどうかが重要ですね
@@ -218,25 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/nUaiGhnvv3
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610223021503176704)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610223021503176704)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610223021503176704)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T02:58:24.000Z](https://twitter.com/realshinyakato/status/1610108285667115011)
->
-> Twitter API v2.0のUserオブジェクトにプロフィールのヘッダー画像のURLが含まれていないのは本当に解せない。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610108285667115011)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610108285667115011)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610108285667115011)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T02:54:04.000Z](https://twitter.com/realshinyakato/status/1610107194535710722)
->
-> [#ドル円](https://twitter.com/hashtag/ドル円?src=hashtag_click) がなかなか読み通りに動いていていい感じだな。#米国株 もこのまま夏あたりまで下がってくれると、#日銀ショック 前に現金化した潤沢な資金で安く爆買できるから嬉しい https://t.co/2phV4lapIj
-> ![No AltText](https://pbs.twimg.com/media/Flg_67laYAASgSf.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610107194535710722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610107194535710722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610107194535710722)
 
 ---
 <!-- MY-TWEETS:END -->
