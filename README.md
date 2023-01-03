@@ -193,53 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T15:20:17.000Z](https://twitter.com/realshinyakato/status/1609932599149080576)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:02:34.000Z](https://twitter.com/realshinyakato/status/1610079137531826176)
 >
-> [#ドル円](https://twitter.com/hashtag/ドル円?src=hashtag_click) 130円割るなこれ。
+> [@luke_pighetti](https://twitter.com/luke_pighetti) Japan, maybe 👀
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609932599149080576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609932599149080576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609932599149080576)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610079137531826176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610079137531826176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610079137531826176)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T15:19:16.000Z](https://twitter.com/realshinyakato/status/1609932345821499394)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T01:01:16.000Z](https://twitter.com/realshinyakato/status/1610078808157360130)
 >
-> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) では煽り系の日本人エンジニアを避けるだけでとても平和に過ごせる
+> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) で最も人気のあるリポジトリの多くがドキュメントだけのリポジトリである点がなかなか感慨深い
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609932345821499394)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609932345821499394)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609932345821499394)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610078808157360130)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610078808157360130)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610078808157360130)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:48:39.000Z](https://twitter.com/realshinyakato/status/1609924639463202818)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T00:57:51.000Z](https://twitter.com/realshinyakato/status/1610077950539599873)
 >
-> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) でたまに数万人をフォローしてるちょっとスパムチックなアカウントを見かけるけど、フォロー数よりも [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) のアカウント数がそれだけあることに驚く
+> [@elonmusk](https://twitter.com/elonmusk)  [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) だけでもいいからオープンソースにしてくれ。プルリクエスト送るから。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609924639463202818)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609924639463202818)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609924639463202818)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610077950539599873)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610077950539599873)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610077950539599873)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:44:24.000Z](https://twitter.com/realshinyakato/status/1609923567503970304)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T00:55:32.000Z](https://twitter.com/realshinyakato/status/1610077367699148800)
 >
-> [@chome2xx](https://twitter.com/chome2xx) スリーダイヤのワイ困惑
+> エンティティの構造はもう決定されてるんだから、v1.1エンドポイントをv2エンドポイントへ移植する際の問題はマッピングだけだと思うんだけど、Twitterの開発チームがいかに [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) に無関心かがこの態度を見てわかるね。フラグひとつ増やすのにも何ヶ月かかってるんだよ。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609923567503970304)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609923567503970304)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609923567503970304)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610077367699148800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610077367699148800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610077367699148800)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1607220129494110208/70B8wPam_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-02T14:32:42.000Z](https://twitter.com/realshinyakato/status/1609920626797731845)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T00:52:04.000Z](https://twitter.com/realshinyakato/status/1610076493119639554)
 >
-> I will support an endpoint in [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) that allows users to manipulate their banner and profile images :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click) [#TwitterAPI
-> 
-> https://t.co/L6bKn4Pjsf](https://twitter.com/hashtag/TwitterAPI
-> 
-> https://t.co/L6bKn4Pjsf?src=hashtag_click)
+> Twitter API v2.0のexpansionsとfieldsの動作も再現しようかな、大した処理じゃないし。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1609920626797731845)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1609920626797731845)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1609920626797731845)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610076493119639554)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610076493119639554)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610076493119639554)
 
 ---
 <!-- MY-TWEETS:END -->
