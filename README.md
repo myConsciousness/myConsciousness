@@ -193,6 +193,19 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T04:01:53.000Z](https://twitter.com/realshinyakato/status/1610486650794303493)
+>
+> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> 
+> Are you interested in a pull request for the following Issue on [#twitter_api_v2?](https://twitter.com/hashtag/twitter_api_v2??src=hashtag_click) This is a very simple fix and the solution has already been shown :)
+> 
+> https://t.co/nUaiGhnvv3
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610486650794303493)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610486650794303493)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610486650794303493)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:33:17.000Z](https://twitter.com/realshinyakato/status/1610464352431398913)
 >
 > コミットメッセージはとりあえずIssueへのリンクを貼っておけばいいと思っているアカウントはこちらです
@@ -226,16 +239,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) でプロフィール画像の変更テストします
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610460448977190915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610460448977190915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610460448977190915)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:04:52.000Z](https://twitter.com/realshinyakato/status/1610457202044841986)
->
-> RT [@trashh_dev:](https://twitter.com/trashh_dev:) startups go brrr https://t.co/FbKfr0ES6P
-> ![No AltText](https://pbs.twimg.com/media/FljqLbRacAA9txz.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610457202044841986)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610457202044841986)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610457202044841986)
 
 ---
 <!-- MY-TWEETS:END -->
