@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T07:46:37.000Z](https://twitter.com/realshinyakato/status/1610543208391639045)
+>
+> [@kassyi6](https://twitter.com/kassyi6) 個人投資家から集めたほうがまだマシな金額ですね・・・
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610543208391639045)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610543208391639045)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610543208391639045)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:31:02.000Z](https://twitter.com/realshinyakato/status/1610524186698739713)
 >
 > 穏やかに死を迎えるか、変化を選んで起死回生を図るかの段階だな
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > この激動の数年でさえビタ一文も賃金が上がらなかった人が大多数だろうし、企業に強制的に賃上げさせるような政策に舵を取らないと実現は無理なんだろうなと感じる。一般的な感覚として完全にスタグフレーションの状況だし。 https://t.co/cMtB1dbFMZ
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610519449920212993)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610519449920212993)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610519449920212993)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:03:25.000Z](https://twitter.com/realshinyakato/status/1610517236753760256)
->
-> 「合コンしたい/したくない企業」という表現がブランドでしか人を見ていない日本の現実を投影していて面白い https://t.co/xGkETGi66r
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610517236753760256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610517236753760256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610517236753760256)
 
 ---
 <!-- MY-TWEETS:END -->
