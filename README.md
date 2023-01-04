@@ -193,47 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T01:17:16.000Z](https://twitter.com/realshinyakato/status/1610445224605810688)
+>
+> 単純なデザインパターンにしろ、効率的なデータ構造を目指すと誰が作ってもリファクタリングを重ねる内にだいたいその形に収斂していくものであって、参考書どおりのデータ構造にしなければいけないということはまったくない。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610445224605810688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610445224605810688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610445224605810688)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T01:13:29.000Z](https://twitter.com/realshinyakato/status/1610444270330318849)
+>
+> ITエンジニアを建築家に例える人もいるようだけど、俺は昔からエンジニアは芸術家だと考えてる。論理と感情で対極にあるような職種だけど、上を目指すには設計にしろコーディングにしろ芸術的感性が必要なんだよな。全体的に理屈っぽいけど理屈じゃない部分が結構ある。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610444270330318849)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610444270330318849)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610444270330318849)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T00:59:23.000Z](https://twitter.com/realshinyakato/status/1610440721265479681)
+>
+> [@pook_tdr32](https://twitter.com/pook_tdr32) この世の中はよほどのことがない限りは先行者利益で成り立ってますからね・・・
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610440721265479681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610440721265479681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610440721265479681)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T00:29:01.000Z](https://twitter.com/realshinyakato/status/1610433078840918016)
+>
+> [@garamlover](https://twitter.com/garamlover) 田舎の年配の方だとソ連や電電公社がまだ現役ですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610433078840918016)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610433078840918016)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610433078840918016)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:38:07.000Z](https://twitter.com/realshinyakato/status/1610284377531121664)
 >
 > うん、v1.1エンドポイントのレスポンスをv2形式のオブジェクトに変換できることを確認できたので、明日ユニットテストを書いてマージしよう。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610284377531121664)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610284377531121664)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610284377531121664)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:20:45.000Z](https://twitter.com/realshinyakato/status/1610280007410286592)
->
-> よくわからない日付形式だったのでひとまず保留でいいか。需要があったら実装する
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610280007410286592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610280007410286592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610280007410286592)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:11:47.000Z](https://twitter.com/realshinyakato/status/1610277749356367872)
->
-> えっ、なんか日付形式が違うみたいなエラーが出たんだけど、まさかv1.1エンドポイントの日付文字列はISO8601形式じゃないのか・・・
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610277749356367872)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610277749356367872)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610277749356367872)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:05:48.000Z](https://twitter.com/realshinyakato/status/1610276243668340736)
->
-> というか冤罪であっても一度アカウント凍結された人間にホイホイとTwitter APIの権限を付与していいのか？
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610276243668340736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610276243668340736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610276243668340736)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:02:45.000Z](https://twitter.com/realshinyakato/status/1610275475125055488)
->
-> v1.1をv2形式へ変換するアダプターをどこで適用するか悩むな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610275475125055488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610275475125055488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610275475125055488)
 
 ---
 <!-- MY-TWEETS:END -->
