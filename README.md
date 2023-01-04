@@ -193,52 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T04:01:53.000Z](https://twitter.com/realshinyakato/status/1610486650794303493)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:31:02.000Z](https://twitter.com/realshinyakato/status/1610524186698739713)
 >
-> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
-> 
-> Are you interested in a pull request for the following Issue on [#twitter_api_v2?](https://twitter.com/hashtag/twitter_api_v2??src=hashtag_click) This is a very simple fix and the solution has already been shown :)
-> 
-> https://t.co/nUaiGhnvv3
+> 穏やかに死を迎えるか、変化を選んで起死回生を図るかの段階だな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610486650794303493)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610486650794303493)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610486650794303493)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610524186698739713)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610524186698739713)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610524186698739713)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:33:17.000Z](https://twitter.com/realshinyakato/status/1610464352431398913)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:28:04.000Z](https://twitter.com/realshinyakato/status/1610523439839981568)
 >
-> コミットメッセージはとりあえずIssueへのリンクを貼っておけばいいと思っているアカウントはこちらです
+> 物価が [#インフレ](https://twitter.com/hashtag/インフレ?src=hashtag_click) していくのは [#経済成長](https://twitter.com/hashtag/経済成長?src=hashtag_click) のために必要不可欠だけど、そのインフレに対して [#ステルス値上げ](https://twitter.com/hashtag/ステルス値上げ?src=hashtag_click) みたいなその場しのぎの誤魔化しを繰り返してるからいつまで経っても状況がよくならない。いっそのこと国民が本当に困窮するくらいに [#値上げ](https://twitter.com/hashtag/値上げ?src=hashtag_click) するくらいしないと変化はないと思う。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610464352431398913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610464352431398913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610464352431398913)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610523439839981568)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610523439839981568)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610523439839981568)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:20:15.000Z](https://twitter.com/realshinyakato/status/1610461074977062915)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:15:10.000Z](https://twitter.com/realshinyakato/status/1610520193939439616)
 >
-> [@elonmusk](https://twitter.com/elonmusk) による [@elonmusk](https://twitter.com/elonmusk) のための [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click)
+> フリーランスとかで今月から数万ほど単価上げてもらった云々の話はよく聞くけど、プロパーで今年度から期待以上に給料上がったなんて話ここ数年で聞いたことないよ。大手だとジョブ型雇用を採用した結果逆に給料下がった人も多いだろうし。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610461074977062915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610461074977062915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610461074977062915)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610520193939439616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610520193939439616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610520193939439616)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:18:45.000Z](https://twitter.com/realshinyakato/status/1610460695119933441)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:12:13.000Z](https://twitter.com/realshinyakato/status/1610519449920212993)
 >
-> RT [@anammostarac:](https://twitter.com/anammostarac:) It’s so over https://t.co/tTiUhc2xq7
-> ![No AltText](https://pbs.twimg.com/media/FlhT7b9aEAAxwMx.jpg)
+> この激動の数年でさえビタ一文も賃金が上がらなかった人が大多数だろうし、企業に強制的に賃上げさせるような政策に舵を取らないと実現は無理なんだろうなと感じる。一般的な感覚として完全にスタグフレーションの状況だし。 https://t.co/cMtB1dbFMZ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610460695119933441)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610460695119933441)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610460695119933441)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610519449920212993)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610519449920212993)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610519449920212993)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:17:46.000Z](https://twitter.com/realshinyakato/status/1610460448977190915)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:03:25.000Z](https://twitter.com/realshinyakato/status/1610517236753760256)
 >
-> [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) でプロフィール画像の変更テストします
+> 「合コンしたい/したくない企業」という表現がブランドでしか人を見ていない日本の現実を投影していて面白い https://t.co/xGkETGi66r
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610460448977190915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610460448977190915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610460448977190915)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610517236753760256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610517236753760256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610517236753760256)
 
 ---
 <!-- MY-TWEETS:END -->
