@@ -193,47 +193,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T01:17:16.000Z](https://twitter.com/realshinyakato/status/1610445224605810688)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:20:15.000Z](https://twitter.com/realshinyakato/status/1610461074977062915)
 >
-> 単純なデザインパターンにしろ、効率的なデータ構造を目指すと誰が作ってもリファクタリングを重ねる内にだいたいその形に収斂していくものであって、参考書どおりのデータ構造にしなければいけないということはまったくない。
+> [@elonmusk](https://twitter.com/elonmusk) による [@elonmusk](https://twitter.com/elonmusk) のための [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610445224605810688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610445224605810688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610445224605810688)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610461074977062915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610461074977062915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610461074977062915)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T01:13:29.000Z](https://twitter.com/realshinyakato/status/1610444270330318849)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:18:45.000Z](https://twitter.com/realshinyakato/status/1610460695119933441)
 >
-> ITエンジニアを建築家に例える人もいるようだけど、俺は昔からエンジニアは芸術家だと考えてる。論理と感情で対極にあるような職種だけど、上を目指すには設計にしろコーディングにしろ芸術的感性が必要なんだよな。全体的に理屈っぽいけど理屈じゃない部分が結構ある。
+> RT [@anammostarac:](https://twitter.com/anammostarac:) It’s so over https://t.co/tTiUhc2xq7
+> ![No AltText](https://pbs.twimg.com/media/FlhT7b9aEAAxwMx.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610444270330318849)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610444270330318849)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610444270330318849)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610460695119933441)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610460695119933441)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610460695119933441)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T00:59:23.000Z](https://twitter.com/realshinyakato/status/1610440721265479681)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:17:46.000Z](https://twitter.com/realshinyakato/status/1610460448977190915)
 >
-> [@pook_tdr32](https://twitter.com/pook_tdr32) この世の中はよほどのことがない限りは先行者利益で成り立ってますからね・・・
+> [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) でプロフィール画像の変更テストします
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610440721265479681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610440721265479681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610440721265479681)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610460448977190915)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610460448977190915)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610460448977190915)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T00:29:01.000Z](https://twitter.com/realshinyakato/status/1610433078840918016)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:04:52.000Z](https://twitter.com/realshinyakato/status/1610457202044841986)
 >
-> [@garamlover](https://twitter.com/garamlover) 田舎の年配の方だとソ連や電電公社がまだ現役ですね
+> RT [@trashh_dev:](https://twitter.com/trashh_dev:) startups go brrr https://t.co/FbKfr0ES6P
+> ![No AltText](https://pbs.twimg.com/media/FljqLbRacAA9txz.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610433078840918016)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610433078840918016)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610433078840918016)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610457202044841986)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610457202044841986)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610457202044841986)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-03T14:38:07.000Z](https://twitter.com/realshinyakato/status/1610284377531121664)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:01:28.000Z](https://twitter.com/realshinyakato/status/1610456348583657473)
 >
-> うん、v1.1エンドポイントのレスポンスをv2形式のオブジェクトに変換できることを確認できたので、明日ユニットテストを書いてマージしよう。
+> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) が学生のHelloWorldリポジトリで溢れてるのをもう見たくはないんだ https://t.co/q3tqiEu2KG
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610284377531121664)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610284377531121664)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610284377531121664)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610456348583657473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610456348583657473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610456348583657473)
 
 ---
 <!-- MY-TWEETS:END -->
