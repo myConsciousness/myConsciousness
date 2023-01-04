@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:33:17.000Z](https://twitter.com/realshinyakato/status/1610464352431398913)
+>
+> コミットメッセージはとりあえずIssueへのリンクを貼っておけばいいと思っているアカウントはこちらです
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610464352431398913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610464352431398913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610464352431398913)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:20:15.000Z](https://twitter.com/realshinyakato/status/1610461074977062915)
 >
 > [@elonmusk](https://twitter.com/elonmusk) による [@elonmusk](https://twitter.com/elonmusk) のための [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click)
@@ -227,15 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FljqLbRacAA9txz.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610457202044841986)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610457202044841986)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610457202044841986)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T02:01:28.000Z](https://twitter.com/realshinyakato/status/1610456348583657473)
->
-> [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) が学生のHelloWorldリポジトリで溢れてるのをもう見たくはないんだ https://t.co/q3tqiEu2KG
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610456348583657473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610456348583657473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610456348583657473)
 
 ---
 <!-- MY-TWEETS:END -->
