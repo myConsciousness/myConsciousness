@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T10:48:22.000Z](https://twitter.com/realshinyakato/status/1610951332114083840)
+>
+> RT [@maddiesimens:](https://twitter.com/maddiesimens:) We’re hiring our next product designer at OpenAI, and I couldn’t be more excited. This role is pretty special. https://t.…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610951332114083840)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610951332114083840)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610951332114083840)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T03:06:21.000Z](https://twitter.com/realshinyakato/status/1610835063750660096)
 >
 > RT [@girigiribauer:](https://twitter.com/girigiribauer:) 会議はバグ / 3人以上の定期的な会議をすべて「永久に」キャンセルするとShopifyが決定、経営陣は「会議はバグ」「本日をもってバグを修正する」と宣言 - GIGAZINE https://t.co/CPaPDu16Lq
@@ -234,16 +243,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FlpHVe5aMAEcEv_.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610823879676801024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610823879676801024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610823879676801024)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:04:10.000Z](https://twitter.com/realshinyakato/status/1610819411996463109)
->
-> [@ruku98090916](https://twitter.com/ruku98090916) https://t.co/61qQnD6AP6
-> ![No AltText](https://pbs.twimg.com/media/FlrHtm6aEAEiS3k.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610819411996463109)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610819411996463109)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610819411996463109)
 
 ---
 <!-- MY-TWEETS:END -->
