@@ -193,6 +193,42 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T03:00:36.000Z](https://twitter.com/realshinyakato/status/1610833616350904320)
+>
+> Next, I will implement feature in this issue :)
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) [#Programming
+> 
+> https://t.co/EjPocWTtE3](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/EjPocWTtE3?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610833616350904320)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610833616350904320)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610833616350904320)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:47:48.000Z](https://twitter.com/realshinyakato/status/1610830394731163649)
+>
+> RT [@realshinyakato:](https://twitter.com/realshinyakato:) Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> 
+> #twitter_api_v2 v4.8.0 will be so interesting, you can change your profile things such a…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610830394731163649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610830394731163649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610830394731163649)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:21:55.000Z](https://twitter.com/realshinyakato/status/1610823879676801024)
+>
+> RT [@nixcraft:](https://twitter.com/nixcraft:) incorrect password! credit https://t.co/R1j8EWdd7M https://t.co/gocu6BWnaV
+> ![No AltText](https://pbs.twimg.com/media/FlpHVe5aMAEcEv_.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610823879676801024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610823879676801024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610823879676801024)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:04:10.000Z](https://twitter.com/realshinyakato/status/1610819411996463109)
 >
 > [@ruku98090916](https://twitter.com/ruku98090916) https://t.co/61qQnD6AP6
@@ -208,39 +244,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/L6bKn4Pjsf
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610818088869728258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610818088869728258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610818088869728258)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:44:02.000Z](https://twitter.com/realshinyakato/status/1610814345637953536)
->
-> I thought it would be interesting to use [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) to convert theories written in academic papers into code. However, we would be slaves to [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) because there is no process to verify the correctness of this code.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610814345637953536)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610814345637953536)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610814345637953536)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:41:32.000Z](https://twitter.com/realshinyakato/status/1610813717201158144)
->
-> [@chimon1984](https://twitter.com/chimon1984) Blame the implementer who wrote the code that is difficult to test 🥲
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610813717201158144)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610813717201158144)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610813717201158144)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:35:04.000Z](https://twitter.com/realshinyakato/status/1610812090570379264)
->
-> [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) v4.8.0 will be released soon, please check details in [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) [#Programming
-> 
-> https://t.co/L6bKn4Pjsf](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/L6bKn4Pjsf?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610812090570379264)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610812090570379264)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610812090570379264)
 
 ---
 <!-- MY-TWEETS:END -->
