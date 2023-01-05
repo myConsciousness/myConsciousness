@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T13:41:56.000Z](https://twitter.com/realshinyakato/status/1610995013558894593)
+>
+> Application development using OAuth 2.0 will not be possible until the Twitter API v1.1 endpoints are ported as v2 endpoints...
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610995013558894593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610995013558894593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610995013558894593)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T10:48:22.000Z](https://twitter.com/realshinyakato/status/1610951332114083840)
 >
 > RT [@maddiesimens:](https://twitter.com/maddiesimens:) We’re hiring our next product designer at OpenAI, and I couldn’t be more excited. This role is pretty special. https://t.…
@@ -233,16 +242,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > #twitter_api_v2 v4.8.0 will be so interesting, you can change your profile things such a…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610830394731163649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610830394731163649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610830394731163649)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:21:55.000Z](https://twitter.com/realshinyakato/status/1610823879676801024)
->
-> RT [@nixcraft:](https://twitter.com/nixcraft:) incorrect password! credit https://t.co/R1j8EWdd7M https://t.co/gocu6BWnaV
-> ![No AltText](https://pbs.twimg.com/media/FlpHVe5aMAEcEv_.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610823879676801024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610823879676801024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610823879676801024)
 
 ---
 <!-- MY-TWEETS:END -->
