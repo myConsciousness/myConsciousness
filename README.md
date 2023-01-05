@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T03:06:21.000Z](https://twitter.com/realshinyakato/status/1610835063750660096)
+>
+> RT [@girigiribauer:](https://twitter.com/girigiribauer:) 会議はバグ / 3人以上の定期的な会議をすべて「永久に」キャンセルするとShopifyが決定、経営陣は「会議はバグ」「本日をもってバグを修正する」と宣言 - GIGAZINE https://t.co/CPaPDu16Lq
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610835063750660096)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610835063750660096)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610835063750660096)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T03:00:36.000Z](https://twitter.com/realshinyakato/status/1610833616350904320)
 >
 > Next, I will implement feature in this issue :)
@@ -235,15 +244,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FlrHtm6aEAEiS3k.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1610819411996463109)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610819411996463109)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610819411996463109)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:58:54.000Z](https://twitter.com/realshinyakato/status/1610818088869728258)
->
-> https://t.co/L6bKn4Pjsf
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610818088869728258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610818088869728258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610818088869728258)
 
 ---
 <!-- MY-TWEETS:END -->
