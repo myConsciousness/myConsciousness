@@ -193,54 +193,54 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:27:47.000Z](https://twitter.com/realshinyakato/status/1610810257185603584)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:04:10.000Z](https://twitter.com/realshinyakato/status/1610819411996463109)
 >
-> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> [@ruku98090916](https://twitter.com/ruku98090916) https://t.co/61qQnD6AP6
+> ![No AltText](https://pbs.twimg.com/media/FlrHtm6aEAEiS3k.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610819411996463109)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610819411996463109)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610819411996463109)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:58:54.000Z](https://twitter.com/realshinyakato/status/1610818088869728258)
+>
+> https://t.co/L6bKn4Pjsf
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610818088869728258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610818088869728258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610818088869728258)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:44:02.000Z](https://twitter.com/realshinyakato/status/1610814345637953536)
+>
+> I thought it would be interesting to use [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) to convert theories written in academic papers into code. However, we would be slaves to [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) because there is no process to verify the correctness of this code.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610814345637953536)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610814345637953536)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610814345637953536)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:41:32.000Z](https://twitter.com/realshinyakato/status/1610813717201158144)
+>
+> [@chimon1984](https://twitter.com/chimon1984) Blame the implementer who wrote the code that is difficult to test 🥲
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610813717201158144)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610813717201158144)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610813717201158144)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:35:04.000Z](https://twitter.com/realshinyakato/status/1610812090570379264)
+>
+> [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) v4.8.0 will be released soon, please check details in [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) :)
 > 
-> #twitter_api_v2 v4.8.0 will be so interesting, you can change your profile things such as image and banner :)
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) [#Programming
 > 
-> #Programming https://t.co/IlmScz5gLN
-> ![No AltText](https://pbs.twimg.com/media/Flq_OCyagAAIYH-.jpg)
-> ![No AltText](https://pbs.twimg.com/media/Flq_OCyaMAA1gAi.jpg)
-> ![No AltText](https://pbs.twimg.com/media/Flq_ODiakAERbsC.jpg)
+> https://t.co/L6bKn4Pjsf](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/L6bKn4Pjsf?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610810257185603584)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610810257185603584)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610810257185603584)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:20:56.000Z](https://twitter.com/realshinyakato/status/1610808532269682688)
->
-> [@remi_rousselet](https://twitter.com/remi_rousselet) Interesting, but is there such a stylized test pattern? It's conceivable that a boundary value verification test could be automatically generated from a definition regarding boundary values
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610808532269682688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610808532269682688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610808532269682688)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T01:17:19.000Z](https://twitter.com/realshinyakato/status/1610807624752300032)
->
-> The accounts of people from the U.S. show various new features of [#Twitter.](https://twitter.com/hashtag/Twitter.?src=hashtag_click) [@elonmusk](https://twitter.com/elonmusk) claims [#Japan](https://twitter.com/hashtag/Japan?src=hashtag_click) is an important market but offers us nothing innovative!
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610807624752300032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610807624752300032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610807624752300032)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T07:46:37.000Z](https://twitter.com/realshinyakato/status/1610543208391639045)
->
-> [@kassyi6](https://twitter.com/kassyi6) 個人投資家から集めたほうがまだマシな金額ですね・・・
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610543208391639045)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610543208391639045)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610543208391639045)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-04T06:31:02.000Z](https://twitter.com/realshinyakato/status/1610524186698739713)
->
-> 穏やかに死を迎えるか、変化を選んで起死回生を図るかの段階だな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610524186698739713)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610524186698739713)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610524186698739713)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610812090570379264)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610812090570379264)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610812090570379264)
 
 ---
 <!-- MY-TWEETS:END -->
