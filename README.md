@@ -193,55 +193,54 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T13:41:56.000Z](https://twitter.com/realshinyakato/status/1610995013558894593)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:15:51.000Z](https://twitter.com/realshinyakato/status/1611169644391575553)
 >
-> Application development using OAuth 2.0 will not be possible until the Twitter API v1.1 endpoints are ported as v2 endpoints...
+> [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) では容易に他者の発言に賛同しないほうがいいね。SNSは容易に [#エコーチェンバー現象](https://twitter.com/hashtag/エコーチェンバー現象?src=hashtag_click) が発生するし、気づかないうちに烏合の衆になり得る。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610995013558894593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610995013558894593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610995013558894593)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611169644391575553)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611169644391575553)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611169644391575553)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T10:48:22.000Z](https://twitter.com/realshinyakato/status/1610951332114083840)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:11:57.000Z](https://twitter.com/realshinyakato/status/1611168662014283776)
 >
-> RT [@maddiesimens:](https://twitter.com/maddiesimens:) We’re hiring our next product designer at OpenAI, and I couldn’t be more excited. This role is pretty special. https://t.…
+> RT [@SavvasStephnds:](https://twitter.com/SavvasStephnds:) Wait wut. https://t.co/yuOCGhaTEQ
+> ![Screenshot from ChatGPT
+
+Question: "When I was six, my sister was half my age. Now I'm 70, how old is she?"
+
+Answer: "If you are 70 years old and your sister was half your age when you were six, then she would be 70/2 = 35 years old."](https://pbs.twimg.com/media/FlpEZmmWYAUN5H2.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610951332114083840)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610951332114083840)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610951332114083840)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611168662014283776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611168662014283776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611168662014283776)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T03:06:21.000Z](https://twitter.com/realshinyakato/status/1610835063750660096)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:02:31.000Z](https://twitter.com/realshinyakato/status/1611166288768028672)
 >
-> RT [@girigiribauer:](https://twitter.com/girigiribauer:) 会議はバグ / 3人以上の定期的な会議をすべて「永久に」キャンセルするとShopifyが決定、経営陣は「会議はバグ」「本日をもってバグを修正する」と宣言 - GIGAZINE https://t.co/CPaPDu16Lq
+> [@elonmusk](https://twitter.com/elonmusk) [@TwitterDev](https://twitter.com/TwitterDev) why don’t you work for this?
+> 
+> https://t.co/WtMquEhwBJ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610835063750660096)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610835063750660096)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610835063750660096)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611166288768028672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611166288768028672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611166288768028672)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T03:00:36.000Z](https://twitter.com/realshinyakato/status/1610833616350904320)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T00:57:03.000Z](https://twitter.com/realshinyakato/status/1611164912063242241)
 >
-> Next, I will implement feature in this issue :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) [#Programming
-> 
-> https://t.co/EjPocWTtE3](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/EjPocWTtE3?src=hashtag_click)
+> これそのまんまFiltered Streamのフィルタリングルールだね… もともとある仕組みを利用してモバイルでも使えるように実装しただけか… https://t.co/PXHXjxKCWA
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610833616350904320)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610833616350904320)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610833616350904320)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611164912063242241)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611164912063242241)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611164912063242241)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-05T02:47:48.000Z](https://twitter.com/realshinyakato/status/1610830394731163649)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T00:29:25.000Z](https://twitter.com/realshinyakato/status/1611157957676527616)
 >
-> RT [@realshinyakato:](https://twitter.com/realshinyakato:) Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
-> 
-> #twitter_api_v2 v4.8.0 will be so interesting, you can change your profile things such a…
+> [@CFDevelop](https://twitter.com/CFDevelop) Requirement: ex-googler
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1610830394731163649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1610830394731163649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1610830394731163649)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611157957676527616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611157957676527616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611157957676527616)
 
 ---
 <!-- MY-TWEETS:END -->
