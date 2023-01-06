@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T03:06:36.000Z](https://twitter.com/realshinyakato/status/1611197513402568705)
+>
+> RT [@SES48740815:](https://twitter.com/SES48740815:) 昔の話だけど「君の代わりなんていくらでもいるんだよ？」が口癖の上司が3ヶ月ぐらいで代わりの人になってました。お前の代わりもいたんだなって思いました。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611197513402568705)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611197513402568705)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611197513402568705)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:15:51.000Z](https://twitter.com/realshinyakato/status/1611169644391575553)
 >
 > [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) では容易に他者の発言に賛同しないほうがいいね。SNSは容易に [#エコーチェンバー現象](https://twitter.com/hashtag/エコーチェンバー現象?src=hashtag_click) が発生するし、気づかないうちに烏合の衆になり得る。
@@ -232,15 +241,6 @@ Answer: "If you are 70 years old and your sister was half your age when you were
 > これそのまんまFiltered Streamのフィルタリングルールだね… もともとある仕組みを利用してモバイルでも使えるように実装しただけか… https://t.co/PXHXjxKCWA
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611164912063242241)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611164912063242241)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611164912063242241)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T00:29:25.000Z](https://twitter.com/realshinyakato/status/1611157957676527616)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) Requirement: ex-googler
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611157957676527616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611157957676527616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611157957676527616)
 
 ---
 <!-- MY-TWEETS:END -->
