@@ -193,6 +193,30 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T04:54:31.000Z](https://twitter.com/realshinyakato/status/1611587058354761728)
+>
+> [@normidar2](https://twitter.com/normidar2) 酷すぎる話です 🥲
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611587058354761728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611587058354761728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611587058354761728)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T04:53:20.000Z](https://twitter.com/realshinyakato/status/1611586763843317760)
+>
+> Why nobody cared about “automated” flag in User object in [#TwitterAPI?
+> 
+> cc](https://twitter.com/hashtag/TwitterAPI?
+> 
+> cc?src=hashtag_click) [@TwitterDev](https://twitter.com/TwitterDev) 
+> 
+> https://t.co/D0LkrwD0p9
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611586763843317760)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611586763843317760)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611586763843317760)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T03:13:48.000Z](https://twitter.com/realshinyakato/status/1611561712456720384)
 >
 > [@TwitterDev](https://twitter.com/TwitterDev) APIリファレンスもメンテナンスされてないしなにが真実かわからない https://t.co/qIv83yRCK7
@@ -225,26 +249,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FlvyT1baAAA7D4y.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611516066433466369)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611516066433466369)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611516066433466369)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T12:37:42.000Z](https://twitter.com/realshinyakato/status/1611341236279050240)
->
-> Goodbye source field 🥲
-> 
-> https://t.co/iT0jY53fm5
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611341236279050240)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611341236279050240)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611341236279050240)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T03:06:36.000Z](https://twitter.com/realshinyakato/status/1611197513402568705)
->
-> RT [@SES48740815:](https://twitter.com/SES48740815:) 昔の話だけど「君の代わりなんていくらでもいるんだよ？」が口癖の上司が3ヶ月ぐらいで代わりの人になってました。お前の代わりもいたんだなって思いました。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611197513402568705)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611197513402568705)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611197513402568705)
 
 ---
 <!-- MY-TWEETS:END -->
