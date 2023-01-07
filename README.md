@@ -193,47 +193,48 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:00:13.000Z](https://twitter.com/realshinyakato/status/1611724388482822144)
+>
+> [@takke](https://twitter.com/takke) アプリのレビューはたまに理不尽ですよね。一般的なユーザーが広告の存在意義を知らないのもありますけど、少しでも自分の好みに合わないと無条件で★1付けてくる人がどこの国にも少なからずいるので困りものです。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611724388482822144)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611724388482822144)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611724388482822144)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:55:48.000Z](https://twitter.com/realshinyakato/status/1611723279630467074)
+>
+> I know of a graduate professor who is working on a program to prove the correctness of AI's own output, but this has yet to be demonstrated in a practical way.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611723279630467074)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611723279630467074)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611723279630467074)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:53:35.000Z](https://twitter.com/realshinyakato/status/1611722718688481286)
+>
+> When the process of validating the answers output by [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) is perfected, humanity will finally stop thinking; AI will at least have the power to validate the correctness of its own output, and it can do so an unimaginable number of times per second for a human being.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611722718688481286)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611722718688481286)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611722718688481286)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:49:45.000Z](https://twitter.com/realshinyakato/status/1611721755269410818)
+>
+> 👀👀👀 https://t.co/FtTY1Xghpw
+> ![No AltText](https://pbs.twimg.com/media/Fl38TUnakAMOQTV.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611721755269410818)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611721755269410818)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611721755269410818)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:01:59.000Z](https://twitter.com/realshinyakato/status/1611709734398353410)
 >
 > [@ose_tweety](https://twitter.com/ose_tweety) たまに睡眠時間すら奪ってますからね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611709734398353410)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611709734398353410)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611709734398353410)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T12:04:12.000Z](https://twitter.com/realshinyakato/status/1611695191546793987)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) はい、その上スパム的なボットアカウントのほとんどが凍結されていません… お気遣いありがとうございます! 🫡✨
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611695191546793987)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611695191546793987)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611695191546793987)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T10:06:58.000Z](https://twitter.com/realshinyakato/status/1611665690951548930)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) しかし、私のSDKはまだTwitterのリストにありますし、Twitter Forumの私のアカウントは無事です。謎が多い事件です 🤔
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611665690951548930)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611665690951548930)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611665690951548930)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T10:01:48.000Z](https://twitter.com/realshinyakato/status/1611664391396806656)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) 🥲
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611664391396806656)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611664391396806656)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611664391396806656)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T09:59:39.000Z](https://twitter.com/realshinyakato/status/1611663850260295681)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) はい、そして興味深いことに、急に私のアカウントが凍結されたのはイーロン•マスクがCEOになる前日でした。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611663850260295681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611663850260295681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611663850260295681)
 
 ---
 <!-- MY-TWEETS:END -->
