@@ -193,6 +193,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T00:12:25.000Z](https://twitter.com/realshinyakato/status/1611516066433466369)
+>
+> RT [@KAZU656609183:](https://twitter.com/KAZU656609183:) 朝から自宅トイレに閉じ込められたので扉蹴り破って無事生還しましたおはようございます。 https://t.co/hr3FGmjpfT
+> ![No AltText](https://pbs.twimg.com/media/FlvyT1baAAA7D4y.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611516066433466369)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611516066433466369)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611516066433466369)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T12:37:42.000Z](https://twitter.com/realshinyakato/status/1611341236279050240)
 >
 > Goodbye source field 🥲
@@ -232,17 +242,6 @@ Question: "When I was six, my sister was half my age. Now I'm 70, how old is she
 Answer: "If you are 70 years old and your sister was half your age when you were six, then she would be 70/2 = 35 years old."](https://pbs.twimg.com/media/FlpEZmmWYAUN5H2.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611168662014283776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611168662014283776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611168662014283776)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:02:31.000Z](https://twitter.com/realshinyakato/status/1611166288768028672)
->
-> [@elonmusk](https://twitter.com/elonmusk) [@TwitterDev](https://twitter.com/TwitterDev) why don’t you work for this?
-> 
-> https://t.co/WtMquEhwBJ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611166288768028672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611166288768028672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611166288768028672)
 
 ---
 <!-- MY-TWEETS:END -->
