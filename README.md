@@ -104,7 +104,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 
 #### Others
 
-- [flutter-ranking](https://github.com/myConsciousness/flutter-ranking) (10+ ⭐)
+- [flutter-ranking](https://github.com/myConsciousness/flutter-ranking) (20+ ⭐)
 - [freezer](https://github.com/myConsciousness/freezer) (10+ ⭐)
 - [twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce) (10+ ⭐)
 - [mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)
