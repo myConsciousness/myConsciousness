@@ -193,48 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:00:13.000Z](https://twitter.com/realshinyakato/status/1611724388482822144)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:32:47.000Z](https://twitter.com/realshinyakato/status/1611732585876688896)
 >
-> [@takke](https://twitter.com/takke) アプリのレビューはたまに理不尽ですよね。一般的なユーザーが広告の存在意義を知らないのもありますけど、少しでも自分の好みに合わないと無条件で★1付けてくる人がどこの国にも少なからずいるので困りものです。
+> 個人的に使ってるツールのバグを直そうと思ったけど、いかんせんやる気が出ないで今に至る
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611724388482822144)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611724388482822144)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611724388482822144)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611732585876688896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611732585876688896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611732585876688896)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:55:48.000Z](https://twitter.com/realshinyakato/status/1611723279630467074)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:23:12.000Z](https://twitter.com/realshinyakato/status/1611730173812183040)
 >
-> I know of a graduate professor who is working on a program to prove the correctness of AI's own output, but this has yet to be demonstrated in a practical way.
+> [@game_crefac_net](https://twitter.com/game_crefac_net) Twitterに一時的にアカウントを停止させられた可能性がありますね
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611723279630467074)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611723279630467074)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611723279630467074)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611730173812183040)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611730173812183040)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611730173812183040)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:53:35.000Z](https://twitter.com/realshinyakato/status/1611722718688481286)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:20:04.000Z](https://twitter.com/realshinyakato/status/1611729385849237504)
 >
-> When the process of validating the answers output by [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) is perfected, humanity will finally stop thinking; AI will at least have the power to validate the correctness of its own output, and it can do so an unimaginable number of times per second for a human being.
+> [@ikegpg](https://twitter.com/ikegpg) 最近Twitter自体が不安定なので、APIの呼び出し回数制限に達しなくてもこうした状態になる場合があります
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611722718688481286)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611722718688481286)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611722718688481286)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611729385849237504)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611729385849237504)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611729385849237504)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:49:45.000Z](https://twitter.com/realshinyakato/status/1611721755269410818)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:17:43.000Z](https://twitter.com/realshinyakato/status/1611728794758545417)
 >
-> 👀👀👀 https://t.co/FtTY1Xghpw
-> ![No AltText](https://pbs.twimg.com/media/Fl38TUnakAMOQTV.jpg)
+> 日本のごく一般的な共働きファミリーの例も興味本位で見てみたい
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611721755269410818)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611721755269410818)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611721755269410818)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611728794758545417)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611728794758545417)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611728794758545417)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:01:59.000Z](https://twitter.com/realshinyakato/status/1611709734398353410)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:16:28.000Z](https://twitter.com/realshinyakato/status/1611728478801653765)
 >
-> [@ose_tweety](https://twitter.com/ose_tweety) たまに睡眠時間すら奪ってますからね
+> 共働きファミリー（上級） https://t.co/7ScKXBUzEl
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611709734398353410)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611709734398353410)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611709734398353410)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611728478801653765)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611728478801653765)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611728478801653765)
 
 ---
 <!-- MY-TWEETS:END -->
