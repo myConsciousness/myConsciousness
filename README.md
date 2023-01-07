@@ -193,6 +193,32 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T03:13:48.000Z](https://twitter.com/realshinyakato/status/1611561712456720384)
+>
+> [@TwitterDev](https://twitter.com/TwitterDev) APIリファレンスもメンテナンスされてないしなにが真実かわからない https://t.co/qIv83yRCK7
+> ![No AltText](https://pbs.twimg.com/media/Fl1qusKaEAEXOdz.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611561712456720384)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611561712456720384)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611561712456720384)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T03:08:53.000Z](https://twitter.com/realshinyakato/status/1611560476256927744)
+>
+> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) のsourceフィールドを巡る騒動の顛末:
+> 
+> ユーザー「APIからsourceフィールドが返ってこない。」
+> Twitter「間違えてAPIからも消したから戻したわ。」
+> 
+> 数日後:
+> Twitter「やっぱりAPIからも削除するわ。公式アナウンスはしない。」
+> ユーザー「なんやこいつら・・・。」
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611560476256927744)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611560476256927744)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611560476256927744)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T00:12:25.000Z](https://twitter.com/realshinyakato/status/1611516066433466369)
 >
 > RT [@KAZU656609183:](https://twitter.com/KAZU656609183:) 朝から自宅トイレに閉じ込められたので扉蹴り破って無事生還しましたおはようございます。 https://t.co/hr3FGmjpfT
@@ -219,29 +245,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > RT [@SES48740815:](https://twitter.com/SES48740815:) 昔の話だけど「君の代わりなんていくらでもいるんだよ？」が口癖の上司が3ヶ月ぐらいで代わりの人になってました。お前の代わりもいたんだなって思いました。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611197513402568705)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611197513402568705)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611197513402568705)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:15:51.000Z](https://twitter.com/realshinyakato/status/1611169644391575553)
->
-> [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) では容易に他者の発言に賛同しないほうがいいね。SNSは容易に [#エコーチェンバー現象](https://twitter.com/hashtag/エコーチェンバー現象?src=hashtag_click) が発生するし、気づかないうちに烏合の衆になり得る。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611169644391575553)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611169644391575553)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611169644391575553)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-06T01:11:57.000Z](https://twitter.com/realshinyakato/status/1611168662014283776)
->
-> RT [@SavvasStephnds:](https://twitter.com/SavvasStephnds:) Wait wut. https://t.co/yuOCGhaTEQ
-> ![Screenshot from ChatGPT
-
-Question: "When I was six, my sister was half my age. Now I'm 70, how old is she?"
-
-Answer: "If you are 70 years old and your sister was half your age when you were six, then she would be 70/2 = 35 years old."](https://pbs.twimg.com/media/FlpEZmmWYAUN5H2.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611168662014283776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611168662014283776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611168662014283776)
 
 ---
 <!-- MY-TWEETS:END -->
