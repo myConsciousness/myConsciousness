@@ -193,62 +193,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T08:58:57.000Z](https://twitter.com/realshinyakato/status/1611648572260487169)
+>
+> 誰とは言わないけど、アカウント凍結前に関わりのあったTwitterJPの輩にとって気に食わない点があったんだろうな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611648572260487169)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611648572260487169)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611648572260487169)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T08:54:19.000Z](https://twitter.com/realshinyakato/status/1611647408810909696)
+>
+> 悪質なスパムアカウントが平然と活動を続けていて、無害の俺のアカウントが前触れもなく凍結されたのは時期的に陰謀を感じてしまう
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611647408810909696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611647408810909696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611647408810909696)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T08:51:30.000Z](https://twitter.com/realshinyakato/status/1611646697872175104)
+>
+> そろそろ冤罪で凍結されたアカウントを返してくれませんかね。Dartコミュニティのモデレーター権限だけでも移したいんだけど。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611646697872175104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611646697872175104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611646697872175104)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T08:49:22.000Z](https://twitter.com/realshinyakato/status/1611646162888720384)
+>
+> 次Flutterアプリ作る時はSentryのサービスを利用してみるか
+> 
+> https://t.co/9IOpVhj2tl
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611646162888720384)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611646162888720384)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611646162888720384)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T04:54:31.000Z](https://twitter.com/realshinyakato/status/1611587058354761728)
 >
 > [@normidar2](https://twitter.com/normidar2) 酷すぎる話です 🥲
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611587058354761728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611587058354761728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611587058354761728)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T04:53:20.000Z](https://twitter.com/realshinyakato/status/1611586763843317760)
->
-> Why nobody cared about “automated” flag in User object in [#TwitterAPI?
-> 
-> cc](https://twitter.com/hashtag/TwitterAPI?
-> 
-> cc?src=hashtag_click) [@TwitterDev](https://twitter.com/TwitterDev) 
-> 
-> https://t.co/D0LkrwD0p9
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611586763843317760)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611586763843317760)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611586763843317760)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T03:13:48.000Z](https://twitter.com/realshinyakato/status/1611561712456720384)
->
-> [@TwitterDev](https://twitter.com/TwitterDev) APIリファレンスもメンテナンスされてないしなにが真実かわからない https://t.co/qIv83yRCK7
-> ![No AltText](https://pbs.twimg.com/media/Fl1qusKaEAEXOdz.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611561712456720384)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611561712456720384)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611561712456720384)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T03:08:53.000Z](https://twitter.com/realshinyakato/status/1611560476256927744)
->
-> [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) のsourceフィールドを巡る騒動の顛末:
-> 
-> ユーザー「APIからsourceフィールドが返ってこない。」
-> Twitter「間違えてAPIからも消したから戻したわ。」
-> 
-> 数日後:
-> Twitter「やっぱりAPIからも削除するわ。公式アナウンスはしない。」
-> ユーザー「なんやこいつら・・・。」
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611560476256927744)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611560476256927744)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611560476256927744)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T00:12:25.000Z](https://twitter.com/realshinyakato/status/1611516066433466369)
->
-> RT [@KAZU656609183:](https://twitter.com/KAZU656609183:) 朝から自宅トイレに閉じ込められたので扉蹴り破って無事生還しましたおはようございます。 https://t.co/hr3FGmjpfT
-> ![No AltText](https://pbs.twimg.com/media/FlvyT1baAAA7D4y.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611516066433466369)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611516066433466369)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611516066433466369)
 
 ---
 <!-- MY-TWEETS:END -->
