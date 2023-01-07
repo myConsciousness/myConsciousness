@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T13:01:59.000Z](https://twitter.com/realshinyakato/status/1611709734398353410)
+>
+> [@ose_tweety](https://twitter.com/ose_tweety) たまに睡眠時間すら奪ってますからね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611709734398353410)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611709734398353410)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611709734398353410)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T12:04:12.000Z](https://twitter.com/realshinyakato/status/1611695191546793987)
+>
+> [@CFDevelop](https://twitter.com/CFDevelop) はい、その上スパム的なボットアカウントのほとんどが凍結されていません… お気遣いありがとうございます! 🫡✨
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611695191546793987)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611695191546793987)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611695191546793987)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T10:06:58.000Z](https://twitter.com/realshinyakato/status/1611665690951548930)
 >
 > [@CFDevelop](https://twitter.com/CFDevelop) しかし、私のSDKはまだTwitterのリストにありますし、Twitter Forumの私のアカウントは無事です。謎が多い事件です 🤔
@@ -216,24 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@CFDevelop](https://twitter.com/CFDevelop) はい、そして興味深いことに、急に私のアカウントが凍結されたのはイーロン•マスクがCEOになる前日でした。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611663850260295681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611663850260295681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611663850260295681)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T09:54:03.000Z](https://twitter.com/realshinyakato/status/1611662440198209539)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) はい、その可能性があります。アカウント凍結の理由はわかりませんが、たぶん私は目立ちすぎたようです。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611662440198209539)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611662440198209539)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611662440198209539)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T09:36:09.000Z](https://twitter.com/realshinyakato/status/1611657935247282176)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) [@_kato_shinya](https://twitter.com/_kato_shinya) おぉ〜、そうなんですね！👍 日本語のツイートも読んでくれてありがとうございます！ 🫡
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611657935247282176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611657935247282176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611657935247282176)
 
 ---
 <!-- MY-TWEETS:END -->
