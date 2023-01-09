@@ -193,48 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-08T23:51:56.000Z](https://twitter.com/realshinyakato/status/1612235686652055559)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:23:26.000Z](https://twitter.com/realshinyakato/status/1612288913401602048)
 >
-> 全ての店舗が設けるべきスペース https://t.co/6VscMziWw0
-> ![No AltText](https://pbs.twimg.com/media/Fl_PzxZaYAExgpX.jpg)
+> [@HpCoster](https://twitter.com/HpCoster) Flameエンジンは2Dゲームを想定して開発されたパッケージなので、3Dゲームは積極的にサポートされていない気がしますね
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612235686652055559)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612235686652055559)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612235686652055559)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612288913401602048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612288913401602048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612288913401602048)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:32:47.000Z](https://twitter.com/realshinyakato/status/1611732585876688896)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:19:21.000Z](https://twitter.com/realshinyakato/status/1612287886619205635)
 >
-> 個人的に使ってるツールのバグを直そうと思ったけど、いかんせんやる気が出ないで今に至る
+> There are several services that quantify competence based on a software engineer's output on the Internet, and I feel that recruiting based on these services is making engineers unhappy. Are any of them output neurotic?
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611732585876688896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611732585876688896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611732585876688896)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612287886619205635)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612287886619205635)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612287886619205635)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:23:12.000Z](https://twitter.com/realshinyakato/status/1611730173812183040)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:12:59.000Z](https://twitter.com/realshinyakato/status/1612286283849805831)
 >
-> [@game_crefac_net](https://twitter.com/game_crefac_net) Twitterに一時的にアカウントを停止させられた可能性がありますね
+> [@luke_pighetti](https://twitter.com/luke_pighetti) Don't test, feel
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611730173812183040)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611730173812183040)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611730173812183040)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612286283849805831)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612286283849805831)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612286283849805831)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:20:04.000Z](https://twitter.com/realshinyakato/status/1611729385849237504)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:11:38.000Z](https://twitter.com/realshinyakato/status/1612285944794869761)
 >
-> [@ikegpg](https://twitter.com/ikegpg) 最近Twitter自体が不安定なので、APIの呼び出し回数制限に達しなくてもこうした状態になる場合があります
+> Having many years of experience with [#Java,](https://twitter.com/hashtag/Java,?src=hashtag_click) I still feel uncomfortable with source files like [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) that expose only functions without providing classes.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611729385849237504)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611729385849237504)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611729385849237504)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612285944794869761)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612285944794869761)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612285944794869761)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:17:43.000Z](https://twitter.com/realshinyakato/status/1611728794758545417)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:07:58.000Z](https://twitter.com/realshinyakato/status/1612285021448212481)
 >
-> 日本のごく一般的な共働きファミリーの例も興味本位で見てみたい
+> [@KhalidWarsa](https://twitter.com/KhalidWarsa) It depends on the product, but unless the source code is very bad, there is no need to review it that strictly. If the source code is simply badly formatted, you can simply run a formatter on behalf of the author of the pull request.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611728794758545417)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611728794758545417)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611728794758545417)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612285021448212481)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612285021448212481)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612285021448212481)
 
 ---
 <!-- MY-TWEETS:END -->
