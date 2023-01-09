@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:46:25.000Z](https://twitter.com/realshinyakato/status/1612355096989569026)
+>
+> [@CFDevelop](https://twitter.com/CFDevelop) This is probably because my technical background is in Java 🥲In Java, functions cannot be defined in the strict sense of the word, so there exists an awareness that all behavior is should be defined in classes
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612355096989569026)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612355096989569026)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612355096989569026)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:37:17.000Z](https://twitter.com/realshinyakato/status/1612352797235892225)
+>
+> いろいろと作りたいものが出てきたけど順番にやっていかないとパンクしそうだな・・・
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612352797235892225)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612352797235892225)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612352797235892225)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:34:08.000Z](https://twitter.com/realshinyakato/status/1612352002805370884)
+>
+> [@chome2xx](https://twitter.com/chome2xx) コーディングに専門性を持つかどうかじゃないですかね。日本のSEというとプログラミングがあまりできない人も含まれているように思います。そもそもコーディングに自信がなくてSEでもない人はコーダーです。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612352002805370884)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612352002805370884)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612352002805370884)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T04:39:09.000Z](https://twitter.com/realshinyakato/status/1612307969441697794)
 >
 > [@normidar2](https://twitter.com/normidar2) 構文を解析するような実装だと、文字列を分割した上で指定した区切り文字自体も配列の中に残した状態で返してくれると便利なんですよね。
@@ -209,33 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@HpCoster](https://twitter.com/HpCoster) Flameエンジンは2Dゲームを想定して開発されたパッケージなので、3Dゲームは積極的にサポートされていない気がしますね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1612288913401602048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612288913401602048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612288913401602048)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:19:21.000Z](https://twitter.com/realshinyakato/status/1612287886619205635)
->
-> There are several services that quantify competence based on a software engineer's output on the Internet, and I feel that recruiting based on these services is making engineers unhappy. Are any of them output neurotic?
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612287886619205635)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612287886619205635)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612287886619205635)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:12:59.000Z](https://twitter.com/realshinyakato/status/1612286283849805831)
->
-> [@luke_pighetti](https://twitter.com/luke_pighetti) Don't test, feel
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612286283849805831)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612286283849805831)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612286283849805831)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:11:38.000Z](https://twitter.com/realshinyakato/status/1612285944794869761)
->
-> Having many years of experience with [#Java,](https://twitter.com/hashtag/Java,?src=hashtag_click) I still feel uncomfortable with source files like [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) that expose only functions without providing classes.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612285944794869761)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612285944794869761)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612285944794869761)
 
 ---
 <!-- MY-TWEETS:END -->
