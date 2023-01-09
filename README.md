@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T08:30:49.000Z](https://twitter.com/realshinyakato/status/1612366270732857344)
+>
+> [@KhalidWarsa](https://twitter.com/KhalidWarsa) This is a great tweet for those who love to drive! I usually work remotely, but I need to come to Tokyo only once a week, and I love the long drive. I encounter many trucks on that drive and I think about their lives with trucks
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612366270732857344)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612366270732857344)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612366270732857344)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:46:25.000Z](https://twitter.com/realshinyakato/status/1612355096989569026)
 >
 > [@CFDevelop](https://twitter.com/CFDevelop) This is probably because my technical background is in Java 🥲In Java, functions cannot be defined in the strict sense of the word, so there exists an awareness that all behavior is should be defined in classes
@@ -227,15 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 例えば「'{"test":"test"}'.split("{[]}:,\\\"")」だと、「  ['{', '"', 'test', '"', ':', '"', 'test', '"', '}']」が返ってくるようなイメージです 😃
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1612307969441697794)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612307969441697794)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612307969441697794)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:23:26.000Z](https://twitter.com/realshinyakato/status/1612288913401602048)
->
-> [@HpCoster](https://twitter.com/HpCoster) Flameエンジンは2Dゲームを想定して開発されたパッケージなので、3Dゲームは積極的にサポートされていない気がしますね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612288913401602048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612288913401602048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612288913401602048)
 
 ---
 <!-- MY-TWEETS:END -->
