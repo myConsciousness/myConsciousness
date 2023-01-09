@@ -193,6 +193,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-08T23:51:56.000Z](https://twitter.com/realshinyakato/status/1612235686652055559)
+>
+> 全ての店舗が設けるべきスペース https://t.co/6VscMziWw0
+> ![No AltText](https://pbs.twimg.com/media/Fl_PzxZaYAExgpX.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612235686652055559)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612235686652055559)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612235686652055559)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:32:47.000Z](https://twitter.com/realshinyakato/status/1611732585876688896)
 >
 > 個人的に使ってるツールのバグを直そうと思ったけど、いかんせんやる気が出ないで今に至る
@@ -225,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 日本のごく一般的な共働きファミリーの例も興味本位で見てみたい
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1611728794758545417)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611728794758545417)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611728794758545417)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-07T14:16:28.000Z](https://twitter.com/realshinyakato/status/1611728478801653765)
->
-> 共働きファミリー（上級） https://t.co/7ScKXBUzEl
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1611728478801653765)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1611728478801653765)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1611728478801653765)
 
 ---
 <!-- MY-TWEETS:END -->
