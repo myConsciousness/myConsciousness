@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T12:48:06.000Z](https://twitter.com/realshinyakato/status/1612431017108992000)
+>
+> How well can [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) support the [#Web](https://twitter.com/hashtag/Web?src=hashtag_click) in the future? I still feel that [#HTML](https://twitter.com/hashtag/HTML?src=hashtag_click) and [#CSS](https://twitter.com/hashtag/CSS?src=hashtag_click) have a huge advantage over Flutter when it comes to the web; Flutter is easier, but HTML and CSS are pretty formidable technologies
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612431017108992000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612431017108992000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612431017108992000)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T12:44:27.000Z](https://twitter.com/realshinyakato/status/1612430096882872323)
+>
+> [@KhalidWarsa](https://twitter.com/KhalidWarsa) I’m sure you missed being away from your family, but this is the kind of life that every man once dreams of. Of course, sitting for long hours is tiring, but the sound of the engine (good old days) and the scenery will excite our heart :)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612430096882872323)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612430096882872323)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612430096882872323)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T12:39:55.000Z](https://twitter.com/realshinyakato/status/1612428958297124870)
+>
+> [@KhalidWarsa](https://twitter.com/KhalidWarsa) It’s a code formatter :) These days, great editors such as VSCode automatically format code, but not long ago different programmers had different coding styles. This required refactoring the code style, but now this may be an old problem :)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612428958297124870)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612428958297124870)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612428958297124870)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T11:10:02.000Z](https://twitter.com/realshinyakato/status/1612406336784052224)
 >
 > [@chome2xx](https://twitter.com/chome2xx) ギャルってなんですか？
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@KhalidWarsa](https://twitter.com/KhalidWarsa) This is a great tweet for those who love to drive! I usually work remotely, but I need to come to Tokyo only once a week, and I love the long drive. I encounter many trucks on that drive and I think about their lives with trucks
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1612366270732857344)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612366270732857344)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612366270732857344)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:46:25.000Z](https://twitter.com/realshinyakato/status/1612355096989569026)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) This is probably because my technical background is in Java 🥲In Java, functions cannot be defined in the strict sense of the word, so there exists an awareness that all behavior is should be defined in classes
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612355096989569026)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612355096989569026)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612355096989569026)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:37:17.000Z](https://twitter.com/realshinyakato/status/1612352797235892225)
->
-> いろいろと作りたいものが出てきたけど順番にやっていかないとパンクしそうだな・・・
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612352797235892225)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612352797235892225)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612352797235892225)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T07:34:08.000Z](https://twitter.com/realshinyakato/status/1612352002805370884)
->
-> [@chome2xx](https://twitter.com/chome2xx) コーディングに専門性を持つかどうかじゃないですかね。日本のSEというとプログラミングがあまりできない人も含まれているように思います。そもそもコーディングに自信がなくてSEでもない人はコーダーです。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612352002805370884)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612352002805370884)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612352002805370884)
 
 ---
 <!-- MY-TWEETS:END -->
