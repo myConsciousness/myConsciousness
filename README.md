@@ -193,6 +193,41 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T13:49:51.000Z](https://twitter.com/realshinyakato/status/1612446555159814146)
+>
+> この程度の評価式であれば三項演算子の一択 https://t.co/LD9FDIaoHO
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612446555159814146)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612446555159814146)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612446555159814146)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T13:47:03.000Z](https://twitter.com/realshinyakato/status/1612445850646761472)
+>
+> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> 
+> #twitter_api_v2 v4.8.1 has been released :) Now we can get specific user's profile banner.
+> 
+> #Programming
+> 
+> https://t.co/L6bKn4Pjsf https://t.co/slq136gK9e
+> ![No AltText](https://pbs.twimg.com/media/FmCO5pGakAARIKV.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612445850646761472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612445850646761472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612445850646761472)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T13:19:49.000Z](https://twitter.com/realshinyakato/status/1612438997351165953)
+>
+> I'm enjoying meta [#programming](https://twitter.com/hashtag/programming?src=hashtag_click) :) https://t.co/ncIBwqW2FA
+> ![No AltText](https://pbs.twimg.com/media/FmCIX8DacAEPb8N.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612438997351165953)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612438997351165953)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612438997351165953)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T12:48:06.000Z](https://twitter.com/realshinyakato/status/1612431017108992000)
 >
 > How well can [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) support the [#Web](https://twitter.com/hashtag/Web?src=hashtag_click) in the future? I still feel that [#HTML](https://twitter.com/hashtag/HTML?src=hashtag_click) and [#CSS](https://twitter.com/hashtag/CSS?src=hashtag_click) have a huge advantage over Flutter when it comes to the web; Flutter is easier, but HTML and CSS are pretty formidable technologies
@@ -207,33 +242,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@KhalidWarsa](https://twitter.com/KhalidWarsa) I’m sure you missed being away from your family, but this is the kind of life that every man once dreams of. Of course, sitting for long hours is tiring, but the sound of the engine (good old days) and the scenery will excite our heart :)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1612430096882872323)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612430096882872323)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612430096882872323)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T12:39:55.000Z](https://twitter.com/realshinyakato/status/1612428958297124870)
->
-> [@KhalidWarsa](https://twitter.com/KhalidWarsa) It’s a code formatter :) These days, great editors such as VSCode automatically format code, but not long ago different programmers had different coding styles. This required refactoring the code style, but now this may be an old problem :)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612428958297124870)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612428958297124870)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612428958297124870)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T11:10:02.000Z](https://twitter.com/realshinyakato/status/1612406336784052224)
->
-> [@chome2xx](https://twitter.com/chome2xx) ギャルってなんですか？
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612406336784052224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612406336784052224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612406336784052224)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T08:30:49.000Z](https://twitter.com/realshinyakato/status/1612366270732857344)
->
-> [@KhalidWarsa](https://twitter.com/KhalidWarsa) This is a great tweet for those who love to drive! I usually work remotely, but I need to come to Tokyo only once a week, and I love the long drive. I encounter many trucks on that drive and I think about their lives with trucks
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612366270732857344)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612366270732857344)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612366270732857344)
 
 ---
 <!-- MY-TWEETS:END -->
