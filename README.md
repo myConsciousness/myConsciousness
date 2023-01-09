@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T11:10:02.000Z](https://twitter.com/realshinyakato/status/1612406336784052224)
+>
+> [@chome2xx](https://twitter.com/chome2xx) ギャルってなんですか？
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612406336784052224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612406336784052224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612406336784052224)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T08:30:49.000Z](https://twitter.com/realshinyakato/status/1612366270732857344)
 >
 > [@KhalidWarsa](https://twitter.com/KhalidWarsa) This is a great tweet for those who love to drive! I usually work remotely, but I need to come to Tokyo only once a week, and I love the long drive. I encounter many trucks on that drive and I think about their lives with trucks
@@ -225,17 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@chome2xx](https://twitter.com/chome2xx) コーディングに専門性を持つかどうかじゃないですかね。日本のSEというとプログラミングがあまりできない人も含まれているように思います。そもそもコーディングに自信がなくてSEでもない人はコーダーです。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1612352002805370884)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612352002805370884)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612352002805370884)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T04:39:09.000Z](https://twitter.com/realshinyakato/status/1612307969441697794)
->
-> [@normidar2](https://twitter.com/normidar2) 構文を解析するような実装だと、文字列を分割した上で指定した区切り文字自体も配列の中に残した状態で返してくれると便利なんですよね。
-> 
-> 例えば「'{"test":"test"}'.split("{[]}:,\\\"")」だと、「  ['{', '"', 'test', '"', ':', '"', 'test', '"', '}']」が返ってくるようなイメージです 😃
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612307969441697794)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612307969441697794)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612307969441697794)
 
 ---
 <!-- MY-TWEETS:END -->
