@@ -193,6 +193,17 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T04:39:09.000Z](https://twitter.com/realshinyakato/status/1612307969441697794)
+>
+> [@normidar2](https://twitter.com/normidar2) 構文を解析するような実装だと、文字列を分割した上で指定した区切り文字自体も配列の中に残した状態で返してくれると便利なんですよね。
+> 
+> 例えば「'{"test":"test"}'.split("{[]}:,\\\"")」だと、「  ['{', '"', 'test', '"', ':', '"', 'test', '"', '}']」が返ってくるようなイメージです 😃
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612307969441697794)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612307969441697794)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612307969441697794)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:23:26.000Z](https://twitter.com/realshinyakato/status/1612288913401602048)
 >
 > [@HpCoster](https://twitter.com/HpCoster) Flameエンジンは2Dゲームを想定して開発されたパッケージなので、3Dゲームは積極的にサポートされていない気がしますね
@@ -225,15 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Having many years of experience with [#Java,](https://twitter.com/hashtag/Java,?src=hashtag_click) I still feel uncomfortable with source files like [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) that expose only functions without providing classes.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1612285944794869761)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612285944794869761)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612285944794869761)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-09T03:07:58.000Z](https://twitter.com/realshinyakato/status/1612285021448212481)
->
-> [@KhalidWarsa](https://twitter.com/KhalidWarsa) It depends on the product, but unless the source code is very bad, there is no need to review it that strictly. If the source code is simply badly formatted, you can simply run a formatter on behalf of the author of the pull request.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1612285021448212481)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1612285021448212481)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1612285021448212481)
 
 ---
 <!-- MY-TWEETS:END -->
