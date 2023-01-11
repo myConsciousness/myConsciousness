@@ -193,6 +193,38 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:41:12.000Z](https://twitter.com/realshinyakato/status/1613048360541491201)
+>
+> RT [@wolfenrain:](https://twitter.com/wolfenrain:) Looks like Flutter is slowly getting better and better at supporting 3D rendering!
+> 
+> This PR adds support for rendering 3D m…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613048360541491201)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613048360541491201)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613048360541491201)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:20:35.000Z](https://twitter.com/realshinyakato/status/1613043169742196736)
+>
+> The v1.1 statuses/filter endpoint will be deprecated on March 9, 2023. 
+> 
+> #TwitterAPI https://t.co/ad4ZAvlPBh
+> ![No AltText](https://pbs.twimg.com/media/FmKuHxRaAAA3crj.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613043169742196736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613043169742196736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613043169742196736)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:01:38.000Z](https://twitter.com/realshinyakato/status/1613038402345263104)
+>
+> [@elonmusk](https://twitter.com/elonmusk) Create badges for people who have contributed to Twitter in some way. For example, developers of third-party Twitter clients or libraries deserve this.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613038402345263104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613038402345263104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613038402345263104)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T04:59:34.000Z](https://twitter.com/realshinyakato/status/1613037880854839296)
 >
 > [@uakihir0](https://twitter.com/uakihir0) Twitter関連のソフトウェア開発者は専用のバッジ欲しいですね
@@ -207,33 +239,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Will [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) employees purchase [#TwitterBlue?](https://twitter.com/hashtag/TwitterBlue??src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613035984354177024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613035984354177024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613035984354177024)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T04:44:10.000Z](https://twitter.com/realshinyakato/status/1613034006454624256)
->
-> [@ose_tweety](https://twitter.com/ose_tweety) 980円払ってこの機能だとがっかりですね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613034006454624256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613034006454624256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613034006454624256)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T04:42:42.000Z](https://twitter.com/realshinyakato/status/1613033636084985856)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) [@LucasGoldner](https://twitter.com/LucasGoldner) Wow it looks very great hack 👀👀👀 I have yet to see an application that works with AirPods in action when wearing them
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613033636084985856)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613033636084985856)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613033636084985856)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T04:39:10.000Z](https://twitter.com/realshinyakato/status/1613032750092808193)
->
-> [@Twitter](https://twitter.com/Twitter) [@TwitterDev](https://twitter.com/TwitterDev) [@elonmusk](https://twitter.com/elonmusk) https://t.co/fMWkjqCdat
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613032750092808193)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613032750092808193)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613032750092808193)
 
 ---
 <!-- MY-TWEETS:END -->
