@@ -193,6 +193,26 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T08:44:04.000Z](https://twitter.com/realshinyakato/status/1613094377672572929)
+>
+> The inability to remove all [#ads](https://twitter.com/hashtag/ads?src=hashtag_click) with [#TwitterBlue](https://twitter.com/hashtag/TwitterBlue?src=hashtag_click) and this pricing suggests that [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is not very well funded
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613094377672572929)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613094377672572929)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613094377672572929)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T08:10:49.000Z](https://twitter.com/realshinyakato/status/1613086012330369024)
+>
+> I would like to consolidate all my online activities into [#GitHub.](https://twitter.com/hashtag/GitHub.?src=hashtag_click) For example, I have already implemented an automatic reflection of my tweets on [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) in my GitHub profile, and I want to adapt this to [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) and other platforms as well.
+> 
+> https://t.co/mVSnGNVko1
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613086012330369024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613086012330369024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613086012330369024)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:41:12.000Z](https://twitter.com/realshinyakato/status/1613048360541491201)
 >
 > RT [@wolfenrain:](https://twitter.com/wolfenrain:) Looks like Flutter is slowly getting better and better at supporting 3D rendering!
@@ -221,24 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@elonmusk](https://twitter.com/elonmusk) Create badges for people who have contributed to Twitter in some way. For example, developers of third-party Twitter clients or libraries deserve this.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613038402345263104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613038402345263104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613038402345263104)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T04:59:34.000Z](https://twitter.com/realshinyakato/status/1613037880854839296)
->
-> [@uakihir0](https://twitter.com/uakihir0) Twitter関連のソフトウェア開発者は専用のバッジ欲しいですね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613037880854839296)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613037880854839296)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613037880854839296)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T04:52:02.000Z](https://twitter.com/realshinyakato/status/1613035984354177024)
->
-> Will [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) employees purchase [#TwitterBlue?](https://twitter.com/hashtag/TwitterBlue??src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613035984354177024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613035984354177024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613035984354177024)
 
 ---
 <!-- MY-TWEETS:END -->
