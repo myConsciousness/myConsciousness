@@ -193,6 +193,25 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T15:11:21.000Z](https://twitter.com/realshinyakato/status/1613191842589454337)
+>
+> これはおそろしいくらいに買い戻されてるな… https://t.co/TNAChsc84O
+> ![No AltText](https://pbs.twimg.com/media/FmM1ba5aAAQerAK.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613191842589454337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613191842589454337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613191842589454337)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T15:06:17.000Z](https://twitter.com/realshinyakato/status/1613190566405378048)
+>
+> Amazon株の突き上げエグいね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613190566405378048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613190566405378048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613190566405378048)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T14:45:36.000Z](https://twitter.com/realshinyakato/status/1613185362314293248)
 >
 > Amazon株を最高のポジションで買えたかもしれない
@@ -218,29 +237,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/mVSnGNVko1
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613086012330369024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613086012330369024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613086012330369024)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:41:12.000Z](https://twitter.com/realshinyakato/status/1613048360541491201)
->
-> RT [@wolfenrain:](https://twitter.com/wolfenrain:) Looks like Flutter is slowly getting better and better at supporting 3D rendering!
-> 
-> This PR adds support for rendering 3D m…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613048360541491201)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613048360541491201)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613048360541491201)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:20:35.000Z](https://twitter.com/realshinyakato/status/1613043169742196736)
->
-> The v1.1 statuses/filter endpoint will be deprecated on March 9, 2023. 
-> 
-> #TwitterAPI https://t.co/ad4ZAvlPBh
-> ![No AltText](https://pbs.twimg.com/media/FmKuHxRaAAA3crj.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613043169742196736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613043169742196736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613043169742196736)
 
 ---
 <!-- MY-TWEETS:END -->
