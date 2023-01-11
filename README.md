@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T14:45:36.000Z](https://twitter.com/realshinyakato/status/1613185362314293248)
+>
+> Amazon株を最高のポジションで買えたかもしれない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613185362314293248)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613185362314293248)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613185362314293248)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T08:44:04.000Z](https://twitter.com/realshinyakato/status/1613094377672572929)
 >
 > The inability to remove all [#ads](https://twitter.com/hashtag/ads?src=hashtag_click) with [#TwitterBlue](https://twitter.com/hashtag/TwitterBlue?src=hashtag_click) and this pricing suggests that [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is not very well funded
@@ -232,15 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FmKuHxRaAAA3crj.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613043169742196736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613043169742196736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613043169742196736)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T05:01:38.000Z](https://twitter.com/realshinyakato/status/1613038402345263104)
->
-> [@elonmusk](https://twitter.com/elonmusk) Create badges for people who have contributed to Twitter in some way. For example, developers of third-party Twitter clients or libraries deserve this.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613038402345263104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613038402345263104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613038402345263104)
 
 ---
 <!-- MY-TWEETS:END -->
