@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T06:54:28.000Z](https://twitter.com/realshinyakato/status/1613429185896382465)
+>
+> Also, that these conversations will produce creations that far exceed human imagination and productivity.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613429185896382465)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613429185896382465)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613429185896382465)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T06:53:49.000Z](https://twitter.com/realshinyakato/status/1613429021014122497)
+>
+> I believe that the day is already near when [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) will surpass human creations. For example, the current [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) cannot yet prove the correctness of its own output, but if we can implement this automatic proof process, it will be possible for AIs to talk to each other.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613429021014122497)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613429021014122497)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613429021014122497)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T01:05:09.000Z](https://twitter.com/realshinyakato/status/1613341278590373889)
 >
 > Twitter APIのSourceフィールドはまた復活したのか？なんでこう目に見えるところでコロコロ仕様が変わるかね
@@ -217,24 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Amazon株の突き上げエグいね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613190566405378048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613190566405378048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613190566405378048)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T14:45:36.000Z](https://twitter.com/realshinyakato/status/1613185362314293248)
->
-> Amazon株を最高のポジションで買えたかもしれない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613185362314293248)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613185362314293248)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613185362314293248)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T08:44:04.000Z](https://twitter.com/realshinyakato/status/1613094377672572929)
->
-> The inability to remove all [#ads](https://twitter.com/hashtag/ads?src=hashtag_click) with [#TwitterBlue](https://twitter.com/hashtag/TwitterBlue?src=hashtag_click) and this pricing suggests that [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is not very well funded
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613094377672572929)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613094377672572929)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613094377672572929)
 
 ---
 <!-- MY-TWEETS:END -->
