@@ -193,48 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T06:54:28.000Z](https://twitter.com/realshinyakato/status/1613429185896382465)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:18:13.000Z](https://twitter.com/realshinyakato/status/1613435162649571328)
 >
-> Also, that these conversations will produce creations that far exceed human imagination and productivity.
+> [@tdinh_me](https://twitter.com/tdinh_me) But Twitter API does not return it
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613429185896382465)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613429185896382465)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613429185896382465)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613435162649571328)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613435162649571328)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613435162649571328)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T06:53:49.000Z](https://twitter.com/realshinyakato/status/1613429021014122497)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:14:39.000Z](https://twitter.com/realshinyakato/status/1613434263504060416)
 >
-> I believe that the day is already near when [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) will surpass human creations. For example, the current [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) cannot yet prove the correctness of its own output, but if we can implement this automatic proof process, it will be possible for AIs to talk to each other.
+> 荒れそうな話題ですけど支持します https://t.co/UiS4pvvf4w
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613429021014122497)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613429021014122497)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613429021014122497)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613434263504060416)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613434263504060416)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613434263504060416)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T01:05:09.000Z](https://twitter.com/realshinyakato/status/1613341278590373889)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:11:50.000Z](https://twitter.com/realshinyakato/status/1613433554226270208)
 >
-> Twitter APIのSourceフィールドはまた復活したのか？なんでこう目に見えるところでコロコロ仕様が変わるかね
+> [@1026_june](https://twitter.com/1026_june) 余裕ですね。生活水準によっては5000万~7000万もあれば十分です。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613341278590373889)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613341278590373889)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613341278590373889)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613433554226270208)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613433554226270208)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613433554226270208)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T15:11:21.000Z](https://twitter.com/realshinyakato/status/1613191842589454337)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:10:05.000Z](https://twitter.com/realshinyakato/status/1613433113497198595)
 >
-> これはおそろしいくらいに買い戻されてるな… https://t.co/TNAChsc84O
-> ![No AltText](https://pbs.twimg.com/media/FmM1ba5aAAQerAK.jpg)
+> [@JunkPlaying](https://twitter.com/JunkPlaying) 融通が利かない小利口ですかね
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613191842589454337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613191842589454337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613191842589454337)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613433113497198595)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613433113497198595)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613433113497198595)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T15:06:17.000Z](https://twitter.com/realshinyakato/status/1613190566405378048)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:07:29.000Z](https://twitter.com/realshinyakato/status/1613432461945602049)
 >
-> Amazon株の突き上げエグいね
+> I have created a script to turn off TwitterBlue from the screen 🫡✨
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613190566405378048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613190566405378048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613190566405378048)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613432461945602049)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613432461945602049)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613432461945602049)
 
 ---
 <!-- MY-TWEETS:END -->
