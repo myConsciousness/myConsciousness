@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T01:05:09.000Z](https://twitter.com/realshinyakato/status/1613341278590373889)
+>
+> Twitter APIのSourceフィールドはまた復活したのか？なんでこう目に見えるところでコロコロ仕様が変わるかね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613341278590373889)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613341278590373889)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613341278590373889)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T15:11:21.000Z](https://twitter.com/realshinyakato/status/1613191842589454337)
 >
 > これはおそろしいくらいに買い戻されてるな… https://t.co/TNAChsc84O
@@ -226,17 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > The inability to remove all [#ads](https://twitter.com/hashtag/ads?src=hashtag_click) with [#TwitterBlue](https://twitter.com/hashtag/TwitterBlue?src=hashtag_click) and this pricing suggests that [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is not very well funded
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613094377672572929)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613094377672572929)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613094377672572929)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-11T08:10:49.000Z](https://twitter.com/realshinyakato/status/1613086012330369024)
->
-> I would like to consolidate all my online activities into [#GitHub.](https://twitter.com/hashtag/GitHub.?src=hashtag_click) For example, I have already implemented an automatic reflection of my tweets on [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) in my GitHub profile, and I want to adapt this to [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) and other platforms as well.
-> 
-> https://t.co/mVSnGNVko1
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613086012330369024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613086012330369024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613086012330369024)
 
 ---
 <!-- MY-TWEETS:END -->
