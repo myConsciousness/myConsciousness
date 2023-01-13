@@ -193,6 +193,17 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T22:54:20.000Z](https://twitter.com/realshinyakato/status/1614033131757244417)
+>
+> RT [@LefterisJP:](https://twitter.com/LefterisJP:) Twitter web interface just lost the ability to switch to "latest tweets".
+> 
+> There is only "for you" and "following". Gobble…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614033131757244417)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614033131757244417)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614033131757244417)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:55:59.000Z](https://twitter.com/realshinyakato/status/1613852353123479552)
 >
 > Twitter APIはより学術研究のために特化されていくのか…
@@ -225,15 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitter APIを使用したシステム開発は今かなりリスクが高い…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613785662175707137)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613785662175707137)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613785662175707137)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:18:13.000Z](https://twitter.com/realshinyakato/status/1613435162649571328)
->
-> [@tdinh_me](https://twitter.com/tdinh_me) But Twitter API does not return it
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613435162649571328)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613435162649571328)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613435162649571328)
 
 ---
 <!-- MY-TWEETS:END -->
