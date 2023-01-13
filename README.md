@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T06:30:59.000Z](https://twitter.com/realshinyakato/status/1613785662175707137)
+>
+> Twitter APIを使用したシステム開発は今かなりリスクが高い…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613785662175707137)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613785662175707137)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613785662175707137)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:18:13.000Z](https://twitter.com/realshinyakato/status/1613435162649571328)
 >
 > [@tdinh_me](https://twitter.com/tdinh_me) But Twitter API does not return it
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@JunkPlaying](https://twitter.com/JunkPlaying) 融通が利かない小利口ですかね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613433113497198595)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613433113497198595)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613433113497198595)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:07:29.000Z](https://twitter.com/realshinyakato/status/1613432461945602049)
->
-> I have created a script to turn off TwitterBlue from the screen 🫡✨
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613432461945602049)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613432461945602049)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613432461945602049)
 
 ---
 <!-- MY-TWEETS:END -->
