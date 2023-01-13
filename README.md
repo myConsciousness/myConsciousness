@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:55:59.000Z](https://twitter.com/realshinyakato/status/1613852353123479552)
+>
+> Twitter APIはより学術研究のために特化されていくのか…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613852353123479552)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613852353123479552)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613852353123479552)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:54:45.000Z](https://twitter.com/realshinyakato/status/1613852042371694592)
+>
+> むしろ、去年の時点でツイートしたことだけど、公式Twitterがコミュニティよりも利益を追求するのであれば、サードパーティクライアントが切られるのは時間の問題だったとも言える
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613852042371694592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613852042371694592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613852042371694592)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:51:43.000Z](https://twitter.com/realshinyakato/status/1613851280207917056)
+>
+> 公式アプリで広告収入を増やすためにサードパーティクライアントを処刑した可能性はないと言い切れないんだよな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613851280207917056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613851280207917056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613851280207917056)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T06:30:59.000Z](https://twitter.com/realshinyakato/status/1613785662175707137)
 >
 > Twitter APIを使用したシステム開発は今かなりリスクが高い…
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@tdinh_me](https://twitter.com/tdinh_me) But Twitter API does not return it
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1613435162649571328)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613435162649571328)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613435162649571328)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:14:39.000Z](https://twitter.com/realshinyakato/status/1613434263504060416)
->
-> 荒れそうな話題ですけど支持します https://t.co/UiS4pvvf4w
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613434263504060416)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613434263504060416)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613434263504060416)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:11:50.000Z](https://twitter.com/realshinyakato/status/1613433554226270208)
->
-> [@1026_june](https://twitter.com/1026_june) 余裕ですね。生活水準によっては5000万~7000万もあれば十分です。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613433554226270208)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613433554226270208)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613433554226270208)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-12T07:10:05.000Z](https://twitter.com/realshinyakato/status/1613433113497198595)
->
-> [@JunkPlaying](https://twitter.com/JunkPlaying) 融通が利かない小利口ですかね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613433113497198595)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613433113497198595)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613433113497198595)
 
 ---
 <!-- MY-TWEETS:END -->
