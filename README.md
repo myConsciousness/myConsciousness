@@ -193,49 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T22:54:20.000Z](https://twitter.com/realshinyakato/status/1614033131757244417)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:25:41.000Z](https://twitter.com/realshinyakato/status/1614071220206735362)
 >
-> RT [@LefterisJP:](https://twitter.com/LefterisJP:) Twitter web interface just lost the ability to switch to "latest tweets".
-> 
-> There is only "for you" and "following". Gobble…
+> 貰ったTwitterグッズメルカリで売ろうかな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614033131757244417)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614033131757244417)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614033131757244417)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614071220206735362)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614071220206735362)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614071220206735362)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:55:59.000Z](https://twitter.com/realshinyakato/status/1613852353123479552)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:22:41.000Z](https://twitter.com/realshinyakato/status/1614070463914987521)
 >
-> Twitter APIはより学術研究のために特化されていくのか…
+> どうも、TwitterJPの公式スペースに呼ばれて翌月にアカウント凍結された男です
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613852353123479552)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613852353123479552)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613852353123479552)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614070463914987521)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614070463914987521)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614070463914987521)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:54:45.000Z](https://twitter.com/realshinyakato/status/1613852042371694592)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:18:27.000Z](https://twitter.com/realshinyakato/status/1614069400386277376)
 >
-> むしろ、去年の時点でツイートしたことだけど、公式Twitterがコミュニティよりも利益を追求するのであれば、サードパーティクライアントが切られるのは時間の問題だったとも言える
+> Twitter社員と関係を持つとマークされるので気をつけましょう
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613852042371694592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613852042371694592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613852042371694592)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614069400386277376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614069400386277376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614069400386277376)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T10:51:43.000Z](https://twitter.com/realshinyakato/status/1613851280207917056)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:14:35.000Z](https://twitter.com/realshinyakato/status/1614068428670906368)
 >
-> 公式アプリで広告収入を増やすためにサードパーティクライアントを処刑した可能性はないと言い切れないんだよな
+> Twitterで下手に影響力を持ち始めたアカウントやアプリは消される。ソースはワイ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613851280207917056)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613851280207917056)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613851280207917056)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614068428670906368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614068428670906368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614068428670906368)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-13T06:30:59.000Z](https://twitter.com/realshinyakato/status/1613785662175707137)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:12:40.000Z](https://twitter.com/realshinyakato/status/1614067944593686530)
 >
-> Twitter APIを使用したシステム開発は今かなりリスクが高い…
+> [@uakihir0](https://twitter.com/uakihir0) 一時的に警告するための狙い撃ちなのか、ルール変更でサードパーティクライアント禁止なのかが気になるところですね。少なくとも、Twitterの収益拡大のために、サードパーティクライアントを禁止したとしてもおかしくはないですね
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1613785662175707137)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1613785662175707137)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1613785662175707137)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614067944593686530)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614067944593686530)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614067944593686530)
 
 ---
 <!-- MY-TWEETS:END -->
