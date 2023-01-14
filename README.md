@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:41:51.000Z](https://twitter.com/realshinyakato/status/1614075286798340097)
+>
+> Twitter Blueの適用範囲拡大からのBAN祭り、どう見ても狙ってるね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614075286798340097)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614075286798340097)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614075286798340097)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:37:14.000Z](https://twitter.com/realshinyakato/status/1614074127123611648)
+>
+> [@uakihir0](https://twitter.com/uakihir0) Twitter Forumで本社のTwitter社員が発言したことですら数日後には覆っていたりするので、もはやアナウンスも信用できませんね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614074127123611648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614074127123611648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614074127123611648)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:32:16.000Z](https://twitter.com/realshinyakato/status/1614072877825011712)
+>
+> やはり時代はMastodonなのか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614072877825011712)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614072877825011712)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614072877825011712)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:25:41.000Z](https://twitter.com/realshinyakato/status/1614071220206735362)
 >
 > 貰ったTwitterグッズメルカリで売ろうかな
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > どうも、TwitterJPの公式スペースに呼ばれて翌月にアカウント凍結された男です
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614070463914987521)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614070463914987521)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614070463914987521)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:18:27.000Z](https://twitter.com/realshinyakato/status/1614069400386277376)
->
-> Twitter社員と関係を持つとマークされるので気をつけましょう
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614069400386277376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614069400386277376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614069400386277376)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:14:35.000Z](https://twitter.com/realshinyakato/status/1614068428670906368)
->
-> Twitterで下手に影響力を持ち始めたアカウントやアプリは消される。ソースはワイ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614068428670906368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614068428670906368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614068428670906368)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:12:40.000Z](https://twitter.com/realshinyakato/status/1614067944593686530)
->
-> [@uakihir0](https://twitter.com/uakihir0) 一時的に警告するための狙い撃ちなのか、ルール変更でサードパーティクライアント禁止なのかが気になるところですね。少なくとも、Twitterの収益拡大のために、サードパーティクライアントを禁止したとしてもおかしくはないですね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614067944593686530)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614067944593686530)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614067944593686530)
 
 ---
 <!-- MY-TWEETS:END -->
