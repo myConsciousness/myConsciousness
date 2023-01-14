@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T12:41:07.000Z](https://twitter.com/realshinyakato/status/1614241198058897408)
+>
+> [@1026_june](https://twitter.com/1026_june) これに限らずいつも相手の読み方に合わせるようにしてます
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614241198058897408)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614241198058897408)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614241198058897408)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:41:51.000Z](https://twitter.com/realshinyakato/status/1614075286798340097)
 >
 > Twitter Blueの適用範囲拡大からのBAN祭り、どう見ても狙ってるね
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 貰ったTwitterグッズメルカリで売ろうかな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614071220206735362)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614071220206735362)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614071220206735362)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:22:41.000Z](https://twitter.com/realshinyakato/status/1614070463914987521)
->
-> どうも、TwitterJPの公式スペースに呼ばれて翌月にアカウント凍結された男です
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614070463914987521)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614070463914987521)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614070463914987521)
 
 ---
 <!-- MY-TWEETS:END -->
