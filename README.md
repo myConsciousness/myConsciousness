@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T08:17:40.000Z](https://twitter.com/realshinyakato/status/1614537288536686593)
+>
+> [@ABarroso](https://twitter.com/ABarroso) only main
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614537288536686593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614537288536686593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614537288536686593)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T02:19:44.000Z](https://twitter.com/realshinyakato/status/1614447209537482754)
 >
 > 個人的に使うための愛犬の体調管理アプリ作ろうかな
@@ -249,17 +258,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/ttiqmmt45v
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614435849105739776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614435849105739776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614435849105739776)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:33:26.000Z](https://twitter.com/realshinyakato/status/1614435559660978176)
->
-> Twitter API Playground has gone.
-> 
-> https://t.co/S6nmgWmNP9
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614435559660978176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614435559660978176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614435559660978176)
 
 ---
 <!-- MY-TWEETS:END -->
