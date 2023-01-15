@@ -193,47 +193,73 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T12:41:07.000Z](https://twitter.com/realshinyakato/status/1614241198058897408)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T02:19:44.000Z](https://twitter.com/realshinyakato/status/1614447209537482754)
 >
-> [@1026_june](https://twitter.com/1026_june) これに限らずいつも相手の読み方に合わせるようにしてます
+> 個人的に使うための愛犬の体調管理アプリ作ろうかな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614241198058897408)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614241198058897408)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614241198058897408)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614447209537482754)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614447209537482754)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614447209537482754)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:41:51.000Z](https://twitter.com/realshinyakato/status/1614075286798340097)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:57:37.000Z](https://twitter.com/realshinyakato/status/1614441642576207872)
 >
-> Twitter Blueの適用範囲拡大からのBAN祭り、どう見ても狙ってるね
+> RT [@diegohaz:](https://twitter.com/diegohaz:) Render maps on GitHub using markdown. 💯
+> 
+> Markdown / Preview https://t.co/wblzz6TuCd
+> ![Markdown code with the following contents:
+
+## Location
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.12729298301002245,
+              51.53284601937814
+            ],](https://pbs.twimg.com/media/FhTEtt8X0AAV8kD.png)
+> ![Markdown document preview with the title "Location" and a map with a purple circle on London.](https://pbs.twimg.com/media/FhTFHLpWAAU6o0Q.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614075286798340097)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614075286798340097)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614075286798340097)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614441642576207872)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614441642576207872)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614441642576207872)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:37:14.000Z](https://twitter.com/realshinyakato/status/1614074127123611648)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:41:04.000Z](https://twitter.com/realshinyakato/status/1614437479188410370)
 >
-> [@uakihir0](https://twitter.com/uakihir0) Twitter Forumで本社のTwitter社員が発言したことですら数日後には覆っていたりするので、もはやアナウンスも信用できませんね
+> Twitter API Playgroundがシャットダウンされたとすると、Twitter API存続への懸念がさらに増すな…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614074127123611648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614074127123611648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614074127123611648)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614437479188410370)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614437479188410370)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614437479188410370)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:32:16.000Z](https://twitter.com/realshinyakato/status/1614072877825011712)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:34:35.000Z](https://twitter.com/realshinyakato/status/1614435849105739776)
 >
-> やはり時代はMastodonなのか
+> Thanks for sharing…
+> 
+> https://t.co/ttiqmmt45v
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614072877825011712)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614072877825011712)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614072877825011712)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614435849105739776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614435849105739776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614435849105739776)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-14T01:25:41.000Z](https://twitter.com/realshinyakato/status/1614071220206735362)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:33:26.000Z](https://twitter.com/realshinyakato/status/1614435559660978176)
 >
-> 貰ったTwitterグッズメルカリで売ろうかな
+> Twitter API Playground has gone.
+> 
+> https://t.co/S6nmgWmNP9
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614071220206735362)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614071220206735362)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614071220206735362)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614435559660978176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614435559660978176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614435559660978176)
 
 ---
 <!-- MY-TWEETS:END -->
