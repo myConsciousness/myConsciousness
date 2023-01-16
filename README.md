@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:35:26.000Z](https://twitter.com/realshinyakato/status/1614768249086038017)
+>
+> 経験上、この案件は下手に動くとアカウントごと消される
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614768249086038017)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614768249086038017)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614768249086038017)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:31:47.000Z](https://twitter.com/realshinyakato/status/1614767332215361536)
+>
+> v2エンドポイントはツイートを検索しても、認証ユーザーがいいねしたかリツイートしたかどうかの状態を知る術が提供されていない。これは俺が去年Open Evolutionに提案書を出したり、TwitterJPの公式スペースでも訴えていたことで、暗にサードパーティクライアントを締め出すための布石だったのか…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614767332215361536)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614767332215361536)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614767332215361536)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:26:47.000Z](https://twitter.com/realshinyakato/status/1614766073521524736)
+>
+> まあ、サードパーティクライアント禁止を意図的に行なっていると報道がでても「やっぱりね」くらいにしか思わないな。v2エンドポイントがデータ解析に特化してる感じからこれは前々から予定されていたような気がする
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614766073521524736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614766073521524736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614766073521524736)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T08:17:40.000Z](https://twitter.com/realshinyakato/status/1614537288536686593)
 >
 > [@ABarroso](https://twitter.com/ABarroso) only main
@@ -207,57 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 個人的に使うための愛犬の体調管理アプリ作ろうかな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614447209537482754)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614447209537482754)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614447209537482754)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:57:37.000Z](https://twitter.com/realshinyakato/status/1614441642576207872)
->
-> RT [@diegohaz:](https://twitter.com/diegohaz:) Render maps on GitHub using markdown. 💯
-> 
-> Markdown / Preview https://t.co/wblzz6TuCd
-> ![Markdown code with the following contents:
-
-## Location
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -0.12729298301002245,
-              51.53284601937814
-            ],](https://pbs.twimg.com/media/FhTEtt8X0AAV8kD.png)
-> ![Markdown document preview with the title "Location" and a map with a purple circle on London.](https://pbs.twimg.com/media/FhTFHLpWAAU6o0Q.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614441642576207872)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614441642576207872)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614441642576207872)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:41:04.000Z](https://twitter.com/realshinyakato/status/1614437479188410370)
->
-> Twitter API Playgroundがシャットダウンされたとすると、Twitter API存続への懸念がさらに増すな…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614437479188410370)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614437479188410370)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614437479188410370)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T01:34:35.000Z](https://twitter.com/realshinyakato/status/1614435849105739776)
->
-> Thanks for sharing…
-> 
-> https://t.co/ttiqmmt45v
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614435849105739776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614435849105739776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614435849105739776)
 
 ---
 <!-- MY-TWEETS:END -->
