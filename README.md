@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T04:51:00.000Z](https://twitter.com/realshinyakato/status/1614847665120096256)
+>
+> RT [@donburikanda:](https://twitter.com/donburikanda:) インボイス制度の登録の期限は9月30日です！3月31日ではありませんのでお間違いなく！あせって登録しなくてもいいですよ！じっくり様子を見ながら検討しましょう！延長されたことを知らない人が多いので拡散お願いします！ https://t.co/X…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614847665120096256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614847665120096256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614847665120096256)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T04:31:57.000Z](https://twitter.com/realshinyakato/status/1614842869315170306)
+>
+> 大学とか大学院を無償化するのは現役の学生はもちろんのこと、それ以上に社会人にとって意味があると思うだよな。社会人になって、特定の分野でスキルを磨いてからより専門性を高めたいという需要はかなり高いはず。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614842869315170306)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614842869315170306)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614842869315170306)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:55:48.000Z](https://twitter.com/realshinyakato/status/1614833775858581507)
 >
 > 都会的な娯楽があるかどうかというのは価値観の問題だな https://t.co/Mq3MER3OyN
@@ -216,24 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@uakihir0](https://twitter.com/uakihir0) これ広告収入で生計をたててる開発者や組織は死活問題ですよね。この魔女狩りが続くと、後々かなり大きな訴訟が発生しそうな気がします。ただ莫大な財力でねじ伏せてきそうですが…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614831506278715392)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614831506278715392)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614831506278715392)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:35:26.000Z](https://twitter.com/realshinyakato/status/1614768249086038017)
->
-> 経験上、この案件は下手に動くとアカウントごと消される
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614768249086038017)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614768249086038017)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614768249086038017)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:31:47.000Z](https://twitter.com/realshinyakato/status/1614767332215361536)
->
-> v2エンドポイントはツイートを検索しても、認証ユーザーがいいねしたかリツイートしたかどうかの状態を知る術が提供されていない。これは俺が去年Open Evolutionに提案書を出したり、TwitterJPの公式スペースでも訴えていたことで、暗にサードパーティクライアントを締め出すための布石だったのか…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614767332215361536)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614767332215361536)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614767332215361536)
 
 ---
 <!-- MY-TWEETS:END -->
