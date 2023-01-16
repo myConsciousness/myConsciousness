@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:55:48.000Z](https://twitter.com/realshinyakato/status/1614833775858581507)
+>
+> 都会的な娯楽があるかどうかというのは価値観の問題だな https://t.co/Mq3MER3OyN
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614833775858581507)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614833775858581507)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614833775858581507)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:49:38.000Z](https://twitter.com/realshinyakato/status/1614832220816158722)
+>
+> Twitterにとって都合の悪い関連サービスが大量絶滅しそうだな…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614832220816158722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614832220816158722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614832220816158722)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:46:47.000Z](https://twitter.com/realshinyakato/status/1614831506278715392)
+>
+> [@uakihir0](https://twitter.com/uakihir0) これ広告収入で生計をたててる開発者や組織は死活問題ですよね。この魔女狩りが続くと、後々かなり大きな訴訟が発生しそうな気がします。ただ莫大な財力でねじ伏せてきそうですが…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614831506278715392)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614831506278715392)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614831506278715392)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:35:26.000Z](https://twitter.com/realshinyakato/status/1614768249086038017)
 >
 > 経験上、この案件は下手に動くとアカウントごと消される
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > v2エンドポイントはツイートを検索しても、認証ユーザーがいいねしたかリツイートしたかどうかの状態を知る術が提供されていない。これは俺が去年Open Evolutionに提案書を出したり、TwitterJPの公式スペースでも訴えていたことで、暗にサードパーティクライアントを締め出すための布石だったのか…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614767332215361536)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614767332215361536)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614767332215361536)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T23:26:47.000Z](https://twitter.com/realshinyakato/status/1614766073521524736)
->
-> まあ、サードパーティクライアント禁止を意図的に行なっていると報道がでても「やっぱりね」くらいにしか思わないな。v2エンドポイントがデータ解析に特化してる感じからこれは前々から予定されていたような気がする
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614766073521524736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614766073521524736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614766073521524736)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T08:17:40.000Z](https://twitter.com/realshinyakato/status/1614537288536686593)
->
-> [@ABarroso](https://twitter.com/ABarroso) only main
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614537288536686593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614537288536686593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614537288536686593)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-15T02:19:44.000Z](https://twitter.com/realshinyakato/status/1614447209537482754)
->
-> 個人的に使うための愛犬の体調管理アプリ作ろうかな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614447209537482754)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614447209537482754)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614447209537482754)
 
 ---
 <!-- MY-TWEETS:END -->
