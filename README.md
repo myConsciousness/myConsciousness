@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T10:01:41.000Z](https://twitter.com/realshinyakato/status/1614925849920425984)
+>
+> [@CFDevelop](https://twitter.com/CFDevelop) Twitter API is still working, but many unofficial Twitter clients are suspended without official announcement. Twitter seems to have decided to maximize advertising revenue.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614925849920425984)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614925849920425984)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614925849920425984)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T04:51:00.000Z](https://twitter.com/realshinyakato/status/1614847665120096256)
 >
 > RT [@donburikanda:](https://twitter.com/donburikanda:) インボイス制度の登録の期限は9月30日です！3月31日ではありませんのでお間違いなく！あせって登録しなくてもいいですよ！じっくり様子を見ながら検討しましょう！延長されたことを知らない人が多いので拡散お願いします！ https://t.co/X…
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitterにとって都合の悪い関連サービスが大量絶滅しそうだな…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614832220816158722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614832220816158722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614832220816158722)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:46:47.000Z](https://twitter.com/realshinyakato/status/1614831506278715392)
->
-> [@uakihir0](https://twitter.com/uakihir0) これ広告収入で生計をたててる開発者や組織は死活問題ですよね。この魔女狩りが続くと、後々かなり大きな訴訟が発生しそうな気がします。ただ莫大な財力でねじ伏せてきそうですが…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614831506278715392)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614831506278715392)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614831506278715392)
 
 ---
 <!-- MY-TWEETS:END -->
