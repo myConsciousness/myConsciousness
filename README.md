@@ -193,6 +193,17 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T07:41:40.000Z](https://twitter.com/realshinyakato/status/1615253001069027329)
+>
+> 真剣に開発してきた人ほどショックが大きい事件だな。せめて停止までの猶予期間を設ければ反発もここまで多くはなかったように感じる。Twitterのような巨大企業が生態系を一気に変えるような破壊的変更をぶち込んでくるのは衝撃だな。
+> 
+> https://t.co/J48DDWBaRf
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615253001069027329)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615253001069027329)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615253001069027329)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T00:25:09.000Z](https://twitter.com/realshinyakato/status/1615143149986545665)
 >
 > RT [@MenMoneyMindset:](https://twitter.com/MenMoneyMindset:) Too busy to go to the GYM?
@@ -229,15 +240,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 大学とか大学院を無償化するのは現役の学生はもちろんのこと、それ以上に社会人にとって意味があると思うだよな。社会人になって、特定の分野でスキルを磨いてからより専門性を高めたいという需要はかなり高いはず。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614842869315170306)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614842869315170306)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614842869315170306)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:55:48.000Z](https://twitter.com/realshinyakato/status/1614833775858581507)
->
-> 都会的な娯楽があるかどうかというのは価値観の問題だな https://t.co/Mq3MER3OyN
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614833775858581507)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614833775858581507)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614833775858581507)
 
 ---
 <!-- MY-TWEETS:END -->
