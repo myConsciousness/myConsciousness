@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T13:32:50.000Z](https://twitter.com/realshinyakato/status/1615341377474400258)
+>
+> 明らかに問い合わせが増えてるのに、先月あたりから露骨に反応しなくなったよな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615341377474400258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615341377474400258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615341377474400258)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T13:31:25.000Z](https://twitter.com/realshinyakato/status/1615341019339591681)
+>
+> Twitterスタッフはころころ変わる仕様の責任をとりたくないからTwitter Forumに顔を出さなくなったんだな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615341019339591681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615341019339591681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615341019339591681)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:46:30.000Z](https://twitter.com/realshinyakato/status/1615269318115328003)
 >
 > RT [@hms_compassrose:](https://twitter.com/hms_compassrose:) 金を払ってデバフが得られる唯一無二のエクスペリエンス、それがTwitter Blue
@@ -216,24 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 今のところTwitter Blueに金を払うメリットは認証マークしかないんだよな。その他はあってもなくても変わらないどうでもいい機能だし、はっきり言ってクソすぎる
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615268494001704963)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615268494001704963)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615268494001704963)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:38:10.000Z](https://twitter.com/realshinyakato/status/1615267223052120064)
->
-> Twitter、落ちるところまで落ちた感じがする
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615267223052120064)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615267223052120064)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615267223052120064)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:37:27.000Z](https://twitter.com/realshinyakato/status/1615267042516701184)
->
-> 詐欺だなこれ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615267042516701184)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615267042516701184)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615267042516701184)
 
 ---
 <!-- MY-TWEETS:END -->
