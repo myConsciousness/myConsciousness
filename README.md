@@ -193,53 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T07:41:40.000Z](https://twitter.com/realshinyakato/status/1615253001069027329)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:46:30.000Z](https://twitter.com/realshinyakato/status/1615269318115328003)
 >
-> 真剣に開発してきた人ほどショックが大きい事件だな。せめて停止までの猶予期間を設ければ反発もここまで多くはなかったように感じる。Twitterのような巨大企業が生態系を一気に変えるような破壊的変更をぶち込んでくるのは衝撃だな。
-> 
-> https://t.co/J48DDWBaRf
+> RT [@hms_compassrose:](https://twitter.com/hms_compassrose:) 金を払ってデバフが得られる唯一無二のエクスペリエンス、それがTwitter Blue
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615253001069027329)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615253001069027329)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615253001069027329)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615269318115328003)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615269318115328003)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615269318115328003)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T00:25:09.000Z](https://twitter.com/realshinyakato/status/1615143149986545665)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:44:40.000Z](https://twitter.com/realshinyakato/status/1615268858813886464)
 >
-> RT [@MenMoneyMindset:](https://twitter.com/MenMoneyMindset:) Too busy to go to the GYM?
-> 
-> FULL BODY HOME WORKOUT - BUILD MUSCLE NO EQUIPMENT.
-> 
-> 1. Regular push-ups 15 Reps https://t…
+> Spotify 以上に虚無しか残らないサブスクだ…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615143149986545665)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615143149986545665)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615143149986545665)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615268858813886464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615268858813886464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615268858813886464)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T10:01:41.000Z](https://twitter.com/realshinyakato/status/1614925849920425984)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:43:13.000Z](https://twitter.com/realshinyakato/status/1615268494001704963)
 >
-> [@CFDevelop](https://twitter.com/CFDevelop) Twitter API is still working, but many unofficial Twitter clients are suspended without official announcement. Twitter seems to have decided to maximize advertising revenue.
+> 今のところTwitter Blueに金を払うメリットは認証マークしかないんだよな。その他はあってもなくても変わらないどうでもいい機能だし、はっきり言ってクソすぎる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614925849920425984)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614925849920425984)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614925849920425984)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615268494001704963)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615268494001704963)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615268494001704963)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T04:51:00.000Z](https://twitter.com/realshinyakato/status/1614847665120096256)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:38:10.000Z](https://twitter.com/realshinyakato/status/1615267223052120064)
 >
-> RT [@donburikanda:](https://twitter.com/donburikanda:) インボイス制度の登録の期限は9月30日です！3月31日ではありませんのでお間違いなく！あせって登録しなくてもいいですよ！じっくり様子を見ながら検討しましょう！延長されたことを知らない人が多いので拡散お願いします！ https://t.co/X…
+> Twitter、落ちるところまで落ちた感じがする
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614847665120096256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614847665120096256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614847665120096256)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615267223052120064)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615267223052120064)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615267223052120064)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T04:31:57.000Z](https://twitter.com/realshinyakato/status/1614842869315170306)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:37:27.000Z](https://twitter.com/realshinyakato/status/1615267042516701184)
 >
-> 大学とか大学院を無償化するのは現役の学生はもちろんのこと、それ以上に社会人にとって意味があると思うだよな。社会人になって、特定の分野でスキルを磨いてからより専門性を高めたいという需要はかなり高いはず。
+> 詐欺だなこれ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614842869315170306)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614842869315170306)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614842869315170306)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615267042516701184)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615267042516701184)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615267042516701184)
 
 ---
 <!-- MY-TWEETS:END -->
