@@ -193,6 +193,19 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T00:25:09.000Z](https://twitter.com/realshinyakato/status/1615143149986545665)
+>
+> RT [@MenMoneyMindset:](https://twitter.com/MenMoneyMindset:) Too busy to go to the GYM?
+> 
+> FULL BODY HOME WORKOUT - BUILD MUSCLE NO EQUIPMENT.
+> 
+> 1. Regular push-ups 15 Reps https://t…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615143149986545665)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615143149986545665)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615143149986545665)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T10:01:41.000Z](https://twitter.com/realshinyakato/status/1614925849920425984)
 >
 > [@CFDevelop](https://twitter.com/CFDevelop) Twitter API is still working, but many unofficial Twitter clients are suspended without official announcement. Twitter seems to have decided to maximize advertising revenue.
@@ -225,15 +238,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 都会的な娯楽があるかどうかというのは価値観の問題だな https://t.co/Mq3MER3OyN
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1614833775858581507)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614833775858581507)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614833775858581507)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-16T03:49:38.000Z](https://twitter.com/realshinyakato/status/1614832220816158722)
->
-> Twitterにとって都合の悪い関連サービスが大量絶滅しそうだな…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1614832220816158722)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1614832220816158722)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1614832220816158722)
 
 ---
 <!-- MY-TWEETS:END -->
