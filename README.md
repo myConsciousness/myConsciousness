@@ -193,47 +193,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:34:04.000Z](https://twitter.com/realshinyakato/status/1615507781972561920)
+>
+> 俺の場合はフォロワーが5000人いたアカウントが凍結されただけで作ったAPIクライアントはまだ現役だからいいんだけど、アプリをまるごと吹っ飛ばされた人は堪らんね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615507781972561920)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615507781972561920)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615507781972561920)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:23:43.000Z](https://twitter.com/realshinyakato/status/1615505177037115397)
+>
+> [@uakihir0](https://twitter.com/uakihir0) ここでTwitterルールを出してきたのは都合のいい免罪符に感じますね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615505177037115397)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615505177037115397)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615505177037115397)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:15:26.000Z](https://twitter.com/realshinyakato/status/1615503094288363520)
+>
+> イーロンマスクはTwitterの投票とかを使用して民主主義的なイメージを作ってるけど、彼はPayPal創業からTeslaが成功して今に至るまでずっと選民的なエリート第一主義だよ。自分たち上層のエリートの決定が完全に正しいと考えているし、その結果がTwitterルールの濫用に如実に現れてる
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615503094288363520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615503094288363520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615503094288363520)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:05:10.000Z](https://twitter.com/realshinyakato/status/1615500508906811392)
+>
+> Twitterルールは既にTwitterにとって都合のいいルール。権威主義的なイーロンマスクらしいやり方だね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615500508906811392)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615500508906811392)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615500508906811392)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:53:04.000Z](https://twitter.com/realshinyakato/status/1615497463112306688)
 >
 > 俺が凍結前にリツイートしたBlueSkyとMastodon関連のツイートがTwitterにとって面白くなかったんだろうな。幼稚なプラットフォームだよ
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615497463112306688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615497463112306688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615497463112306688)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:51:13.000Z](https://twitter.com/realshinyakato/status/1615496997938823170)
->
-> 俺のアカウントがなんの前触れもなく急に凍結された時もただTwitterルールに抵触したというメッセージだけで、具体的にどのルールなのかは示さなかった。結局、プラットフォームにおいて一定の影響力を持つTwitterにとって都合の悪いコンテンツを排除したかっただけなんだよな。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615496997938823170)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615496997938823170)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615496997938823170)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:44:25.000Z](https://twitter.com/realshinyakato/status/1615495287233187841)
->
-> Twitterのサードパーティクライアントの締め出し事件、これからの展開も含めて書籍化する人がでてきそうだな。Twitterにおいて歴史的な瞬間だよね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615495287233187841)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615495287233187841)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615495287233187841)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T13:32:50.000Z](https://twitter.com/realshinyakato/status/1615341377474400258)
->
-> 明らかに問い合わせが増えてるのに、先月あたりから露骨に反応しなくなったよな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615341377474400258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615341377474400258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615341377474400258)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T13:31:25.000Z](https://twitter.com/realshinyakato/status/1615341019339591681)
->
-> Twitterスタッフはころころ変わる仕様の責任をとりたくないからTwitter Forumに顔を出さなくなったんだな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615341019339591681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615341019339591681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615341019339591681)
 
 ---
 <!-- MY-TWEETS:END -->
