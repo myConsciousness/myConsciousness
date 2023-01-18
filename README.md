@@ -193,6 +193,27 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T01:58:22.000Z](https://twitter.com/realshinyakato/status/1615528995776532480)
+>
+> こういった特定の分野に特化したAIを融合させていくと面白そうだね。ソフトウェアごと統合ではなくて、API同士で会話するイメージ https://t.co/PcUZvE2LUW
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615528995776532480)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615528995776532480)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615528995776532480)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T01:56:43.000Z](https://twitter.com/realshinyakato/status/1615528580880166913)
+>
+> RT [@madonomori:](https://twitter.com/madonomori:) 「DeepL Write」が登場 ～翻訳ではなく、より正確・自然な文章提案に特化したAI／Webブラウザーさえあれば誰でも無料で利用可能 https://t.co/kXN8EHrCRX https://t.co/vArMKUyhlx
+> ![No AltText](https://pbs.twimg.com/media/FmtZJzRaAAYsKPT.jpg)
+> ![No AltText](https://pbs.twimg.com/media/FmtZKOfacAAGaJa.jpg)
+> ![No AltText](https://pbs.twimg.com/media/FmtZKq7aAAE320d.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615528580880166913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615528580880166913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615528580880166913)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:34:04.000Z](https://twitter.com/realshinyakato/status/1615507781972561920)
 >
 > 俺の場合はフォロワーが5000人いたアカウントが凍結されただけで作ったAPIクライアントはまだ現役だからいいんだけど、アプリをまるごと吹っ飛ばされた人は堪らんね
@@ -216,24 +237,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > イーロンマスクはTwitterの投票とかを使用して民主主義的なイメージを作ってるけど、彼はPayPal創業からTeslaが成功して今に至るまでずっと選民的なエリート第一主義だよ。自分たち上層のエリートの決定が完全に正しいと考えているし、その結果がTwitterルールの濫用に如実に現れてる
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615503094288363520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615503094288363520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615503094288363520)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:05:10.000Z](https://twitter.com/realshinyakato/status/1615500508906811392)
->
-> Twitterルールは既にTwitterにとって都合のいいルール。権威主義的なイーロンマスクらしいやり方だね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615500508906811392)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615500508906811392)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615500508906811392)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:53:04.000Z](https://twitter.com/realshinyakato/status/1615497463112306688)
->
-> 俺が凍結前にリツイートしたBlueSkyとMastodon関連のツイートがTwitterにとって面白くなかったんだろうな。幼稚なプラットフォームだよ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615497463112306688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615497463112306688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615497463112306688)
 
 ---
 <!-- MY-TWEETS:END -->
