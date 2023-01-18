@@ -193,6 +193,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:53:04.000Z](https://twitter.com/realshinyakato/status/1615497463112306688)
+>
+> 俺が凍結前にリツイートしたBlueSkyとMastodon関連のツイートがTwitterにとって面白くなかったんだろうな。幼稚なプラットフォームだよ
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615497463112306688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615497463112306688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615497463112306688)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:51:13.000Z](https://twitter.com/realshinyakato/status/1615496997938823170)
+>
+> 俺のアカウントがなんの前触れもなく急に凍結された時もただTwitterルールに抵触したというメッセージだけで、具体的にどのルールなのかは示さなかった。結局、プラットフォームにおいて一定の影響力を持つTwitterにとって都合の悪いコンテンツを排除したかっただけなんだよな。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615496997938823170)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615496997938823170)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615496997938823170)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T23:44:25.000Z](https://twitter.com/realshinyakato/status/1615495287233187841)
+>
+> Twitterのサードパーティクライアントの締め出し事件、これからの展開も含めて書籍化する人がでてきそうだな。Twitterにおいて歴史的な瞬間だよね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615495287233187841)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615495287233187841)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615495287233187841)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T13:32:50.000Z](https://twitter.com/realshinyakato/status/1615341377474400258)
 >
 > 明らかに問い合わせが増えてるのに、先月あたりから露骨に反応しなくなったよな
@@ -207,33 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitterスタッフはころころ変わる仕様の責任をとりたくないからTwitter Forumに顔を出さなくなったんだな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615341019339591681)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615341019339591681)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615341019339591681)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:46:30.000Z](https://twitter.com/realshinyakato/status/1615269318115328003)
->
-> RT [@hms_compassrose:](https://twitter.com/hms_compassrose:) 金を払ってデバフが得られる唯一無二のエクスペリエンス、それがTwitter Blue
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615269318115328003)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615269318115328003)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615269318115328003)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:44:40.000Z](https://twitter.com/realshinyakato/status/1615268858813886464)
->
-> Spotify 以上に虚無しか残らないサブスクだ…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615268858813886464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615268858813886464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615268858813886464)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-17T08:43:13.000Z](https://twitter.com/realshinyakato/status/1615268494001704963)
->
-> 今のところTwitter Blueに金を払うメリットは認証マークしかないんだよな。その他はあってもなくても変わらないどうでもいい機能だし、はっきり言ってクソすぎる
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615268494001704963)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615268494001704963)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615268494001704963)
 
 ---
 <!-- MY-TWEETS:END -->
