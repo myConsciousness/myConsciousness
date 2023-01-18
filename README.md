@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T06:52:27.000Z](https://twitter.com/realshinyakato/status/1615603006388711425)
+>
+> GoogleはChatGPTのような対話型AIに勝てるのか？
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615603006388711425)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615603006388711425)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615603006388711425)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T01:58:22.000Z](https://twitter.com/realshinyakato/status/1615528995776532480)
 >
 > こういった特定の分野に特化したAIを融合させていくと面白そうだね。ソフトウェアごと統合ではなくて、API同士で会話するイメージ https://t.co/PcUZvE2LUW
@@ -228,15 +237,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@uakihir0](https://twitter.com/uakihir0) ここでTwitterルールを出してきたのは都合のいい免罪符に感じますね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615505177037115397)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615505177037115397)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615505177037115397)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:15:26.000Z](https://twitter.com/realshinyakato/status/1615503094288363520)
->
-> イーロンマスクはTwitterの投票とかを使用して民主主義的なイメージを作ってるけど、彼はPayPal創業からTeslaが成功して今に至るまでずっと選民的なエリート第一主義だよ。自分たち上層のエリートの決定が完全に正しいと考えているし、その結果がTwitterルールの濫用に如実に現れてる
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615503094288363520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615503094288363520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615503094288363520)
 
 ---
 <!-- MY-TWEETS:END -->
