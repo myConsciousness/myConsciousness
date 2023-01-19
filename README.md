@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T05:09:25.000Z](https://twitter.com/realshinyakato/status/1615939465427705858)
+>
+> [@KhalidWarsa](https://twitter.com/KhalidWarsa) Yes traditionally named parameters are used for Widgets! However, with the exception of something like a Text widget, the data field is not a named parameter. This is probably because Text("something") is more concise than Text(data: "something")... This is philosophical 😁
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615939465427705858)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615939465427705858)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615939465427705858)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T02:14:28.000Z](https://twitter.com/realshinyakato/status/1615895436891684865)
 >
 > Are there already best practices for situations where named parameters should and should not be used in [#Dart?](https://twitter.com/hashtag/Dart??src=hashtag_click) I basically use named parameters if the number of arguments is greater than 1.
@@ -226,17 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Have been waiting for it since the time i started learning Flutt…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615888427219816448)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615888427219816448)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615888427219816448)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:35:04.000Z](https://twitter.com/realshinyakato/status/1615885519262732294)
->
-> RT [@ashevat:](https://twitter.com/ashevat:) [@TwitterDev](https://twitter.com/TwitterDev) Has this account been hacked? Who is writing this? This is poorly written and super uninformative. 
-> 
-> (terms of ser…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615885519262732294)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615885519262732294)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615885519262732294)
 
 ---
 <!-- MY-TWEETS:END -->
