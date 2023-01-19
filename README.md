@@ -192,50 +192,51 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T23:03:27.000Z](https://twitter.com/realshinyakato/status/1615847365881257984)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T02:14:28.000Z](https://twitter.com/realshinyakato/status/1615895436891684865)
 >
-> RT [@polilluminato:](https://twitter.com/polilluminato:) With the help of the fantastic package https://t.co/aZqcBOKNmt by [@realshinyakato](https://twitter.com/realshinyakato) I am working on something really inter…
+> Are there already best practices for situations where named parameters should and should not be used in [#Dart?](https://twitter.com/hashtag/Dart??src=hashtag_click) I basically use named parameters if the number of arguments is greater than 1.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615847365881257984)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615847365881257984)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615847365881257984)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615895436891684865)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615895436891684865)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615895436891684865)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T06:52:27.000Z](https://twitter.com/realshinyakato/status/1615603006388711425)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:54:40.000Z](https://twitter.com/realshinyakato/status/1615890455002251265)
 >
-> GoogleはChatGPTのような対話型AIに勝てるのか？
+> RT [@BenThePCGuy:](https://twitter.com/BenThePCGuy:) Well gang, the reaper came for my team today &amp; my time at [@Microsoft](https://twitter.com/Microsoft) is officially up. It's been an amazing 15 years. Than…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615603006388711425)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615603006388711425)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615603006388711425)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615890455002251265)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615890455002251265)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615890455002251265)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T01:58:22.000Z](https://twitter.com/realshinyakato/status/1615528995776532480)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:46:50.000Z](https://twitter.com/realshinyakato/status/1615888481628344321)
 >
-> こういった特定の分野に特化したAIを融合させていくと面白そうだね。ソフトウェアごと統合ではなくて、API同士で会話するイメージ https://t.co/PcUZvE2LUW
+> RT [@timsneath:](https://twitter.com/timsneath:) Read this thread -- it's a good one! [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#a11y](https://twitter.com/hashtag/a11y?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615528995776532480)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615528995776532480)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615528995776532480)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615888481628344321)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615888481628344321)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615888481628344321)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T01:56:43.000Z](https://twitter.com/realshinyakato/status/1615528580880166913)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:46:37.000Z](https://twitter.com/realshinyakato/status/1615888427219816448)
 >
-> RT [@madonomori:](https://twitter.com/madonomori:) 「DeepL Write」が登場 ～翻訳ではなく、より正確・自然な文章提案に特化したAI／Webブラウザーさえあれば誰でも無料で利用可能 https://t.co/kXN8EHrCRX https://t.co/vArMKUyhlx
-> ![No AltText](https://pbs.twimg.com/media/FmtZJzRaAAYsKPT.jpg)
-> ![No AltText](https://pbs.twimg.com/media/FmtZKOfacAAGaJa.jpg)
-> ![No AltText](https://pbs.twimg.com/media/FmtZKq7aAAE320d.jpg)
+> RT [@GopinathanAswin:](https://twitter.com/GopinathanAswin:) This blue birdie finally arrived at my home today 💙💙
+> 
+> Have been waiting for it since the time i started learning Flutt…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615528580880166913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615528580880166913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615528580880166913)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615888427219816448)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615888427219816448)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615888427219816448)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:34:04.000Z](https://twitter.com/realshinyakato/status/1615507781972561920)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:35:04.000Z](https://twitter.com/realshinyakato/status/1615885519262732294)
 >
-> 俺の場合はフォロワーが5000人いたアカウントが凍結されただけで作ったAPIクライアントはまだ現役だからいいんだけど、アプリをまるごと吹っ飛ばされた人は堪らんね
+> RT [@ashevat:](https://twitter.com/ashevat:) [@TwitterDev](https://twitter.com/TwitterDev) Has this account been hacked? Who is writing this? This is poorly written and super uninformative. 
+> 
+> (terms of ser…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615507781972561920)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615507781972561920)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615507781972561920)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615885519262732294)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615885519262732294)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615885519262732294)
 
 ---
 <!-- MY-TWEETS:END -->
