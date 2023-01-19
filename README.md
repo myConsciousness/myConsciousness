@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T23:03:27.000Z](https://twitter.com/realshinyakato/status/1615847365881257984)
+>
+> RT [@polilluminato:](https://twitter.com/polilluminato:) With the help of the fantastic package https://t.co/aZqcBOKNmt by [@realshinyakato](https://twitter.com/realshinyakato) I am working on something really inter…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615847365881257984)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615847365881257984)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615847365881257984)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T06:52:27.000Z](https://twitter.com/realshinyakato/status/1615603006388711425)
 >
 > GoogleはChatGPTのような対話型AIに勝てるのか？
@@ -228,15 +237,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 俺の場合はフォロワーが5000人いたアカウントが凍結されただけで作ったAPIクライアントはまだ現役だからいいんだけど、アプリをまるごと吹っ飛ばされた人は堪らんね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1615507781972561920)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615507781972561920)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615507781972561920)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-18T00:23:43.000Z](https://twitter.com/realshinyakato/status/1615505177037115397)
->
-> [@uakihir0](https://twitter.com/uakihir0) ここでTwitterルールを出してきたのは都合のいい免罪符に感じますね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615505177037115397)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615505177037115397)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615505177037115397)
 
 ---
 <!-- MY-TWEETS:END -->
