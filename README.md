@@ -192,49 +192,48 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T05:09:25.000Z](https://twitter.com/realshinyakato/status/1615939465427705858)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T01:03:29.000Z](https://twitter.com/realshinyakato/status/1616239962105745408)
 >
-> [@KhalidWarsa](https://twitter.com/KhalidWarsa) Yes traditionally named parameters are used for Widgets! However, with the exception of something like a Text widget, the data field is not a named parameter. This is probably because Text("something") is more concise than Text(data: "something")... This is philosophical 😁
+> Although seemingly redundant, sometimes these implementations are the most productive and safe. https://t.co/dHJnFtBNaA
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615939465427705858)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615939465427705858)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615939465427705858)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616239962105745408)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616239962105745408)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616239962105745408)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T02:14:28.000Z](https://twitter.com/realshinyakato/status/1615895436891684865)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T01:01:44.000Z](https://twitter.com/realshinyakato/status/1616239519535333376)
 >
-> Are there already best practices for situations where named parameters should and should not be used in [#Dart?](https://twitter.com/hashtag/Dart??src=hashtag_click) I basically use named parameters if the number of arguments is greater than 1.
+> I found a question about [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) giving an error. https://t.co/EAnLs3Swr5
+> ![No AltText](https://pbs.twimg.com/media/Fm4JID_aYAI1Ws6.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615895436891684865)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615895436891684865)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615895436891684865)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616239519535333376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616239519535333376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616239519535333376)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:54:40.000Z](https://twitter.com/realshinyakato/status/1615890455002251265)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T00:37:16.000Z](https://twitter.com/realshinyakato/status/1616233362490023936)
 >
-> RT [@BenThePCGuy:](https://twitter.com/BenThePCGuy:) Well gang, the reaper came for my team today &amp; my time at [@Microsoft](https://twitter.com/Microsoft) is officially up. It's been an amazing 15 years. Than…
+> Please consider this [@elonmusk](https://twitter.com/elonmusk) https://t.co/4e8sGzVgPa
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615890455002251265)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615890455002251265)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615890455002251265)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616233362490023936)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616233362490023936)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616233362490023936)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:46:50.000Z](https://twitter.com/realshinyakato/status/1615888481628344321)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T00:36:46.000Z](https://twitter.com/realshinyakato/status/1616233238657404928)
 >
-> RT [@timsneath:](https://twitter.com/timsneath:) Read this thread -- it's a good one! [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#a11y](https://twitter.com/hashtag/a11y?src=hashtag_click)
+> Twitter APIを学術研究用途のために使用しろと言うのであれば、Academic Research Accessの申請要件を緩和すべき。研究方針を示すことができるのであれば、現役の研究者以外でも使えるようにするべきだ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615888481628344321)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615888481628344321)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615888481628344321)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616233238657404928)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616233238657404928)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616233238657404928)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-19T01:46:37.000Z](https://twitter.com/realshinyakato/status/1615888427219816448)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T00:29:09.000Z](https://twitter.com/realshinyakato/status/1616231320165978112)
 >
-> RT [@GopinathanAswin:](https://twitter.com/GopinathanAswin:) This blue birdie finally arrived at my home today 💙💙
-> 
-> Have been waiting for it since the time i started learning Flutt…
+> Twitterスタッフに対して去年からTwitter API v2.0の開発方針を明確にしてほしいと訴えてきたが、こんな形で示されたのは残念だ。ただ、以前からサードパーティクライアント向けの機能を追加することに消極的だったので、イーロンマスクがCEOになる前からこの話は社内にあったのだと感じる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1615888427219816448)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1615888427219816448)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1615888427219816448)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616231320165978112)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616231320165978112)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616231320165978112)
 
 ---
 <!-- MY-TWEETS:END -->
