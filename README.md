@@ -192,51 +192,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:34:51.000Z](https://twitter.com/realshinyakato/status/1616625342801940480)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:46:49.000Z](https://twitter.com/realshinyakato/status/1616643452820926464)
 >
-> RT [@Yamkaz:](https://twitter.com/Yamkaz:) 超高精度な国産音声認識AI「ReazonSpeech」が無償公開されたので文字起こし機能を使ってみた
-> https://t.co/yABUPI2y00
+> 既にTwitterはDevRelの歴史上に負の前例を作ってしまったので、全力でコミットするのはややリスクが高い
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616625342801940480)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616625342801940480)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616625342801940480)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616643452820926464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616643452820926464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616643452820926464)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:34:06.000Z](https://twitter.com/realshinyakato/status/1616625152690913280)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:44:36.000Z](https://twitter.com/realshinyakato/status/1616642893917323266)
 >
-> RT [@NazologyInfo:](https://twitter.com/NazologyInfo:) 空にレーザーを発射して自然発生した稲妻の進路を変えることに成功
-> https://t.co/LwM3SWbJ4j
+> Twitterのデータ活用はまだ一般的なユーザーには行き届いていないので、そうした機能をユーザーに簡単に提供できる仕組みを作れれば新しい市場を開拓できるかもしれない。ただ、懸念としては公式Twitterの気分次第でこうした非公式なサービスは禁止される可能性があること
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616642893917323266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616642893917323266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616642893917323266)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:39:21.000Z](https://twitter.com/realshinyakato/status/1616641574905217025)
+>
+> Twitterのデータ解析サービスだとこういうのもある。Metricsで提供されるデータをどう活用するかが次世代サービスの鍵か
 > 
-> スイス・ジュネーヴ大は自然の雷をレーザーで避雷針へ誘導することに成功。写真から雷がはっきり誘導されているのがわかります。以前も紹…
+> https://t.co/EDUqnpshLq
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616625152690913280)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616625152690913280)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616625152690913280)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616641574905217025)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616641574905217025)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616641574905217025)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:32:04.000Z](https://twitter.com/realshinyakato/status/1616624640432148484)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:26:20.000Z](https://twitter.com/realshinyakato/status/1616638296330997761)
 >
-> [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) はやはり日本語に最適化されていないのかめちゃくちゃ回答まで時間かかるね
+> そしてレイオフされたビッグテックの元従業員は他のビッグテックに移ることもあるけど、多くはスタートアップに流れて優秀なスキルとノウハウが勝手に伝播していくので、次の時代のビッグテックを生み出すきっかけにもなる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616624640432148484)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616624640432148484)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616624640432148484)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616638296330997761)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616638296330997761)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616638296330997761)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:18:42.000Z](https://twitter.com/realshinyakato/status/1616621277304983552)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:22:07.000Z](https://twitter.com/realshinyakato/status/1616637234798817283)
 >
-> I would like to see hardware like [#GoogleHome](https://twitter.com/hashtag/GoogleHome?src=hashtag_click) and [#Alexa](https://twitter.com/hashtag/Alexa?src=hashtag_click) implement communication with [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click)
+> ビッグテックの大規模レイオフを単純に景気減速と片付けるのは誤りで、次の成長のための準備に過ぎない。米国企業はダイナミックに新陳代謝を繰り返すことで爆発的に成長してきた
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616621277304983552)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616621277304983552)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616621277304983552)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:13:15.000Z](https://twitter.com/realshinyakato/status/1616619904396054528)
->
-> RT [@royvanrijn:](https://twitter.com/royvanrijn:) Fun use-case to implement, I love the aesthetics of Java's switch expression. https://t.co/8Qjc6uOCB6
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616619904396054528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616619904396054528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616619904396054528)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616637234798817283)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616637234798817283)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616637234798817283)
 
 ---
 <!-- MY-TWEETS:END -->
