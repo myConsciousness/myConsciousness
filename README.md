@@ -192,55 +192,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T01:27:28.000Z](https://twitter.com/realshinyakato/status/1616608383729274881)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:18:42.000Z](https://twitter.com/realshinyakato/status/1616621277304983552)
 >
-> RT [@hakuto00:](https://twitter.com/hakuto00:) VSCodeにChatGPTの拡張機能が登場！
-> チャットはもちろん、バグ発見やテストコードの生成等が簡単にできます。
-> 
-> ショートカットを設定すると更に便利。自分は[cmd+shift+c]+[他キー]を組み合わせて設定してます。
-> 
-> 追加方法はリプ欄。…
+> I would like to see hardware like [#GoogleHome](https://twitter.com/hashtag/GoogleHome?src=hashtag_click) and [#Alexa](https://twitter.com/hashtag/Alexa?src=hashtag_click) implement communication with [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616608383729274881)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616608383729274881)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616608383729274881)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616621277304983552)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616621277304983552)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616621277304983552)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T08:51:47.000Z](https://twitter.com/realshinyakato/status/1616357809968525319)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:13:15.000Z](https://twitter.com/realshinyakato/status/1616619904396054528)
 >
-> RT [@takke:](https://twitter.com/takke:) ところで私の Mastodon アカウントはこちらです⇒ https://t.co/vYmlhwXBQ9
+> RT [@royvanrijn:](https://twitter.com/royvanrijn:) Fun use-case to implement, I love the aesthetics of Java's switch expression. https://t.co/8Qjc6uOCB6
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616357809968525319)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616357809968525319)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616357809968525319)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616619904396054528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616619904396054528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616619904396054528)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T01:35:01.000Z](https://twitter.com/realshinyakato/status/1616247896281853952)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:08:19.000Z](https://twitter.com/realshinyakato/status/1616618666094891010)
 >
-> RT [@Yamkaz:](https://twitter.com/Yamkaz:) コーネル工科大学の応用機械学習コースの無料の80本の講義ビデオと資料
-> https://t.co/Clk8LH0TTm https://t.co/MbjGArN9uB
-> ![No AltText](https://pbs.twimg.com/media/FmzvXrjaAAAXdy2.jpg)
+> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) に嫌気が差して [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) に逃げても、結局物足りなさを感じてTwitterに戻ってくる人が多い
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616247896281853952)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616247896281853952)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616247896281853952)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616618666094891010)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616618666094891010)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616618666094891010)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T01:03:29.000Z](https://twitter.com/realshinyakato/status/1616239962105745408)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:04:36.000Z](https://twitter.com/realshinyakato/status/1616617730849017857)
 >
-> Although seemingly redundant, sometimes these implementations are the most productive and safe. https://t.co/dHJnFtBNaA
+> Mastodonへ移行するにしても、Mastodonの欠点はやはりアクティブユーザー数が圧倒的に少ないことなんだよね。Mastodonで発信するのと、Twitterで発信するのではその波及効果がぜんぜん違う。また開発者目線だとアクティブユーザー数が少ないことでテストしにくい機能がいくつかある。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616239962105745408)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616239962105745408)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616239962105745408)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616617730849017857)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616617730849017857)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616617730849017857)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T01:01:44.000Z](https://twitter.com/realshinyakato/status/1616239519535333376)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T02:01:48.000Z](https://twitter.com/realshinyakato/status/1616617023886487552)
 >
-> I found a question about [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) giving an error. https://t.co/EAnLs3Swr5
-> ![No AltText](https://pbs.twimg.com/media/Fm4JID_aYAI1Ws6.jpg)
+> ユーザーが増えたらGitHub Copilotみたいに有料化するんだろうか
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616239519535333376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616239519535333376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616239519535333376)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616617023886487552)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616617023886487552)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616617023886487552)
 
 ---
 <!-- MY-TWEETS:END -->
