@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T04:12:11.000Z](https://twitter.com/realshinyakato/status/1616649836178345987)
+>
+> 日本発の世界的サービスって本当に目にしないんだよな。たまたまなのかな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616649836178345987)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616649836178345987)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616649836178345987)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:46:49.000Z](https://twitter.com/realshinyakato/status/1616643452820926464)
 >
 > 既にTwitterはDevRelの歴史上に負の前例を作ってしまったので、全力でコミットするのはややリスクが高い
@@ -226,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > そしてレイオフされたビッグテックの元従業員は他のビッグテックに移ることもあるけど、多くはスタートアップに流れて優秀なスキルとノウハウが勝手に伝播していくので、次の時代のビッグテックを生み出すきっかけにもなる
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1616638296330997761)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616638296330997761)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616638296330997761)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:22:07.000Z](https://twitter.com/realshinyakato/status/1616637234798817283)
->
-> ビッグテックの大規模レイオフを単純に景気減速と片付けるのは誤りで、次の成長のための準備に過ぎない。米国企業はダイナミックに新陳代謝を繰り返すことで爆発的に成長してきた
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616637234798817283)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616637234798817283)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616637234798817283)
 
 ---
 <!-- MY-TWEETS:END -->
