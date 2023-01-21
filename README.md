@@ -192,6 +192,20 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T01:27:28.000Z](https://twitter.com/realshinyakato/status/1616608383729274881)
+>
+> RT [@hakuto00:](https://twitter.com/hakuto00:) VSCodeにChatGPTの拡張機能が登場！
+> チャットはもちろん、バグ発見やテストコードの生成等が簡単にできます。
+> 
+> ショートカットを設定すると更に便利。自分は[cmd+shift+c]+[他キー]を組み合わせて設定してます。
+> 
+> 追加方法はリプ欄。…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616608383729274881)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616608383729274881)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616608383729274881)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T08:51:47.000Z](https://twitter.com/realshinyakato/status/1616357809968525319)
 >
 > RT [@takke:](https://twitter.com/takke:) ところで私の Mastodon アカウントはこちらです⇒ https://t.co/vYmlhwXBQ9
@@ -227,15 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/Fm4JID_aYAI1Ws6.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1616239519535333376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616239519535333376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616239519535333376)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-20T00:37:16.000Z](https://twitter.com/realshinyakato/status/1616233362490023936)
->
-> Please consider this [@elonmusk](https://twitter.com/elonmusk) https://t.co/4e8sGzVgPa
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616233362490023936)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616233362490023936)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616233362490023936)
 
 ---
 <!-- MY-TWEETS:END -->
