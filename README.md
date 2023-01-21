@@ -192,6 +192,26 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T09:55:58.000Z](https://twitter.com/realshinyakato/status/1616736352154062848)
+>
+> Wikipediaで豚骨ラーメンの日本語ページがないってどういうことだ…
+> 
+> https://t.co/tA1CA0i0or
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616736352154062848)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616736352154062848)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616736352154062848)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T09:45:37.000Z](https://twitter.com/realshinyakato/status/1616733747675803649)
+>
+> [@takke](https://twitter.com/takke) おそらく、Twitterの基準で収益が見込めるものであれば片っ端から潰して公式で展開すると思いますね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616733747675803649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616733747675803649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616733747675803649)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T04:12:11.000Z](https://twitter.com/realshinyakato/status/1616649836178345987)
 >
 > 日本発の世界的サービスって本当に目にしないんだよな。たまたまなのかな
@@ -215,26 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitterのデータ活用はまだ一般的なユーザーには行き届いていないので、そうした機能をユーザーに簡単に提供できる仕組みを作れれば新しい市場を開拓できるかもしれない。ただ、懸念としては公式Twitterの気分次第でこうした非公式なサービスは禁止される可能性があること
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1616642893917323266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616642893917323266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616642893917323266)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:39:21.000Z](https://twitter.com/realshinyakato/status/1616641574905217025)
->
-> Twitterのデータ解析サービスだとこういうのもある。Metricsで提供されるデータをどう活用するかが次世代サービスの鍵か
-> 
-> https://t.co/EDUqnpshLq
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616641574905217025)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616641574905217025)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616641574905217025)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:26:20.000Z](https://twitter.com/realshinyakato/status/1616638296330997761)
->
-> そしてレイオフされたビッグテックの元従業員は他のビッグテックに移ることもあるけど、多くはスタートアップに流れて優秀なスキルとノウハウが勝手に伝播していくので、次の時代のビッグテックを生み出すきっかけにもなる
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616638296330997761)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616638296330997761)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616638296330997761)
 
 ---
 <!-- MY-TWEETS:END -->
