@@ -192,49 +192,50 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T09:55:58.000Z](https://twitter.com/realshinyakato/status/1616736352154062848)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:12:37.000Z](https://twitter.com/realshinyakato/status/1616967036420390914)
 >
-> Wikipediaで豚骨ラーメンの日本語ページがないってどういうことだ…
+> [@t0riumi](https://twitter.com/t0riumi) 相当追い込まれてると思いますね。Twitter Blueみたいな収益を拡大するプランを出しても状況を変えるほど大きな効果はなかったですし、サードパーティクライアントを即日処刑したのはもうなりふり構っていられないことを表しています
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616967036420390914)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616967036420390914)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616967036420390914)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:05:33.000Z](https://twitter.com/realshinyakato/status/1616965258110996481)
+>
+> まあ理系はマスター以上にならないと良い働き口になかなか辿り着けないから、研究はどうでもよくて箔をつける程度の考えしかない人が多いだろうね。修士や博士の中でもより細かい区分けが必要なんじゃないかな。 https://t.co/yvRg3OUazw
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616965258110996481)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616965258110996481)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616965258110996481)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:00:14.000Z](https://twitter.com/realshinyakato/status/1616963920056692738)
+>
+> RT [@nekoace55:](https://twitter.com/nekoace55:) 企業研究所の悪いところは、（実は）研究に興味ない修士卒が多数を占めているところにある。
+> だからどこかで聞いたような研究テーマしか出なく、競争力もない。
 > 
-> https://t.co/tA1CA0i0or
+> ホントは論文書けてビジネスにも興味ある少数精鋭の研究者と、オペレーション担当する多数の技能職で…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616736352154062848)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616736352154062848)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616736352154062848)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616963920056692738)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616963920056692738)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616963920056692738)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T09:45:37.000Z](https://twitter.com/realshinyakato/status/1616733747675803649)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T00:59:14.000Z](https://twitter.com/realshinyakato/status/1616963667400228865)
 >
-> [@takke](https://twitter.com/takke) おそらく、Twitterの基準で収益が見込めるものであれば片っ端から潰して公式で展開すると思いますね
+> 外国人でも日本語ツイートを自動翻訳して読んでる人が多いようなので、できるだけ翻訳しやすい文章にしておくといいかもしれない。日本でしか通じないスラングは厳禁。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616733747675803649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616733747675803649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616733747675803649)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616963667400228865)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616963667400228865)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616963667400228865)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T04:12:11.000Z](https://twitter.com/realshinyakato/status/1616649836178345987)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T00:47:20.000Z](https://twitter.com/realshinyakato/status/1616960671920553985)
 >
-> 日本発の世界的サービスって本当に目にしないんだよな。たまたまなのかな
+> harpy作者のロベルトがtwitter_api_v2の開発に協力してくれて、そしてこのパッケージをharpyに組み込んでくれた恩を俺は忘れない。harpyはFlutterで作られたアプリの中でも特に完成度の高い作品の一つだったから非常に残念だ。 https://t.co/vDT6W5Qx4F
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616649836178345987)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616649836178345987)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616649836178345987)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:46:49.000Z](https://twitter.com/realshinyakato/status/1616643452820926464)
->
-> 既にTwitterはDevRelの歴史上に負の前例を作ってしまったので、全力でコミットするのはややリスクが高い
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616643452820926464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616643452820926464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616643452820926464)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-21T03:44:36.000Z](https://twitter.com/realshinyakato/status/1616642893917323266)
->
-> Twitterのデータ活用はまだ一般的なユーザーには行き届いていないので、そうした機能をユーザーに簡単に提供できる仕組みを作れれば新しい市場を開拓できるかもしれない。ただ、懸念としては公式Twitterの気分次第でこうした非公式なサービスは禁止される可能性があること
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616642893917323266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616642893917323266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616642893917323266)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616960671920553985)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616960671920553985)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616960671920553985)
 
 ---
 <!-- MY-TWEETS:END -->
