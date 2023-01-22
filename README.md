@@ -192,6 +192,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T10:22:52.000Z](https://twitter.com/realshinyakato/status/1617105511056539649)
+>
+> RT [@goto_yuta_:](https://twitter.com/goto_yuta_:) GPTシリーズのアーキテクチャの概要図見つけたけど、「Layer Normを層の後で適用すると勾配消失したりして学習が安定しない」みたいな話あったな〜、とか、単純にScaling Lawの話とか分かるし、懐かしい。 https://t.co/Au…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617105511056539649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617105511056539649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617105511056539649)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T10:19:30.000Z](https://twitter.com/realshinyakato/status/1617104661634514947)
+>
+> RT [@umiyuki_ai:](https://twitter.com/umiyuki_ai:) Emad氏曰く、MicrosoftがAzureにOpenAI積んで、もうすぐ全ての製品にChatGPT入れるだか言い出して、それに対抗してGoogleも禁断のスーパーAIの数々を開放する宣言しちゃった。よく考えるとこんな超巨大企業達が一斉にAI戦…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617104661634514947)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617104661634514947)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617104661634514947)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:42:17.000Z](https://twitter.com/realshinyakato/status/1616974501341982721)
 >
 > RT [@Dr_Kano:](https://twitter.com/Dr_Kano:) 博士でない人が研究所にいるのが日本企業っぽい
@@ -215,27 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@t0riumi](https://twitter.com/t0riumi) 相当追い込まれてると思いますね。Twitter Blueみたいな収益を拡大するプランを出しても状況を変えるほど大きな効果はなかったですし、サードパーティクライアントを即日処刑したのはもうなりふり構っていられないことを表しています
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1616967036420390914)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616967036420390914)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616967036420390914)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:05:33.000Z](https://twitter.com/realshinyakato/status/1616965258110996481)
->
-> まあ理系はマスター以上にならないと良い働き口になかなか辿り着けないから、研究はどうでもよくて箔をつける程度の考えしかない人が多いだろうね。修士や博士の中でもより細かい区分けが必要なんじゃないかな。 https://t.co/yvRg3OUazw
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616965258110996481)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616965258110996481)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616965258110996481)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:00:14.000Z](https://twitter.com/realshinyakato/status/1616963920056692738)
->
-> RT [@nekoace55:](https://twitter.com/nekoace55:) 企業研究所の悪いところは、（実は）研究に興味ない修士卒が多数を占めているところにある。
-> だからどこかで聞いたような研究テーマしか出なく、競争力もない。
-> 
-> ホントは論文書けてビジネスにも興味ある少数精鋭の研究者と、オペレーション担当する多数の技能職で…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616963920056692738)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616963920056692738)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616963920056692738)
 
 ---
 <!-- MY-TWEETS:END -->
