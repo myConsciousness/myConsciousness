@@ -192,6 +192,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:42:17.000Z](https://twitter.com/realshinyakato/status/1616974501341982721)
+>
+> RT [@Dr_Kano:](https://twitter.com/Dr_Kano:) 博士でない人が研究所にいるのが日本企業っぽい
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616974501341982721)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616974501341982721)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616974501341982721)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:41:51.000Z](https://twitter.com/realshinyakato/status/1616974392222941184)
+>
+> RT [@rikeihakasenoR:](https://twitter.com/rikeihakasenoR:) 大学院に必要なのは同じ熱量で研究できる仲間
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616974392222941184)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616974392222941184)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616974392222941184)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:12:37.000Z](https://twitter.com/realshinyakato/status/1616967036420390914)
 >
 > [@t0riumi](https://twitter.com/t0riumi) 相当追い込まれてると思いますね。Twitter Blueみたいな収益を拡大するプランを出しても状況を変えるほど大きな効果はなかったですし、サードパーティクライアントを即日処刑したのはもうなりふり構っていられないことを表しています
@@ -218,24 +236,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ホントは論文書けてビジネスにも興味ある少数精鋭の研究者と、オペレーション担当する多数の技能職で…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1616963920056692738)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616963920056692738)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616963920056692738)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T00:59:14.000Z](https://twitter.com/realshinyakato/status/1616963667400228865)
->
-> 外国人でも日本語ツイートを自動翻訳して読んでる人が多いようなので、できるだけ翻訳しやすい文章にしておくといいかもしれない。日本でしか通じないスラングは厳禁。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616963667400228865)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616963667400228865)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616963667400228865)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T00:47:20.000Z](https://twitter.com/realshinyakato/status/1616960671920553985)
->
-> harpy作者のロベルトがtwitter_api_v2の開発に協力してくれて、そしてこのパッケージをharpyに組み込んでくれた恩を俺は忘れない。harpyはFlutterで作られたアプリの中でも特に完成度の高い作品の一つだったから非常に残念だ。 https://t.co/vDT6W5Qx4F
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616960671920553985)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616960671920553985)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616960671920553985)
 
 ---
 <!-- MY-TWEETS:END -->
