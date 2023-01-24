@@ -192,47 +192,60 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T10:22:52.000Z](https://twitter.com/realshinyakato/status/1617105511056539649)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T23:13:22.000Z](https://twitter.com/realshinyakato/status/1617661800472018945)
 >
-> RT [@goto_yuta_:](https://twitter.com/goto_yuta_:) GPTシリーズのアーキテクチャの概要図見つけたけど、「Layer Normを層の後で適用すると勾配消失したりして学習が安定しない」みたいな話あったな〜、とか、単純にScaling Lawの話とか分かるし、懐かしい。 https://t.co/Au…
+> TSMCをポートフォリオの中に加えることも検討してるけど、台湾有事のリスクがあるから少し様子見状態。もし主要生産拠点を米国に移すのであれば全力で買う
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617105511056539649)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617105511056539649)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617105511056539649)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617661800472018945)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617661800472018945)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617661800472018945)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T10:19:30.000Z](https://twitter.com/realshinyakato/status/1617104661634514947)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T23:06:14.000Z](https://twitter.com/realshinyakato/status/1617660005750296576)
 >
-> RT [@umiyuki_ai:](https://twitter.com/umiyuki_ai:) Emad氏曰く、MicrosoftがAzureにOpenAI積んで、もうすぐ全ての製品にChatGPT入れるだか言い出して、それに対抗してGoogleも禁断のスーパーAIの数々を開放する宣言しちゃった。よく考えるとこんな超巨大企業達が一斉にAI戦…
+> 半導体関連銘柄が記録的に買い戻されてる https://t.co/wh7Si4NMX2
+> ![No AltText](https://pbs.twimg.com/media/FnMVM0DacAAYzm7.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617104661634514947)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617104661634514947)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617104661634514947)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617660005750296576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617660005750296576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617660005750296576)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:42:17.000Z](https://twitter.com/realshinyakato/status/1616974501341982721)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T12:57:36.000Z](https://twitter.com/realshinyakato/status/1617506838953746437)
 >
-> RT [@Dr_Kano:](https://twitter.com/Dr_Kano:) 博士でない人が研究所にいるのが日本企業っぽい
+> After all, it's important to get away from the familiar for a while to gain a new perspective :)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616974501341982721)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616974501341982721)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616974501341982721)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617506838953746437)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617506838953746437)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617506838953746437)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:41:51.000Z](https://twitter.com/realshinyakato/status/1616974392222941184)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T12:56:29.000Z](https://twitter.com/realshinyakato/status/1617506554844188680)
 >
-> RT [@rikeihakasenoR:](https://twitter.com/rikeihakasenoR:) 大学院に必要なのは同じ熱量で研究できる仲間
+> Why didn't I ever wonder about this before? I would modify [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) to set status code and header information in TwitterResponse.
+> 
+> #Dart [#Flutter
+> 
+> https://t.co/FBdiYvJZll](https://twitter.com/hashtag/Flutter
+> 
+> https://t.co/FBdiYvJZll?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616974392222941184)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616974392222941184)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616974392222941184)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617506554844188680)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617506554844188680)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617506554844188680)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-22T01:12:37.000Z](https://twitter.com/realshinyakato/status/1616967036420390914)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T12:47:09.000Z](https://twitter.com/realshinyakato/status/1617504207623581696)
 >
-> [@t0riumi](https://twitter.com/t0riumi) 相当追い込まれてると思いますね。Twitter Blueみたいな収益を拡大するプランを出しても状況を変えるほど大きな効果はなかったですし、サードパーティクライアントを即日処刑したのはもうなりふり構っていられないことを表しています
+> Today I started developing an unofficial Twitter API Playground in [#Flutter.](https://twitter.com/hashtag/Flutter.?src=hashtag_click) I have already done some processing and will release it in the near future. Currently, I plan to provide only an Android version :)
+> 
+> #TwitterAPI [#Dart
+> 
+> https://t.co/ep1NMMGh2A](https://twitter.com/hashtag/Dart
+> 
+> https://t.co/ep1NMMGh2A?src=hashtag_click)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1616967036420390914)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1616967036420390914)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1616967036420390914)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617504207623581696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617504207623581696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617504207623581696)
 
 ---
 <!-- MY-TWEETS:END -->
