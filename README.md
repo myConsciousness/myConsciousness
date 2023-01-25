@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-25T08:35:30.000Z](https://twitter.com/realshinyakato/status/1618165652858212352)
+>
+> RT [@dart_lang:](https://twitter.com/dart_lang:) Dart 2.19 introduces the run() function for isolates, that turns the complex, 20+ line solution for implementing concurrency…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618165652858212352)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618165652858212352)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618165652858212352)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T23:13:22.000Z](https://twitter.com/realshinyakato/status/1617661800472018945)
 >
 > TSMCをポートフォリオの中に加えることも検討してるけど、台湾有事のリスクがあるから少し様子見状態。もし主要生産拠点を米国に移すのであれば全力で買う
@@ -231,21 +240,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/FBdiYvJZll?src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1617506554844188680)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617506554844188680)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617506554844188680)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T12:47:09.000Z](https://twitter.com/realshinyakato/status/1617504207623581696)
->
-> Today I started developing an unofficial Twitter API Playground in [#Flutter.](https://twitter.com/hashtag/Flutter.?src=hashtag_click) I have already done some processing and will release it in the near future. Currently, I plan to provide only an Android version :)
-> 
-> #TwitterAPI [#Dart
-> 
-> https://t.co/ep1NMMGh2A](https://twitter.com/hashtag/Dart
-> 
-> https://t.co/ep1NMMGh2A?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617504207623581696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617504207623581696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617504207623581696)
 
 ---
 <!-- MY-TWEETS:END -->
