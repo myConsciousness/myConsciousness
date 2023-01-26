@@ -192,48 +192,50 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-25T23:59:45.000Z](https://twitter.com/realshinyakato/status/1618398250238869504)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:11:28.000Z](https://twitter.com/realshinyakato/status/1618416295741100033)
 >
-> [@takke](https://twitter.com/takke) ここ数年で結構確認項目が増えましたね
+> The difficulty lies, not in the new ideas, but in escaping from the old ones. https://t.co/56ABx2NI84
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618398250238869504)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618398250238869504)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618398250238869504)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618416295741100033)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618416295741100033)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618416295741100033)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-25T08:35:30.000Z](https://twitter.com/realshinyakato/status/1618165652858212352)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:10:23.000Z](https://twitter.com/realshinyakato/status/1618416022461218816)
 >
-> RT [@dart_lang:](https://twitter.com/dart_lang:) Dart 2.19 introduces the run() function for isolates, that turns the complex, 20+ line solution for implementing concurrency…
+> RT [@gijigae:](https://twitter.com/gijigae:) この格差はホント大きい。新しいがん治療薬の発見には通常数年はかかる💊。ところが、トロント大学の研究チームは@DeepMindの「AlphaFold」を活用しその期間を1ヶ月未満に短縮してる（👉https://t.co/GoySZMbQnW）。AIを活用…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618165652858212352)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618165652858212352)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618165652858212352)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618416022461218816)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618416022461218816)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618416022461218816)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T23:13:22.000Z](https://twitter.com/realshinyakato/status/1617661800472018945)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:09:17.000Z](https://twitter.com/realshinyakato/status/1618415747801419776)
 >
-> TSMCをポートフォリオの中に加えることも検討してるけど、台湾有事のリスクがあるから少し様子見状態。もし主要生産拠点を米国に移すのであれば全力で買う
+> RT [@timsneath:](https://twitter.com/timsneath:) The second is wireless debugging for iOS, a highly requested feature, which has just arrived in the master branch of Flutter…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617661800472018945)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617661800472018945)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617661800472018945)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415747801419776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415747801419776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415747801419776)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T23:06:14.000Z](https://twitter.com/realshinyakato/status/1617660005750296576)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:08:03.000Z](https://twitter.com/realshinyakato/status/1618415435883638784)
 >
-> 半導体関連銘柄が記録的に買い戻されてる https://t.co/wh7Si4NMX2
-> ![No AltText](https://pbs.twimg.com/media/FnMVM0DacAAYzm7.jpg)
+> Will [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) packages that do not even support [#NullSafety](https://twitter.com/hashtag/NullSafety?src=hashtag_click) continue to be preserved? I don't see much point in continuing to archive these.
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617660005750296576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617660005750296576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617660005750296576)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415435883638784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415435883638784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415435883638784)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T12:57:36.000Z](https://twitter.com/realshinyakato/status/1617506838953746437)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:06:37.000Z](https://twitter.com/realshinyakato/status/1618415074527580162)
 >
-> After all, it's important to get away from the familiar for a while to gain a new perspective :)
+> Dart 3 ready 👀
+> 
+> https://t.co/m612tujfab https://t.co/dd8fJNFhjL
+> ![No AltText](https://pbs.twimg.com/media/FnXD6A6akAEKkjb.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617506838953746437)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617506838953746437)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617506838953746437)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415074527580162)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415074527580162)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415074527580162)
 
 ---
 <!-- MY-TWEETS:END -->
