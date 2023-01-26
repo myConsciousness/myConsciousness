@@ -192,6 +192,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:59:27.000Z](https://twitter.com/realshinyakato/status/1618428373210136577)
+>
+> 👀 https://t.co/d8A4xUM1lJ
+> ![No AltText](https://pbs.twimg.com/media/FnXQBnCacAAORTU.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618428373210136577)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618428373210136577)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618428373210136577)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:11:28.000Z](https://twitter.com/realshinyakato/status/1618416295741100033)
 >
 > The difficulty lies, not in the new ideas, but in escaping from the old ones. https://t.co/56ABx2NI84
@@ -224,18 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Will [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) packages that do not even support [#NullSafety](https://twitter.com/hashtag/NullSafety?src=hashtag_click) continue to be preserved? I don't see much point in continuing to archive these.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415435883638784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415435883638784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415435883638784)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:06:37.000Z](https://twitter.com/realshinyakato/status/1618415074527580162)
->
-> Dart 3 ready 👀
-> 
-> https://t.co/m612tujfab https://t.co/dd8fJNFhjL
-> ![No AltText](https://pbs.twimg.com/media/FnXD6A6akAEKkjb.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415074527580162)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415074527580162)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415074527580162)
 
 ---
 <!-- MY-TWEETS:END -->
