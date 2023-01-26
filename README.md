@@ -192,6 +192,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T05:30:32.000Z](https://twitter.com/realshinyakato/status/1618481493562773505)
+>
+> 👀👀👀 https://t.co/sk2AY7X7mH
+> ![No AltText](https://pbs.twimg.com/media/FnYAUZmacAADhZo.png)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618481493562773505)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618481493562773505)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618481493562773505)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:59:27.000Z](https://twitter.com/realshinyakato/status/1618428373210136577)
 >
 > 👀 https://t.co/d8A4xUM1lJ
@@ -225,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > RT [@timsneath:](https://twitter.com/timsneath:) The second is wireless debugging for iOS, a highly requested feature, which has just arrived in the master branch of Flutter…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415747801419776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415747801419776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415747801419776)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:08:03.000Z](https://twitter.com/realshinyakato/status/1618415435883638784)
->
-> Will [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) packages that do not even support [#NullSafety](https://twitter.com/hashtag/NullSafety?src=hashtag_click) continue to be preserved? I don't see much point in continuing to archive these.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415435883638784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415435883638784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415435883638784)
 
 ---
 <!-- MY-TWEETS:END -->
