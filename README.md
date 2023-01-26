@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T09:04:31.000Z](https://twitter.com/realshinyakato/status/1618535344894509058)
+>
+> I upgraded [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) and my app theme is spoiled 🥲
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618535344894509058)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618535344894509058)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618535344894509058)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T05:30:32.000Z](https://twitter.com/realshinyakato/status/1618481493562773505)
 >
 > 👀👀👀 https://t.co/sk2AY7X7mH
@@ -226,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > RT [@gijigae:](https://twitter.com/gijigae:) この格差はホント大きい。新しいがん治療薬の発見には通常数年はかかる💊。ところが、トロント大学の研究チームは@DeepMindの「AlphaFold」を活用しその期間を1ヶ月未満に短縮してる（👉https://t.co/GoySZMbQnW）。AIを活用…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1618416022461218816)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618416022461218816)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618416022461218816)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:09:17.000Z](https://twitter.com/realshinyakato/status/1618415747801419776)
->
-> RT [@timsneath:](https://twitter.com/timsneath:) The second is wireless debugging for iOS, a highly requested feature, which has just arrived in the master branch of Flutter…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618415747801419776)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618415747801419776)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618415747801419776)
 
 ---
 <!-- MY-TWEETS:END -->
