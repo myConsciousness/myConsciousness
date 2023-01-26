@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-25T23:59:45.000Z](https://twitter.com/realshinyakato/status/1618398250238869504)
+>
+> [@takke](https://twitter.com/takke) ここ数年で結構確認項目が増えましたね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618398250238869504)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618398250238869504)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618398250238869504)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-25T08:35:30.000Z](https://twitter.com/realshinyakato/status/1618165652858212352)
 >
 > RT [@dart_lang:](https://twitter.com/dart_lang:) Dart 2.19 introduces the run() function for isolates, that turns the complex, 20+ line solution for implementing concurrency…
@@ -225,21 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > After all, it's important to get away from the familiar for a while to gain a new perspective :)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1617506838953746437)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617506838953746437)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617506838953746437)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-23T12:56:29.000Z](https://twitter.com/realshinyakato/status/1617506554844188680)
->
-> Why didn't I ever wonder about this before? I would modify [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) to set status code and header information in TwitterResponse.
-> 
-> #Dart [#Flutter
-> 
-> https://t.co/FBdiYvJZll](https://twitter.com/hashtag/Flutter
-> 
-> https://t.co/FBdiYvJZll?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1617506554844188680)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1617506554844188680)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1617506554844188680)
 
 ---
 <!-- MY-TWEETS:END -->
