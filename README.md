@@ -192,49 +192,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T09:04:31.000Z](https://twitter.com/realshinyakato/status/1618535344894509058)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:10:35.000Z](https://twitter.com/realshinyakato/status/1620197816076488706)
 >
-> I upgraded [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) and my app theme is spoiled 🥲
+> ここにきてアプリ名を変えたくなってきた
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618535344894509058)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618535344894509058)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618535344894509058)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620197816076488706)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620197816076488706)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620197816076488706)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T05:30:32.000Z](https://twitter.com/realshinyakato/status/1618481493562773505)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:10:00.000Z](https://twitter.com/realshinyakato/status/1620197667791081473)
 >
-> 👀👀👀 https://t.co/sk2AY7X7mH
-> ![No AltText](https://pbs.twimg.com/media/FnYAUZmacAADhZo.png)
+> あとはリリース前にバリデーションを組み込んでおきたいところ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618481493562773505)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618481493562773505)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618481493562773505)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620197667791081473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620197667791081473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620197667791081473)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:59:27.000Z](https://twitter.com/realshinyakato/status/1618428373210136577)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:09:12.000Z](https://twitter.com/realshinyakato/status/1620197465218760706)
 >
-> 👀 https://t.co/d8A4xUM1lJ
-> ![No AltText](https://pbs.twimg.com/media/FnXQBnCacAAORTU.jpg)
+> Twitter API Playgroundの非公式アプリがようやく形になってきた。APIのスキーマをもとにして動作するようにしてるので、あとはスキーマ定義を地道に追加していくだけか
+> 
+> https://t.co/ep1NMMGh2A
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618428373210136577)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618428373210136577)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618428373210136577)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620197465218760706)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620197465218760706)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620197465218760706)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:11:28.000Z](https://twitter.com/realshinyakato/status/1618416295741100033)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:05:27.000Z](https://twitter.com/realshinyakato/status/1620196521429073920)
 >
-> The difficulty lies, not in the new ideas, but in escaping from the old ones. https://t.co/56ABx2NI84
+> RT [@devangelslondon:](https://twitter.com/devangelslondon:) Yes. That's my face 😂
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618416295741100033)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618416295741100033)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618416295741100033)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620196521429073920)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620196521429073920)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620196521429073920)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-26T01:10:23.000Z](https://twitter.com/realshinyakato/status/1618416022461218816)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:05:17.000Z](https://twitter.com/realshinyakato/status/1620196482443001857)
 >
-> RT [@gijigae:](https://twitter.com/gijigae:) この格差はホント大きい。新しいがん治療薬の発見には通常数年はかかる💊。ところが、トロント大学の研究チームは@DeepMindの「AlphaFold」を活用しその期間を1ヶ月未満に短縮してる（👉https://t.co/GoySZMbQnW）。AIを活用…
+> RT [@ServerpodDev:](https://twitter.com/ServerpodDev:) We are live! 🤩 Watch the [@ServerpodDev](https://twitter.com/ServerpodDev) 1.0 release keynote on Youtube. Over a year in the making. Finally you can write y…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1618416022461218816)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1618416022461218816)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1618416022461218816)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620196482443001857)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620196482443001857)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620196482443001857)
 
 ---
 <!-- MY-TWEETS:END -->
