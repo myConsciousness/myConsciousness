@@ -192,49 +192,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:10:35.000Z](https://twitter.com/realshinyakato/status/1620197816076488706)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:18:32.000Z](https://twitter.com/realshinyakato/status/1620381008184119296)
 >
-> ここにきてアプリ名を変えたくなってきた
+> [@Mugen_Bit](https://twitter.com/Mugen_Bit) 急に落ちるのは検索エンジンのアルゴリズム変更で上位に出てこなくなったことや、今まで目に付きやすい場所に広告のような形でアプリが掲載されていたものがなくなったことなどが考えられますね。あとは単純にアプリの需要の問題で数字が頭打ちということもあり得ると思います。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620197816076488706)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620197816076488706)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620197816076488706)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620381008184119296)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620381008184119296)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620381008184119296)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:10:00.000Z](https://twitter.com/realshinyakato/status/1620197667791081473)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:11:29.000Z](https://twitter.com/realshinyakato/status/1620379235880931328)
 >
-> あとはリリース前にバリデーションを組み込んでおきたいところ
+> こういうのは機械的に計算された統計の上に示された結果だけを真似しても意味ないんだよな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620197667791081473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620197667791081473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620197667791081473)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620379235880931328)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620379235880931328)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620379235880931328)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:09:12.000Z](https://twitter.com/realshinyakato/status/1620197465218760706)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:10:11.000Z](https://twitter.com/realshinyakato/status/1620378906539982849)
 >
-> Twitter API Playgroundの非公式アプリがようやく形になってきた。APIのスキーマをもとにして動作するようにしてるので、あとはスキーマ定義を地道に追加していくだけか
-> 
-> https://t.co/ep1NMMGh2A
+> いつも思うんだけど、「要職に女性が少ないから先進国ではない」というのはあまりにも論理が飛躍しすぎてるよね。また、「女性が議員として多い国は汚職が少ない」といったような話は性別がどうこうの話ではなくて、その国家や組織のシステム自体が優秀なのでは？
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620197465218760706)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620197465218760706)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620197465218760706)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620378906539982849)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620378906539982849)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620378906539982849)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:05:27.000Z](https://twitter.com/realshinyakato/status/1620196521429073920)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:05:14.000Z](https://twitter.com/realshinyakato/status/1620377662308114433)
 >
-> RT [@devangelslondon:](https://twitter.com/devangelslondon:) Yes. That's my face 😂
+> 今日の報道1930はちょっと番組責任者の偏った思想が滲み出てて気持ち悪いな
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620196521429073920)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620196521429073920)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620196521429073920)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620377662308114433)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620377662308114433)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620377662308114433)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-30T23:05:17.000Z](https://twitter.com/realshinyakato/status/1620196482443001857)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:03:08.000Z](https://twitter.com/realshinyakato/status/1620377132018077697)
 >
-> RT [@ServerpodDev:](https://twitter.com/ServerpodDev:) We are live! 🤩 Watch the [@ServerpodDev](https://twitter.com/ServerpodDev) 1.0 release keynote on Youtube. Over a year in the making. Finally you can write y…
+> 「幸福度が高い国には女性が要職についていることが多い」のはなんとなく理解できるけど、「女性が要職についている国は幸福度が高い」というのは論理のすり替えのような気がする。これらの表現は同じようで同じじゃないよね。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620196482443001857)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620196482443001857)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620196482443001857)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620377132018077697)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620377132018077697)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620377132018077697)
 
 ---
 <!-- MY-TWEETS:END -->
