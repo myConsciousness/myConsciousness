@@ -192,47 +192,48 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:18:32.000Z](https://twitter.com/realshinyakato/status/1620381008184119296)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:25:03.000Z](https://twitter.com/realshinyakato/status/1620805433371025410)
 >
-> [@Mugen_Bit](https://twitter.com/Mugen_Bit) 急に落ちるのは検索エンジンのアルゴリズム変更で上位に出てこなくなったことや、今まで目に付きやすい場所に広告のような形でアプリが掲載されていたものがなくなったことなどが考えられますね。あとは単純にアプリの需要の問題で数字が頭打ちということもあり得ると思います。
+> まあAPIに関する変更は毎日OpenAPIのスキーマの差分を見てれば一発でわかるんですけどね
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620381008184119296)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620381008184119296)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620381008184119296)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620805433371025410)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620805433371025410)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620805433371025410)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:11:29.000Z](https://twitter.com/realshinyakato/status/1620379235880931328)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:12:33.000Z](https://twitter.com/realshinyakato/status/1620802290323177473)
 >
-> こういうのは機械的に計算された統計の上に示された結果だけを真似しても意味ないんだよな
+> RT [@umiyuki_ai:](https://twitter.com/umiyuki_ai:) なんだこれは！驚愕を超えた驚愕！NVidiaは自然言語で行動を指示できるAIが作れる強化学習フレームワークのPADLを発表！デモ動画を観ると、AIで動いてるNPCゲームキャラに対して、「前に歩け」とか「剣を振れ」とか自然言語で指示ができている！…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620379235880931328)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620379235880931328)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620379235880931328)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620802290323177473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620802290323177473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620802290323177473)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:10:11.000Z](https://twitter.com/realshinyakato/status/1620378906539982849)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:09:47.000Z](https://twitter.com/realshinyakato/status/1620801594291007488)
 >
-> いつも思うんだけど、「要職に女性が少ないから先進国ではない」というのはあまりにも論理が飛躍しすぎてるよね。また、「女性が議員として多い国は汚職が少ない」といったような話は性別がどうこうの話ではなくて、その国家や組織のシステム自体が優秀なのでは？
+> 実際に取得できるか試してみよう
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620378906539982849)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620378906539982849)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620378906539982849)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620801594291007488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620801594291007488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620801594291007488)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:05:14.000Z](https://twitter.com/realshinyakato/status/1620377662308114433)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:09:10.000Z](https://twitter.com/realshinyakato/status/1620801436098641923)
 >
-> 今日の報道1930はちょっと番組責任者の偏った思想が滲み出てて気持ち悪いな
+> Twitterのサイレントリリースが多すぎて俺みたいなよほどの暇人でないと変更に気がつけない
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620377662308114433)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620377662308114433)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620377662308114433)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620801436098641923)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620801436098641923)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620801436098641923)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-01-31T11:03:08.000Z](https://twitter.com/realshinyakato/status/1620377132018077697)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:05:13.000Z](https://twitter.com/realshinyakato/status/1620800444489666560)
 >
-> 「幸福度が高い国には女性が要職についていることが多い」のはなんとなく理解できるけど、「女性が要職についている国は幸福度が高い」というのは論理のすり替えのような気がする。これらの表現は同じようで同じじゃないよね。
+> いつの間にかTwitter APIに認証タイプが追加された...? https://t.co/z2y0eVI0zO
+> ![No AltText](https://pbs.twimg.com/media/Fn49aOIWAAA-CxD.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620377132018077697)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620377132018077697)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620377132018077697)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620800444489666560)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620800444489666560)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620800444489666560)
 
 ---
 <!-- MY-TWEETS:END -->
