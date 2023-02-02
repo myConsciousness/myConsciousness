@@ -192,47 +192,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T05:45:17.000Z](https://twitter.com/realshinyakato/status/1621021920081870854)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:58:28.000Z](https://twitter.com/realshinyakato/status/1621040335379116032)
 >
-> 近いうちにテキスト入力だけでBIツールで作ってるようなグラフが作れそうだな https://t.co/9EaCJHWAS0
+> 長いこと無料で提供されていたサービスを有料化するのはなかなかリスクが高い選択をしたなと感じるね。ただ金を払ってまでTwitter APIを使いたいユーザーはほとんどいないんじゃないかな。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621021920081870854)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621021920081870854)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621021920081870854)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621040335379116032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621040335379116032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621040335379116032)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T01:05:04.000Z](https://twitter.com/realshinyakato/status/1620951402985168896)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:51:40.000Z](https://twitter.com/realshinyakato/status/1621038626619654144)
 >
-> RT [@OpenAI:](https://twitter.com/OpenAI:) We are piloting ChatGPT Plus, a subscription plan that offers faster response times and reliability during peak hours. And of c…
+> 未だにどこのMastodonインスタンスを本拠にしようか悩んでる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620951402985168896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620951402985168896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620951402985168896)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621038626619654144)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621038626619654144)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621038626619654144)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T01:04:17.000Z](https://twitter.com/realshinyakato/status/1620951202207879168)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:49:25.000Z](https://twitter.com/realshinyakato/status/1621038058274697217)
 >
-> RT [@timsneath:](https://twitter.com/timsneath:) A bunch of useful fixes in Flutter 3.7.1, because our product is built by humans, and artisanally-crafted software has a nat…
+> エンタープライズ向けのAPIと統合するつもりか？
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620951202207879168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620951202207879168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620951202207879168)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621038058274697217)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621038058274697217)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621038058274697217)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T00:59:20.000Z](https://twitter.com/realshinyakato/status/1620949959360278529)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:47:27.000Z](https://twitter.com/realshinyakato/status/1621037566098276352)
 >
-> スキーマ定義からソースを自動生成するスクリプトを書いておこう
+> 遊べないオモチャに興味はない
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620949959360278529)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620949959360278529)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620949959360278529)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621037566098276352)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621037566098276352)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621037566098276352)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:25:03.000Z](https://twitter.com/realshinyakato/status/1620805433371025410)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:46:57.000Z](https://twitter.com/realshinyakato/status/1621037439388356608)
 >
-> まあAPIに関する変更は毎日OpenAPIのスキーマの差分を見てれば一発でわかるんですけどね
+> ふーん、Twitter API有料化か。それならもうMastodonに開発リソースをごっそり移すか
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620805433371025410)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620805433371025410)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620805433371025410)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621037439388356608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621037439388356608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621037439388356608)
 
 ---
 <!-- MY-TWEETS:END -->
