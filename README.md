@@ -192,6 +192,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T07:54:17.000Z](https://twitter.com/realshinyakato/status/1621054382992420864)
+>
+> Twitter APIが有料化されるだけでエンドポイントの仕様が変わらないのであれば、今作ってる非公式Playgroundだけ置き土産にMastodon開発に移ろうか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621054382992420864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621054382992420864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621054382992420864)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T07:13:32.000Z](https://twitter.com/realshinyakato/status/1621044128359514113)
+>
+> Mastodon自体の開発に参加したいのにRubyがわからないつらさ
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621044128359514113)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621044128359514113)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621044128359514113)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T07:11:50.000Z](https://twitter.com/realshinyakato/status/1621043703006781441)
+>
+> [@someone7140](https://twitter.com/someone7140) 認証はTwitter APIとは別ですが、もう金が生まれそうなところは片っ端から有料化されそうですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621043703006781441)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621043703006781441)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621043703006781441)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:58:28.000Z](https://twitter.com/realshinyakato/status/1621040335379116032)
 >
 > 長いこと無料で提供されていたサービスを有料化するのはなかなかリスクが高い選択をしたなと感じるね。ただ金を払ってまでTwitter APIを使いたいユーザーはほとんどいないんじゃないかな。
@@ -206,33 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 未だにどこのMastodonインスタンスを本拠にしようか悩んでる
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1621038626619654144)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621038626619654144)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621038626619654144)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:49:25.000Z](https://twitter.com/realshinyakato/status/1621038058274697217)
->
-> エンタープライズ向けのAPIと統合するつもりか？
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621038058274697217)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621038058274697217)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621038058274697217)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:47:27.000Z](https://twitter.com/realshinyakato/status/1621037566098276352)
->
-> 遊べないオモチャに興味はない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621037566098276352)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621037566098276352)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621037566098276352)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T06:46:57.000Z](https://twitter.com/realshinyakato/status/1621037439388356608)
->
-> ふーん、Twitter API有料化か。それならもうMastodonに開発リソースをごっそり移すか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621037439388356608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621037439388356608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621037439388356608)
 
 ---
 <!-- MY-TWEETS:END -->
