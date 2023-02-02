@@ -192,6 +192,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T01:05:04.000Z](https://twitter.com/realshinyakato/status/1620951402985168896)
+>
+> RT [@OpenAI:](https://twitter.com/OpenAI:) We are piloting ChatGPT Plus, a subscription plan that offers faster response times and reliability during peak hours. And of c…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620951402985168896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620951402985168896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620951402985168896)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T01:04:17.000Z](https://twitter.com/realshinyakato/status/1620951202207879168)
+>
+> RT [@timsneath:](https://twitter.com/timsneath:) A bunch of useful fixes in Flutter 3.7.1, because our product is built by humans, and artisanally-crafted software has a nat…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620951202207879168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620951202207879168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620951202207879168)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T00:59:20.000Z](https://twitter.com/realshinyakato/status/1620949959360278529)
+>
+> スキーマ定義からソースを自動生成するスクリプトを書いておこう
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620949959360278529)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620949959360278529)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620949959360278529)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:25:03.000Z](https://twitter.com/realshinyakato/status/1620805433371025410)
 >
 > まあAPIに関する変更は毎日OpenAPIのスキーマの差分を見てれば一発でわかるんですけどね
@@ -206,34 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > RT [@umiyuki_ai:](https://twitter.com/umiyuki_ai:) なんだこれは！驚愕を超えた驚愕！NVidiaは自然言語で行動を指示できるAIが作れる強化学習フレームワークのPADLを発表！デモ動画を観ると、AIで動いてるNPCゲームキャラに対して、「前に歩け」とか「剣を振れ」とか自然言語で指示ができている！…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1620802290323177473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620802290323177473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620802290323177473)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:09:47.000Z](https://twitter.com/realshinyakato/status/1620801594291007488)
->
-> 実際に取得できるか試してみよう
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620801594291007488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620801594291007488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620801594291007488)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:09:10.000Z](https://twitter.com/realshinyakato/status/1620801436098641923)
->
-> Twitterのサイレントリリースが多すぎて俺みたいなよほどの暇人でないと変更に気がつけない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620801436098641923)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620801436098641923)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620801436098641923)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:05:13.000Z](https://twitter.com/realshinyakato/status/1620800444489666560)
->
-> いつの間にかTwitter APIに認証タイプが追加された...? https://t.co/z2y0eVI0zO
-> ![No AltText](https://pbs.twimg.com/media/Fn49aOIWAAA-CxD.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620800444489666560)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620800444489666560)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620800444489666560)
 
 ---
 <!-- MY-TWEETS:END -->
