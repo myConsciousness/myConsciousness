@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T05:45:17.000Z](https://twitter.com/realshinyakato/status/1621021920081870854)
+>
+> 近いうちにテキスト入力だけでBIツールで作ってるようなグラフが作れそうだな https://t.co/9EaCJHWAS0
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621021920081870854)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621021920081870854)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621021920081870854)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T01:05:04.000Z](https://twitter.com/realshinyakato/status/1620951402985168896)
 >
 > RT [@OpenAI:](https://twitter.com/OpenAI:) We are piloting ChatGPT Plus, a subscription plan that offers faster response times and reliability during peak hours. And of c…
@@ -224,15 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > まあAPIに関する変更は毎日OpenAPIのスキーマの差分を見てれば一発でわかるんですけどね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1620805433371025410)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620805433371025410)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620805433371025410)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-01T15:12:33.000Z](https://twitter.com/realshinyakato/status/1620802290323177473)
->
-> RT [@umiyuki_ai:](https://twitter.com/umiyuki_ai:) なんだこれは！驚愕を超えた驚愕！NVidiaは自然言語で行動を指示できるAIが作れる強化学習フレームワークのPADLを発表！デモ動画を観ると、AIで動いてるNPCゲームキャラに対して、「前に歩け」とか「剣を振れ」とか自然言語で指示ができている！…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1620802290323177473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1620802290323177473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1620802290323177473)
 
 ---
 <!-- MY-TWEETS:END -->
