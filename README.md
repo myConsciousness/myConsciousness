@@ -192,47 +192,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T08:47:33.000Z](https://twitter.com/realshinyakato/status/1621067789669912576)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:51:25.000Z](https://twitter.com/realshinyakato/status/1621098960378286080)
 >
-> まあ実質全体みたいなものだけど
+> 本格的にMastodonで移住先を探すことにします
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621067789669912576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621067789669912576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621067789669912576)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621098960378286080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621098960378286080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621098960378286080)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T08:47:12.000Z](https://twitter.com/realshinyakato/status/1621067701639860225)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:46:34.000Z](https://twitter.com/realshinyakato/status/1621097738577526784)
 >
-> Twitter APIだけが対象であって、Twitter全体のAPIではないよ
+> 久しぶりにmastodon_apiのプルリクエストを捌いてる
+> 
+> https://t.co/P7wPbOnDvz
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621067701639860225)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621067701639860225)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621067701639860225)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621097738577526784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621097738577526784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621097738577526784)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T08:46:29.000Z](https://twitter.com/realshinyakato/status/1621067522475954176)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:45:20.000Z](https://twitter.com/realshinyakato/status/1621097430417813506)
 >
-> Twitter API 1.1とv2.0が有料化の対象なら認証は関係ないのではないかな。そもそも認証ってTwitter APIの枠にある製品だっけ？
+> RT [@uakihir0:](https://twitter.com/uakihir0:) まじで Twitter いるとストレス溜まるから、みんなで Mastodon か Misskey に移転しようや。。。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621067522475954176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621067522475954176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621067522475954176)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621097430417813506)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621097430417813506)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621097430417813506)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T07:54:17.000Z](https://twitter.com/realshinyakato/status/1621054382992420864)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:43:40.000Z](https://twitter.com/realshinyakato/status/1621097009330655233)
 >
-> Twitter APIが有料化されるだけでエンドポイントの仕様が変わらないのであれば、今作ってる非公式Playgroundだけ置き土産にMastodon開発に移ろうか
+> 少なくとも、俺が関わってたTwitterスタッフは全員解雇されたことを確認している
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621054382992420864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621054382992420864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621054382992420864)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621097009330655233)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621097009330655233)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621097009330655233)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T07:13:32.000Z](https://twitter.com/realshinyakato/status/1621044128359514113)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:43:07.000Z](https://twitter.com/realshinyakato/status/1621096873951133697)
 >
-> Mastodon自体の開発に参加したいのにRubyがわからないつらさ
+> [@uakihir0](https://twitter.com/uakihir0) 担当者はまずいないでしょうね。Twitter Forumですら壊滅してTwitterスタッフは一人も顔を出しません。たぶん全員解雇されたんでしょうけど。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621044128359514113)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621044128359514113)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621044128359514113)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621096873951133697)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621096873951133697)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621096873951133697)
 
 ---
 <!-- MY-TWEETS:END -->
