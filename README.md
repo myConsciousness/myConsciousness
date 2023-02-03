@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T12:34:29.000Z](https://twitter.com/realshinyakato/status/1621487285475880960)
+>
+> [@b_plab98](https://twitter.com/b_plab98) [@TwitterDev](https://twitter.com/TwitterDev) Yes, there are many rumors, but it seems that the Twitter API will only be for those with plenty of development funds. I’m already developing mainly Mastodon related packages, and Twitter is done.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621487285475880960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621487285475880960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621487285475880960)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T03:24:10.000Z](https://twitter.com/realshinyakato/status/1621348796256096256)
 >
 > [@adakoda](https://twitter.com/adakoda) 一度凍結されてからが本番
@@ -226,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > 仮に$10/moだとして今の為替レートで約¥15,000/p.a.。個人の趣味の範疇を超えてるよね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1621324473222979585)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621324473222979585)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621324473222979585)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T01:42:00.000Z](https://twitter.com/realshinyakato/status/1621323083247423488)
->
-> たとえ趣味であっても収益性のないプログラム開発に$10/moは高すぎる買い物だな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621323083247423488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621323083247423488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621323083247423488)
 
 ---
 <!-- MY-TWEETS:END -->
