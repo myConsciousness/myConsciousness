@@ -192,49 +192,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T02:21:38.000Z](https://twitter.com/realshinyakato/status/1621333056970969089)
+>
+> RT [@normidar2:](https://twitter.com/normidar2:) [@realshinyakato](https://twitter.com/realshinyakato) oh https://t.co/IvnolwefBK
+> ![No AltText](https://pbs.twimg.com/media/Fn9b58YaUAMSzYW.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621333056970969089)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621333056970969089)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621333056970969089)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T01:47:39.000Z](https://twitter.com/realshinyakato/status/1621324504520863745)
+>
+> RT [@someone7140:](https://twitter.com/someone7140:) NetlifyがGatsbyを買収
+> https://t.co/KsuOFgRXxA
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621324504520863745)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621324504520863745)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621324504520863745)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T01:47:31.000Z](https://twitter.com/realshinyakato/status/1621324473222979585)
+>
+> 仮に$10/moだとして今の為替レートで約¥15,000/p.a.。個人の趣味の範疇を超えてるよね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621324473222979585)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621324473222979585)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621324473222979585)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T01:42:00.000Z](https://twitter.com/realshinyakato/status/1621323083247423488)
+>
+> たとえ趣味であっても収益性のないプログラム開発に$10/moは高すぎる買い物だな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621323083247423488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621323083247423488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621323083247423488)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:51:25.000Z](https://twitter.com/realshinyakato/status/1621098960378286080)
 >
 > 本格的にMastodonで移住先を探すことにします
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1621098960378286080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621098960378286080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621098960378286080)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:46:34.000Z](https://twitter.com/realshinyakato/status/1621097738577526784)
->
-> 久しぶりにmastodon_apiのプルリクエストを捌いてる
-> 
-> https://t.co/P7wPbOnDvz
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621097738577526784)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621097738577526784)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621097738577526784)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:45:20.000Z](https://twitter.com/realshinyakato/status/1621097430417813506)
->
-> RT [@uakihir0:](https://twitter.com/uakihir0:) まじで Twitter いるとストレス溜まるから、みんなで Mastodon か Misskey に移転しようや。。。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621097430417813506)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621097430417813506)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621097430417813506)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:43:40.000Z](https://twitter.com/realshinyakato/status/1621097009330655233)
->
-> 少なくとも、俺が関わってたTwitterスタッフは全員解雇されたことを確認している
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621097009330655233)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621097009330655233)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621097009330655233)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:43:07.000Z](https://twitter.com/realshinyakato/status/1621096873951133697)
->
-> [@uakihir0](https://twitter.com/uakihir0) 担当者はまずいないでしょうね。Twitter Forumですら壊滅してTwitterスタッフは一人も顔を出しません。たぶん全員解雇されたんでしょうけど。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621096873951133697)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621096873951133697)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621096873951133697)
 
 ---
 <!-- MY-TWEETS:END -->
