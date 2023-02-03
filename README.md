@@ -192,6 +192,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T03:24:10.000Z](https://twitter.com/realshinyakato/status/1621348796256096256)
+>
+> [@adakoda](https://twitter.com/adakoda) 一度凍結されてからが本番
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621348796256096256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621348796256096256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621348796256096256)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T02:21:38.000Z](https://twitter.com/realshinyakato/status/1621333056970969089)
 >
 > RT [@normidar2:](https://twitter.com/normidar2:) [@realshinyakato](https://twitter.com/realshinyakato) oh https://t.co/IvnolwefBK
@@ -226,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > たとえ趣味であっても収益性のないプログラム開発に$10/moは高すぎる買い物だな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1621323083247423488)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621323083247423488)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621323083247423488)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-02T10:51:25.000Z](https://twitter.com/realshinyakato/status/1621098960378286080)
->
-> 本格的にMastodonで移住先を探すことにします
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621098960378286080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621098960378286080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621098960378286080)
 
 ---
 <!-- MY-TWEETS:END -->
