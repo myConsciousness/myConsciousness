@@ -192,49 +192,47 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:55:30.000Z](https://twitter.com/realshinyakato/status/1622247550110830593)
+>
+> Twitter APIのリファレンスがコピペによる誤記が多すぎて信用できないのでいつもOpenAPIのスキーマ定義を見て仕様を確認してる
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622247550110830593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622247550110830593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622247550110830593)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:51:08.000Z](https://twitter.com/realshinyakato/status/1622246449932275712)
+>
+> test quote https://t.co/EoclhZPeKO
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622246449932275712)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622246449932275712)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622246449932275712)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:49:16.000Z](https://twitter.com/realshinyakato/status/1622245980514168833)
+>
+> Mastodon APIのページングの仕様を把握しきれていないので、残りのエンドポイントの実装を進めながら勉強します
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622245980514168833)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622245980514168833)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622245980514168833)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:47:47.000Z](https://twitter.com/realshinyakato/status/1622245608059985921)
+>
+> Mastodon関連のパッケージ開発を加速させています
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622245608059985921)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622245608059985921)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622245608059985921)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T12:34:29.000Z](https://twitter.com/realshinyakato/status/1621487285475880960)
 >
 > [@b_plab98](https://twitter.com/b_plab98) [@TwitterDev](https://twitter.com/TwitterDev) Yes, there are many rumors, but it seems that the Twitter API will only be for those with plenty of development funds. I’m already developing mainly Mastodon related packages, and Twitter is done.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1621487285475880960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621487285475880960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621487285475880960)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T03:24:10.000Z](https://twitter.com/realshinyakato/status/1621348796256096256)
->
-> [@adakoda](https://twitter.com/adakoda) 一度凍結されてからが本番
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621348796256096256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621348796256096256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621348796256096256)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T02:21:38.000Z](https://twitter.com/realshinyakato/status/1621333056970969089)
->
-> RT [@normidar2:](https://twitter.com/normidar2:) [@realshinyakato](https://twitter.com/realshinyakato) oh https://t.co/IvnolwefBK
-> ![No AltText](https://pbs.twimg.com/media/Fn9b58YaUAMSzYW.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621333056970969089)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621333056970969089)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621333056970969089)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T01:47:39.000Z](https://twitter.com/realshinyakato/status/1621324504520863745)
->
-> RT [@someone7140:](https://twitter.com/someone7140:) NetlifyがGatsbyを買収
-> https://t.co/KsuOFgRXxA
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621324504520863745)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621324504520863745)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621324504520863745)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T01:47:31.000Z](https://twitter.com/realshinyakato/status/1621324473222979585)
->
-> 仮に$10/moだとして今の為替レートで約¥15,000/p.a.。個人の趣味の範疇を超えてるよね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621324473222979585)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621324473222979585)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621324473222979585)
 
 ---
 <!-- MY-TWEETS:END -->
