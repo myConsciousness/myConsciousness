@@ -192,47 +192,57 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:55:30.000Z](https://twitter.com/realshinyakato/status/1622247550110830593)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:12:04.000Z](https://twitter.com/realshinyakato/status/1622251717328011266)
 >
-> Twitter APIのリファレンスがコピペによる誤記が多すぎて信用できないのでいつもOpenAPIのスキーマ定義を見て仕様を確認してる
+> [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) の研究を進めながら、#Blusky で使われる [#ATP](https://twitter.com/hashtag/ATP?src=hashtag_click) を勉強する
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622247550110830593)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622247550110830593)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622247550110830593)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622251717328011266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622251717328011266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622251717328011266)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:51:08.000Z](https://twitter.com/realshinyakato/status/1622246449932275712)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:10:54.000Z](https://twitter.com/realshinyakato/status/1622251424452333575)
 >
-> test quote https://t.co/EoclhZPeKO
+> ひとまず [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) は v0.4.0 をリリースしたところ。なんだかんだ主要なエンドポイントは実装が終わっていて、残っている中でメジャーなエンドポイントはメディアのアップロードくらいか
+> 
+> https://t.co/VGJTOW4MAL
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622246449932275712)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622246449932275712)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622246449932275712)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622251424452333575)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622251424452333575)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622251424452333575)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:49:16.000Z](https://twitter.com/realshinyakato/status/1622245980514168833)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:08:49.000Z](https://twitter.com/realshinyakato/status/1622250903180029955)
 >
-> Mastodon APIのページングの仕様を把握しきれていないので、残りのエンドポイントの実装を進めながら勉強します
+> [#mastodon_oauth2](https://twitter.com/hashtag/mastodon_oauth2?src=hashtag_click) のWebブラウザで使用する際の例が誤っているので早いうちに修正してリリースしたい
+> 
+> https://t.co/riy3gL43pU
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622245980514168833)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622245980514168833)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622245980514168833)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622250903180029955)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622250903180029955)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622250903180029955)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T14:47:47.000Z](https://twitter.com/realshinyakato/status/1622245608059985921)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:07:08.000Z](https://twitter.com/realshinyakato/status/1622250479190429696)
 >
-> Mastodon関連のパッケージ開発を加速させています
+> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
+> 
+> #twitter_api_v2 v4.9.3 has been released :)
+> 
+> https://t.co/L6bKn4Pjsf
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622245608059985921)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622245608059985921)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622245608059985921)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622250479190429696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622250479190429696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622250479190429696)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-03T12:34:29.000Z](https://twitter.com/realshinyakato/status/1621487285475880960)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:01:41.000Z](https://twitter.com/realshinyakato/status/1622249108055666688)
 >
-> [@b_plab98](https://twitter.com/b_plab98) [@TwitterDev](https://twitter.com/TwitterDev) Yes, there are many rumors, but it seems that the Twitter API will only be for those with plenty of development funds. I’m already developing mainly Mastodon related packages, and Twitter is done.
+> [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) v4.9.3をリリースしたら目新しい仕様が追加されるまでMastodonに注力します
+> 
+> https://t.co/L6bKn4Pjsf
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1621487285475880960)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1621487285475880960)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1621487285475880960)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622249108055666688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622249108055666688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622249108055666688)
 
 ---
 <!-- MY-TWEETS:END -->
