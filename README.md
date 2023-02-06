@@ -24,7 +24,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ## **_Featured Projects_**
 
 <details>
-  <summary>🐦 <b><h3>twitter_api_v2 (140+ ⭐)</h3></b></summary>
+  <summary>🐦 <b><h3>twitter_api_v2 (10+ ⭐)</h3></b></summary>
   <div>
     <p align="center">
       <a href="https://github.com/twitter-dart/twitter-api-v2">
