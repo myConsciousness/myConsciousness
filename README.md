@@ -192,6 +192,17 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-06T02:36:47.000Z](https://twitter.com/realshinyakato/status/1622424035220148224)
+>
+> zenn-editorを使ってみたい
+> 
+> https://t.co/TFCsQygb6p
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622424035220148224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622424035220148224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622424035220148224)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:12:04.000Z](https://twitter.com/realshinyakato/status/1622251717328011266)
 >
 > [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) の研究を進めながら、#Blusky で使われる [#ATP](https://twitter.com/hashtag/ATP?src=hashtag_click) を勉強する
@@ -232,17 +243,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/L6bKn4Pjsf
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1622250479190429696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622250479190429696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622250479190429696)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:01:41.000Z](https://twitter.com/realshinyakato/status/1622249108055666688)
->
-> [#twitter_api_v2](https://twitter.com/hashtag/twitter_api_v2?src=hashtag_click) v4.9.3をリリースしたら目新しい仕様が追加されるまでMastodonに注力します
-> 
-> https://t.co/L6bKn4Pjsf
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622249108055666688)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622249108055666688)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622249108055666688)
 
 ---
 <!-- MY-TWEETS:END -->
