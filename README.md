@@ -192,6 +192,25 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T03:55:27.000Z](https://twitter.com/realshinyakato/status/1622806218434830336)
+>
+> [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) のAPIラッパーが必要だったけど [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) 向けには公開されたパッケージがなかった。またパッケージ作るか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622806218434830336)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622806218434830336)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622806218434830336)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T03:50:04.000Z](https://twitter.com/realshinyakato/status/1622804864765161472)
+>
+> Now you can set your multi social links in [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) :) https://t.co/ROVIfnxJEq
+> ![No AltText](https://pbs.twimg.com/media/FoVca6KaMAARAx4.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622804864765161472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622804864765161472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622804864765161472)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T02:44:16.000Z](https://twitter.com/realshinyakato/status/1622788306856706050)
 >
 > verified_type is available in [#twitter_api_v2,](https://twitter.com/hashtag/twitter_api_v2,?src=hashtag_click) you can handle it very safety :)
@@ -224,28 +243,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) の研究を進めながら、#Blusky で使われる [#ATP](https://twitter.com/hashtag/ATP?src=hashtag_click) を勉強する
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1622251717328011266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622251717328011266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622251717328011266)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:10:54.000Z](https://twitter.com/realshinyakato/status/1622251424452333575)
->
-> ひとまず [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) は v0.4.0 をリリースしたところ。なんだかんだ主要なエンドポイントは実装が終わっていて、残っている中でメジャーなエンドポイントはメディアのアップロードくらいか
-> 
-> https://t.co/VGJTOW4MAL
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622251424452333575)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622251424452333575)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622251424452333575)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:08:49.000Z](https://twitter.com/realshinyakato/status/1622250903180029955)
->
-> [#mastodon_oauth2](https://twitter.com/hashtag/mastodon_oauth2?src=hashtag_click) のWebブラウザで使用する際の例が誤っているので早いうちに修正してリリースしたい
-> 
-> https://t.co/riy3gL43pU
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622250903180029955)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622250903180029955)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622250903180029955)
 
 ---
 <!-- MY-TWEETS:END -->
