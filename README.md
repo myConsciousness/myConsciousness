@@ -192,6 +192,16 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T12:28:19.000Z](https://twitter.com/realshinyakato/status/1622935285209391105)
+>
+> RT [@elonmusk:](https://twitter.com/elonmusk:) https://t.co/tiPbKP8B77
+> ![No AltText](https://pbs.twimg.com/media/FoVvnzkagAEC3X2.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622935285209391105)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622935285209391105)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622935285209391105)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T03:55:27.000Z](https://twitter.com/realshinyakato/status/1622806218434830336)
 >
 > [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) のAPIラッパーが必要だったけど [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) 向けには公開されたパッケージがなかった。またパッケージ作るか
@@ -234,15 +244,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/TFCsQygb6p
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1622424035220148224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622424035220148224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622424035220148224)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:12:04.000Z](https://twitter.com/realshinyakato/status/1622251717328011266)
->
-> [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) の研究を進めながら、#Blusky で使われる [#ATP](https://twitter.com/hashtag/ATP?src=hashtag_click) を勉強する
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622251717328011266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622251717328011266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622251717328011266)
 
 ---
 <!-- MY-TWEETS:END -->
