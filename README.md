@@ -192,6 +192,22 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T02:44:16.000Z](https://twitter.com/realshinyakato/status/1622788306856706050)
+>
+> verified_type is available in [#twitter_api_v2,](https://twitter.com/hashtag/twitter_api_v2,?src=hashtag_click) you can handle it very safety :)
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
+> 
+> https://t.co/L6bKn4Pjsf](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/L6bKn4Pjsf?src=hashtag_click) https://t.co/A8TObW6GHT
+> ![No AltText](https://pbs.twimg.com/media/FoVNKB6aMAEA05U.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622788306856706050)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622788306856706050)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622788306856706050)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-06T02:36:47.000Z](https://twitter.com/realshinyakato/status/1622424035220148224)
 >
 > zenn-editorを使ってみたい
@@ -230,19 +246,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > https://t.co/riy3gL43pU
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1622250903180029955)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622250903180029955)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622250903180029955)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:07:08.000Z](https://twitter.com/realshinyakato/status/1622250479190429696)
->
-> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) developers,
-> 
-> #twitter_api_v2 v4.9.3 has been released :)
-> 
-> https://t.co/L6bKn4Pjsf
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622250479190429696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622250479190429696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622250479190429696)
 
 ---
 <!-- MY-TWEETS:END -->
