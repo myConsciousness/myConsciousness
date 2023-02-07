@@ -192,6 +192,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T22:55:39.000Z](https://twitter.com/realshinyakato/status/1623093159353008128)
+>
+> 恒常的な睡眠不足は老化プロセスを通常の何倍も加速させる。今の生活を続ければイーロンマスクは確実に長生きできないね。突然死の可能性もある。 https://t.co/aPZ5GTY6w5
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623093159353008128)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623093159353008128)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623093159353008128)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T22:45:11.000Z](https://twitter.com/realshinyakato/status/1623090526118629376)
+>
+> RT [@satyanadella:](https://twitter.com/satyanadella:) Bing and Edge + AI: a new way to search starts today https://t.co/0y8sw7waNb
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623090526118629376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623090526118629376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623090526118629376)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T03:55:27.000Z](https://twitter.com/realshinyakato/status/1622806218434830336)
 >
 > [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) のAPIラッパーが必要だったけど [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) 向けには公開されたパッケージがなかった。またパッケージ作るか
@@ -223,26 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FoVNKB6aMAEA05U.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1622788306856706050)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622788306856706050)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622788306856706050)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-06T02:36:47.000Z](https://twitter.com/realshinyakato/status/1622424035220148224)
->
-> zenn-editorを使ってみたい
-> 
-> https://t.co/TFCsQygb6p
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622424035220148224)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622424035220148224)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622424035220148224)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-05T15:12:04.000Z](https://twitter.com/realshinyakato/status/1622251717328011266)
->
-> [#MastodonAPI](https://twitter.com/hashtag/MastodonAPI?src=hashtag_click) の研究を進めながら、#Blusky で使われる [#ATP](https://twitter.com/hashtag/ATP?src=hashtag_click) を勉強する
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622251717328011266)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622251717328011266)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622251717328011266)
 
 ---
 <!-- MY-TWEETS:END -->
