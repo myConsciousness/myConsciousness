@@ -192,55 +192,49 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T22:55:39.000Z](https://twitter.com/realshinyakato/status/1623093159353008128)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:56:52.000Z](https://twitter.com/realshinyakato/status/1623244461752086528)
 >
-> 恒常的な睡眠不足は老化プロセスを通常の何倍も加速させる。今の生活を続ければイーロンマスクは確実に長生きできないね。突然死の可能性もある。 https://t.co/aPZ5GTY6w5
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623093159353008128)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623093159353008128)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623093159353008128)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T22:45:11.000Z](https://twitter.com/realshinyakato/status/1623090526118629376)
->
-> RT [@satyanadella:](https://twitter.com/satyanadella:) Bing and Edge + AI: a new way to search starts today https://t.co/0y8sw7waNb
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623090526118629376)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623090526118629376)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623090526118629376)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T03:55:27.000Z](https://twitter.com/realshinyakato/status/1622806218434830336)
->
-> [#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) のAPIラッパーが必要だったけど [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) 向けには公開されたパッケージがなかった。またパッケージ作るか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622806218434830336)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622806218434830336)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622806218434830336)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T03:50:04.000Z](https://twitter.com/realshinyakato/status/1622804864765161472)
->
-> Now you can set your multi social links in [#GitHub](https://twitter.com/hashtag/GitHub?src=hashtag_click) :) https://t.co/ROVIfnxJEq
-> ![No AltText](https://pbs.twimg.com/media/FoVca6KaMAARAx4.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622804864765161472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622804864765161472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622804864765161472)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-07T02:44:16.000Z](https://twitter.com/realshinyakato/status/1622788306856706050)
->
-> verified_type is available in [#twitter_api_v2,](https://twitter.com/hashtag/twitter_api_v2,?src=hashtag_click) you can handle it very safety :)
+> 最近気に入ってるサービス
 > 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
-> 
-> https://t.co/L6bKn4Pjsf](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/L6bKn4Pjsf?src=hashtag_click) https://t.co/A8TObW6GHT
-> ![No AltText](https://pbs.twimg.com/media/FoVNKB6aMAEA05U.jpg)
+> https://t.co/ZJSd5vkgP6
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1622788306856706050)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1622788306856706050)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1622788306856706050)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623244461752086528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623244461752086528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623244461752086528)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:51:53.000Z](https://twitter.com/realshinyakato/status/1623243206271062016)
+>
+> まあ俺はたとえTwitter Blueに加入することがTwitter APIを使用するための要件と言われても加入しないけどね。SDKを作るだけならレスポンスのJSONだけあれば開発もテストもできるし。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623243206271062016)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623243206271062016)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623243206271062016)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:50:23.000Z](https://twitter.com/realshinyakato/status/1623242829282816002)
+>
+> でも未だにジェンダーニュートラルな代名詞の使用には慣れない。They/Themとか紛らわしすぎるでしょ
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623242829282816002)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623242829282816002)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623242829282816002)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:48:10.000Z](https://twitter.com/realshinyakato/status/1623242271511687168)
+>
+> ジェンダー関連の話題は無関心というわけではないけど、話し始めると荒れるのが確定してる話題だからあえて追求はしない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623242271511687168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623242271511687168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623242271511687168)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:46:04.000Z](https://twitter.com/realshinyakato/status/1623241742979039232)
+>
+> Mastodon APIのv1エンドポイントとv2エンドポイントのマイグレーションをフォローするの結構きついな。ドキュメントもいつの間にか変わってるし、GitHubリポジトリのコミット履歴を追いかけるしかないのか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623241742979039232)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623241742979039232)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623241742979039232)
 
 ---
 <!-- MY-TWEETS:END -->
