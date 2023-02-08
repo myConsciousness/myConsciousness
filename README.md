@@ -192,6 +192,21 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T15:25:20.000Z](https://twitter.com/realshinyakato/status/1623342221612453893)
+>
+> [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.5.1 has been released :)
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
+> 
+> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/VGJTOW4MAL?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623342221612453893)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623342221612453893)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623342221612453893)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:56:52.000Z](https://twitter.com/realshinyakato/status/1623244461752086528)
 >
 > 最近気に入ってるサービス
@@ -226,15 +241,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ジェンダー関連の話題は無関心というわけではないけど、話し始めると荒れるのが確定してる話題だからあえて追求はしない
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1623242271511687168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623242271511687168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623242271511687168)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:46:04.000Z](https://twitter.com/realshinyakato/status/1623241742979039232)
->
-> Mastodon APIのv1エンドポイントとv2エンドポイントのマイグレーションをフォローするの結構きついな。ドキュメントもいつの間にか変わってるし、GitHubリポジトリのコミット履歴を追いかけるしかないのか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623241742979039232)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623241742979039232)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623241742979039232)
 
 ---
 <!-- MY-TWEETS:END -->
