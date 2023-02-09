@@ -192,6 +192,25 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T02:24:07.000Z](https://twitter.com/realshinyakato/status/1623508007891111936)
+>
+> イーロンマスクは [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) を買収する前に自分の [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) インスタンスを作って [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) 運用を練習すべきだったと感じる
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623508007891111936)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623508007891111936)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623508007891111936)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T02:16:22.000Z](https://twitter.com/realshinyakato/status/1623506060647727104)
+>
+> RT [@trashh_dev:](https://twitter.com/trashh_dev:) i don’t know design patterns. https://t.co/ZKAZX2PDhf
+> ![No AltText](https://pbs.twimg.com/media/FoX69xKaYAAEZsg.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623506060647727104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623506060647727104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623506060647727104)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T01:05:09.000Z](https://twitter.com/realshinyakato/status/1623488138621648896)
 >
 > サービスに金を払えと言うなら、その値段に相応しい言動を求める。今の壊れたTwitterには1セントも払う価値はない。
@@ -216,24 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/FofFvJRaYAAbss3.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1623483608404217856)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623483608404217856)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623483608404217856)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:43:18.000Z](https://twitter.com/realshinyakato/status/1623482639717138432)
->
-> RT [@joinmastodon:](https://twitter.com/joinmastodon:) Today we've released a new update to our iOS app! It brings an improved sign-up flow, home screen widgets, and many acces…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623482639717138432)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623482639717138432)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623482639717138432)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:43:11.000Z](https://twitter.com/realshinyakato/status/1623482610130513922)
->
-> RT [@fushiroyama:](https://twitter.com/fushiroyama:) Twitterがゆっくりとしかし確実に壊れていっていることに残念ながら驚きはないというか、非常に複雑なソフトウェアの面倒を見る人を減らして急な機能追加をすると「分かりやすい大爆発」を起こすのではなくて「あちらこちらから無視できない水漏れが起こる…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623482610130513922)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623482610130513922)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623482610130513922)
 
 ---
 <!-- MY-TWEETS:END -->
