@@ -192,55 +192,48 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T15:25:20.000Z](https://twitter.com/realshinyakato/status/1623342221612453893)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T01:05:09.000Z](https://twitter.com/realshinyakato/status/1623488138621648896)
 >
-> [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.5.1 has been released :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
-> 
-> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/VGJTOW4MAL?src=hashtag_click)
+> サービスに金を払えと言うなら、その値段に相応しい言動を求める。今の壊れたTwitterには1セントも払う価値はない。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623342221612453893)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623342221612453893)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623342221612453893)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623488138621648896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623488138621648896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623488138621648896)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:56:52.000Z](https://twitter.com/realshinyakato/status/1623244461752086528)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:55:43.000Z](https://twitter.com/realshinyakato/status/1623485762921709568)
 >
-> 最近気に入ってるサービス
-> 
-> https://t.co/ZJSd5vkgP6
+> Twitter Forumが本当に閉鎖されたとすると、今までTwitterスタッフが仕事をしないなかでほぼ1人でQAを捌いていたIgorが不憫だな。Twitterはどれだけコントリビューターの思いや努力を踏みにじれば気が済むんだ。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623244461752086528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623244461752086528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623244461752086528)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623485762921709568)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623485762921709568)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623485762921709568)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:51:53.000Z](https://twitter.com/realshinyakato/status/1623243206271062016)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:47:09.000Z](https://twitter.com/realshinyakato/status/1623483608404217856)
 >
-> まあ俺はたとえTwitter Blueに加入することがTwitter APIを使用するための要件と言われても加入しないけどね。SDKを作るだけならレスポンスのJSONだけあれば開発もテストもできるし。
+> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) Forum appears to have been shut down. Welcome to the dictatorship society. https://t.co/TvXrp05RmG
+> ![No AltText](https://pbs.twimg.com/media/FofFvJRaYAAbss3.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623243206271062016)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623243206271062016)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623243206271062016)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623483608404217856)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623483608404217856)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623483608404217856)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:50:23.000Z](https://twitter.com/realshinyakato/status/1623242829282816002)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:43:18.000Z](https://twitter.com/realshinyakato/status/1623482639717138432)
 >
-> でも未だにジェンダーニュートラルな代名詞の使用には慣れない。They/Themとか紛らわしすぎるでしょ
+> RT [@joinmastodon:](https://twitter.com/joinmastodon:) Today we've released a new update to our iOS app! It brings an improved sign-up flow, home screen widgets, and many acces…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623242829282816002)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623242829282816002)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623242829282816002)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623482639717138432)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623482639717138432)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623482639717138432)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-08T08:48:10.000Z](https://twitter.com/realshinyakato/status/1623242271511687168)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:43:11.000Z](https://twitter.com/realshinyakato/status/1623482610130513922)
 >
-> ジェンダー関連の話題は無関心というわけではないけど、話し始めると荒れるのが確定してる話題だからあえて追求はしない
+> RT [@fushiroyama:](https://twitter.com/fushiroyama:) Twitterがゆっくりとしかし確実に壊れていっていることに残念ながら驚きはないというか、非常に複雑なソフトウェアの面倒を見る人を減らして急な機能追加をすると「分かりやすい大爆発」を起こすのではなくて「あちらこちらから無視できない水漏れが起こる…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623242271511687168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623242271511687168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623242271511687168)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623482610130513922)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623482610130513922)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623482610130513922)
 
 ---
 <!-- MY-TWEETS:END -->
