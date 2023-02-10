@@ -192,14 +192,11 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T02:13:43.000Z](https://twitter.com/realshinyakato/status/1623867778951438337)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T03:06:56.000Z](https://twitter.com/realshinyakato/status/1623881171896524800)
 >
-> It has been a long time since [#NullSafety](https://twitter.com/hashtag/NullSafety?src=hashtag_click) was implemented in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) but there are still people who explicitly put a null check in situations where it is not needed. Let's just use "??" operator :)
-> 
-> #Flutter [#Prohramming](https://twitter.com/hashtag/Prohramming?src=hashtag_click) https://t.co/s53r9DBuc2
-> ![No AltText](https://pbs.twimg.com/media/Fokisc_akAAo_rR.jpg)
+> Just posted a photo https://t.co/M2M60CahPg
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623867778951438337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623867778951438337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623867778951438337)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623881171896524800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623881171896524800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623881171896524800)
 
 ---
 
