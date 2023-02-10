@@ -192,47 +192,50 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:14:49.000Z](https://twitter.com/realshinyakato/status/1623913354778804226)
+>
+> Mastodon APIのv2エンドポイントを見る限りではv1の仕様を踏襲しているみたいだし、構造を抜本的に改善するつもりはないんだろうな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623913354778804226)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623913354778804226)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623913354778804226)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:13:17.000Z](https://twitter.com/realshinyakato/status/1623912971742380032)
+>
+> Mastodon APIもTwitter API v2.0みたいにGraphQLライクなAPI設計にしてくれないかな・・・、返却されるフィールドと値が多すぎてわけわからなくなるんだよね。Twitter API v2.0はバグも多いけどexpansionsとfieldsの仕様が優秀すぎる。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623912971742380032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623912971742380032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623912971742380032)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:08:53.000Z](https://twitter.com/realshinyakato/status/1623911860797046786)
+>
+> 嘘だったとしても草 https://t.co/k2tHe3DFCQ
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623911860797046786)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623911860797046786)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623911860797046786)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:04:34.000Z](https://twitter.com/realshinyakato/status/1623910775793537026)
+>
+> RT [@cifar10:](https://twitter.com/cifar10:) https://t.co/w3Mktd3orn
+> 
+> まじで草 https://t.co/zrLfIdkN7d
+> ![No AltText](https://pbs.twimg.com/media/FokouZBagAEeVnT.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623910775793537026)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623910775793537026)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623910775793537026)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T03:06:56.000Z](https://twitter.com/realshinyakato/status/1623881171896524800)
 >
 > Just posted a photo https://t.co/M2M60CahPg
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1623881171896524800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623881171896524800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623881171896524800)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:36:11.000Z](https://twitter.com/realshinyakato/status/1623858335777947648)
->
-> [#snappify](https://twitter.com/hashtag/snappify?src=hashtag_click) で「YES, BUT」のmemeみたいなテンプレートが欲しい。自分で作ればいいのか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623858335777947648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623858335777947648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623858335777947648)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:32:17.000Z](https://twitter.com/realshinyakato/status/1623857352188526592)
->
-> せめてReadOnlyにしてアーカイブしてほしかった。あそこにしかないTwitterの検索ルールの作り方やTwitter APIのメタな情報がたくさんあった。 https://t.co/C5d6CyDmaO
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623857352188526592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623857352188526592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623857352188526592)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:29:55.000Z](https://twitter.com/realshinyakato/status/1623856757813678080)
->
-> [@polilluminato](https://twitter.com/polilluminato) Yay! I'll be hard at work developing the package! 😁
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623856757813678080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623856757813678080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623856757813678080)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:18:12.000Z](https://twitter.com/realshinyakato/status/1623853809649987584)
->
-> [#TwitterForum](https://twitter.com/hashtag/TwitterForum?src=hashtag_click) は [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) の使い方だったりを質問するだけの場所ではなくて、Twitter APIのノウハウが長年蓄積されていた場所だったんだよな。それを閉鎖というのはアレクサンドリア図書館を破壊することと同じことだよ。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623853809649987584)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623853809649987584)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623853809649987584)
 
 ---
 <!-- MY-TWEETS:END -->
