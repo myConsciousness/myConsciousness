@@ -192,53 +192,50 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T02:13:43.000Z](https://twitter.com/realshinyakato/status/1623867778951438337)
+>
+> It has been a long time since [#NullSafety](https://twitter.com/hashtag/NullSafety?src=hashtag_click) was implemented in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) but there are still people who explicitly put a null check in situations where it is not needed. Let's just use "??" operator :)
+> 
+> #Flutter [#Prohramming](https://twitter.com/hashtag/Prohramming?src=hashtag_click) https://t.co/s53r9DBuc2
+> ![No AltText](https://pbs.twimg.com/media/Fokisc_akAAo_rR.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623867778951438337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623867778951438337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623867778951438337)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:36:11.000Z](https://twitter.com/realshinyakato/status/1623858335777947648)
+>
+> [#snappify](https://twitter.com/hashtag/snappify?src=hashtag_click) で「YES, BUT」のmemeみたいなテンプレートが欲しい。自分で作ればいいのか
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623858335777947648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623858335777947648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623858335777947648)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:32:17.000Z](https://twitter.com/realshinyakato/status/1623857352188526592)
+>
+> せめてReadOnlyにしてアーカイブしてほしかった。あそこにしかないTwitterの検索ルールの作り方やTwitter APIのメタな情報がたくさんあった。 https://t.co/C5d6CyDmaO
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623857352188526592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623857352188526592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623857352188526592)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:29:55.000Z](https://twitter.com/realshinyakato/status/1623856757813678080)
+>
+> [@polilluminato](https://twitter.com/polilluminato) Yay! I'll be hard at work developing the package! 😁
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623856757813678080)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623856757813678080)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623856757813678080)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:18:12.000Z](https://twitter.com/realshinyakato/status/1623853809649987584)
 >
 > [#TwitterForum](https://twitter.com/hashtag/TwitterForum?src=hashtag_click) は [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) の使い方だったりを質問するだけの場所ではなくて、Twitter APIのノウハウが長年蓄積されていた場所だったんだよな。それを閉鎖というのはアレクサンドリア図書館を破壊することと同じことだよ。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1623853809649987584)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623853809649987584)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623853809649987584)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:12:10.000Z](https://twitter.com/realshinyakato/status/1623852290070429698)
->
-> まあこういう一連のクソムーブを目の当たりにして余計に [#TwitterBlue](https://twitter.com/hashtag/TwitterBlue?src=hashtag_click) に金を払いたくなくなるんですけどね https://t.co/udDRI8MzFT
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623852290070429698)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623852290070429698)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623852290070429698)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:10:53.000Z](https://twitter.com/realshinyakato/status/1623851968233091075)
->
-> 知ってた。#TwitterBlue が成功してたらサードパーティクライアントを処刑したり [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) を有料化するなんてクソムーブ起こすわけないもの。
-> 
-> https://t.co/lyTwfoJ9MJ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623851968233091075)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623851968233091075)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623851968233091075)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:05:27.000Z](https://twitter.com/realshinyakato/status/1623850601884061696)
->
-> 書き忘れたけどTikTokはコンテンツの拡散力はTwitterに次いで高いと感じた。もともと犯罪者予備軍みたいな半グレがユーザーに多いことも相まって、あまりよろしくない言動があっという間に伝播しているように見えた。 https://t.co/Pb7DVbiY2j
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623850601884061696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623850601884061696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623850601884061696)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:03:11.000Z](https://twitter.com/realshinyakato/status/1623850029982314497)
->
-> 主要SNSを使ってみた個人的な見解
-> 
-> ✅ Twitter → 投稿するコンテンツがなんであれ情報の拡散力や世間の注目度は間違いなくトップ。
-> ✅ Instagram → 情報の拡散力は低い。基本的に女性の方が有利というかコンテンツの作り方が上手い。
-> ✅ TikTok → 犯罪者の巣窟。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623850029982314497)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623850029982314497)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623850029982314497)
 
 ---
 <!-- MY-TWEETS:END -->
