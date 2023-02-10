@@ -192,49 +192,53 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T02:24:07.000Z](https://twitter.com/realshinyakato/status/1623508007891111936)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:18:12.000Z](https://twitter.com/realshinyakato/status/1623853809649987584)
 >
-> イーロンマスクは [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) を買収する前に自分の [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) インスタンスを作って [#SNS](https://twitter.com/hashtag/SNS?src=hashtag_click) 運用を練習すべきだったと感じる
+> [#TwitterForum](https://twitter.com/hashtag/TwitterForum?src=hashtag_click) は [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) の使い方だったりを質問するだけの場所ではなくて、Twitter APIのノウハウが長年蓄積されていた場所だったんだよな。それを閉鎖というのはアレクサンドリア図書館を破壊することと同じことだよ。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623508007891111936)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623508007891111936)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623508007891111936)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623853809649987584)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623853809649987584)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623853809649987584)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T02:16:22.000Z](https://twitter.com/realshinyakato/status/1623506060647727104)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:12:10.000Z](https://twitter.com/realshinyakato/status/1623852290070429698)
 >
-> RT [@trashh_dev:](https://twitter.com/trashh_dev:) i don’t know design patterns. https://t.co/ZKAZX2PDhf
-> ![No AltText](https://pbs.twimg.com/media/FoX69xKaYAAEZsg.jpg)
+> まあこういう一連のクソムーブを目の当たりにして余計に [#TwitterBlue](https://twitter.com/hashtag/TwitterBlue?src=hashtag_click) に金を払いたくなくなるんですけどね https://t.co/udDRI8MzFT
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623506060647727104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623506060647727104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623506060647727104)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623852290070429698)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623852290070429698)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623852290070429698)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T01:05:09.000Z](https://twitter.com/realshinyakato/status/1623488138621648896)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:10:53.000Z](https://twitter.com/realshinyakato/status/1623851968233091075)
 >
-> サービスに金を払えと言うなら、その値段に相応しい言動を求める。今の壊れたTwitterには1セントも払う価値はない。
+> 知ってた。#TwitterBlue が成功してたらサードパーティクライアントを処刑したり [#TwitterAPI](https://twitter.com/hashtag/TwitterAPI?src=hashtag_click) を有料化するなんてクソムーブ起こすわけないもの。
+> 
+> https://t.co/lyTwfoJ9MJ
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623488138621648896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623488138621648896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623488138621648896)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623851968233091075)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623851968233091075)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623851968233091075)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:55:43.000Z](https://twitter.com/realshinyakato/status/1623485762921709568)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:05:27.000Z](https://twitter.com/realshinyakato/status/1623850601884061696)
 >
-> Twitter Forumが本当に閉鎖されたとすると、今までTwitterスタッフが仕事をしないなかでほぼ1人でQAを捌いていたIgorが不憫だな。Twitterはどれだけコントリビューターの思いや努力を踏みにじれば気が済むんだ。
+> 書き忘れたけどTikTokはコンテンツの拡散力はTwitterに次いで高いと感じた。もともと犯罪者予備軍みたいな半グレがユーザーに多いことも相まって、あまりよろしくない言動があっという間に伝播しているように見えた。 https://t.co/Pb7DVbiY2j
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623485762921709568)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623485762921709568)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623485762921709568)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623850601884061696)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623850601884061696)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623850601884061696)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-09T00:47:09.000Z](https://twitter.com/realshinyakato/status/1623483608404217856)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T01:03:11.000Z](https://twitter.com/realshinyakato/status/1623850029982314497)
 >
-> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) Forum appears to have been shut down. Welcome to the dictatorship society. https://t.co/TvXrp05RmG
-> ![No AltText](https://pbs.twimg.com/media/FofFvJRaYAAbss3.jpg)
+> 主要SNSを使ってみた個人的な見解
+> 
+> ✅ Twitter → 投稿するコンテンツがなんであれ情報の拡散力や世間の注目度は間違いなくトップ。
+> ✅ Instagram → 情報の拡散力は低い。基本的に女性の方が有利というかコンテンツの作り方が上手い。
+> ✅ TikTok → 犯罪者の巣窟。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623483608404217856)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623483608404217856)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623483608404217856)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623850029982314497)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623850029982314497)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623850029982314497)
 
 ---
 <!-- MY-TWEETS:END -->
