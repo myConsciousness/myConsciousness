@@ -192,6 +192,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:45:01.000Z](https://twitter.com/realshinyakato/status/1624238045552869377)
+>
+> Of course, if you can develop while utilizing [#AGI,](https://twitter.com/hashtag/AGI,?src=hashtag_click) your [#productivity](https://twitter.com/hashtag/productivity?src=hashtag_click) will undoubtedly increase dramatically.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624238045552869377)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624238045552869377)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624238045552869377)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:43:46.000Z](https://twitter.com/realshinyakato/status/1624237731344969728)
+>
+> With the dev of [#AGI,](https://twitter.com/hashtag/AGI,?src=hashtag_click) [#programmers](https://twitter.com/hashtag/programmers?src=hashtag_click) are entering a phase where they are carefully considering what to develop as an individual project. Of course, only God knows how much AGI will develop, but it's possible that a project you start today could be created by AGI in a month's time.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624237731344969728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624237731344969728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624237731344969728)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:19:42.000Z](https://twitter.com/realshinyakato/status/1624231674845478913)
 >
 > そろそろMastodon APIのページング機能をサポートしなければいけない
@@ -215,24 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Twitter Forumが復活したね。なにもかもが不安定だな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624209917241602048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624209917241602048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624209917241602048)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:50:10.000Z](https://twitter.com/realshinyakato/status/1624209142247460864)
->
-> [@Banjoe__](https://twitter.com/Banjoe__) Or, we can just request to AGI “Please create freezed classes from this schema”
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624209142247460864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624209142247460864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624209142247460864)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:48:03.000Z](https://twitter.com/realshinyakato/status/1624208608853626882)
->
-> [@Banjoe__](https://twitter.com/Banjoe__) It makes sense, I feel build_runner related packages will be legacy in the near future
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624208608853626882)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624208608853626882)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624208608853626882)
 
 ---
 <!-- MY-TWEETS:END -->
