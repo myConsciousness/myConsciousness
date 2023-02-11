@@ -192,6 +192,33 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:53:15.000Z](https://twitter.com/realshinyakato/status/1624209917241602048)
+>
+> Twitter Forumが復活したね。なにもかもが不安定だな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624209917241602048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624209917241602048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624209917241602048)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:50:10.000Z](https://twitter.com/realshinyakato/status/1624209142247460864)
+>
+> [@Banjoe__](https://twitter.com/Banjoe__) Or, we can just request to AGI “Please create freezed classes from this schema”
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624209142247460864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624209142247460864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624209142247460864)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:48:03.000Z](https://twitter.com/realshinyakato/status/1624208608853626882)
+>
+> [@Banjoe__](https://twitter.com/Banjoe__) It makes sense, I feel build_runner related packages will be legacy in the near future
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624208608853626882)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624208608853626882)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624208608853626882)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:14:49.000Z](https://twitter.com/realshinyakato/status/1623913354778804226)
 >
 > Mastodon APIのv2エンドポイントを見る限りではv1の仕様を踏襲しているみたいだし、構造を抜本的に改善するつもりはないんだろうな
@@ -206,36 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Mastodon APIもTwitter API v2.0みたいにGraphQLライクなAPI設計にしてくれないかな・・・、返却されるフィールドと値が多すぎてわけわからなくなるんだよね。Twitter API v2.0はバグも多いけどexpansionsとfieldsの仕様が優秀すぎる。
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1623912971742380032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623912971742380032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623912971742380032)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:08:53.000Z](https://twitter.com/realshinyakato/status/1623911860797046786)
->
-> 嘘だったとしても草 https://t.co/k2tHe3DFCQ
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623911860797046786)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623911860797046786)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623911860797046786)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:04:34.000Z](https://twitter.com/realshinyakato/status/1623910775793537026)
->
-> RT [@cifar10:](https://twitter.com/cifar10:) https://t.co/w3Mktd3orn
-> 
-> まじで草 https://t.co/zrLfIdkN7d
-> ![No AltText](https://pbs.twimg.com/media/FokouZBagAEeVnT.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623910775793537026)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623910775793537026)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623910775793537026)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T03:06:56.000Z](https://twitter.com/realshinyakato/status/1623881171896524800)
->
-> Just posted a photo https://t.co/M2M60CahPg
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623881171896524800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623881171896524800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623881171896524800)
 
 ---
 <!-- MY-TWEETS:END -->
