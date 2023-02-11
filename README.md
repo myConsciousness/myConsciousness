@@ -192,6 +192,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:19:42.000Z](https://twitter.com/realshinyakato/status/1624231674845478913)
+>
+> そろそろMastodon APIのページング機能をサポートしなければいけない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624231674845478913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624231674845478913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624231674845478913)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:00:36.000Z](https://twitter.com/realshinyakato/status/1624226865685663745)
+>
+> Just posted a photo https://t.co/HxRMzNtYkn
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624226865685663745)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624226865685663745)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624226865685663745)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:53:15.000Z](https://twitter.com/realshinyakato/status/1624209917241602048)
 >
 > Twitter Forumが復活したね。なにもかもが不安定だな
@@ -215,24 +233,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > [@Banjoe__](https://twitter.com/Banjoe__) It makes sense, I feel build_runner related packages will be legacy in the near future
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624208608853626882)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624208608853626882)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624208608853626882)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:14:49.000Z](https://twitter.com/realshinyakato/status/1623913354778804226)
->
-> Mastodon APIのv2エンドポイントを見る限りではv1の仕様を踏襲しているみたいだし、構造を抜本的に改善するつもりはないんだろうな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623913354778804226)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623913354778804226)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623913354778804226)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-10T05:13:17.000Z](https://twitter.com/realshinyakato/status/1623912971742380032)
->
-> Mastodon APIもTwitter API v2.0みたいにGraphQLライクなAPI設計にしてくれないかな・・・、返却されるフィールドと値が多すぎてわけわからなくなるんだよね。Twitter API v2.0はバグも多いけどexpansionsとfieldsの仕様が優秀すぎる。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1623912971742380032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1623912971742380032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1623912971742380032)
 
 ---
 <!-- MY-TWEETS:END -->
