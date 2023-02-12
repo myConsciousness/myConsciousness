@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T23:23:28.000Z](https://twitter.com/realshinyakato/status/1624549709590274049)
+>
+> Just posted a photo https://t.co/qocOeE1Gze
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624549709590274049)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624549709590274049)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624549709590274049)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:45:01.000Z](https://twitter.com/realshinyakato/status/1624238045552869377)
 >
 > Of course, if you can develop while utilizing [#AGI,](https://twitter.com/hashtag/AGI,?src=hashtag_click) your [#productivity](https://twitter.com/hashtag/productivity?src=hashtag_click) will undoubtedly increase dramatically.
@@ -225,15 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Just posted a photo https://t.co/HxRMzNtYkn
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624226865685663745)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624226865685663745)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624226865685663745)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T00:53:15.000Z](https://twitter.com/realshinyakato/status/1624209917241602048)
->
-> Twitter Forumが復活したね。なにもかもが不安定だな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624209917241602048)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624209917241602048)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624209917241602048)
 
 ---
 <!-- MY-TWEETS:END -->
