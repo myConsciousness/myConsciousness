@@ -193,6 +193,25 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-13T01:05:15.000Z](https://twitter.com/realshinyakato/status/1624937715530711043)
+>
+> Just posted a photo https://t.co/EL7dMNZDay
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624937715530711043)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624937715530711043)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624937715530711043)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-13T00:51:58.000Z](https://twitter.com/realshinyakato/status/1624934370716045312)
+>
+> RT [@tdinh_me:](https://twitter.com/tdinh_me:) Can confirm this is 100% true: https://t.co/I8DwdJrCiL
+> ![No AltText](https://pbs.twimg.com/media/Fou605jaIAAc5HI.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624934370716045312)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624934370716045312)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624934370716045312)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-12T00:04:19.000Z](https://twitter.com/realshinyakato/status/1624559993600212992)
 >
 > Just posted a photo https://t.co/rcZwaSR5AE
@@ -216,24 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Of course, if you can develop while utilizing [#AGI,](https://twitter.com/hashtag/AGI,?src=hashtag_click) your [#productivity](https://twitter.com/hashtag/productivity?src=hashtag_click) will undoubtedly increase dramatically.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624238045552869377)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624238045552869377)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624238045552869377)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:43:46.000Z](https://twitter.com/realshinyakato/status/1624237731344969728)
->
-> With the dev of [#AGI,](https://twitter.com/hashtag/AGI,?src=hashtag_click) [#programmers](https://twitter.com/hashtag/programmers?src=hashtag_click) are entering a phase where they are carefully considering what to develop as an individual project. Of course, only God knows how much AGI will develop, but it's possible that a project you start today could be created by AGI in a month's time.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624237731344969728)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624237731344969728)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624237731344969728)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:19:42.000Z](https://twitter.com/realshinyakato/status/1624231674845478913)
->
-> そろそろMastodon APIのページング機能をサポートしなければいけない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624231674845478913)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624231674845478913)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624231674845478913)
 
 ---
 <!-- MY-TWEETS:END -->
