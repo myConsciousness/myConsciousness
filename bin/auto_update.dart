@@ -162,7 +162,7 @@ Future<void> _updateZennArticles() async {
       content,
       _myZennArticlesSectionStart,
       _myZennArticlesSectionEnd,
-      '''\n---\n${articles.join('\n')}\n---\n''',
+      '''\n${articles.join('\n')}\n''',
     ),
   );
 }
