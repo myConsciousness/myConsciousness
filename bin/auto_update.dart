@@ -120,7 +120,7 @@ Future<void> _updateAPOD() async {
       '''\n---\n
 > ${image.data.description}
 > ![APOD](${image.data.url})
-> ${image.data.copyright}
+> &copy; ${image.data.copyright}
 \n---\n''',
     ),
   );
