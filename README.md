@@ -187,7 +187,11 @@ I'm looking for sponsors to support my open source development, I appreciate you
 </details>
 
 <details>
-  <summary>:zap: Tweets</summary>
+  <summary>:zap: Twitter</summary>
+
+---
+
+This timeline is made by [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2).
 
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
