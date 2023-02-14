@@ -253,13 +253,11 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
----
-- 🤔 [公開した自作OSSを有名にしたいすべてのOSS開発者が実践すべきこと](https://zenn.dev/kato_shinya/articles/why-your-packages-are-not-popular)
-- 🎥 [【Dart/Flutter】twitter_api_v2でメディアファイルを簡単にアップロードする方法](https://zenn.dev/kato_shinya/articles/how-to-upload-media-with-twitter-api-v2)
-- 🖼️ [【Dart/Flutter】twitter_api_v2を使ってメディア付きのツイートをする方法](https://zenn.dev/kato_shinya/articles/how-to-create-media-tweet-with-twitter-api-v2-dart)
-- 🧵 [【Dart/Flutter】twitter_api_v2でツイートにスレッドを簡単に作成する方法](https://zenn.dev/kato_shinya/articles/how-to-create-thread-tweet-with-twitter-api-v2)
-- 🤔 [個人が公式Twitter APIの機能追加を提案する方法](https://zenn.dev/kato_shinya/articles/lets-contribute-to-twitter-api)
----
+- 🤔 [公開した自作OSSを有名にしたいすべてのOSS開発者が実践すべきこと](https://zenn.dev/kato_shinya/articles/why-your-packages-are-not-popular) (2022-11-13)
+- 🎥 [【Dart/Flutter】twitter_api_v2でメディアファイルを簡単にアップロードする方法](https://zenn.dev/kato_shinya/articles/how-to-upload-media-with-twitter-api-v2) (2022-10-31)
+- 🖼️ [【Dart/Flutter】twitter_api_v2を使ってメディア付きのツイートをする方法](https://zenn.dev/kato_shinya/articles/how-to-create-media-tweet-with-twitter-api-v2-dart) (2022-09-01)
+- 🧵 [【Dart/Flutter】twitter_api_v2でツイートにスレッドを簡単に作成する方法](https://zenn.dev/kato_shinya/articles/how-to-create-thread-tweet-with-twitter-api-v2) (2022-08-22)
+- 🤔 [個人が公式Twitter APIの機能追加を提案する方法](https://zenn.dev/kato_shinya/articles/lets-contribute-to-twitter-api) (2022-07-31)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
