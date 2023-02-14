@@ -251,6 +251,7 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 <details>
   <summary>:zap: APOD (Astronomy Picture of the Day)</summary>
+
 ---
 
 This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
