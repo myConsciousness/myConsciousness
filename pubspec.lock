@@ -209,6 +209,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
+  nasa:
+    dependency: "direct main"
+    description:
+      name: nasa
+      sha256: "9a25a8e4bf7a205f50380cd1990b6b8bb7f01b9f05f6f8a18df2792127f4ba25"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.1"
   node_preamble:
     dependency: transitive
     description:

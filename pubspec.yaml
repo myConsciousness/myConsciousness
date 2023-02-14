@@ -8,6 +8,7 @@ environment:
 dependencies:
   html: ^0.15.1
   http: ^0.13.5
+  nasa: ^0.0.1
   twitter_api_v2: ^4.7.0
 
 dev_dependencies:

@@ -2,7 +2,8 @@ import 'dart:io';
 
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
-import 'package:twitter_api_v2/twitter_api_v2.dart';
+import 'package:nasa/nasa.dart';
+import 'package:twitter_api_v2/twitter_api_v2.dart' as v2;
 
 const _myRankInGitHubSectionStart =
     '<!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->';
@@ -12,16 +13,42 @@ const _myTweetSectionStart =
     '<!-- MY-TWEETS:START - Do not remove or modify this section -->';
 const _myTweetSectionEnd = '<!-- MY-TWEETS:END -->';
 
+const _apodSectionStart =
+    '<!-- APOD:START - Do not remove or modify this section -->';
+const _apodSectionEnd = '<!-- APOD:END -->';
+
 Future<void> main(List<String> arguments) async {
-  final twitter = TwitterApi(
+  await _updateGitHubRanking();
+  await _updateTweets();
+  await _updateAPOD();
+}
+
+Future<void> _updateGitHubRanking() async {
+  final readme = File('README.md');
+  String content = readme.readAsStringSync();
+
+  readme.writeAsStringSync(
+    _replaceFileContent(
+      content,
+      _myRankInGitHubSectionStart,
+      _myRankInGitHubSectionEnd,
+      '''\n\n🤖 **Fun fact 1**: I'm currently [the ${await _getRankAsGitHubCommitter()} most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the ${await _getRankAsGitHubContributor()} most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 3**: I'm titled as **_Regular_** in [Twitter Forum](https://twittercommunity.com/u/kato_shinya/summary).\n\n''',
+    ),
+  );
+}
+
+Future<void> _updateTweets() async {
+  final twitter = v2.TwitterApi(
     bearerToken: '',
-    oauthTokens: OAuthTokens(
+    oauthTokens: v2.OAuthTokens(
       consumerKey: Platform.environment['TWITTER_CONSUMER_KEY']!,
       consumerSecret: Platform.environment['TWITTER_CONSUMER_SECRET']!,
       accessToken: Platform.environment['TWITTER_ACCESS_TOKEN']!,
       accessTokenSecret: Platform.environment['TWITTER_ACCESS_TOKEN_SECRET']!,
     ),
-    retryConfig: RetryConfig(
+    retryConfig: v2.RetryConfig(
       maxAttempts: 10,
       onExecute: (event) => print(
         'Retry after ${event.intervalInSeconds} seconds... '
@@ -32,8 +59,8 @@ Future<void> main(List<String> arguments) async {
 
   final me = await twitter.users.lookupMe(
     userFields: [
-      UserField.username,
-      UserField.profileImageUrl,
+      v2.UserField.username,
+      v2.UserField.profileImageUrl,
     ],
   );
 
@@ -41,15 +68,15 @@ Future<void> main(List<String> arguments) async {
     userId: me.data.id,
     maxResults: 5,
     expansions: [
-      TweetExpansion.attachmentsMediaKeys,
+      v2.TweetExpansion.attachmentsMediaKeys,
     ],
     tweetFields: [
-      TweetField.createdAt,
-      TweetField.attachments,
+      v2.TweetField.createdAt,
+      v2.TweetField.attachments,
     ],
     mediaFields: [
-      MediaField.altText,
-      MediaField.url,
+      v2.MediaField.altText,
+      v2.MediaField.url,
     ],
   );
 
@@ -67,23 +94,32 @@ Future<void> main(List<String> arguments) async {
   final readme = File('README.md');
   String content = readme.readAsStringSync();
 
-  content = _replaceFileContent(
-    content,
-    _myTweetSectionStart,
-    _myTweetSectionEnd,
-    '\n---\n${tweetUIs.join('\n---\n')}\n---\n',
+  readme.writeAsStringSync(
+    _replaceFileContent(
+      content,
+      _myTweetSectionStart,
+      _myTweetSectionEnd,
+      '\n---\n${tweetUIs.join('\n---\n')}\n---\n',
+    ),
   );
+}
 
-  content = _replaceFileContent(
-    content,
-    _myRankInGitHubSectionStart,
-    _myRankInGitHubSectionEnd,
-    '''\n\n🤖 **Fun fact 1**: I'm currently [the ${await _getRankAsGitHubCommitter()} most active GitHub committer in Japan](https://commits.top/japan.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the ${await _getRankAsGitHubContributor()} most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
-🤖 **Fun fact 3**: I'm titled as **_Regular_** in [Twitter Forum](https://twittercommunity.com/u/kato_shinya/summary).\n\n''',
+Future<void> _updateAPOD() async {
+  final nasa = NasaApi(token: Platform.environment['NASA_APIS_TOKEN']!);
+
+  final image = await nasa.apod.lookupImage();
+
+  final readme = File('README.md');
+  String content = readme.readAsStringSync();
+
+  readme.writeAsStringSync(
+    _replaceFileContent(
+      content,
+      _apodSectionStart,
+      _apodSectionEnd,
+      '\n---\n> ![APOD](${image.data.url})\n---\n',
+    ),
   );
-
-  readme.writeAsStringSync(content);
 }
 
 Future<String> _getRankAsGitHubCommitter() async {
@@ -137,9 +173,9 @@ String _replaceFileContent(
     );
 
 String _getTweetText(
-  final UserData me,
-  final TweetData tweet,
-  final Includes? includes,
+  final v2.UserData me,
+  final v2.TweetData tweet,
+  final v2.Includes? includes,
 ) {
   final textElements = _activateUserReference(
     _activateHashtags(tweet.text),
