@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T08:36:48.000Z](https://twitter.com/realshinyakato/status/1625413735987945472)
+>
+> [@uakihir0](https://twitter.com/uakihir0) もう考えるだけ無駄だと悟りましたね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625413735987945472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625413735987945472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625413735987945472)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T05:37:10.000Z](https://twitter.com/realshinyakato/status/1625368531230674946)
 >
 > I have learned of the existence of an [#API](https://twitter.com/hashtag/API?src=hashtag_click) that allows access to [#NASA's](https://twitter.com/hashtag/NASA's?src=hashtag_click) open data :) I implemented and released an endpoint that could retrieve [#APOD](https://twitter.com/hashtag/APOD?src=hashtag_click) :)
@@ -235,15 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > Twitter Blue is 虚無
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625320730576699393)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625320730576699393)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625320730576699393)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:25:26.000Z](https://twitter.com/realshinyakato/status/1625320280712429569)
->
-> わざわざTwitter Blueという仕組み次第で万人から金を搾取できる要素を用意しておきながら、違う料金プランを新設してそっちに水を注ごうとしてるのは血迷ってるとしか思えない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625320280712429569)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625320280712429569)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625320280712429569)
 
 ---
 <!-- MY-TWEETS:END -->
