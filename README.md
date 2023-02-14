@@ -246,6 +246,14 @@ I'm looking for sponsors to support my open source development, I appreciate you
 </details>
 
 <details>
+  <summary>:zap: APOD (Astronomy Picture of the Day)</summary>
+
+  <!-- APOD:START - Do not remove or modify this section -->
+
+  <!-- APOD:END -->
+</details>
+  
+<details>
   <summary>:zap: Holopin Badges</summary>
 
   [![An image of @myconsciousness's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/myconsciousness)](https://holopin.io/@myconsciousness)
