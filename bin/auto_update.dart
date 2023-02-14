@@ -3,6 +3,7 @@ import 'dart:io';
 
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
+import 'package:intl/intl.dart';
 import 'package:nasa/nasa.dart';
 import 'package:twitter_api_v2/twitter_api_v2.dart' as v2;
 
@@ -146,11 +147,14 @@ Future<void> _updateZennArticles() async {
   }
 
   final json = jsonDecode(response.body);
+  final dateFormat = DateFormat('yyyy-MM-dd');
 
   final articles = <String>[];
   for (final Map<String, dynamic> article in json['articles']) {
+    final publishedAt = DateTime.parse(article['published_at']);
+
     articles.add(
-      '- ${article['emoji']} [${article['title']}](https://zenn.dev${article['path']})',
+      '- ${article['emoji']} [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
     );
   }
 
