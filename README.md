@@ -191,7 +191,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 
 ---
 
-This timeline is made by [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2).
+This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twitter-api-v2).
 
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
@@ -251,6 +251,9 @@ This timeline is made by [twitter-api-v2](https://github.com/twitter-dart/twitte
 
 <details>
   <summary>:zap: APOD (Astronomy Picture of the Day)</summary>
+---
+
+This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
 
   <!-- APOD:START - Do not remove or modify this section -->
 ---
