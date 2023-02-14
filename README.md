@@ -197,6 +197,39 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:53:41.000Z](https://twitter.com/realshinyakato/status/1625629379157188608)
+>
+> 先行者利益がとてつもなく大きいAI研究の分野でChatGPTが先に世に出て1億人近いユーザーが付いた時点でGoogleに勝ち目はなかった
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625629379157188608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625629379157188608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625629379157188608)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:49:37.000Z](https://twitter.com/realshinyakato/status/1625628357219188736)
+>
+> RT [@kylelf_:](https://twitter.com/kylelf_:) chatGPT :  something different is happening. 
+> Number of days to 1M and 100M users :  
+> vs
+> * instagram
+> * spotify
+> * facebook
+> * ne…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625628357219188736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625628357219188736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625628357219188736)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:49:19.000Z](https://twitter.com/realshinyakato/status/1625628281356812301)
+>
+> もうツイートもChatGPTに考えてもらおうかな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625628281356812301)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625628281356812301)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625628281356812301)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T09:05:33.000Z](https://twitter.com/realshinyakato/status/1625420972030574592)
 >
 > I'm very interested in running a [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) instance for [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) community
@@ -211,39 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [@uakihir0](https://twitter.com/uakihir0) もう考えるだけ無駄だと悟りましたね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625413735987945472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625413735987945472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625413735987945472)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T05:37:10.000Z](https://twitter.com/realshinyakato/status/1625368531230674946)
->
-> I have learned of the existence of an [#API](https://twitter.com/hashtag/API?src=hashtag_click) that allows access to [#NASA's](https://twitter.com/hashtag/NASA's?src=hashtag_click) open data :) I implemented and released an endpoint that could retrieve [#APOD](https://twitter.com/hashtag/APOD?src=hashtag_click) :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
-> 
-> https://t.co/d1lb3i0cwB](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/d1lb3i0cwB?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625368531230674946)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625368531230674946)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625368531230674946)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T05:30:21.000Z](https://twitter.com/realshinyakato/status/1625366815609335808)
->
-> [@elonmusk](https://twitter.com/elonmusk) why don’t you use Twitter Blue for Twitter API?
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625366815609335808)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625366815609335808)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625366815609335808)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T03:48:52.000Z](https://twitter.com/realshinyakato/status/1625341275762204672)
->
-> 写真を投稿しましたhttps://t.co/thxbFeRqyM
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625341275762204672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625341275762204672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625341275762204672)
 
 ---
 <!-- MY-TWEETS:END -->
