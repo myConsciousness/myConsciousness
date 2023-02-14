@@ -249,8 +249,10 @@ I'm looking for sponsors to support my open source development, I appreciate you
   <summary>:zap: APOD (Astronomy Picture of the Day)</summary>
 
   <!-- APOD:START - Do not remove or modify this section -->
-
-  <!-- APOD:END -->
+---
+> ![APOD](https://apod.nasa.gov/apod/image/2302/HeartSoul_deHaro_1080.jpg)
+---
+<!-- APOD:END -->
 </details>
   
 <details>
