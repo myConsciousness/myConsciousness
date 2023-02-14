@@ -193,6 +193,24 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:25:26.000Z](https://twitter.com/realshinyakato/status/1625320280712429569)
+>
+> わざわざTwitter Blueという仕組み次第で万人から金を搾取できる要素を用意しておきながら、違う料金プランを新設してそっちに水を注ごうとしてるのは血迷ってるとしか思えない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625320280712429569)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625320280712429569)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625320280712429569)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:22:18.000Z](https://twitter.com/realshinyakato/status/1625319493487718400)
+>
+> Twitter API有料化の話はイーロンマスクが思いつきでTwitterDevアカウントから告知させたに一票。有料化するための仕組みを開発するどころか、有料化するサービスの影響調査をするための人材も残ってなかったというところだろ。Twitter Blueと紐付けで全て簡単に解決するのにな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625319493487718400)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625319493487718400)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625319493487718400)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-13T01:05:15.000Z](https://twitter.com/realshinyakato/status/1624937715530711043)
 >
 > Just posted a photo https://t.co/EL7dMNZDay
@@ -217,24 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Just posted a photo https://t.co/rcZwaSR5AE
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624559993600212992)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624559993600212992)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624559993600212992)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T23:23:28.000Z](https://twitter.com/realshinyakato/status/1624549709590274049)
->
-> Just posted a photo https://t.co/qocOeE1Gze
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624549709590274049)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624549709590274049)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624549709590274049)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-11T02:45:01.000Z](https://twitter.com/realshinyakato/status/1624238045552869377)
->
-> Of course, if you can develop while utilizing [#AGI,](https://twitter.com/hashtag/AGI,?src=hashtag_click) your [#productivity](https://twitter.com/hashtag/productivity?src=hashtag_click) will undoubtedly increase dramatically.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624238045552869377)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624238045552869377)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624238045552869377)
 
 ---
 <!-- MY-TWEETS:END -->
