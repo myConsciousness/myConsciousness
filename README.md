@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:27:13.000Z](https://twitter.com/realshinyakato/status/1625320730576699393)
+>
+> Twitter Blue is 虚無
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625320730576699393)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625320730576699393)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625320730576699393)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:25:26.000Z](https://twitter.com/realshinyakato/status/1625320280712429569)
 >
 > わざわざTwitter Blueという仕組み次第で万人から金を搾取できる要素を用意しておきながら、違う料金プランを新設してそっちに水を注ごうとしてるのは血迷ってるとしか思えない
@@ -226,15 +235,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > ![No AltText](https://pbs.twimg.com/media/Fou605jaIAAc5HI.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624934370716045312)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624934370716045312)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624934370716045312)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-12T00:04:19.000Z](https://twitter.com/realshinyakato/status/1624559993600212992)
->
-> Just posted a photo https://t.co/rcZwaSR5AE
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624559993600212992)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624559993600212992)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624559993600212992)
 
 ---
 <!-- MY-TWEETS:END -->
