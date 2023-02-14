@@ -193,6 +193,15 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T03:48:52.000Z](https://twitter.com/realshinyakato/status/1625341275762204672)
+>
+> 写真を投稿しましたhttps://t.co/thxbFeRqyM
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625341275762204672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625341275762204672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625341275762204672)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:27:13.000Z](https://twitter.com/realshinyakato/status/1625320730576699393)
 >
 > Twitter Blue is 虚無
@@ -225,16 +234,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > Just posted a photo https://t.co/EL7dMNZDay
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1624937715530711043)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624937715530711043)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624937715530711043)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-13T00:51:58.000Z](https://twitter.com/realshinyakato/status/1624934370716045312)
->
-> RT [@tdinh_me:](https://twitter.com/tdinh_me:) Can confirm this is 100% true: https://t.co/I8DwdJrCiL
-> ![No AltText](https://pbs.twimg.com/media/Fou605jaIAAc5HI.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624934370716045312)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624934370716045312)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624934370716045312)
 
 ---
 <!-- MY-TWEETS:END -->
