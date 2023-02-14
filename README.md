@@ -193,6 +193,30 @@ I'm looking for sponsors to support my open source development, I appreciate you
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T05:37:10.000Z](https://twitter.com/realshinyakato/status/1625368531230674946)
+>
+> I have learned of the existence of an [#API](https://twitter.com/hashtag/API?src=hashtag_click) that allows access to [#NASA's](https://twitter.com/hashtag/NASA's?src=hashtag_click) open data :) I implemented and released an endpoint that could retrieve [#APOD](https://twitter.com/hashtag/APOD?src=hashtag_click) :)
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
+> 
+> https://t.co/d1lb3i0cwB](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/d1lb3i0cwB?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625368531230674946)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625368531230674946)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625368531230674946)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T05:30:21.000Z](https://twitter.com/realshinyakato/status/1625366815609335808)
+>
+> [@elonmusk](https://twitter.com/elonmusk) why don’t you use Twitter Blue for Twitter API?
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625366815609335808)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625366815609335808)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625366815609335808)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T03:48:52.000Z](https://twitter.com/realshinyakato/status/1625341275762204672)
 >
 > 写真を投稿しましたhttps://t.co/thxbFeRqyM
@@ -216,24 +240,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 > わざわざTwitter Blueという仕組み次第で万人から金を搾取できる要素を用意しておきながら、違う料金プランを新設してそっちに水を注ごうとしてるのは血迷ってるとしか思えない
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625320280712429569)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625320280712429569)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625320280712429569)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T02:22:18.000Z](https://twitter.com/realshinyakato/status/1625319493487718400)
->
-> Twitter API有料化の話はイーロンマスクが思いつきでTwitterDevアカウントから告知させたに一票。有料化するための仕組みを開発するどころか、有料化するサービスの影響調査をするための人材も残ってなかったというところだろ。Twitter Blueと紐付けで全て簡単に解決するのにな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625319493487718400)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625319493487718400)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625319493487718400)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-13T01:05:15.000Z](https://twitter.com/realshinyakato/status/1624937715530711043)
->
-> Just posted a photo https://t.co/EL7dMNZDay
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1624937715530711043)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1624937715530711043)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1624937715530711043)
 
 ---
 <!-- MY-TWEETS:END -->
