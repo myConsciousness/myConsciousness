@@ -1,3 +1,4 @@
+import 'dart:convert';
 import 'dart:io';
 
 import 'package:html/parser.dart';
@@ -13,6 +14,10 @@ const _myTweetSectionStart =
     '<!-- MY-TWEETS:START - Do not remove or modify this section -->';
 const _myTweetSectionEnd = '<!-- MY-TWEETS:END -->';
 
+const _myZennArticlesSectionStart =
+    '<!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->';
+const _myZennArticlesSectionEnd = '<!-- MY-ZENN-ARTICLES:END -->';
+
 const _apodSectionStart =
     '<!-- APOD:START - Do not remove or modify this section -->';
 const _apodSectionEnd = '<!-- APOD:END -->';
@@ -21,6 +26,7 @@ Future<void> main(List<String> arguments) async {
   await _updateGitHubRanking();
   await _updateTweets();
   await _updateAPOD();
+  await _updateZennArticles();
 }
 
 Future<void> _updateGitHubRanking() async {
@@ -122,6 +128,41 @@ Future<void> _updateAPOD() async {
 > ![APOD](${image.data.url})
 > &copy; ${image.data.copyright}
 \n---\n''',
+    ),
+  );
+}
+
+Future<void> _updateZennArticles() async {
+  final response = await get(
+    Uri.https('zenn.dev', '/api/articles', {
+      'username': 'kato_shinya',
+      'count': '5',
+      'order': 'latest',
+    }),
+  );
+
+  if (response.statusCode != 200) {
+    return;
+  }
+
+  final json = jsonDecode(response.body);
+
+  final articles = <String>[];
+  for (final Map<String, dynamic> article in json['articles']) {
+    articles.add(
+      '- ${article['emoji']} [${article['title']}](https://zenn.dev${article['path']})',
+    );
+  }
+
+  final readme = File('README.md');
+  String content = readme.readAsStringSync();
+
+  readme.writeAsStringSync(
+    _replaceFileContent(
+      content,
+      _myZennArticlesSectionStart,
+      _myZennArticlesSectionEnd,
+      '''\n---\n${articles.join('\n')}\n---\n''',
     ),
   );
 }
