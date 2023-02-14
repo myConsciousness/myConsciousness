@@ -117,7 +117,11 @@ Future<void> _updateAPOD() async {
       content,
       _apodSectionStart,
       _apodSectionEnd,
-      '\n---\n> ![APOD](${image.data.url})\n---\n',
+      '''\n---\n
+> ${image.data.description}
+> ![APOD](${image.data.url})
+> ${image.data.copyright}
+\n---\n''',
     ),
   );
 }
