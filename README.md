@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T10:24:59.000Z](https://twitter.com/realshinyakato/status/1625803351756783616)
+>
+> [@ikegpg](https://twitter.com/ikegpg) 設計書が細かすぎずかつわかりやすく書かれていて、それでいて隅々までメンテナンスされていればそうですね。ただ経験上そんなプロジェクトは存在しません
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625803351756783616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625803351756783616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625803351756783616)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T05:04:05.000Z](https://twitter.com/realshinyakato/status/1625722593251627009)
 >
 > 写真を投稿しましたhttps://t.co/dbEnCA8i6H
@@ -235,21 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 先行者利益がとてつもなく大きいAI研究の分野でChatGPTが先に世に出て1億人近いユーザーが付いた時点でGoogleに勝ち目はなかった
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625629379157188608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625629379157188608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625629379157188608)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:49:37.000Z](https://twitter.com/realshinyakato/status/1625628357219188736)
->
-> RT [@kylelf_:](https://twitter.com/kylelf_:) chatGPT :  something different is happening. 
-> Number of days to 1M and 100M users :  
-> vs
-> * instagram
-> * spotify
-> * facebook
-> * ne…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625628357219188736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625628357219188736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625628357219188736)
 
 ---
 <!-- MY-TWEETS:END -->
