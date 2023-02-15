@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T05:04:05.000Z](https://twitter.com/realshinyakato/status/1625722593251627009)
+>
+> 写真を投稿しましたhttps://t.co/dbEnCA8i6H
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625722593251627009)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625722593251627009)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625722593251627009)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T03:10:42.000Z](https://twitter.com/realshinyakato/status/1625694059745665024)
 >
 > [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.5.2 has been released :)
@@ -243,15 +252,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625628357219188736)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625628357219188736)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625628357219188736)
 
 ---
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:49:19.000Z](https://twitter.com/realshinyakato/status/1625628281356812301)
->
-> もうツイートもChatGPTに考えてもらおうかな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625628281356812301)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625628281356812301)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625628281356812301)
-
----
 <!-- MY-TWEETS:END -->
 </details>
 
@@ -277,9 +277,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Is the heart and soul of our Galaxy located in Cassiopeia?  Possibly not, but that is where two bright emission nebulas nicknamed Heart and Soul can be found.  The Heart Nebula, officially dubbed IC 1805 and visible in the featured image on the upper right, has a shape reminiscent of a classical heart symbol.  The shape is perhaps fitting for Valentine's Day. The Soul Nebula is officially designated IC 1871 and is visible on the lower left. Both nebulas shine brightly in the red light of energized hydrogen, one of three colors shown in this three-color montage. Light takes about 6,000 years to reach us from these nebulas, which together span roughly 300 light years.  Studies of stars and clusters like those found in the Heart and Soul nebulas have focused on how massive stars form and how they affect their environment.
-> ![APOD](https://apod.nasa.gov/apod/image/2302/HeartSoul_deHaro_1080.jpg)
-> &copy; Juan Lozano de Haro
+> This unusual sky was both familiar and unfamiliar. The photographer's mission was to capture the arch of the familiar central band of our Milky Way Galaxy over a picturesque medieval manor.  The surprise was that on this January evening, the foreground sky was found glowing in a beautiful but unfamiliar manner. The striped bands are called airglow and they result from air high in Earth's atmosphere being excited by the Sun's light and emitting a faint light of its own. The bands cross the entire sky -- their curved appearance is due to the extremely wide angle of the camera lens. In the foreground lies Château de Losse in southwest France.  Other familiar sky delights dot the distant background including the bright white star Sirius, the orange planet Mars, the blue Pleiades star cluster, the red California Nebula, and, on the far right, the extended Andromeda Galaxy. The initial mission was also successful: across the top of the frame is the arching band of our Milky Way.   What if:  ChatGPT rewrote this text in the style of Shakespeare, Carl Sagan, or Scotty from Star Trek?
+> ![APOD](https://apod.nasa.gov/apod/image/2302/AirglowFrance_Looten_1080.jpg)
+> &copy; Julien Looten
 
 ---
 <!-- APOD:END -->
