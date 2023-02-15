@@ -197,6 +197,21 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T03:10:42.000Z](https://twitter.com/realshinyakato/status/1625694059745665024)
+>
+> [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.5.2 has been released :)
+> 
+> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
+> 
+> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Programming
+> 
+> https://t.co/VGJTOW4MAL?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625694059745665024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625694059745665024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625694059745665024)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T23:08:55.000Z](https://twitter.com/realshinyakato/status/1625633212633583616)
 >
 > 久しぶりにAWS使ってみたらダッシュボードのUI変わってた
@@ -235,15 +250,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > もうツイートもChatGPTに考えてもらおうかな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625628281356812301)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625628281356812301)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625628281356812301)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T09:05:33.000Z](https://twitter.com/realshinyakato/status/1625420972030574592)
->
-> I'm very interested in running a [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) instance for [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) community
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625420972030574592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625420972030574592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625420972030574592)
 
 ---
 <!-- MY-TWEETS:END -->
