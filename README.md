@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T23:08:55.000Z](https://twitter.com/realshinyakato/status/1625633212633583616)
+>
+> 久しぶりにAWS使ってみたらダッシュボードのUI変わってた
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625633212633583616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625633212633583616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625633212633583616)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:53:41.000Z](https://twitter.com/realshinyakato/status/1625629379157188608)
 >
 > 先行者利益がとてつもなく大きいAI研究の分野でChatGPTが先に世に出て1億人近いユーザーが付いた時点でGoogleに勝ち目はなかった
@@ -235,15 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > I'm very interested in running a [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) instance for [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) community
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625420972030574592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625420972030574592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625420972030574592)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T08:36:48.000Z](https://twitter.com/realshinyakato/status/1625413735987945472)
->
-> [@uakihir0](https://twitter.com/uakihir0) もう考えるだけ無駄だと悟りましたね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625413735987945472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625413735987945472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625413735987945472)
 
 ---
 <!-- MY-TWEETS:END -->
