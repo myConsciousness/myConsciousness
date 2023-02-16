@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-16T04:32:30.000Z](https://twitter.com/realshinyakato/status/1626077033158656000)
+>
+> 写真を投稿しましたhttps://t.co/TQgd8Dqggb
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1626077033158656000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626077033158656000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626077033158656000)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T10:24:59.000Z](https://twitter.com/realshinyakato/status/1625803351756783616)
 >
 > [@ikegpg](https://twitter.com/ikegpg) 設計書が細かすぎずかつわかりやすく書かれていて、それでいて隅々までメンテナンスされていればそうですね。ただ経験上そんなプロジェクトは存在しません
@@ -235,15 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 久しぶりにAWS使ってみたらダッシュボードのUI変わってた
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625633212633583616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625633212633583616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625633212633583616)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T22:53:41.000Z](https://twitter.com/realshinyakato/status/1625629379157188608)
->
-> 先行者利益がとてつもなく大きいAI研究の分野でChatGPTが先に世に出て1億人近いユーザーが付いた時点でGoogleに勝ち目はなかった
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625629379157188608)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625629379157188608)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625629379157188608)
 
 ---
 <!-- MY-TWEETS:END -->
