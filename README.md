@@ -197,6 +197,20 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-17T00:57:16.000Z](https://twitter.com/realshinyakato/status/1626385254813679616)
+>
+> [@KhalidWarsa](https://twitter.com/KhalidWarsa) T = Type
+> K = Key Type
+> V = Value Type
+> R = Return Type
+> 
+> And you can use any symbols as you want to express its feature:)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1626385254813679616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626385254813679616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626385254813679616)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-16T04:32:30.000Z](https://twitter.com/realshinyakato/status/1626077033158656000)
 >
 > 写真を投稿しましたhttps://t.co/TQgd8Dqggb
@@ -235,15 +249,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > https://t.co/VGJTOW4MAL?src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625694059745665024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625694059745665024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625694059745665024)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-14T23:08:55.000Z](https://twitter.com/realshinyakato/status/1625633212633583616)
->
-> 久しぶりにAWS使ってみたらダッシュボードのUI変わってた
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625633212633583616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625633212633583616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625633212633583616)
 
 ---
 <!-- MY-TWEETS:END -->
