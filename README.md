@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-18T01:58:18.000Z](https://twitter.com/realshinyakato/status/1626763003906457602)
+>
+> 写真を投稿しましたhttps://t.co/hZOECvSxV0
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1626763003906457602)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626763003906457602)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626763003906457602)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-17T00:57:16.000Z](https://twitter.com/realshinyakato/status/1626385254813679616)
 >
 > [@KhalidWarsa](https://twitter.com/KhalidWarsa) T = Type
@@ -234,21 +243,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 写真を投稿しましたhttps://t.co/dbEnCA8i6H
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625722593251627009)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625722593251627009)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625722593251627009)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T03:10:42.000Z](https://twitter.com/realshinyakato/status/1625694059745665024)
->
-> [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.5.2 has been released :)
-> 
-> #Dart [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming
-> 
-> https://t.co/VGJTOW4MAL](https://twitter.com/hashtag/Programming
-> 
-> https://t.co/VGJTOW4MAL?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625694059745665024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625694059745665024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625694059745665024)
 
 ---
 <!-- MY-TWEETS:END -->
