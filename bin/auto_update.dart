@@ -127,7 +127,7 @@ Future<void> _updateAPOD() async {
       '''\n---\n
 > ${image.data.description}
 > ![APOD](${image.data.url})
-> &copy; ${image.data.copyright}
+${_getCopyright(image.data)}
 \n---\n''',
     ),
   );
@@ -280,3 +280,6 @@ String _activateHashtags(final String text) {
 
   return activatedText.join(' ');
 }
+
+String _getCopyright(final APODData image) =>
+    image.copyright != null ? '> &copy; ${image.copyright}' : '';
