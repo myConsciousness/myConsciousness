@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-19T11:23:39.000Z](https://twitter.com/realshinyakato/status/1627267664665010182)
+>
+> 写真を投稿しましたhttps://t.co/HI5mtE86x6
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627267664665010182)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627267664665010182)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627267664665010182)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-18T01:58:18.000Z](https://twitter.com/realshinyakato/status/1626763003906457602)
 >
 > 写真を投稿しましたhttps://t.co/hZOECvSxV0
@@ -234,15 +243,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [@ikegpg](https://twitter.com/ikegpg) 設計書が細かすぎずかつわかりやすく書かれていて、それでいて隅々までメンテナンスされていればそうですね。ただ経験上そんなプロジェクトは存在しません
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1625803351756783616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625803351756783616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625803351756783616)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T05:04:05.000Z](https://twitter.com/realshinyakato/status/1625722593251627009)
->
-> 写真を投稿しましたhttps://t.co/dbEnCA8i6H
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625722593251627009)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625722593251627009)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625722593251627009)
 
 ---
 <!-- MY-TWEETS:END -->
