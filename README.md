@@ -197,6 +197,20 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-19T12:01:18.000Z](https://twitter.com/realshinyakato/status/1627277142320107520)
+>
+> I’m going to release [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.6.0, and from this version you can upload media so easily :)
+> 
+> #dart [#mastodon](https://twitter.com/hashtag/mastodon?src=hashtag_click) [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) [#programming](https://twitter.com/hashtag/programming?src=hashtag_click) 
+> 
+> https://t.co/VGJTOW4MAL https://t.co/fNQlPfF2lb
+> ![No AltText](https://pbs.twimg.com/media/FpU_7zraEAEuwn3.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627277142320107520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627277142320107520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627277142320107520)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-19T11:23:39.000Z](https://twitter.com/realshinyakato/status/1627267664665010182)
 >
 > 写真を投稿しましたhttps://t.co/HI5mtE86x6
@@ -234,15 +248,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 写真を投稿しましたhttps://t.co/TQgd8Dqggb
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1626077033158656000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626077033158656000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626077033158656000)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-15T10:24:59.000Z](https://twitter.com/realshinyakato/status/1625803351756783616)
->
-> [@ikegpg](https://twitter.com/ikegpg) 設計書が細かすぎずかつわかりやすく書かれていて、それでいて隅々までメンテナンスされていればそうですね。ただ経験上そんなプロジェクトは存在しません
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1625803351756783616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1625803351756783616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1625803351756783616)
 
 ---
 <!-- MY-TWEETS:END -->
