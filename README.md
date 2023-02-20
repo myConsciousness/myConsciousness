@@ -197,6 +197,37 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T13:03:02.000Z](https://twitter.com/realshinyakato/status/1627655065866739712)
+>
+> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) 始めました
+> 
+> https://t.co/W365Bh9N4p https://t.co/W1101IExBW
+> ![No AltText](https://pbs.twimg.com/media/FpaXoP6aIAIfR0u.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627655065866739712)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627655065866739712)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627655065866739712)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T12:20:44.000Z](https://twitter.com/realshinyakato/status/1627644421641744385)
+>
+> RT [@Yamkaz:](https://twitter.com/Yamkaz:) 【速報】「Stable Diffusion」をリリースしたStability AIの日本公式アカウントが、日本語に特化した、今までないチャットボット「Stable Chat(日本語版)」を構築することを発表 https://t.co/3RGVoxlNfH
+> ![No AltText](https://pbs.twimg.com/media/FpZN3XTakAAYd-V.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627644421641744385)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627644421641744385)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627644421641744385)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T12:19:45.000Z](https://twitter.com/realshinyakato/status/1627644171220815873)
+>
+> SAPのUIはもうちょっと使いやすくできないんだろうか・・・
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627644171220815873)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627644171220815873)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627644171220815873)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T06:49:04.000Z](https://twitter.com/realshinyakato/status/1627560953402519553)
 >
 > Salesforceのダッシュボードにいる謎キャラクターが面白い
@@ -216,38 +247,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/FpU_7zraEAEuwn3.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1627277142320107520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627277142320107520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627277142320107520)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-19T11:23:39.000Z](https://twitter.com/realshinyakato/status/1627267664665010182)
->
-> 写真を投稿しましたhttps://t.co/HI5mtE86x6
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627267664665010182)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627267664665010182)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627267664665010182)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-18T01:58:18.000Z](https://twitter.com/realshinyakato/status/1626763003906457602)
->
-> 写真を投稿しましたhttps://t.co/hZOECvSxV0
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1626763003906457602)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626763003906457602)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626763003906457602)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-17T00:57:16.000Z](https://twitter.com/realshinyakato/status/1626385254813679616)
->
-> [@KhalidWarsa](https://twitter.com/KhalidWarsa) T = Type
-> K = Key Type
-> V = Value Type
-> R = Return Type
-> 
-> And you can use any symbols as you want to express its feature:)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1626385254813679616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626385254813679616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626385254813679616)
 
 ---
 <!-- MY-TWEETS:END -->
