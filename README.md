@@ -197,6 +197,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T06:49:04.000Z](https://twitter.com/realshinyakato/status/1627560953402519553)
+>
+> Salesforceのダッシュボードにいる謎キャラクターが面白い
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627560953402519553)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627560953402519553)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627560953402519553)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-19T12:01:18.000Z](https://twitter.com/realshinyakato/status/1627277142320107520)
 >
 > I’m going to release [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.6.0, and from this version you can upload media so easily :)
@@ -239,15 +248,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > And you can use any symbols as you want to express its feature:)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1626385254813679616)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626385254813679616)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626385254813679616)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-16T04:32:30.000Z](https://twitter.com/realshinyakato/status/1626077033158656000)
->
-> 写真を投稿しましたhttps://t.co/TQgd8Dqggb
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1626077033158656000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1626077033158656000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1626077033158656000)
 
 ---
 <!-- MY-TWEETS:END -->
