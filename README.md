@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T14:08:37.000Z](https://twitter.com/realshinyakato/status/1628033957362270213)
+>
+> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is dead, let’s move to decentralized social media :)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628033957362270213)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628033957362270213)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628033957362270213)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T13:46:12.000Z](https://twitter.com/realshinyakato/status/1628028317701148672)
 >
 > Misskey APIのサーバーでの処理時間結構長いよね。体感だけど https://t.co/wfSmVaeVDv にリクエスト投げて5秒近くはレスポンスが返ってこない
@@ -230,16 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 写真を投稿しましたhttps://t.co/XDSOADcZjK
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1628002742978445314)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628002742978445314)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628002742978445314)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T03:48:31.000Z](https://twitter.com/realshinyakato/status/1627877902049222656)
->
-> 草 https://t.co/21Lkoi16LX
-> ![No AltText](https://pbs.twimg.com/media/FpdiUsQaMAEIVFl.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627877902049222656)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627877902049222656)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627877902049222656)
 
 ---
 <!-- MY-TWEETS:END -->
