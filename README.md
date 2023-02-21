@@ -110,6 +110,7 @@ I'm looking for sponsors to support my open source development, I appreciate you
 - [duolingo4d](https://github.com/duolingo-dart/duolingo4d) (10+ ⭐)
 - [tweet](https://github.com/dart-actions/tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
+- [misskey](https://github.com/misskey-dart/misskey)
 
 ## **_Experiences_**
 
