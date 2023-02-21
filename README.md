@@ -197,6 +197,16 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T03:48:31.000Z](https://twitter.com/realshinyakato/status/1627877902049222656)
+>
+> 草 https://t.co/21Lkoi16LX
+> ![No AltText](https://pbs.twimg.com/media/FpdiUsQaMAEIVFl.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627877902049222656)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627877902049222656)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627877902049222656)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T13:03:02.000Z](https://twitter.com/realshinyakato/status/1627655065866739712)
 >
 > [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) 始めました
@@ -233,20 +243,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > Salesforceのダッシュボードにいる謎キャラクターが面白い
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1627560953402519553)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627560953402519553)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627560953402519553)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-19T12:01:18.000Z](https://twitter.com/realshinyakato/status/1627277142320107520)
->
-> I’m going to release [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) v0.6.0, and from this version you can upload media so easily :)
-> 
-> #dart [#mastodon](https://twitter.com/hashtag/mastodon?src=hashtag_click) [#mastodon_api](https://twitter.com/hashtag/mastodon_api?src=hashtag_click) [#programming](https://twitter.com/hashtag/programming?src=hashtag_click) 
-> 
-> https://t.co/VGJTOW4MAL https://t.co/fNQlPfF2lb
-> ![No AltText](https://pbs.twimg.com/media/FpU_7zraEAEuwn3.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627277142320107520)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627277142320107520)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627277142320107520)
 
 ---
 <!-- MY-TWEETS:END -->
