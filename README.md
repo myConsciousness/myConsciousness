@@ -270,9 +270,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> There is nothing like this ball of stars in our Milky Way Galaxy. This is surprising because, at first glance, this featured image by the Hubble Space Telescope suggests that star cluster NGC 1850's size and shape are reminiscent of the many ancient globular star clusters which roam our own Milky Way Galaxy's halo.  But NGC 1850's stars are all too young, making it a type of star cluster with no known counterpart in the Milky Way.  Moreover, NGC 1850 is also a double star cluster, with a second, compact cluster of stars visible here just to the right of the large cluster's center.  Stars in the large cluster are estimated to be 50 million years young, while stars in the compact cluster are younger still, with an age of about 4 million years.  A mere 168,000 light-years distant, NGC 1850 is located near the outskirts of the Large Magellanic Cloud galaxy.  The glowing gas filaments across the image left, like supernova remnants in our own galaxy, testify to violent stellar explosions and indicate that short-lived massive stars have recently been present in the region.
-> ![APOD](https://apod.nasa.gov/apod/image/2302/Ngc1850_HubbleOzsarac_960.jpg)
-
+> They are both falling. The water in Yosemite Falls, California, USA, is falling toward the Earth. Comet ZTF is falling toward the Sun. This double cosmic cascade was captured late last month as fading Comet C/2022 E3 (ZTF) had just passed its closest to planet Earth. The orange star just over the falls is Kochab. With the exception of a brief encounter with a black bear, the featured image was a well-planned composite of a moonlit-foreground and long-duration background exposures - all designed to reconstruct a deep version of an actual single sight. Although Comet ZTF is now fading as it glides back to the outer Solar System, its path is determined by gravity and so it can be considered to still be falling toward the Sun -- but backwards.    Comet ZTF Gallery: Notable Submissions to APOD
+> ![APOD](https://apod.nasa.gov/apod/image/2302/CometZtfYosemite_Mostofi_960.jpg)
+> &copy; Tara Mostofi
 
 ---
 <!-- APOD:END -->
