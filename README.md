@@ -197,6 +197,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T12:13:25.000Z](https://twitter.com/realshinyakato/status/1628004965242535936)
+>
+> Business using Twitter services is already very risky. Essential services could suddenly become unavailable tomorrow, and in fact we have already seen many instances on this platform. https://t.co/zwXwmUsITr
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628004965242535936)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628004965242535936)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628004965242535936)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T12:04:35.000Z](https://twitter.com/realshinyakato/status/1628002742978445314)
+>
+> 写真を投稿しましたhttps://t.co/XDSOADcZjK
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628002742978445314)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628002742978445314)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628002742978445314)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T03:48:31.000Z](https://twitter.com/realshinyakato/status/1627877902049222656)
 >
 > 草 https://t.co/21Lkoi16LX
@@ -225,24 +243,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/FpZN3XTakAAYd-V.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1627644421641744385)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627644421641744385)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627644421641744385)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T12:19:45.000Z](https://twitter.com/realshinyakato/status/1627644171220815873)
->
-> SAPのUIはもうちょっと使いやすくできないんだろうか・・・
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627644171220815873)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627644171220815873)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627644171220815873)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T06:49:04.000Z](https://twitter.com/realshinyakato/status/1627560953402519553)
->
-> Salesforceのダッシュボードにいる謎キャラクターが面白い
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627560953402519553)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627560953402519553)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627560953402519553)
 
 ---
 <!-- MY-TWEETS:END -->
