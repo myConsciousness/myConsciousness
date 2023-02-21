@@ -198,6 +198,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T13:46:12.000Z](https://twitter.com/realshinyakato/status/1628028317701148672)
+>
+> Misskey APIのサーバーでの処理時間結構長いよね。体感だけど https://t.co/wfSmVaeVDv にリクエスト投げて5秒近くはレスポンスが返ってこない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628028317701148672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628028317701148672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628028317701148672)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T13:41:22.000Z](https://twitter.com/realshinyakato/status/1628027100254048258)
+>
+> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) は画面ロードの待機時間とAPIの返却時間を改善できればもう少し過ごしやすくなりそう
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628027100254048258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628027100254048258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628027100254048258)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T12:13:25.000Z](https://twitter.com/realshinyakato/status/1628004965242535936)
 >
 > Business using Twitter services is already very risky. Essential services could suddenly become unavailable tomorrow, and in fact we have already seen many instances on this platform. https://t.co/zwXwmUsITr
@@ -222,28 +240,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/FpdiUsQaMAEIVFl.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1627877902049222656)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627877902049222656)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627877902049222656)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T13:03:02.000Z](https://twitter.com/realshinyakato/status/1627655065866739712)
->
-> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) 始めました
-> 
-> https://t.co/W365Bh9N4p https://t.co/W1101IExBW
-> ![No AltText](https://pbs.twimg.com/media/FpaXoP6aIAIfR0u.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627655065866739712)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627655065866739712)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627655065866739712)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-20T12:20:44.000Z](https://twitter.com/realshinyakato/status/1627644421641744385)
->
-> RT [@Yamkaz:](https://twitter.com/Yamkaz:) 【速報】「Stable Diffusion」をリリースしたStability AIの日本公式アカウントが、日本語に特化した、今までないチャットボット「Stable Chat(日本語版)」を構築することを発表 https://t.co/3RGVoxlNfH
-> ![No AltText](https://pbs.twimg.com/media/FpZN3XTakAAYd-V.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1627644421641744385)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1627644421641744385)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1627644421641744385)
 
 ---
 <!-- MY-TWEETS:END -->
