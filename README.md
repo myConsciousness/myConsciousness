@@ -266,9 +266,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> They are both falling. The water in Yosemite Falls, California, USA, is falling toward the Earth. Comet ZTF is falling toward the Sun. This double cosmic cascade was captured late last month as fading Comet C/2022 E3 (ZTF) had just passed its closest to planet Earth. The orange star just over the falls is Kochab. With the exception of a brief encounter with a black bear, the featured image was a well-planned composite of a moonlit-foreground and long-duration background exposures - all designed to reconstruct a deep version of an actual single sight. Although Comet ZTF is now fading as it glides back to the outer Solar System, its path is determined by gravity and so it can be considered to still be falling toward the Sun -- but backwards.    Comet ZTF Gallery: Notable Submissions to APOD
-> ![APOD](https://apod.nasa.gov/apod/image/2302/CometZtfYosemite_Mostofi_960.jpg)
-> &copy; Tara Mostofi
+> Our Sun is becoming a busy place.  Only two years ago, the Sun was emerging from a solar minimum so quiet that months would go by without even a single sunspot.  In contrast, already this year and well ahead of schedule, our Sun is unusually active, already nearing solar activity levels seen a decade ago during the last solar maximum.  Our increasingly active Sun was captured two weeks ago sporting numerous interesting features. The image was recorded in a single color of light called Hydrogen Alpha, color-inverted, and false colored.  Spicules carpet much of the Sun's face.  The brightening towards the Sun's edges is caused by increased absorption of relatively cool solar gas and called limb darkening.  Just outside the Sun's disk, several scintillating prominences protrude, while prominences on the Sun's face are known as filaments and show as light streaks.  Magnetically tangled active regions are both dark and light and contain cool sunspots.  As our Sun's magnetic field winds toward solar maximum over the next few years, whether the Sun's high activity will continue to increase is unknown.
+> ![APOD](https://apod.nasa.gov/apod/image/2302/SunHalphaC_Ergun_960.jpg)
+> &copy; Mehmet Ergün
 
 ---
 <!-- APOD:END -->
