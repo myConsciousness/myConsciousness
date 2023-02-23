@@ -198,6 +198,36 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-23T03:39:21.000Z](https://twitter.com/realshinyakato/status/1628600371534000128)
+>
+> Programming in any form is sure to become easier. If it were possible to generate simple instant programs from voice input, etc., there would be no need for programmers to solve small problems.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628600371534000128)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628600371534000128)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628600371534000128)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-23T03:35:55.000Z](https://twitter.com/realshinyakato/status/1628599510330134528)
+>
+> I'm not sure I'm making the right investment in programming, [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) won't get past the skilled programmers yet, but I figure it's only a matter of time. At the very least, it seems to me that programming will become so easy and commonplace that it will cease to be a profession.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628599510330134528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628599510330134528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628599510330134528)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-22T22:45:07.000Z](https://twitter.com/realshinyakato/status/1628526328394940416)
+>
+> RT [@Yamkaz:](https://twitter.com/Yamkaz:) ドイツのAIスタートアップ「Aleph Alpha」が今年、GPT-4に対抗する可能性
+> https://t.co/XHCi4L6RF9
+> 
+> 今月、OpenAIの新モデルの代替品レベルの「Luminous Supreme Control」をリリースし、別で3…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628526328394940416)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628526328394940416)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628526328394940416)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-22T07:50:59.000Z](https://twitter.com/realshinyakato/status/1628301311975514112)
 >
 > [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) APIのライブラリ一覧をMIsskey Hubに追加しました。
@@ -214,33 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is dead, let’s move to decentralized social media :)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1628033957362270213)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628033957362270213)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628033957362270213)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T13:46:12.000Z](https://twitter.com/realshinyakato/status/1628028317701148672)
->
-> Misskey APIのサーバーでの処理時間結構長いよね。体感だけど https://t.co/wfSmVaeVDv にリクエスト投げて5秒近くはレスポンスが返ってこない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628028317701148672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628028317701148672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628028317701148672)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T13:41:22.000Z](https://twitter.com/realshinyakato/status/1628027100254048258)
->
-> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) は画面ロードの待機時間とAPIの返却時間を改善できればもう少し過ごしやすくなりそう
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628027100254048258)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628027100254048258)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628027100254048258)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T12:13:25.000Z](https://twitter.com/realshinyakato/status/1628004965242535936)
->
-> Business using Twitter services is already very risky. Essential services could suddenly become unavailable tomorrow, and in fact we have already seen many instances on this platform. https://t.co/zwXwmUsITr
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628004965242535936)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628004965242535936)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628004965242535936)
 
 ---
 <!-- MY-TWEETS:END -->
@@ -268,9 +271,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Our Sun is becoming a busy place.  Only two years ago, the Sun was emerging from a solar minimum so quiet that months would go by without even a single sunspot.  In contrast, already this year and well ahead of schedule, our Sun is unusually active, already nearing solar activity levels seen a decade ago during the last solar maximum.  Our increasingly active Sun was captured two weeks ago sporting numerous interesting features. The image was recorded in a single color of light called Hydrogen Alpha, color-inverted, and false colored.  Spicules carpet much of the Sun's face.  The brightening towards the Sun's edges is caused by increased absorption of relatively cool solar gas and called limb darkening.  Just outside the Sun's disk, several scintillating prominences protrude, while prominences on the Sun's face are known as filaments and show as light streaks.  Magnetically tangled active regions are both dark and light and contain cool sunspots.  As our Sun's magnetic field winds toward solar maximum over the next few years, whether the Sun's high activity will continue to increase is unknown.
-> ![APOD](https://apod.nasa.gov/apod/image/2302/SunHalphaC_Ergun_960.jpg)
-> &copy; Mehmet Ergün
+> Peculiar spiral galaxy Arp 78 is found within the boundaries of the head strong constellation Aries. Some 100 million light-years beyond the stars and nebulae of our Milky Way galaxy, the island universe is an enormous 200,000 light-years across. Also known as NGC 772, it sports a prominent, outer spiral arm in this detailed cosmic portrait. Tracking along sweeping dust lanes and lined with young blue star clusters, Arp 78's overdeveloped spiral arm is pumped-up by galactic-scale gravitational tides. Interactions with its brightest companion galaxy, the more compact NGC 770 seen above and right of the larger spiral, are likely responsible. Embedded in faint star streams revealed in the deep telescopic exposure, NGC 770's fuzzy, elliptical appearance contrasts nicely with spiky foreground Milky Way stars in matching yellowish hues.
+> ![APOD](https://apod.nasa.gov/apod/image/2302/NGC772-L2bh-RGB-19-8aT-cC1024.jpg)
+> &copy; Josep Drudis
 
 ---
 <!-- APOD:END -->
