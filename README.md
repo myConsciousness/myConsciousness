@@ -198,6 +198,28 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T10:58:13.000Z](https://twitter.com/realshinyakato/status/1629073204752035841)
+>
+> [@CFDevelop](https://twitter.com/CFDevelop) [@Upwork](https://twitter.com/Upwork) I have never used this service, but it is heartbreaking to see a company or owner of a service unilaterally execute an account suspension like this. A permanent suspension is a matter of the personhood of the account holder. This is definitely inhumane.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629073204752035841)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629073204752035841)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629073204752035841)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T10:53:31.000Z](https://twitter.com/realshinyakato/status/1629072023225004032)
+>
+> RT [@scispace_:](https://twitter.com/scispace_:) ChatGPTを利用したこのアシスタントは、世界中の何百万人もの研究者の研究論文を簡素化しています。
+> 
+> SciSpaceをフォローして詳細をご覧ください。
+> 
+> #AcademicTwitter  [#Researchtools](https://twitter.com/hashtag/Researchtools?src=hashtag_click) [#GPT3](https://twitter.com/hashtag/GPT3?src=hashtag_click) [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) [#p…](https://twitter.com/hashtag/p…?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629072023225004032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629072023225004032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629072023225004032)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:53:51.000Z](https://twitter.com/realshinyakato/status/1629057006324822016)
 >
 > I feel that programmers are the ones who need to relearn. The days of the programmer’s advantage are beginning to fade, and we need to learn how to use AI to solve problems with many times more productivity than ever before.
@@ -221,24 +243,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > Goodbye front end developers 👋 https://t.co/tqk8WdyJ0W
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1629054030722011137)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629054030722011137)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629054030722011137)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-23T03:39:21.000Z](https://twitter.com/realshinyakato/status/1628600371534000128)
->
-> Programming in any form is sure to become easier. If it were possible to generate simple instant programs from voice input, etc., there would be no need for programmers to solve small problems.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628600371534000128)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628600371534000128)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628600371534000128)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-23T03:35:55.000Z](https://twitter.com/realshinyakato/status/1628599510330134528)
->
-> I'm not sure I'm making the right investment in programming, [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) won't get past the skilled programmers yet, but I figure it's only a matter of time. At the very least, it seems to me that programming will become so easy and commonplace that it will cease to be a profession.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628599510330134528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628599510330134528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628599510330134528)
 
 ---
 <!-- MY-TWEETS:END -->
