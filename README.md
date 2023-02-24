@@ -198,6 +198,33 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:53:51.000Z](https://twitter.com/realshinyakato/status/1629057006324822016)
+>
+> I feel that programmers are the ones who need to relearn. The days of the programmer’s advantage are beginning to fade, and we need to learn how to use AI to solve problems with many times more productivity than ever before.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629057006324822016)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629057006324822016)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629057006324822016)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:49:33.000Z](https://twitter.com/realshinyakato/status/1629055926677413888)
+>
+> I already feel that designing software by human hands is out of fashion. If mobile apps could be designed with just text input, there would be no need for front end development anymore.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629055926677413888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629055926677413888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629055926677413888)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:42:01.000Z](https://twitter.com/realshinyakato/status/1629054030722011137)
+>
+> Goodbye front end developers 👋 https://t.co/tqk8WdyJ0W
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629054030722011137)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629054030722011137)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629054030722011137)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-23T03:39:21.000Z](https://twitter.com/realshinyakato/status/1628600371534000128)
 >
 > Programming in any form is sure to become easier. If it were possible to generate simple instant programs from voice input, etc., there would be no need for programmers to solve small problems.
@@ -212,38 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > I'm not sure I'm making the right investment in programming, [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) won't get past the skilled programmers yet, but I figure it's only a matter of time. At the very least, it seems to me that programming will become so easy and commonplace that it will cease to be a profession.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1628599510330134528)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628599510330134528)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628599510330134528)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-22T22:45:07.000Z](https://twitter.com/realshinyakato/status/1628526328394940416)
->
-> RT [@Yamkaz:](https://twitter.com/Yamkaz:) ドイツのAIスタートアップ「Aleph Alpha」が今年、GPT-4に対抗する可能性
-> https://t.co/XHCi4L6RF9
-> 
-> 今月、OpenAIの新モデルの代替品レベルの「Luminous Supreme Control」をリリースし、別で3…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628526328394940416)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628526328394940416)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628526328394940416)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-22T07:50:59.000Z](https://twitter.com/realshinyakato/status/1628301311975514112)
->
-> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) APIのライブラリ一覧をMIsskey Hubに追加しました。
-> 
-> https://t.co/TOUDuO80Fm
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628301311975514112)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628301311975514112)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628301311975514112)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-21T14:08:37.000Z](https://twitter.com/realshinyakato/status/1628033957362270213)
->
-> [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) is dead, let’s move to decentralized social media :)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1628033957362270213)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1628033957362270213)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1628033957362270213)
 
 ---
 <!-- MY-TWEETS:END -->
