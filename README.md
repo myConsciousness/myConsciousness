@@ -198,6 +198,18 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-25T09:45:47.000Z](https://twitter.com/realshinyakato/status/1629417365493661697)
+>
+> Hi [@abraham](https://twitter.com/abraham) ,
+> 
+> Please add [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) icon to social links in GitHub. This is a decentralized social media from Japan. https://t.co/6vF4AYlnFj
+> ![No AltText](https://pbs.twimg.com/media/FpzaTKeaQAA8uGx.png)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629417365493661697)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629417365493661697)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629417365493661697)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T10:58:13.000Z](https://twitter.com/realshinyakato/status/1629073204752035841)
 >
 > [@CFDevelop](https://twitter.com/CFDevelop) [@Upwork](https://twitter.com/Upwork) I have never used this service, but it is heartbreaking to see a company or owner of a service unilaterally execute an account suspension like this. A permanent suspension is a matter of the personhood of the account holder. This is definitely inhumane.
@@ -234,15 +246,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > I already feel that designing software by human hands is out of fashion. If mobile apps could be designed with just text input, there would be no need for front end development anymore.
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1629055926677413888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629055926677413888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629055926677413888)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:42:01.000Z](https://twitter.com/realshinyakato/status/1629054030722011137)
->
-> Goodbye front end developers 👋 https://t.co/tqk8WdyJ0W
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629054030722011137)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629054030722011137)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629054030722011137)
 
 ---
 <!-- MY-TWEETS:END -->
