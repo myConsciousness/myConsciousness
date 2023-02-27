@@ -198,6 +198,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T14:14:31.000Z](https://twitter.com/realshinyakato/status/1630209769075277824)
+>
+> [@0218_rom](https://twitter.com/0218_rom) ドル円なら何円で1ドルを買えるかと考えると簡単です
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630209769075277824)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630209769075277824)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630209769075277824)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T14:11:12.000Z](https://twitter.com/realshinyakato/status/1630208936413634560)
+>
+> [@luke_pighetti](https://twitter.com/luke_pighetti) Most importantly we are already familiar with typing “final” in our hands. I will still use final even if they add more weird symbols like fin or :=.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630208936413634560)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630208936413634560)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630208936413634560)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T13:33:57.000Z](https://twitter.com/realshinyakato/status/1630199561896751104)
 >
 > ドット絵の質で既にクソゲー臭がする https://t.co/3INg2xPMrb
@@ -224,24 +242,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/Fp93q4zWcAI1Avr.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630195691460108288)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630195691460108288)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630195691460108288)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T13:13:48.000Z](https://twitter.com/realshinyakato/status/1630194489586487296)
->
-> [@aya_howa](https://twitter.com/aya_howa) よかったです！👍
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630194489586487296)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630194489586487296)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630194489586487296)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T12:59:29.000Z](https://twitter.com/realshinyakato/status/1630190884921966592)
->
-> 久しぶりに [#Zenn](https://twitter.com/hashtag/Zenn?src=hashtag_click) でアウトプットしようかな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630190884921966592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630190884921966592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630190884921966592)
 
 ---
 <!-- MY-TWEETS:END -->
