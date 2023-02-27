@@ -9,7 +9,7 @@
 
 🤖 **Fun fact 1**: I'm currently [the 17th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
 🤖 **Fun fact 2**: I'm currently rated as [the 12nd most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
-🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
+🤖 **Fun fact 3**: I'm titled as **_Regular_** in [Twitter Forum](https://twittercommunity.com/u/kato_shinya/summary).
 
 <!-- MY-RANK-IN-GITHUB:END -->
 
@@ -198,47 +198,49 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T12:59:29.000Z](https://twitter.com/realshinyakato/status/1630190884921966592)
+>
+> 久しぶりに [#Zenn](https://twitter.com/hashtag/Zenn?src=hashtag_click) でアウトプットしようかな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630190884921966592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630190884921966592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630190884921966592)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T12:46:43.000Z](https://twitter.com/realshinyakato/status/1630187674807209985)
+>
+> [@aya_howa](https://twitter.com/aya_howa) 再帰的ジェネリクスですね。もしJavaで勉強しているようでしたら昔読んだ以下の記事が活用方法も紹介していてとても役に立ちます
+> 
+> https://t.co/g57c5vRXhl
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630187674807209985)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630187674807209985)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630187674807209985)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T12:39:03.000Z](https://twitter.com/realshinyakato/status/1630185742784958464)
+>
+> [@schwarzewald](https://twitter.com/schwarzewald) 数日間見ていたところだと運営陣自体が卑猥なので完全なアングラとしては楽しめそうです
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630185742784958464)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630185742784958464)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630185742784958464)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T12:02:12.000Z](https://twitter.com/realshinyakato/status/1630176470621618176)
+>
+> Hi [@MrPeterLMorris](https://twitter.com/MrPeterLMorris) , I found your method of displaying your verified badge on your own profile picture very clever. Can I imitate you?
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630176470621618176)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630176470621618176)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630176470621618176)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T11:59:07.000Z](https://twitter.com/realshinyakato/status/1630175694025285632)
 >
 > $20のTwitter Blueサブスクリプションが嫌だけど本人であることを強調したいある外国人が画像に認証マーク入れてたの最高に賢い
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630175694025285632)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630175694025285632)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630175694025285632)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T11:23:05.000Z](https://twitter.com/realshinyakato/status/1630166627110227969)
->
-> [@aya_howa](https://twitter.com/aya_howa) ジェネリクスを自分のプログラムの中に取り入れられるようになると表現の幅が格段に増しますね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630166627110227969)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630166627110227969)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630166627110227969)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:58:36.000Z](https://twitter.com/realshinyakato/status/1630160463458897921)
->
-> イーロン・マスク、日本のことが好きというのはビジネス上のリップサービスで、内心では絶対日本のこと嫌いだよね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630160463458897921)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630160463458897921)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630160463458897921)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:56:04.000Z](https://twitter.com/realshinyakato/status/1630159827661127682)
->
-> 他の言語の事情は知らないけど、たしかにopenAIの日本語は本当にクソ。予測変換が使えないからあらかじめどこかにメモしたものをペーストする必要がある。 https://t.co/rAiywoXDPl
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630159827661127682)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630159827661127682)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630159827661127682)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:51:27.000Z](https://twitter.com/realshinyakato/status/1630158665541120001)
->
-> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) は良くも悪くも一昔前の [#ニコニコ動画](https://twitter.com/hashtag/ニコニコ動画?src=hashtag_click) と雰囲気が似てる。少し危ない発言をしてもリアクションがつく上に運営側の監視はほぼないみたいだから結構やりたい放題ができるけど、あの調子だと競合の [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) を超えるのは無理だなと感じた
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630158665541120001)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630158665541120001)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630158665541120001)
 
 ---
 <!-- MY-TWEETS:END -->
