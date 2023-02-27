@@ -198,6 +198,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T09:00:09.000Z](https://twitter.com/realshinyakato/status/1630130655962238976)
+>
+> Flutter関連のドキュメントで韓国語や中国語が用意されていても、日本語が用意されてないことがほとんどだから日本はまったく注目されてない
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630130655962238976)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630130655962238976)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630130655962238976)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T08:58:03.000Z](https://twitter.com/realshinyakato/status/1630130127119200261)
+>
+> Flutterの公式イベントに参加したくても、日本で暮らしてると距離的にも時間的にも難しいのが残念すぎる。日本で開催は無理にしても、韓国や中国だったらまだ行けそうなのになー
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630130127119200261)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630130127119200261)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630130127119200261)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:51:27.000Z](https://twitter.com/realshinyakato/status/1630098269086031873)
 >
 > [@CFDevelop](https://twitter.com/CFDevelop) I see, I think there are reasons for this as I wrote. Perhaps if we make final the default, we can omit both "final" and "type name", but this seems a bit Python-like and strange. (Like `finalVariable = 'test';`)
@@ -222,26 +240,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 時間単価診断の結果、私の想定時間単価は7,777円〜Overflow!でした。あなたも時間単価をチェックしよう！ https://t.co/PSPhi74z1w [#findy](https://twitter.com/hashtag/findy?src=hashtag_click) [#findyfreelance](https://twitter.com/hashtag/findyfreelance?src=hashtag_click) [#時間単価診断](https://twitter.com/hashtag/時間単価診断?src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630094482791354368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630094482791354368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630094482791354368)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:30:13.000Z](https://twitter.com/realshinyakato/status/1630092925827792896)
->
-> It would be great if final became the standard in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) but for example, you have to enter the type as `String xxx = '';` if it's a String (whatever it is). If the type name is long, the advantage of not having to write final is offset.
-> 
-> https://t.co/kLwZdyQumd
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630092925827792896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630092925827792896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630092925827792896)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:49:48.000Z](https://twitter.com/realshinyakato/status/1630082754766581766)
->
-> Twitter API有料化しないならTwitter API Playgroundの非公式アプリ完成させたいんだけどな〜、もうスキーマを追加するだけのところまで作ってあるんだけどな〜
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630082754766581766)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630082754766581766)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630082754766581766)
 
 ---
 <!-- MY-TWEETS:END -->
