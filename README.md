@@ -198,47 +198,50 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:51:27.000Z](https://twitter.com/realshinyakato/status/1630098269086031873)
+>
+> [@CFDevelop](https://twitter.com/CFDevelop) I see, I think there are reasons for this as I wrote. Perhaps if we make final the default, we can omit both "final" and "type name", but this seems a bit Python-like and strange. (Like `finalVariable = 'test';`)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630098269086031873)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630098269086031873)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630098269086031873)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:37:23.000Z](https://twitter.com/realshinyakato/status/1630094727977795586)
+>
+> [#Findy](https://twitter.com/hashtag/Findy?src=hashtag_click) のスキル偏差値がそろそろカンストなんだけど、なんか想定下限単価が綺麗に並んだ https://t.co/XLy4xmosJl
+> ![No AltText](https://pbs.twimg.com/media/Fp9CgVsaEAETdYj.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630094727977795586)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630094727977795586)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630094727977795586)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:36:25.000Z](https://twitter.com/realshinyakato/status/1630094482791354368)
+>
+> 時間単価診断の結果、私の想定時間単価は7,777円〜Overflow!でした。あなたも時間単価をチェックしよう！ https://t.co/PSPhi74z1w [#findy](https://twitter.com/hashtag/findy?src=hashtag_click) [#findyfreelance](https://twitter.com/hashtag/findyfreelance?src=hashtag_click) [#時間単価診断](https://twitter.com/hashtag/時間単価診断?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630094482791354368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630094482791354368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630094482791354368)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:30:13.000Z](https://twitter.com/realshinyakato/status/1630092925827792896)
+>
+> It would be great if final became the standard in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) but for example, you have to enter the type as `String xxx = '';` if it's a String (whatever it is). If the type name is long, the advantage of not having to write final is offset.
+> 
+> https://t.co/kLwZdyQumd
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630092925827792896)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630092925827792896)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630092925827792896)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:49:48.000Z](https://twitter.com/realshinyakato/status/1630082754766581766)
 >
 > Twitter API有料化しないならTwitter API Playgroundの非公式アプリ完成させたいんだけどな〜、もうスキーマを追加するだけのところまで作ってあるんだけどな〜
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630082754766581766)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630082754766581766)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630082754766581766)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:33:57.000Z](https://twitter.com/realshinyakato/status/1630078766331625473)
->
-> Twitter APIの方針がブレブレすぎてもう有料化するなら早く有料化しろのフェーズに入ってきてる
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630078766331625473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630078766331625473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630078766331625473)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:20:51.000Z](https://twitter.com/realshinyakato/status/1630075467331178501)
->
-> 正直MisskeyはMastodonより使いにくい感じ。リアクションの機能は最初は面白いと思ったけど、途中でただうるさいだけの機能に見えてくる。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630075467331178501)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630075467331178501)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630075467331178501)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:13:36.000Z](https://twitter.com/realshinyakato/status/1630073643572281344)
->
-> Misskeyの開発に協力しようと思ったけど、ちょっと微妙な感じかな。アニメの話題が多すぎてあまり海外で受けなさそう。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630073643572281344)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630073643572281344)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630073643572281344)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:11:00.000Z](https://twitter.com/realshinyakato/status/1630072987885133824)
->
-> [@takke](https://twitter.com/takke) 久しぶりに来たらまだAPIが生きててちょっと笑いました
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630072987885133824)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630072987885133824)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630072987885133824)
 
 ---
 <!-- MY-TWEETS:END -->
