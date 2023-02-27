@@ -198,6 +198,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T11:59:07.000Z](https://twitter.com/realshinyakato/status/1630175694025285632)
+>
+> $20のTwitter Blueサブスクリプションが嫌だけど本人であることを強調したいある外国人が画像に認証マーク入れてたの最高に賢い
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630175694025285632)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630175694025285632)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630175694025285632)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T11:23:05.000Z](https://twitter.com/realshinyakato/status/1630166627110227969)
+>
+> [@aya_howa](https://twitter.com/aya_howa) ジェネリクスを自分のプログラムの中に取り入れられるようになると表現の幅が格段に増しますね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630166627110227969)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630166627110227969)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630166627110227969)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:58:36.000Z](https://twitter.com/realshinyakato/status/1630160463458897921)
 >
 > イーロン・マスク、日本のことが好きというのはビジネス上のリップサービスで、内心では絶対日本のこと嫌いだよね
@@ -221,24 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) は良くも悪くも一昔前の [#ニコニコ動画](https://twitter.com/hashtag/ニコニコ動画?src=hashtag_click) と雰囲気が似てる。少し危ない発言をしてもリアクションがつく上に運営側の監視はほぼないみたいだから結構やりたい放題ができるけど、あの調子だと競合の [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) を超えるのは無理だなと感じた
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630158665541120001)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630158665541120001)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630158665541120001)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:18:12.000Z](https://twitter.com/realshinyakato/status/1630150300396064769)
->
-> [@normidar2](https://twitter.com/normidar2) まあこれが現実なんでしょうけど、こうやっていろいろな所で競争力の低下が目に見える形で現れるのは日本人としてつらいですね。DartやFlutterは基本的にオープンソースなので、日本人開発者が進んでOSS開発に関わっていけば状況は変わると思うんですけど、いかんせん存在感が皆無ですね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630150300396064769)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630150300396064769)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630150300396064769)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T09:00:09.000Z](https://twitter.com/realshinyakato/status/1630130655962238976)
->
-> Flutter関連のドキュメントで韓国語や中国語が用意されていても、日本語が用意されてないことがほとんどだから日本はまったく注目されてない
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630130655962238976)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630130655962238976)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630130655962238976)
 
 ---
 <!-- MY-TWEETS:END -->
