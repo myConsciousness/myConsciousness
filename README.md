@@ -7,7 +7,7 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 19th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 17th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
 🤖 **Fun fact 2**: I'm currently rated as [the 12nd most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm titled as **_Regular_** in [Twitter Forum](https://twittercommunity.com/u/kato_shinya/summary).
 
@@ -198,54 +198,47 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-25T09:45:47.000Z](https://twitter.com/realshinyakato/status/1629417365493661697)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:49:48.000Z](https://twitter.com/realshinyakato/status/1630082754766581766)
 >
-> Hi [@abraham](https://twitter.com/abraham) ,
-> 
-> Please add [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) icon to social links in GitHub. This is a decentralized social media from Japan. https://t.co/6vF4AYlnFj
-> ![No AltText](https://pbs.twimg.com/media/FpzaTKeaQAA8uGx.png)
+> Twitter API有料化しないならTwitter API Playgroundの非公式アプリ完成させたいんだけどな〜、もうスキーマを追加するだけのところまで作ってあるんだけどな〜
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629417365493661697)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629417365493661697)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629417365493661697)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630082754766581766)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630082754766581766)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630082754766581766)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T10:58:13.000Z](https://twitter.com/realshinyakato/status/1629073204752035841)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:33:57.000Z](https://twitter.com/realshinyakato/status/1630078766331625473)
 >
-> [@CFDevelop](https://twitter.com/CFDevelop) [@Upwork](https://twitter.com/Upwork) I have never used this service, but it is heartbreaking to see a company or owner of a service unilaterally execute an account suspension like this. A permanent suspension is a matter of the personhood of the account holder. This is definitely inhumane.
+> Twitter APIの方針がブレブレすぎてもう有料化するなら早く有料化しろのフェーズに入ってきてる
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629073204752035841)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629073204752035841)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629073204752035841)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630078766331625473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630078766331625473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630078766331625473)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T10:53:31.000Z](https://twitter.com/realshinyakato/status/1629072023225004032)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:20:51.000Z](https://twitter.com/realshinyakato/status/1630075467331178501)
 >
-> RT [@scispace_:](https://twitter.com/scispace_:) ChatGPTを利用したこのアシスタントは、世界中の何百万人もの研究者の研究論文を簡素化しています。
-> 
-> SciSpaceをフォローして詳細をご覧ください。
-> 
-> #AcademicTwitter  [#Researchtools](https://twitter.com/hashtag/Researchtools?src=hashtag_click) [#GPT3](https://twitter.com/hashtag/GPT3?src=hashtag_click) [#AI](https://twitter.com/hashtag/AI?src=hashtag_click) [#p…](https://twitter.com/hashtag/p…?src=hashtag_click)
+> 正直MisskeyはMastodonより使いにくい感じ。リアクションの機能は最初は面白いと思ったけど、途中でただうるさいだけの機能に見えてくる。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629072023225004032)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629072023225004032)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629072023225004032)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630075467331178501)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630075467331178501)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630075467331178501)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:53:51.000Z](https://twitter.com/realshinyakato/status/1629057006324822016)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:13:36.000Z](https://twitter.com/realshinyakato/status/1630073643572281344)
 >
-> I feel that programmers are the ones who need to relearn. The days of the programmer’s advantage are beginning to fade, and we need to learn how to use AI to solve problems with many times more productivity than ever before.
+> Misskeyの開発に協力しようと思ったけど、ちょっと微妙な感じかな。アニメの話題が多すぎてあまり海外で受けなさそう。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629057006324822016)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629057006324822016)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629057006324822016)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630073643572281344)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630073643572281344)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630073643572281344)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-24T09:49:33.000Z](https://twitter.com/realshinyakato/status/1629055926677413888)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T05:11:00.000Z](https://twitter.com/realshinyakato/status/1630072987885133824)
 >
-> I already feel that designing software by human hands is out of fashion. If mobile apps could be designed with just text input, there would be no need for front end development anymore.
+> [@takke](https://twitter.com/takke) 久しぶりに来たらまだAPIが生きててちょっと笑いました
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1629055926677413888)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1629055926677413888)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1629055926677413888)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630072987885133824)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630072987885133824)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630072987885133824)
 
 ---
 <!-- MY-TWEETS:END -->
@@ -273,9 +266,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What would make a moon look like a walnut?  A strange ridge that circles Saturn's moon Iapetus's equator, visible near the bottom of the featured image, makes it appear similar to a popular edible nut.  The origin of the ridge remains unknown, though, with hypotheses including ice that welled up from below, a ring that crashed down from above, and structure left over from its formation perhaps 100 million years ago. Also strange is that about half of Iapetus is so dark that it can nearly disappear when viewed from Earth, while the rest is, reflectively, quite bright. Observations show that the degree of darkness of the terrain is strangely uniform, as if a dark coating was somehow recently applied to an ancient and highly cratered surface.  Last, several large impact basins occur around Iapetus, with a 400-kilometer wide crater visible near the image center, surrounded by deep cliffs that drop sharply to the crater floor.  The featured image was taken by the Saturn-orbiting Cassini spacecraft during a flyby of Iapetus at the end of 2004.
-> ![APOD](https://apod.nasa.gov/apod/image/2302/iapetus_cassini_960.jpg)
-
+> What's causing that unusual ray of light extending from the horizon? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently after sunset or before sunrise and is called zodiacal light.  The dust was emitted mostly from faint Jupiter-family comets and slowly spirals into the Sun. The featured HDR image, acquired in mid-February from the Sierra Nevada National Park in Spain, captures the glowing band of zodiacal light going right in front of the bright evening planets Jupiter (upper) and Venus (lower). Emitted from well behind the zodiacal light is a dark night sky that prominently includes the Pleiades star cluster. Jupiter and Venus are slowly switching places in the evening sky, and just in the next few days nearing their closest angular approach.
+> ![APOD](https://apod.nasa.gov/apod/image/2302/ZodiacalPlanets_Merzlyakov_960.jpg)
+> &copy; Ruslan Merzlyakovastrorms
 
 ---
 <!-- APOD:END -->
