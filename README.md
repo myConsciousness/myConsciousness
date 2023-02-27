@@ -198,48 +198,47 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:58:36.000Z](https://twitter.com/realshinyakato/status/1630160463458897921)
+>
+> イーロン・マスク、日本のことが好きというのはビジネス上のリップサービスで、内心では絶対日本のこと嫌いだよね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630160463458897921)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630160463458897921)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630160463458897921)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:56:04.000Z](https://twitter.com/realshinyakato/status/1630159827661127682)
+>
+> 他の言語の事情は知らないけど、たしかにopenAIの日本語は本当にクソ。予測変換が使えないからあらかじめどこかにメモしたものをペーストする必要がある。 https://t.co/rAiywoXDPl
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630159827661127682)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630159827661127682)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630159827661127682)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:51:27.000Z](https://twitter.com/realshinyakato/status/1630158665541120001)
+>
+> [#Misskey](https://twitter.com/hashtag/Misskey?src=hashtag_click) は良くも悪くも一昔前の [#ニコニコ動画](https://twitter.com/hashtag/ニコニコ動画?src=hashtag_click) と雰囲気が似てる。少し危ない発言をしてもリアクションがつく上に運営側の監視はほぼないみたいだから結構やりたい放題ができるけど、あの調子だと競合の [#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) を超えるのは無理だなと感じた
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630158665541120001)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630158665541120001)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630158665541120001)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T10:18:12.000Z](https://twitter.com/realshinyakato/status/1630150300396064769)
+>
+> [@normidar2](https://twitter.com/normidar2) まあこれが現実なんでしょうけど、こうやっていろいろな所で競争力の低下が目に見える形で現れるのは日本人としてつらいですね。DartやFlutterは基本的にオープンソースなので、日本人開発者が進んでOSS開発に関わっていけば状況は変わると思うんですけど、いかんせん存在感が皆無ですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630150300396064769)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630150300396064769)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630150300396064769)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T09:00:09.000Z](https://twitter.com/realshinyakato/status/1630130655962238976)
 >
 > Flutter関連のドキュメントで韓国語や中国語が用意されていても、日本語が用意されてないことがほとんどだから日本はまったく注目されてない
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630130655962238976)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630130655962238976)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630130655962238976)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T08:58:03.000Z](https://twitter.com/realshinyakato/status/1630130127119200261)
->
-> Flutterの公式イベントに参加したくても、日本で暮らしてると距離的にも時間的にも難しいのが残念すぎる。日本で開催は無理にしても、韓国や中国だったらまだ行けそうなのになー
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630130127119200261)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630130127119200261)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630130127119200261)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:51:27.000Z](https://twitter.com/realshinyakato/status/1630098269086031873)
->
-> [@CFDevelop](https://twitter.com/CFDevelop) I see, I think there are reasons for this as I wrote. Perhaps if we make final the default, we can omit both "final" and "type name", but this seems a bit Python-like and strange. (Like `finalVariable = 'test';`)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630098269086031873)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630098269086031873)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630098269086031873)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:37:23.000Z](https://twitter.com/realshinyakato/status/1630094727977795586)
->
-> [#Findy](https://twitter.com/hashtag/Findy?src=hashtag_click) のスキル偏差値がそろそろカンストなんだけど、なんか想定下限単価が綺麗に並んだ https://t.co/XLy4xmosJl
-> ![No AltText](https://pbs.twimg.com/media/Fp9CgVsaEAETdYj.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630094727977795586)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630094727977795586)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630094727977795586)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T06:36:25.000Z](https://twitter.com/realshinyakato/status/1630094482791354368)
->
-> 時間単価診断の結果、私の想定時間単価は7,777円〜Overflow!でした。あなたも時間単価をチェックしよう！ https://t.co/PSPhi74z1w [#findy](https://twitter.com/hashtag/findy?src=hashtag_click) [#findyfreelance](https://twitter.com/hashtag/findyfreelance?src=hashtag_click) [#時間単価診断](https://twitter.com/hashtag/時間単価診断?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630094482791354368)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630094482791354368)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630094482791354368)
 
 ---
 <!-- MY-TWEETS:END -->
