@@ -198,50 +198,50 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T14:14:31.000Z](https://twitter.com/realshinyakato/status/1630209769075277824)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:02:57.000Z](https://twitter.com/realshinyakato/status/1630388053922689024)
 >
-> [@0218_rom](https://twitter.com/0218_rom) ドル円なら何円で1ドルを買えるかと考えると簡単です
+> こういうイケてるプロジェクトはやっぱりPythonだよなぁ。久しぶりにPythonでなんか作ってみるか
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630209769075277824)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630209769075277824)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630209769075277824)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630388053922689024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630388053922689024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630388053922689024)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T14:11:12.000Z](https://twitter.com/realshinyakato/status/1630208936413634560)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:01:26.000Z](https://twitter.com/realshinyakato/status/1630387669820907525)
 >
-> [@luke_pighetti](https://twitter.com/luke_pighetti) Most importantly we are already familiar with typing “final” in our hands. I will still use final even if they add more weird symbols like fin or :=.
+> RT [@goto_yuta_:](https://twitter.com/goto_yuta_:) Metaが公開した巨大言語モデルであるLLaMAベースのモデルをChatGPTと同じRLHFでより効率的に学習できる「ChatLLaMA」のが早くもgithubで公開されてる...！！(しかも超簡単)
+> 性能はさておき、誰でも簡単に自分だけのCha…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630208936413634560)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630208936413634560)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630208936413634560)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387669820907525)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387669820907525)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387669820907525)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T13:33:57.000Z](https://twitter.com/realshinyakato/status/1630199561896751104)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:00:59.000Z](https://twitter.com/realshinyakato/status/1630387556708925440)
 >
-> ドット絵の質で既にクソゲー臭がする https://t.co/3INg2xPMrb
+> RT [@besshy8:](https://twitter.com/besshy8:) 遂に本物の量子コンピュータを見てきました。(写真をsnsにあげても良いとのことなのであげます) https://t.co/6dH5wPXMsR
+> ![No AltText](https://pbs.twimg.com/media/Fp9OkH4agAACwG0.jpg)
+> ![No AltText](https://pbs.twimg.com/media/Fp9OkH3aQAAuODx.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630199561896751104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630199561896751104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630199561896751104)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387556708925440)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387556708925440)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387556708925440)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T13:28:26.000Z](https://twitter.com/realshinyakato/status/1630198170084052993)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:00:27.000Z](https://twitter.com/realshinyakato/status/1630387425150406656)
 >
-> 山田邦子久しぶりに見たけど90年代当時の面影まったくなくなってるやんけ・・・テロップなければ誰かわからなかったわ
+> [@ABarroso](https://twitter.com/ABarroso) Icon team will never lose their job 😂
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630198170084052993)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630198170084052993)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630198170084052993)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387425150406656)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387425150406656)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387425150406656)
 
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-27T13:18:35.000Z](https://twitter.com/realshinyakato/status/1630195691460108288)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T01:58:45.000Z](https://twitter.com/realshinyakato/status/1630386996270215168)
 >
-> RT [@sakshamgupta392:](https://twitter.com/sakshamgupta392:) He got a buddy to talk to! 😎
-> Thank you [@Anna_Metelska](https://twitter.com/Anna_Metelska) &amp; [@FlutterSummit](https://twitter.com/FlutterSummit) for the giveaway. 💙 https://t.co/JSMOQJL4YQ
-> ![No AltText](https://pbs.twimg.com/media/Fp93q4yXwAEJ9eS.jpg)
-> ![No AltText](https://pbs.twimg.com/media/Fp93q4zWcAI1Avr.jpg)
+> [@uakihir0](https://twitter.com/uakihir0) 家は負債
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630195691460108288)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630195691460108288)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630195691460108288)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630386996270215168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630386996270215168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630386996270215168)
 
 ---
 <!-- MY-TWEETS:END -->
