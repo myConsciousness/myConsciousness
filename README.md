@@ -198,6 +198,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T03:46:52.000Z](https://twitter.com/realshinyakato/status/1630414202811867136)
+>
+> Javaで日本語でプログラミングというは結構ありだと思うんだよね。外国人がソースを見たら云々はあるけど、自分が使う程度のツールであれば母国語でプログラミングするのが一番生産性高いと思う
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630414202811867136)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630414202811867136)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630414202811867136)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T03:44:52.000Z](https://twitter.com/realshinyakato/status/1630413702527848449)
+>
+> [@wwkylc](https://twitter.com/wwkylc) Javaですけど某通信業界最大手の基幹システムはこんな感じでした
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630413702527848449)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630413702527848449)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630413702527848449)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:02:57.000Z](https://twitter.com/realshinyakato/status/1630388053922689024)
 >
 > こういうイケてるプロジェクトはやっぱりPythonだよなぁ。久しぶりにPythonでなんか作ってみるか
@@ -224,24 +242,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/Fp9OkH3aQAAuODx.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387556708925440)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387556708925440)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387556708925440)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:00:27.000Z](https://twitter.com/realshinyakato/status/1630387425150406656)
->
-> [@ABarroso](https://twitter.com/ABarroso) Icon team will never lose their job 😂
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387425150406656)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387425150406656)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387425150406656)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T01:58:45.000Z](https://twitter.com/realshinyakato/status/1630386996270215168)
->
-> [@uakihir0](https://twitter.com/uakihir0) 家は負債
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630386996270215168)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630386996270215168)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630386996270215168)
 
 ---
 <!-- MY-TWEETS:END -->
