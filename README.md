@@ -198,6 +198,33 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T05:19:19.000Z](https://twitter.com/realshinyakato/status/1630437467659616256)
+>
+> [@elonmusk](https://twitter.com/elonmusk) こういうのができるならTwitter Blue契約してもいいかも https://t.co/lc8KT8FKzk
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630437467659616256)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630437467659616256)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630437467659616256)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T05:18:23.000Z](https://twitter.com/realshinyakato/status/1630437236067176450)
+>
+> ツイートにMarkdownみたいにコードを埋め込んでハイライト表示できたら幸せになれる気がする
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630437236067176450)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630437236067176450)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630437236067176450)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T05:15:39.000Z](https://twitter.com/realshinyakato/status/1630436549040156672)
+>
+> [@_yshrsmz](https://twitter.com/_yshrsmz) [@takke](https://twitter.com/takke) Misskeyは無法地帯ですからね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630436549040156672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630436549040156672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630436549040156672)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T03:46:52.000Z](https://twitter.com/realshinyakato/status/1630414202811867136)
 >
 > Javaで日本語でプログラミングというは結構ありだと思うんだよね。外国人がソースを見たら云々はあるけど、自分が使う程度のツールであれば母国語でプログラミングするのが一番生産性高いと思う
@@ -212,36 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [@wwkylc](https://twitter.com/wwkylc) Javaですけど某通信業界最大手の基幹システムはこんな感じでした
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630413702527848449)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630413702527848449)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630413702527848449)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:02:57.000Z](https://twitter.com/realshinyakato/status/1630388053922689024)
->
-> こういうイケてるプロジェクトはやっぱりPythonだよなぁ。久しぶりにPythonでなんか作ってみるか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630388053922689024)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630388053922689024)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630388053922689024)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:01:26.000Z](https://twitter.com/realshinyakato/status/1630387669820907525)
->
-> RT [@goto_yuta_:](https://twitter.com/goto_yuta_:) Metaが公開した巨大言語モデルであるLLaMAベースのモデルをChatGPTと同じRLHFでより効率的に学習できる「ChatLLaMA」のが早くもgithubで公開されてる...！！(しかも超簡単)
-> 性能はさておき、誰でも簡単に自分だけのCha…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387669820907525)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387669820907525)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387669820907525)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T02:00:59.000Z](https://twitter.com/realshinyakato/status/1630387556708925440)
->
-> RT [@besshy8:](https://twitter.com/besshy8:) 遂に本物の量子コンピュータを見てきました。(写真をsnsにあげても良いとのことなのであげます) https://t.co/6dH5wPXMsR
-> ![No AltText](https://pbs.twimg.com/media/Fp9OkH4agAACwG0.jpg)
-> ![No AltText](https://pbs.twimg.com/media/Fp9OkH3aQAAuODx.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630387556708925440)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630387556708925440)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630387556708925440)
 
 ---
 <!-- MY-TWEETS:END -->
@@ -269,9 +266,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What's causing that unusual ray of light extending from the horizon? Dust orbiting the Sun. At certain times of the year, a band of sun-reflecting dust from the inner Solar System appears prominently after sunset or before sunrise and is called zodiacal light.  The dust was emitted mostly from faint Jupiter-family comets and slowly spirals into the Sun. The featured HDR image, acquired in mid-February from the Sierra Nevada National Park in Spain, captures the glowing band of zodiacal light going right in front of the bright evening planets Jupiter (upper) and Venus (lower). Emitted from well behind the zodiacal light is a dark night sky that prominently includes the Pleiades star cluster. Jupiter and Venus are slowly switching places in the evening sky, and just in the next few days nearing their closest angular approach.
-> ![APOD](https://apod.nasa.gov/apod/image/2302/ZodiacalPlanets_Merzlyakov_960.jpg)
-> &copy; Ruslan Merzlyakovastrorms
+> Why is a thin crescent moon never seen far from a horizon? Because the only geometry that gives a thin crescent lunar phase occurs when the Moon appears close to the Sun in the sky.  The crescent is not caused by the shadow of the Earth, but by seeing only a small part of the Moon directly illuminated by the Sun.  Moreover, the thickest part of the crescent always occurs in the direction of the Sun.  In the evening, a thin crescent Moon will set shortly after the Sun and not be seen for the rest of the night. Alternatively, in the morning, a crescent Moon will rise shortly before the Sun after not being seen for most of the night. Pictured two weeks ago, a crescent moon was captured near the horizon, just before sunrise, far behind remnants of the ancient Temple of Poseidon in Greece.
+> ![APOD](https://apod.nasa.gov/apod/image/2302/CrescentPoseiden_Chasiotis_1080.jpg)
+> &copy; Elias Chasiotis
 
 ---
 <!-- APOD:END -->
