@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T09:22:18.000Z](https://twitter.com/realshinyakato/status/1630498616484974592)
+>
+> 日本は新築至上主義というか、中古物件を避ける人が多いよね。空き家問題って単純に人口減少だけが原因じゃなくて、日本人のこうした傾向が加速させてると思うんですよ。古い家でもリフォームすれば十分快適に住めるし、新築より断然財布に優しいよ。
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630498616484974592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630498616484974592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630498616484974592)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T08:03:03.000Z](https://twitter.com/realshinyakato/status/1630478674461073408)
 >
 > [@wwkylc](https://twitter.com/wwkylc) でも英語ネイティブの人からはプログラムがこう見えるというのは羨ましい限りですね
@@ -230,15 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [@_yshrsmz](https://twitter.com/_yshrsmz) [@takke](https://twitter.com/takke) Misskeyは無法地帯ですからね
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630436549040156672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630436549040156672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630436549040156672)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T03:46:52.000Z](https://twitter.com/realshinyakato/status/1630414202811867136)
->
-> Javaで日本語でプログラミングというは結構ありだと思うんだよね。外国人がソースを見たら云々はあるけど、自分が使う程度のツールであれば母国語でプログラミングするのが一番生産性高いと思う
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630414202811867136)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630414202811867136)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630414202811867136)
 
 ---
 <!-- MY-TWEETS:END -->
