@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T08:03:03.000Z](https://twitter.com/realshinyakato/status/1630478674461073408)
+>
+> [@wwkylc](https://twitter.com/wwkylc) でも英語ネイティブの人からはプログラムがこう見えるというのは羨ましい限りですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630478674461073408)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630478674461073408)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630478674461073408)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T05:19:19.000Z](https://twitter.com/realshinyakato/status/1630437467659616256)
 >
 > [@elonmusk](https://twitter.com/elonmusk) こういうのができるならTwitter Blue契約してもいいかも https://t.co/lc8KT8FKzk
@@ -230,15 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > Javaで日本語でプログラミングというは結構ありだと思うんだよね。外国人がソースを見たら云々はあるけど、自分が使う程度のツールであれば母国語でプログラミングするのが一番生産性高いと思う
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630414202811867136)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630414202811867136)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630414202811867136)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T03:44:52.000Z](https://twitter.com/realshinyakato/status/1630413702527848449)
->
-> [@wwkylc](https://twitter.com/wwkylc) Javaですけど某通信業界最大手の基幹システムはこんな感じでした
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630413702527848449)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630413702527848449)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630413702527848449)
 
 ---
 <!-- MY-TWEETS:END -->
