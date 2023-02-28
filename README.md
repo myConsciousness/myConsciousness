@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T12:40:57.000Z](https://twitter.com/realshinyakato/status/1630548612462804993)
+>
+> [@luke_pighetti](https://twitter.com/luke_pighetti) I was also passionate about these things for a while. But the truth is that these topics are trivial. These trivial changes do not improve the performance or status of the language, but only satisfy the desires of a few enthusiasts.
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630548612462804993)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630548612462804993)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630548612462804993)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T09:22:18.000Z](https://twitter.com/realshinyakato/status/1630498616484974592)
 >
 > 日本は新築至上主義というか、中古物件を避ける人が多いよね。空き家問題って単純に人口減少だけが原因じゃなくて、日本人のこうした傾向が加速させてると思うんですよ。古い家でもリフォームすれば十分快適に住めるし、新築より断然財布に優しいよ。
@@ -230,15 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ツイートにMarkdownみたいにコードを埋め込んでハイライト表示できたら幸せになれる気がする
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630437236067176450)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630437236067176450)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630437236067176450)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T05:15:39.000Z](https://twitter.com/realshinyakato/status/1630436549040156672)
->
-> [@_yshrsmz](https://twitter.com/_yshrsmz) [@takke](https://twitter.com/takke) Misskeyは無法地帯ですからね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630436549040156672)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630436549040156672)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630436549040156672)
 
 ---
 <!-- MY-TWEETS:END -->
