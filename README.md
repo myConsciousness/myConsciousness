@@ -198,49 +198,49 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:36:39.000Z](https://twitter.com/realshinyakato/status/1630955213405421571)
+>
+> [@takke](https://twitter.com/takke) ちなみに、誰も気づいてないかもしれないですけど、先週あたりで数日間ほど「Tools and libraries」にあるリンクがほとんど切れてました。今はなぜか復旧してます
+> 
+> https://t.co/p4rM8lvhXi
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630955213405421571)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630955213405421571)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630955213405421571)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:24:09.000Z](https://twitter.com/realshinyakato/status/1630952070491803648)
+>
+> [@adakoda](https://twitter.com/adakoda) 日本人としてはMisskeyが一番Twitterっぽいなと思いましたけど、リアクションと絵文字がうるさすぎて数日で疲れました
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630952070491803648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630952070491803648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630952070491803648)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:21:01.000Z](https://twitter.com/realshinyakato/status/1630951278787592198)
+>
+> [@uakihir0](https://twitter.com/uakihir0) Misskeyはドキュメントが貧弱なのもそうだし、そもそもMisskey HubのUIが不親切な作りだなと感じるところがありますね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630951278787592198)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630951278787592198)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630951278787592198)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:09:46.000Z](https://twitter.com/realshinyakato/status/1630948448433471489)
+>
+> [@uakihir0](https://twitter.com/uakihir0) Misskey APIはちょっと風変わりな仕様ですからね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630948448433471489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630948448433471489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630948448433471489)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T12:16:36.000Z](https://twitter.com/realshinyakato/status/1630904870688669698)
 >
 > 障害の発生頻度が青い銀行みたいになってきたな
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630904870688669698)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630904870688669698)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630904870688669698)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T01:32:13.000Z](https://twitter.com/realshinyakato/status/1630742707898568705)
->
-> RT [@dankogai:](https://twitter.com/dankogai:) 将来のフォード車はローン滞納すると自らを差し押えて持主から走り去る
-> https://t.co/4xQDWUAEd6
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630742707898568705)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630742707898568705)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630742707898568705)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T01:23:11.000Z](https://twitter.com/realshinyakato/status/1630740430907392000)
->
-> [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) のようなAIがある世の中で、人間が技術記事をアウトプットすることの意味を今一度考え直さなければいけないと思う。少なくとも、ちょっとしたエラーの解消であれば技術記事を探さなくてもAIに聞けばいい。巷に溢れてるメンテナンスされてない記事よりずっと良い回答を返してくるだろう。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630740430907392000)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630740430907392000)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630740430907392000)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T23:25:44.000Z](https://twitter.com/realshinyakato/status/1630710873869393922)
->
-> なにが彼をそうさせたのか、闇が深い https://t.co/eIWVvJBnuA
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630710873869393922)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630710873869393922)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630710873869393922)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T23:25:22.000Z](https://twitter.com/realshinyakato/status/1630710783075303424)
->
-> RT [@DenBicycleLobby:](https://twitter.com/DenBicycleLobby:) New level… unlocked.
-> https://t.co/bH9N1mgef1
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630710783075303424)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630710783075303424)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630710783075303424)
 
 ---
 <!-- MY-TWEETS:END -->
