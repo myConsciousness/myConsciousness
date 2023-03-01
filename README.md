@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T12:16:36.000Z](https://twitter.com/realshinyakato/status/1630904870688669698)
+>
+> 障害の発生頻度が青い銀行みたいになってきたな
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630904870688669698)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630904870688669698)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630904870688669698)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T01:32:13.000Z](https://twitter.com/realshinyakato/status/1630742707898568705)
 >
 > RT [@dankogai:](https://twitter.com/dankogai:) 将来のフォード車はローン滞納すると自らを差し押えて持主から走り去る
@@ -232,15 +241,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > https://t.co/bH9N1mgef1
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630710783075303424)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630710783075303424)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630710783075303424)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T13:43:55.000Z](https://twitter.com/realshinyakato/status/1630564454743040001)
->
-> Twitterの公式スペースにメインスピーカーとして出演した翌月に理由もなくアカウント凍結された俺はもはや伝説なのでは
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630564454743040001)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630564454743040001)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630564454743040001)
 
 ---
 <!-- MY-TWEETS:END -->
