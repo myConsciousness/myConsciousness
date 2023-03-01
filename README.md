@@ -198,6 +198,25 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T23:25:44.000Z](https://twitter.com/realshinyakato/status/1630710873869393922)
+>
+> なにが彼をそうさせたのか、闇が深い https://t.co/eIWVvJBnuA
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630710873869393922)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630710873869393922)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630710873869393922)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T23:25:22.000Z](https://twitter.com/realshinyakato/status/1630710783075303424)
+>
+> RT [@DenBicycleLobby:](https://twitter.com/DenBicycleLobby:) New level… unlocked.
+> https://t.co/bH9N1mgef1
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630710783075303424)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630710783075303424)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630710783075303424)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T13:43:55.000Z](https://twitter.com/realshinyakato/status/1630564454743040001)
 >
 > Twitterの公式スペースにメインスピーカーとして出演した翌月に理由もなくアカウント凍結された俺はもはや伝説なのでは
@@ -221,24 +240,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > なんかすごい昔からあるような気がしてたけど、2013年というと案外最近なんですね https://t.co/rspbSaORaI
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630561836188975106)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630561836188975106)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630561836188975106)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T12:40:57.000Z](https://twitter.com/realshinyakato/status/1630548612462804993)
->
-> [@luke_pighetti](https://twitter.com/luke_pighetti) I was also passionate about these things for a while. But the truth is that these topics are trivial. These trivial changes do not improve the performance or status of the language, but only satisfy the desires of a few enthusiasts.
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630548612462804993)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630548612462804993)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630548612462804993)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T09:22:18.000Z](https://twitter.com/realshinyakato/status/1630498616484974592)
->
-> 日本は新築至上主義というか、中古物件を避ける人が多いよね。空き家問題って単純に人口減少だけが原因じゃなくて、日本人のこうした傾向が加速させてると思うんですよ。古い家でもリフォームすれば十分快適に住めるし、新築より断然財布に優しいよ。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630498616484974592)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630498616484974592)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630498616484974592)
 
 ---
 <!-- MY-TWEETS:END -->
