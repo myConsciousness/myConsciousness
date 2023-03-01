@@ -198,6 +198,16 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T01:32:13.000Z](https://twitter.com/realshinyakato/status/1630742707898568705)
+>
+> RT [@dankogai:](https://twitter.com/dankogai:) 将来のフォード車はローン滞納すると自らを差し押えて持主から走り去る
+> https://t.co/4xQDWUAEd6
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630742707898568705)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630742707898568705)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630742707898568705)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T01:23:11.000Z](https://twitter.com/realshinyakato/status/1630740430907392000)
 >
 > [#ChatGPT](https://twitter.com/hashtag/ChatGPT?src=hashtag_click) のようなAIがある世の中で、人間が技術記事をアウトプットすることの意味を今一度考え直さなければいけないと思う。少なくとも、ちょっとしたエラーの解消であれば技術記事を探さなくてもAIに聞けばいい。巷に溢れてるメンテナンスされてない記事よりずっと良い回答を返してくるだろう。
@@ -231,15 +241,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > Twitterの公式スペースにメインスピーカーとして出演した翌月に理由もなくアカウント凍結された俺はもはや伝説なのでは
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630564454743040001)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630564454743040001)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630564454743040001)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-02-28T13:42:33.000Z](https://twitter.com/realshinyakato/status/1630564114572656640)
->
-> 【Dart/Flutter】httpパッケージを使ってMultipart形式のリクエストを送る｜加藤 真也 https://t.co/B2YEW70B7J [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) [#Programming](https://twitter.com/hashtag/Programming?src=hashtag_click)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630564114572656640)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630564114572656640)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630564114572656640)
 
 ---
 <!-- MY-TWEETS:END -->
