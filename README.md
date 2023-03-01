@@ -268,9 +268,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Why is a thin crescent moon never seen far from a horizon? Because the only geometry that gives a thin crescent lunar phase occurs when the Moon appears close to the Sun in the sky.  The crescent is not caused by the shadow of the Earth, but by seeing only a small part of the Moon directly illuminated by the Sun.  Moreover, the thickest part of the crescent always occurs in the direction of the Sun.  In the evening, a thin crescent Moon will set shortly after the Sun and not be seen for the rest of the night. Alternatively, in the morning, a crescent Moon will rise shortly before the Sun after not being seen for most of the night. Pictured two weeks ago, a crescent moon was captured near the horizon, just before sunrise, far behind remnants of the ancient Temple of Poseidon in Greece.
-> ![APOD](https://apod.nasa.gov/apod/image/2302/CrescentPoseiden_Chasiotis_1080.jpg)
-> &copy; Elias Chasiotis
+> Is star AE Aurigae on fire? No.  Even though AE Aurigae is named the Flaming Star and the surrounding nebula IC 405 is named the Flaming Star Nebula, and even though the nebula appears to some like a swirling flame, there is no fire.  Fire, typically defined as the rapid molecular acquisition of oxygen, happens only when sufficient oxygen is present and is not important in such high-energy, low-oxygen environments such as stars.  The bright star AE Aurigae occurs near the center of the Flaming Star Nebula and is so hot it glows blue, emitting light so energetic it knocks electrons away from surrounding gas. When a proton recaptures an electron, light is emitted, as seen in the surrounding emission nebula.  Captured here three weeks ago, the Flaming Star Nebula is visible near the composite image's center, between the red Tadpole Nebula on the left and blue-tailed Comet ZTF on the right.  The Flaming Star Nebula lies about 1,500 light years distant, spans about 5 light years, and is visible with a small telescope toward the constellation of the Charioteer (Auriga).
+> ![APOD](https://apod.nasa.gov/apod/image/2303/FlamingStarComet_Roell_1080.jpg)
+> &copy; Thomas Röell
 
 ---
 <!-- APOD:END -->
