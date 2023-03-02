@@ -273,9 +273,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Is star AE Aurigae on fire? No.  Even though AE Aurigae is named the Flaming Star and the surrounding nebula IC 405 is named the Flaming Star Nebula, and even though the nebula appears to some like a swirling flame, there is no fire.  Fire, typically defined as the rapid molecular acquisition of oxygen, happens only when sufficient oxygen is present and is not important in such high-energy, low-oxygen environments such as stars.  The bright star AE Aurigae occurs near the center of the Flaming Star Nebula and is so hot it glows blue, emitting light so energetic it knocks electrons away from surrounding gas. When a proton recaptures an electron, light is emitted, as seen in the surrounding emission nebula.  Captured here three weeks ago, the Flaming Star Nebula is visible near the composite image's center, between the red Tadpole Nebula on the left and blue-tailed Comet ZTF on the right.  The Flaming Star Nebula lies about 1,500 light years distant, spans about 5 light years, and is visible with a small telescope toward the constellation of the Charioteer (Auriga).
-> ![APOD](https://apod.nasa.gov/apod/image/2303/FlamingStarComet_Roell_1080.jpg)
-> &copy; Thomas Röell
+> Spiral galaxy NGC 3169 looks to be unraveling like a ball of cosmic yarn. It lies some 70 million light-years away, south of bright star Regulus toward the faint constellation Sextans. Wound up spiral arms are pulled out into sweeping tidal tails as NGC 3169 (left) and neighboring NGC 3166 interact gravitationally. Eventually the galaxies will merge into one, a common fate even for bright galaxies in the local universe. Drawn out stellar arcs and plumes are clear indications of the ongoing gravitational interactions across the deep and colorful galaxy group photo. The telescopic frame spans about 20 arc minutes or about 400,000 light-years at the group's estimated distance, and includes smaller, bluish NGC 3165 at the right. NGC 3169 is also known to shine across the spectrum from radio to X-rays, harboring an active galactic nucleus that is the site of a supermassive black hole.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/NGC3169LRGBrevFinalcropCDK1000_27Feb2023_1024.jpg)
+> &copy; Mike Selby
 
 ---
 <!-- APOD:END -->
