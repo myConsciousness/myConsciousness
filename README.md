@@ -198,6 +198,29 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T23:55:20.000Z](https://twitter.com/realshinyakato/status/1631080710772772864)
+>
+> 去年から待ってた黒船がようやく来た https://t.co/ntrAmWeaSp
+> ![No AltText](https://pbs.twimg.com/media/FqLDQnGaMAAYGS5.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631080710772772864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631080710772772864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631080710772772864)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T23:49:48.000Z](https://twitter.com/realshinyakato/status/1631079319467626496)
+>
+> RT [@Yamkaz:](https://twitter.com/Yamkaz:) いくつか他にも大事なポイントがあるのでまとめるよ
+> 
+> ・APIの利用規約を改良し、より開発者のニーズに応えられるように
+> ・4月にはGPT-3.5 Turboを新しい安定版リリースに更新予定
+> ・特定のモデルのバージョンやシステムの性能をより深く制御したいユー…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631079319467626496)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631079319467626496)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631079319467626496)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:36:39.000Z](https://twitter.com/realshinyakato/status/1630955213405421571)
 >
 > [@takke](https://twitter.com/takke) ちなみに、誰も気づいてないかもしれないですけど、先週あたりで数日間ほど「Tools and libraries」にあるリンクがほとんど切れてました。今はなぜか復旧してます
@@ -214,33 +237,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [@adakoda](https://twitter.com/adakoda) 日本人としてはMisskeyが一番Twitterっぽいなと思いましたけど、リアクションと絵文字がうるさすぎて数日で疲れました
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630952070491803648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630952070491803648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630952070491803648)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:21:01.000Z](https://twitter.com/realshinyakato/status/1630951278787592198)
->
-> [@uakihir0](https://twitter.com/uakihir0) Misskeyはドキュメントが貧弱なのもそうだし、そもそもMisskey HubのUIが不親切な作りだなと感じるところがありますね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630951278787592198)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630951278787592198)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630951278787592198)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:09:46.000Z](https://twitter.com/realshinyakato/status/1630948448433471489)
->
-> [@uakihir0](https://twitter.com/uakihir0) Misskey APIはちょっと風変わりな仕様ですからね
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630948448433471489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630948448433471489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630948448433471489)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T12:16:36.000Z](https://twitter.com/realshinyakato/status/1630904870688669698)
->
-> 障害の発生頻度が青い銀行みたいになってきたな
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630904870688669698)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630904870688669698)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630904870688669698)
 
 ---
 <!-- MY-TWEETS:END -->
