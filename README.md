@@ -198,6 +198,24 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-02T00:28:11.000Z](https://twitter.com/realshinyakato/status/1631088978010214400)
+>
+> [@jack](https://twitter.com/jack) I have been waiting since last May for the beta release of [#Bluesky.](https://twitter.com/hashtag/Bluesky.?src=hashtag_click) Are only US users receiving the invite code now?
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631088978010214400)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631088978010214400)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631088978010214400)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-02T00:01:02.000Z](https://twitter.com/realshinyakato/status/1631082145405091840)
+>
+> Goodbye [#Twitter,](https://twitter.com/hashtag/Twitter,?src=hashtag_click) [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) is the future
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631082145405091840)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631082145405091840)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631082145405091840)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T23:55:20.000Z](https://twitter.com/realshinyakato/status/1631080710772772864)
 >
 > 去年から待ってた黒船がようやく来た https://t.co/ntrAmWeaSp
@@ -228,15 +246,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > https://t.co/p4rM8lvhXi
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1630955213405421571)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630955213405421571)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630955213405421571)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:24:09.000Z](https://twitter.com/realshinyakato/status/1630952070491803648)
->
-> [@adakoda](https://twitter.com/adakoda) 日本人としてはMisskeyが一番Twitterっぽいなと思いましたけど、リアクションと絵文字がうるさすぎて数日で疲れました
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630952070491803648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630952070491803648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630952070491803648)
 
 ---
 <!-- MY-TWEETS:END -->
