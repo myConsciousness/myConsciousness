@@ -198,6 +198,18 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-04T00:32:26.000Z](https://twitter.com/realshinyakato/status/1631814824807260161)
+>
+> RT [@LadyCitizen69:](https://twitter.com/LadyCitizen69:) このタンス状態のモジュラーシンセからエゲツないレベルにヤバいテクノ鳴っててばりヤバい。
+> 
+> シビれるぜ。
+> https://t.co/RYgNLX2Zsj
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631814824807260161)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631814824807260161)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631814824807260161)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-03T23:15:18.000Z](https://twitter.com/realshinyakato/status/1631795414923100160)
 >
 > [@voiprogramming](https://twitter.com/voiprogramming) 一度も作ったことないですが、それで困ったこともないです
@@ -231,19 +243,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/FqLDQnGaMAAYGS5.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1631080710772772864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631080710772772864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631080710772772864)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T23:49:48.000Z](https://twitter.com/realshinyakato/status/1631079319467626496)
->
-> RT [@Yamkaz:](https://twitter.com/Yamkaz:) いくつか他にも大事なポイントがあるのでまとめるよ
-> 
-> ・APIの利用規約を改良し、より開発者のニーズに応えられるように
-> ・4月にはGPT-3.5 Turboを新しい安定版リリースに更新予定
-> ・特定のモデルのバージョンやシステムの性能をより深く制御したいユー…
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631079319467626496)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631079319467626496)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631079319467626496)
 
 ---
 <!-- MY-TWEETS:END -->
