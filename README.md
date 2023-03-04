@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-03T23:15:18.000Z](https://twitter.com/realshinyakato/status/1631795414923100160)
+>
+> [@voiprogramming](https://twitter.com/voiprogramming) 一度も作ったことないですが、それで困ったこともないです
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631795414923100160)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631795414923100160)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631795414923100160)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-02T00:28:11.000Z](https://twitter.com/realshinyakato/status/1631088978010214400)
 >
 > [@jack](https://twitter.com/jack) I have been waiting since last May for the beta release of [#Bluesky.](https://twitter.com/hashtag/Bluesky.?src=hashtag_click) Are only US users receiving the invite code now?
@@ -235,17 +244,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ・特定のモデルのバージョンやシステムの性能をより深く制御したいユー…
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1631079319467626496)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631079319467626496)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631079319467626496)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T15:36:39.000Z](https://twitter.com/realshinyakato/status/1630955213405421571)
->
-> [@takke](https://twitter.com/takke) ちなみに、誰も気づいてないかもしれないですけど、先週あたりで数日間ほど「Tools and libraries」にあるリンクがほとんど切れてました。今はなぜか復旧してます
-> 
-> https://t.co/p4rM8lvhXi
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1630955213405421571)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1630955213405421571)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1630955213405421571)
 
 ---
 <!-- MY-TWEETS:END -->
