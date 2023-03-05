@@ -197,8 +197,17 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
 
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T09:28:20.000Z](https://twitter.com/realshinyakato/status/1632312074356531201)
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T13:16:21.000Z](https://twitter.com/realshinyakato/status/1632369459615907840)
+>
+> [@someone7140](https://twitter.com/someone7140) これ見てAGIの正確性が上がったらターミナルに自然言語（しかも日本語）でやりたいこと書いて完結するような未来を垣間見ました
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632369459615907840)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632369459615907840)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632369459615907840)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T09:28:20.000Z](https://twitter.com/realshinyakato/status/1632312074356531201)
 >
 > RT [@Guandanarian:](https://twitter.com/Guandanarian:) Bootloader https://t.co/JRrINpaHhN
 >
@@ -206,8 +215,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:51:06.000Z](https://twitter.com/realshinyakato/status/1632302707129323522)
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:51:06.000Z](https://twitter.com/realshinyakato/status/1632302707129323522)
 >
 > [@uakihir0](https://twitter.com/uakihir0) BlueSkyの場合は開発者とその関係者だけですね
 >
@@ -215,8 +224,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:44:53.000Z](https://twitter.com/realshinyakato/status/1632301141471145986)
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:44:53.000Z](https://twitter.com/realshinyakato/status/1632301141471145986)
 >
 > [@uakihir0](https://twitter.com/uakihir0) Waiting Listから選ばれてるようです
 >
@@ -224,21 +233,12 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:43:53.000Z](https://twitter.com/realshinyakato/status/1632300889921708034)
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:43:53.000Z](https://twitter.com/realshinyakato/status/1632300889921708034)
 >
 > [@cvsvhyss](https://twitter.com/cvsvhyss) [@Hixie](https://twitter.com/Hixie) [@mraleph](https://twitter.com/mraleph) I like the syntax of Dart and use it for computing purposes other than Flutter. Frankly, Flutter is not important to me. It is obvious that a language that is closer to machine language would perform better, but Dart is powerful enough
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632300889921708034)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632300889921708034)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632300889921708034)
-
----
-
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:57:30.000Z](https://twitter.com/realshinyakato/status/1632213719588691969)
->
-> When we develop packages in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) people often ask, "Can I use that in [#Flutter?"](https://twitter.com/hashtag/Flutter?"?src=hashtag_click) but the only thing people in this field are interested in is Flutter. Why don't you try to explore the server-side specific possibilities of Dart?
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632213719588691969)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632213719588691969)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632213719588691969)
 
 ---
 <!-- MY-TWEETS:END -->
