@@ -197,8 +197,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:57:30.000Z](https://twitter.com/realshinyakato/status/1632213719588691969)
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:57:30.000Z](https://twitter.com/realshinyakato/status/1632213719588691969)
 >
 > When we develop packages in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) people often ask, "Can I use that in [#Flutter?"](https://twitter.com/hashtag/Flutter?"?src=hashtag_click) but the only thing people in this field are interested in is Flutter. Why don't you try to explore the server-side specific possibilities of Dart?
 >
@@ -206,8 +206,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:52:59.000Z](https://twitter.com/realshinyakato/status/1632212583565631489)
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:52:59.000Z](https://twitter.com/realshinyakato/status/1632212583565631489)
 >
 > [#Google](https://twitter.com/hashtag/Google?src=hashtag_click) has designated [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) as [#Flutter's](https://twitter.com/hashtag/Flutter's?src=hashtag_click) development language in an attempt to boost their own Dart brand, but I feel that there has been too little publicity for Dart and that Dart has become an add-on to Flutter. I feel it’s very sad
 >
@@ -215,8 +215,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:50:02.000Z](https://twitter.com/realshinyakato/status/1632211840590819329)
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:50:02.000Z](https://twitter.com/realshinyakato/status/1632211840590819329)
 >
 > I felt it would be great if we could use [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) in [#TypeScript;](https://twitter.com/hashtag/TypeScript;?src=hashtag_click) some of the long-awaited features in [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) are already in TypeScript
 >
@@ -224,8 +224,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:47:26.000Z](https://twitter.com/realshinyakato/status/1632211187290210307)
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:47:26.000Z](https://twitter.com/realshinyakato/status/1632211187290210307)
 >
 > I feel [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) and [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) should be independent of [#Google.](https://twitter.com/hashtag/Google.?src=hashtag_click) I feel the day will never come when Dart will be able to compete with [#Java](https://twitter.com/hashtag/Java?src=hashtag_click) and [#Python](https://twitter.com/hashtag/Python?src=hashtag_click) and others in the popular language rankings as long as they are managed by Google. Google is not very good at promoting
 >
@@ -233,8 +233,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-04T00:32:26.000Z](https://twitter.com/realshinyakato/status/1631814824807260161)
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-04T00:32:26.000Z](https://twitter.com/realshinyakato/status/1631814824807260161)
 >
 > RT [@LadyCitizen69:](https://twitter.com/LadyCitizen69:) このタンス状態のモジュラーシンセからエゲツないレベルにヤバいテクノ鳴っててばりヤバい。
 > 
@@ -269,9 +269,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Venus and Jupiter may have caught your attention lately.  The impending close conjunction of the two brightest planets visible in clear evening skies has been hard to miss. With Jupiter at the top, starting on February 21 and ending on March 2, their close approach is chronicled daily, left to right, in these panels recorded from Dhanbad, India. Near the western horizon, the evening sky colors and exposures used for each panel depend on the local conditions near sunset. On February 22, Jupiter and Venus were joined by the young crescent Moon. The celestial pair appeared to be only the width of a full moon apart by March 2. Of course on that date the two planets were physically separated by over 600 million kilometers in their orbits around the Sun. In the coming days Jupiter will slowly settle into the glare at sunset, but Venus will continue to move farther from the Sun in the western sky to excel in its current role as the brilliant evening star.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
-> ![APOD](https://apod.nasa.gov/apod/image/2303/PSX_20230302_200358_1024.jpg)
-> &copy; Soumyadeep Mukherjee
+> What are those two bright spots? Planets.  A few days ago, the two brightest planets in the night sky passed within a single degree of each other in what is termed a conjunction. Visible just after sunset in much of the world, the two bright spots were Jupiter (left) and Venus (right).  The featured image was taken near closest approach from Cirica, Sicily, Italy. The week before, Venus was rising higher in the sunset sky to meet the dropping Jupiter. Now they have switched places. Of course, Venus remains much closer to both the Sun and the Earth than Jupiter -- the apparent closeness between the planets in the sky of Earth was only angular.  You can still see the popular pair for an hour or so after sunset this month although they continue to separate, and Jupiter continues to set earlier each night.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
+> ![APOD](https://apod.nasa.gov/apod/image/2303/VenusJupiterSky_Tumino_1080.jpg)
+> &copy; Giovanni Tumino
 
 ---
 <!-- APOD:END -->
