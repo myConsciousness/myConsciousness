@@ -198,47 +198,47 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T13:16:21.000Z](https://twitter.com/realshinyakato/status/1632369459615907840)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:45:21.000Z](https://twitter.com/realshinyakato/status/1632391855433449473)
 >
-> [@someone7140](https://twitter.com/someone7140) これ見てAGIの正確性が上がったらターミナルに自然言語（しかも日本語）でやりたいこと書いて完結するような未来を垣間見ました
+> AWSの設定見直しも完了。不要不急のサブスクは消え去った
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632369459615907840)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632369459615907840)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632369459615907840)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632391855433449473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632391855433449473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632391855433449473)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T09:28:20.000Z](https://twitter.com/realshinyakato/status/1632312074356531201)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:42:46.000Z](https://twitter.com/realshinyakato/status/1632391206679265280)
 >
-> RT [@Guandanarian:](https://twitter.com/Guandanarian:) Bootloader https://t.co/JRrINpaHhN
+> AWSのRoute 53の設定見直すの忘れてて$0.5請求されてた。使わないしついでに直しとくか
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632312074356531201)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632312074356531201)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632312074356531201)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632391206679265280)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632391206679265280)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632391206679265280)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:51:06.000Z](https://twitter.com/realshinyakato/status/1632302707129323522)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:36:44.000Z](https://twitter.com/realshinyakato/status/1632389687896846337)
 >
-> [@uakihir0](https://twitter.com/uakihir0) BlueSkyの場合は開発者とその関係者だけですね
+> んで、残りの所得税も納付完了。お疲れさまでした。
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632302707129323522)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632302707129323522)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632302707129323522)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632389687896846337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632389687896846337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632389687896846337)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:44:53.000Z](https://twitter.com/realshinyakato/status/1632301141471145986)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:32:48.000Z](https://twitter.com/realshinyakato/status/1632388699676876800)
 >
-> [@uakihir0](https://twitter.com/uakihir0) Waiting Listから選ばれてるようです
+> ボタン一つ押すたびにフリーズするの相変わらず草
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632301141471145986)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632301141471145986)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632301141471145986)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632388699676876800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632388699676876800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632388699676876800)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:43:53.000Z](https://twitter.com/realshinyakato/status/1632300889921708034)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:31:19.000Z](https://twitter.com/realshinyakato/status/1632388322478948353)
 >
-> [@cvsvhyss](https://twitter.com/cvsvhyss) [@Hixie](https://twitter.com/Hixie) [@mraleph](https://twitter.com/mraleph) I like the syntax of Dart and use it for computing purposes other than Flutter. Frankly, Flutter is not important to me. It is obvious that a language that is closer to machine language would perform better, but Dart is powerful enough
+> 相変わらず激重のe-TaxのWebサイト・・・
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632300889921708034)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632300889921708034)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632300889921708034)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632388322478948353)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632388322478948353)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632388322478948353)
 
 ---
 <!-- MY-TWEETS:END -->
