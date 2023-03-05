@@ -198,6 +198,33 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:51:06.000Z](https://twitter.com/realshinyakato/status/1632302707129323522)
+>
+> [@uakihir0](https://twitter.com/uakihir0) BlueSkyの場合は開発者とその関係者だけですね
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632302707129323522)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632302707129323522)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632302707129323522)
+
+---
+
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:44:53.000Z](https://twitter.com/realshinyakato/status/1632301141471145986)
+>
+> [@uakihir0](https://twitter.com/uakihir0) Waiting Listから選ばれてるようです
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632301141471145986)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632301141471145986)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632301141471145986)
+
+---
+
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:43:53.000Z](https://twitter.com/realshinyakato/status/1632300889921708034)
+>
+> [@cvsvhyss](https://twitter.com/cvsvhyss) [@Hixie](https://twitter.com/Hixie) [@mraleph](https://twitter.com/mraleph) I like the syntax of Dart and use it for computing purposes other than Flutter. Frankly, Flutter is not important to me. It is obvious that a language that is closer to machine language would perform better, but Dart is powerful enough
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632300889921708034)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632300889921708034)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632300889921708034)
+
+---
+
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:57:30.000Z](https://twitter.com/realshinyakato/status/1632213719588691969)
 >
 > When we develop packages in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) people often ask, "Can I use that in [#Flutter?"](https://twitter.com/hashtag/Flutter?"?src=hashtag_click) but the only thing people in this field are interested in is Flutter. Why don't you try to explore the server-side specific possibilities of Dart?
@@ -212,36 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [#Google](https://twitter.com/hashtag/Google?src=hashtag_click) has designated [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) as [#Flutter's](https://twitter.com/hashtag/Flutter's?src=hashtag_click) development language in an attempt to boost their own Dart brand, but I feel that there has been too little publicity for Dart and that Dart has become an add-on to Flutter. I feel it’s very sad
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632212583565631489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632212583565631489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632212583565631489)
-
----
-
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:50:02.000Z](https://twitter.com/realshinyakato/status/1632211840590819329)
->
-> I felt it would be great if we could use [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) in [#TypeScript;](https://twitter.com/hashtag/TypeScript;?src=hashtag_click) some of the long-awaited features in [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) are already in TypeScript
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632211840590819329)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632211840590819329)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632211840590819329)
-
----
-
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:47:26.000Z](https://twitter.com/realshinyakato/status/1632211187290210307)
->
-> I feel [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) and [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) should be independent of [#Google.](https://twitter.com/hashtag/Google.?src=hashtag_click) I feel the day will never come when Dart will be able to compete with [#Java](https://twitter.com/hashtag/Java?src=hashtag_click) and [#Python](https://twitter.com/hashtag/Python?src=hashtag_click) and others in the popular language rankings as long as they are managed by Google. Google is not very good at promoting
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632211187290210307)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632211187290210307)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632211187290210307)
-
----
-
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-04T00:32:26.000Z](https://twitter.com/realshinyakato/status/1631814824807260161)
->
-> RT [@LadyCitizen69:](https://twitter.com/LadyCitizen69:) このタンス状態のモジュラーシンセからエゲツないレベルにヤバいテクノ鳴っててばりヤバい。
-> 
-> シビれるぜ。
-> https://t.co/RYgNLX2Zsj
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631814824807260161)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631814824807260161)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631814824807260161)
 
 ---
 <!-- MY-TWEETS:END -->
