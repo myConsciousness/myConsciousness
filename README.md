@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T09:28:20.000Z](https://twitter.com/realshinyakato/status/1632312074356531201)
+>
+> RT [@Guandanarian:](https://twitter.com/Guandanarian:) Bootloader https://t.co/JRrINpaHhN
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632312074356531201)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632312074356531201)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632312074356531201)
+
+---
+
+> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T08:51:06.000Z](https://twitter.com/realshinyakato/status/1632302707129323522)
 >
 > [@uakihir0](https://twitter.com/uakihir0) BlueSkyの場合は開発者とその関係者だけですね
@@ -230,15 +239,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > When we develop packages in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) people often ask, "Can I use that in [#Flutter?"](https://twitter.com/hashtag/Flutter?"?src=hashtag_click) but the only thing people in this field are interested in is Flutter. Why don't you try to explore the server-side specific possibilities of Dart?
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632213719588691969)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632213719588691969)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632213719588691969)
-
----
-
-> ![@shinyakato@mastodon.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato@mastodon.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:52:59.000Z](https://twitter.com/realshinyakato/status/1632212583565631489)
->
-> [#Google](https://twitter.com/hashtag/Google?src=hashtag_click) has designated [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) as [#Flutter's](https://twitter.com/hashtag/Flutter's?src=hashtag_click) development language in an attempt to boost their own Dart brand, but I feel that there has been too little publicity for Dart and that Dart has become an add-on to Flutter. I feel it’s very sad
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632212583565631489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632212583565631489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632212583565631489)
 
 ---
 <!-- MY-TWEETS:END -->
