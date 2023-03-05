@@ -198,6 +198,42 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:57:30.000Z](https://twitter.com/realshinyakato/status/1632213719588691969)
+>
+> When we develop packages in [#Dart,](https://twitter.com/hashtag/Dart,?src=hashtag_click) people often ask, "Can I use that in [#Flutter?"](https://twitter.com/hashtag/Flutter?"?src=hashtag_click) but the only thing people in this field are interested in is Flutter. Why don't you try to explore the server-side specific possibilities of Dart?
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632213719588691969)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632213719588691969)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632213719588691969)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:52:59.000Z](https://twitter.com/realshinyakato/status/1632212583565631489)
+>
+> [#Google](https://twitter.com/hashtag/Google?src=hashtag_click) has designated [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) as [#Flutter's](https://twitter.com/hashtag/Flutter's?src=hashtag_click) development language in an attempt to boost their own Dart brand, but I feel that there has been too little publicity for Dart and that Dart has become an add-on to Flutter. I feel it’s very sad
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632212583565631489)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632212583565631489)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632212583565631489)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:50:02.000Z](https://twitter.com/realshinyakato/status/1632211840590819329)
+>
+> I felt it would be great if we could use [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) in [#TypeScript;](https://twitter.com/hashtag/TypeScript;?src=hashtag_click) some of the long-awaited features in [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) are already in TypeScript
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632211840590819329)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632211840590819329)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632211840590819329)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T02:47:26.000Z](https://twitter.com/realshinyakato/status/1632211187290210307)
+>
+> I feel [#Dart](https://twitter.com/hashtag/Dart?src=hashtag_click) and [#Flutter](https://twitter.com/hashtag/Flutter?src=hashtag_click) should be independent of [#Google.](https://twitter.com/hashtag/Google.?src=hashtag_click) I feel the day will never come when Dart will be able to compete with [#Java](https://twitter.com/hashtag/Java?src=hashtag_click) and [#Python](https://twitter.com/hashtag/Python?src=hashtag_click) and others in the popular language rankings as long as they are managed by Google. Google is not very good at promoting
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632211187290210307)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632211187290210307)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632211187290210307)
+
+---
+
+> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-04T00:32:26.000Z](https://twitter.com/realshinyakato/status/1631814824807260161)
 >
 > RT [@LadyCitizen69:](https://twitter.com/LadyCitizen69:) このタンス状態のモジュラーシンセからエゲツないレベルにヤバいテクノ鳴っててばりヤバい。
@@ -206,43 +242,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > https://t.co/RYgNLX2Zsj
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1631814824807260161)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631814824807260161)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631814824807260161)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-03T23:15:18.000Z](https://twitter.com/realshinyakato/status/1631795414923100160)
->
-> [@voiprogramming](https://twitter.com/voiprogramming) 一度も作ったことないですが、それで困ったこともないです
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631795414923100160)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631795414923100160)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631795414923100160)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-02T00:28:11.000Z](https://twitter.com/realshinyakato/status/1631088978010214400)
->
-> [@jack](https://twitter.com/jack) I have been waiting since last May for the beta release of [#Bluesky.](https://twitter.com/hashtag/Bluesky.?src=hashtag_click) Are only US users receiving the invite code now?
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631088978010214400)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631088978010214400)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631088978010214400)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-02T00:01:02.000Z](https://twitter.com/realshinyakato/status/1631082145405091840)
->
-> Goodbye [#Twitter,](https://twitter.com/hashtag/Twitter,?src=hashtag_click) [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) is the future
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631082145405091840)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631082145405091840)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631082145405091840)
-
----
-
-> ![Shinya Kato's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[Shinya Kato](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-01T23:55:20.000Z](https://twitter.com/realshinyakato/status/1631080710772772864)
->
-> 去年から待ってた黒船がようやく来た https://t.co/ntrAmWeaSp
-> ![No AltText](https://pbs.twimg.com/media/FqLDQnGaMAAYGS5.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1631080710772772864)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1631080710772772864)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1631080710772772864)
 
 ---
 <!-- MY-TWEETS:END -->
