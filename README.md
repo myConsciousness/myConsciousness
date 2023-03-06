@@ -198,6 +198,16 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-06T21:59:28.000Z](https://twitter.com/realshinyakato/status/1632863492989673472)
+>
+> We don’t need [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) anymore. Let’s move to [#BlueSky,](https://twitter.com/hashtag/BlueSky,?src=hashtag_click) it’s time for us to fly away from this nest :) https://t.co/kIbkGwnIE3
+> ![No AltText](https://pbs.twimg.com/media/FqkYsRmaAAM1iRu.jpg)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632863492989673472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632863492989673472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632863492989673472)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:45:21.000Z](https://twitter.com/realshinyakato/status/1632391855433449473)
 >
 > AWSの設定見直しも完了。不要不急のサブスクは消え去った
@@ -230,15 +240,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ボタン一つ押すたびにフリーズするの相変わらず草
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632388699676876800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632388699676876800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632388699676876800)
-
----
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:31:19.000Z](https://twitter.com/realshinyakato/status/1632388322478948353)
->
-> 相変わらず激重のe-TaxのWebサイト・・・
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632388322478948353)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632388322478948353)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632388322478948353)
 
 ---
 <!-- MY-TWEETS:END -->
