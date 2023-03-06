@@ -7,8 +7,8 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 17th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the 12nd most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 15th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the 11st most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
 <!-- MY-RANK-IN-GITHUB:END -->
@@ -266,9 +266,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What are those two bright spots? Planets.  A few days ago, the two brightest planets in the night sky passed within a single degree of each other in what is termed a conjunction. Visible just after sunset in much of the world, the two bright spots were Jupiter (left) and Venus (right).  The featured image was taken near closest approach from Cirica, Sicily, Italy. The week before, Venus was rising higher in the sunset sky to meet the dropping Jupiter. Now they have switched places. Of course, Venus remains much closer to both the Sun and the Earth than Jupiter -- the apparent closeness between the planets in the sky of Earth was only angular.  You can still see the popular pair for an hour or so after sunset this month although they continue to separate, and Jupiter continues to set earlier each night.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
-> ![APOD](https://apod.nasa.gov/apod/image/2303/VenusJupiterSky_Tumino_1080.jpg)
-> &copy; Giovanni Tumino
+> It was visible around the world. The sunset conjunction of Jupiter and Venus in 2012 was visible almost no matter where you lived on Earth.  Anyone on the planet with a clear western horizon at sunset could see them. Pictured here in 2012, a creative photographer traveled away from the town lights of Szubin, Poland to image a near closest approach of the two planets. The bright planets were then separated only by three degrees and his daughter struck a humorous pose. A faint red sunset still glowed in the background. Jupiter and Venus are together again this month after sunset, passing within a degree of each other about a week ago.    Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
+> ![APOD](https://apod.nasa.gov/apod/image/2303/jupiterpersonvenus_nikodem_960.jpg)
+> &copy; Marek NikodemPPSAE
 
 ---
 <!-- APOD:END -->
