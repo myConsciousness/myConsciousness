@@ -198,6 +198,15 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-07T01:01:11.000Z](https://twitter.com/realshinyakato/status/1632909222806683648)
+>
+> 分散型SNSの大本命「Bluesky」をさっそく試してみた｜加藤 真也 https://t.co/15DePPHFz7 [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#bluesky](https://twitter.com/hashtag/bluesky?src=hashtag_click) [#sns](https://twitter.com/hashtag/sns?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632909222806683648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632909222806683648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632909222806683648)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-06T21:59:28.000Z](https://twitter.com/realshinyakato/status/1632863492989673472)
 >
 > We don’t need [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) anymore. Let’s move to [#BlueSky,](https://twitter.com/hashtag/BlueSky,?src=hashtag_click) it’s time for us to fly away from this nest :) https://t.co/kIbkGwnIE3
@@ -233,15 +242,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632389687896846337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632389687896846337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632389687896846337)
 
 ---
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:32:48.000Z](https://twitter.com/realshinyakato/status/1632388699676876800)
->
-> ボタン一つ押すたびにフリーズするの相変わらず草
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632388699676876800)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632388699676876800)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632388699676876800)
-
----
 <!-- MY-TWEETS:END -->
 </details>
 
@@ -249,11 +249,11 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
+- 💙 [分散型SNSの大本命「Bluesky」をさっそく試してみた](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-social) (2023-03-07)
 - 📙 [【Dart/Flutter】httpパッケージを使ってMultipart形式のリクエストを送る](https://zenn.dev/kato_shinya/articles/how-to-send-multipart-request-with-dart) (2023-02-28)
 - 🤔 [公開した自作OSSを有名にしたいすべてのOSS開発者が実践すべきこと](https://zenn.dev/kato_shinya/articles/why-your-packages-are-not-popular) (2022-11-13)
 - 🎥 [【Dart/Flutter】twitter_api_v2でメディアファイルを簡単にアップロードする方法](https://zenn.dev/kato_shinya/articles/how-to-upload-media-with-twitter-api-v2) (2022-10-31)
 - 🖼️ [【Dart/Flutter】twitter_api_v2を使ってメディア付きのツイートをする方法](https://zenn.dev/kato_shinya/articles/how-to-create-media-tweet-with-twitter-api-v2-dart) (2022-09-01)
-- 🧵 [【Dart/Flutter】twitter_api_v2でツイートにスレッドを簡単に作成する方法](https://zenn.dev/kato_shinya/articles/how-to-create-thread-tweet-with-twitter-api-v2) (2022-08-22)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
