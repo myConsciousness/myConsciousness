@@ -198,6 +198,17 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-07T03:03:47.000Z](https://twitter.com/realshinyakato/status/1632940076996136961)
+>
+> RT [@bluesky:](https://twitter.com/bluesky:) You can use domain names as handles in Bluesky!
+> 
+> Here’s why we’ve designed the AT protocol to let you join a social network wi…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632940076996136961)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632940076996136961)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632940076996136961)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-07T01:01:11.000Z](https://twitter.com/realshinyakato/status/1632909222806683648)
 >
 > 分散型SNSの大本命「Bluesky」をさっそく試してみた｜加藤 真也 https://t.co/15DePPHFz7 [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#bluesky](https://twitter.com/hashtag/bluesky?src=hashtag_click) [#sns](https://twitter.com/hashtag/sns?src=hashtag_click)
@@ -231,15 +242,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > AWSのRoute 53の設定見直すの忘れてて$0.5請求されてた。使わないしついでに直しとくか
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632391206679265280)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632391206679265280)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632391206679265280)
-
----
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:36:44.000Z](https://twitter.com/realshinyakato/status/1632389687896846337)
->
-> んで、残りの所得税も納付完了。お疲れさまでした。
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632389687896846337)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632389687896846337)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632389687896846337)
 
 ---
 <!-- MY-TWEETS:END -->
