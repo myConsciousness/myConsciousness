@@ -198,6 +198,17 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T11:26:55.000Z](https://twitter.com/realshinyakato/status/1633791469642457088)
+>
+> RT [@realshinyakato:](https://twitter.com/realshinyakato:) Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) Developers,
+> 
+> I released 2 packages for [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) :) It is a two-tier structure with the atproto packag…
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1633791469642457088)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1633791469642457088)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1633791469642457088)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T07:55:27.000Z](https://twitter.com/realshinyakato/status/1633738251256352770)
 >
 > Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) Developers,
@@ -240,16 +251,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > 分散型SNSの大本命「Bluesky」をさっそく試してみた｜加藤 真也 https://t.co/15DePPHFz7 [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#bluesky](https://twitter.com/hashtag/bluesky?src=hashtag_click) [#sns](https://twitter.com/hashtag/sns?src=hashtag_click)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632909222806683648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632909222806683648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632909222806683648)
-
----
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-06T21:59:28.000Z](https://twitter.com/realshinyakato/status/1632863492989673472)
->
-> We don’t need [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) anymore. Let’s move to [#BlueSky,](https://twitter.com/hashtag/BlueSky,?src=hashtag_click) it’s time for us to fly away from this nest :) https://t.co/kIbkGwnIE3
-> ![No AltText](https://pbs.twimg.com/media/FqkYsRmaAAM1iRu.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632863492989673472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632863492989673472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632863492989673472)
 
 ---
 <!-- MY-TWEETS:END -->
