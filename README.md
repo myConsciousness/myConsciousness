@@ -198,6 +198,32 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T07:55:27.000Z](https://twitter.com/realshinyakato/status/1633738251256352770)
+>
+> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) Developers,
+> 
+> I released 2 packages for [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) :) It is a two-tier structure with the atproto package as the foundation on which the bluesky package is developed.
+> 
+> AT Protocol: https://t.co/Ii0wXgN5fQ
+> Bluesky: https://t.co/HA7xM5G3Ka
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1633738251256352770)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1633738251256352770)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1633738251256352770)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T07:50:56.000Z](https://twitter.com/realshinyakato/status/1633737117506605057)
+>
+> [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) の APIを簡単に叩ける [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) のパッケージを2つリリースしました。
+> 
+> https://t.co/HA7xM5G3Ka
+> https://t.co/Ii0wXgN5fQ
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1633737117506605057)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1633737117506605057)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1633737117506605057)
+
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
 [@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-07T03:03:47.000Z](https://twitter.com/realshinyakato/status/1632940076996136961)
 >
 > RT [@bluesky:](https://twitter.com/bluesky:) You can use domain names as handles in Bluesky!
@@ -224,24 +250,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > ![No AltText](https://pbs.twimg.com/media/FqkYsRmaAAM1iRu.jpg)
 >
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1632863492989673472)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632863492989673472)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632863492989673472)
-
----
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:45:21.000Z](https://twitter.com/realshinyakato/status/1632391855433449473)
->
-> AWSの設定見直しも完了。不要不急のサブスクは消え去った
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632391855433449473)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632391855433449473)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632391855433449473)
-
----
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-05T14:42:46.000Z](https://twitter.com/realshinyakato/status/1632391206679265280)
->
-> AWSのRoute 53の設定見直すの忘れてて$0.5請求されてた。使わないしついでに直しとくか
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632391206679265280)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632391206679265280)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632391206679265280)
 
 ---
 <!-- MY-TWEETS:END -->
