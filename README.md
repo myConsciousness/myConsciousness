@@ -198,59 +198,55 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T11:26:55.000Z](https://twitter.com/realshinyakato/status/1633791469642457088)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:33.000Z](https://twitter.com/realshinyakato/status/1634331941192495104)
 >
-> RT [@realshinyakato:](https://twitter.com/realshinyakato:) Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) Developers,
+> RT [@arcalinea:](https://twitter.com/arcalinea:) Time for a tweet thread on the blog post I published yesterday. 🧵
 > 
-> I released 2 packages for [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) :) It is a two-tier structure with the atproto packag…
+> Our main work at [@bluesky](https://twitter.com/bluesky) so far has been on the [@at_prot…](https://twitter.com/at_prot…)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1633791469642457088)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1633791469642457088)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1633791469642457088)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331941192495104)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331941192495104)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331941192495104)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T07:55:27.000Z](https://twitter.com/realshinyakato/status/1633738251256352770)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:29.000Z](https://twitter.com/realshinyakato/status/1634331923207319553)
 >
-> Hi [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) Developers,
+> RT [@arcalinea:](https://twitter.com/arcalinea:) Here are the protocol features we're excited to finish: 
 > 
-> I released 2 packages for [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) :) It is a two-tier structure with the atproto package as the foundation on which the bluesky package is developed.
-> 
-> AT Protocol: https://t.co/Ii0wXgN5fQ
-> Bluesky: https://t.co/HA7xM5G3Ka
+> - Domain names as usernames &amp; account portability
+> - Algorithmic ch…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1633738251256352770)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1633738251256352770)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1633738251256352770)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331923207319553)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331923207319553)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331923207319553)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-09T07:50:56.000Z](https://twitter.com/realshinyakato/status/1633737117506605057)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:26.000Z](https://twitter.com/realshinyakato/status/1634331911446487040)
 >
-> [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click) の APIを簡単に叩ける [#Dart/#Flutter](https://twitter.com/hashtag/Dart/#Flutter?src=hashtag_click) のパッケージを2つリリースしました。
+> RT [@arcalinea:](https://twitter.com/arcalinea:) Our end goals are to support choice for users, freedom for developers, and control for creators. 
 > 
-> https://t.co/HA7xM5G3Ka
-> https://t.co/Ii0wXgN5fQ
+> We're designing for a com…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1633737117506605057)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1633737117506605057)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1633737117506605057)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331911446487040)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331911446487040)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331911446487040)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-07T03:03:47.000Z](https://twitter.com/realshinyakato/status/1632940076996136961)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:21.000Z](https://twitter.com/realshinyakato/status/1634331890990862336)
 >
-> RT [@bluesky:](https://twitter.com/bluesky:) You can use domain names as handles in Bluesky!
-> 
-> Here’s why we’ve designed the AT protocol to let you join a social network wi…
+> RT [@arcalinea:](https://twitter.com/arcalinea:) Domain names as handles! Why are we excited about this feature in the [@at_protocol?](https://twitter.com/at_protocol?) It's a way to achieve decentralized veri…
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632940076996136961)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632940076996136961)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632940076996136961)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331890990862336)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331890990862336)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331890990862336)
 
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-07T01:01:11.000Z](https://twitter.com/realshinyakato/status/1632909222806683648)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:12:51.000Z](https://twitter.com/realshinyakato/status/1634331513209880576)
 >
-> 分散型SNSの大本命「Bluesky」をさっそく試してみた｜加藤 真也 https://t.co/15DePPHFz7 [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#bluesky](https://twitter.com/hashtag/bluesky?src=hashtag_click) [#sns](https://twitter.com/hashtag/sns?src=hashtag_click)
+> Hello, [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) instance users. Are you still suffering from the Twitter revamp? Let's move to [#Bluesky,](https://twitter.com/hashtag/Bluesky,?src=hashtag_click) Twitter is a dying service :) https://t.co/YH1sJF6ioK
+> ![No AltText](https://pbs.twimg.com/media/Fq5P2WdakAADOAX.jpg)
 >
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1632909222806683648)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1632909222806683648)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1632909222806683648)
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331513209880576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331513209880576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331513209880576)
 
 ---
 <!-- MY-TWEETS:END -->
