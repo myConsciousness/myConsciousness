@@ -197,38 +197,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-12T06:57:27.980Z
+> ![mofumemo.com's avatar](https://cdn.bsky.social/imgproxy/9muDMPQ3y53hXbU31iWi_ylUamWR2qoEkzTqxrmVb7g/rs:fill:1000:1000:1:0/plain/bafkreicbji2uxfmfjivx22ns4gto7iem2okkklvr7lpoem3d5didfnaceu@jpeg)
+maya🍀 @mofumemo.com 2023-03-12T08:00:37.790Z
 >
-> めっちゃ鯉見た
+> 私も遊びに行きたーい！
+（遊びに行けない民からの嘆き）
 
 ---
 
-> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
-Shinya Kato @shinyakato.dev 2023-03-12T06:46:19.776Z
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-12T07:57:29.577Z
 >
-> 公式アプリはまだ状態管理あたりにバグが多いな。アプリを手動で再起動しないと反映されないところがいくつかある
+> Meta のテキストSNS、「Instagram力をレバレッジ」はOAuthみたいにログイン認証を転用したり、インスタを画像アップローダーとして使うってことかな。
+それってInstagramにメリットあるんです？
 
 ---
 
-> ![chikuna.bsky.social's avatar](https://cdn.bsky.social/imgproxy/fG0BhjpRhWuy8Ag1fVL_tkLCEV2agwtKv7ZP1zKOjFc/rs:fill:1000:1000:1:0/plain/bafkreiav5gsskt7raykvyjin7l7pxopwie67jzvjciuweqsngk67rghtlq@jpeg)
-chikuna @chikuna.bsky.social 2023-03-12T06:40:11.914Z
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-12T07:54:55.207Z
 >
-> メインメニューに検索が追加されたということは精度も上がったのかな？
+> Meta is building a decentralized, text-based social network
+https://www.platformer.news/p/meta-is-building-a-decentralized
 
 ---
 
-> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
-Whyrusleeping @why.bsky.world 2023-03-12T06:39:12.259Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T07:54:44.356Z
 >
-> Though pure aluminum doesnt burn like magnesium does. Agree mag is better for most alloys
+> ソースコードを軽く見た限りの情報を追加し、リンク。
+
+AT Protocol (BlueSky Social)仕様解説 ～ W3C DID仕様を添えて ～ https://qiita.com/gpsnmeajp/items/eb665d639f088b85454e #Qiita
 
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-12T06:30:13.112Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T07:49:05.834Z
 >
-> ケンタッキーもないところはないですよね。私と一番近いお店はなくなってしまった……。
+> 予約済みの名前リスト
+https://github.com/bluesky-social/atproto/blob/main/packages/handle/src/reserved.ts
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
