@@ -198,37 +198,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ---
 
 > ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T19:00:32.975Z
+Maxon @maxon.bsky.social 2023-03-12T19:43:56.278Z
 >
-> obg de vdd ❤️🥺
+> 😍😍
 
 ---
 
-> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
-Whyrusleeping @why.bsky.world 2023-03-12T18:56:22.890Z
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-12T19:37:50.152Z
 >
-> Its a good vibe
+> tters.jp のまったり優しい世界が好きで時々覗いている。
+和やかな書込みばかりが並んでいれば、多くの人はそれに倣って微笑ましい日常を綴ってみたくなるものだろうし、裏では細めなモデレーションをしているのだろう。
+
+そう自分では納得しているつもりなのだけど、暫く眺めていると不気味の壁がムクムクと頭をもたげてくる。…これ、AIがサクラやってたりしないのかな🤔
 
 ---
 
-> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T18:55:58.540Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-12T19:30:14.649Z
 >
-> tem dias que acordo bem mas são fases curtas, espero conseguir me sentir bem todos os dias e melhorar cada vez mais a minha autoestima
-
----
-
-> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
-Whyrusleeping @why.bsky.world 2023-03-12T18:55:38.710Z
->
-> 👋
+> Finally refactored the composer. Now I can get into heaven
 
 ---
 
 > ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T18:54:21.056Z
+Maxon @maxon.bsky.social 2023-03-12T19:29:41.543Z
 >
-> por que alguém como ele vai estar comigo? é o pensamento que reina na minha mente
+> 💙💙💙 brigaduhh
+
+---
+
+> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
+Whyrusleeping @why.bsky.world 2023-03-12T19:28:04.683Z
+>
+> It smells like people just want to watch the world burn (and have positioned themselves well for such an scenario)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
