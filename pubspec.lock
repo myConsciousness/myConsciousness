@@ -33,6 +33,30 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
+  atproto:
+    dependency: transitive
+    description:
+      name: atproto
+      sha256: "597652aac4e1a2cc03e9d8864948d7ee01d94d271e08497823f255ac63000988"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.4"
+  atproto_core:
+    dependency: transitive
+    description:
+      name: atproto_core
+      sha256: "1353731a8e35fe9e7c1d1307c8f25c6678cd7c022a5c7136e59c798fe976138e"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.2"
+  bluesky:
+    dependency: "direct main"
+    description:
+      name: bluesky
+      sha256: "101535259c21e312ad2353d09950e5039fa4f9e2b400af30b008af14f4a00ea1"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.1.0"
   boolean_selector:
     dependency: transitive
     description:
@@ -458,4 +482,4 @@ packages:
     source: hosted
     version: "3.1.1"
 sdks:
-  dart: ">=2.19.0 <3.0.0"
+  dart: ">=2.19.2 <3.0.0"
