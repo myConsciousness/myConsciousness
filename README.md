@@ -198,37 +198,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ---
 
 > ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T12:00:24.943Z
+Segment @gpsnmeajp.achetaria.com 2023-03-12T12:14:46.796Z
 >
-> mastodonの課題を解決しようとして、プロトコル上の利害関係者が増えてるけど、理想通りにうまくいくのかなこれ
+> 野良plc.directoryが建ったとして、投稿内容は引き継げるがフォロワーはそのままは引き継げない。
+フォロワーたちもその野良plc.directoryを参照してくれるPDSに引っ越してもらう必要がある。
+ある意味Nostrのリレーみたいなもんだな。
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T11:59:23.675Z
+> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
+マコト @makoto.bsky.social 2023-03-12T13:00:35.824Z
 >
-> どれもまだドキュメントにはなってないと思う。matrixのBlueSky devの過去ログにある。
+> 最近時間があまり取れないので完成させられる気がまるでしないんだけど、クライアントを作り始めました。とりあえずログイン画面だけできた。
+
+---
+
+> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
+ひゅうが霄 @showv3.bsky.social 2023-03-12T13:03:01.062Z
+>
+> うわー、格好いい
 
 ---
 
 > ![baiser.bsky.social's avatar](https://cdn.bsky.social/imgproxy/FUFsResb2OivchlouMCXu-41-kRZlN2MhMLPt1n4NI4/rs:fill:1000:1000:1:0/plain/bafkreicrwuidebqva6wpm6sfc6ie4ajywbbjxr6ti27im7wrbiybck4xtm@jpeg)
-baiser @baiser.bsky.social 2023-03-12T11:59:02.073Z
+baiser @baiser.bsky.social 2023-03-12T13:01:47.617Z
 >
-> 曜日感覚と時間感覚がバグってきた私。休み風でよいから休みたい。←ねこは水分補給してコタツへお戻りになりました。←ねこのためにコタツを設置しております笑
+> 某トレセンです。たくさんの競走馬がいるはずなんですが獣臭がしないのはさすがです🏇
+ブルスコ、ブルコスどっちだかわからなくなります）
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T11:58:45.888Z
+> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
+マコト @makoto.bsky.social 2023-03-12T13:00:35.824Z
 >
-> 連合した時のサーバーまたぎのモデレーションのための仕組みも作成中なんだっけか
-
----
-
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T11:57:58.784Z
->
-> BlueSkyコンソーシアム会員とやらが運営することになるらしい。
+> 最近時間があまり取れないので完成させられる気がまるでしないんだけど、クライアントを作り始めました。とりあえずログイン画面だけできた。
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
