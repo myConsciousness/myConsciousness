@@ -197,44 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
+ひゅうが霄 @showv3.bsky.social 2023-03-12T10:58:49.135Z
+>
+> 「Bluesky」ってサービスなのかな。Mastodonはユーザーが独自に鯖を立てられて、何というか「枠組み」でしかないと思うんだけど、「Bluesky」はどういう将来像を描いてるんだろう
+
+---
+
 > ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
-Don @nikolat.bsky.social 2023-03-12T09:59:12.891Z
+Don @nikolat.bsky.social 2023-03-12T10:56:58.132Z
 >
-> 自分も特に新しいもの好きというわけではないんだよな
-単にSNSが好きなだけで
-知らない人との交流が好き
+> あれって認証無しAPIが用意されてるわけではないのか…
 
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T09:58:32.745Z
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-12T10:54:46.904Z
 >
-> I’ve been told it’s very good!! The next I must to report back about to someone is episode 7 so I’m very curious lol she also said that 4&5 are intense so I’m very nervous for what’s about to happen lol
+> ペッパーミルパフォーマンス、士気を高めるための様々な思いが込められているとの事だけど、隠れた下品な意味がきっとあるに違いない、と思うほどには心が汚れている
+https://riri-otokujoho.com/peppermillperformance-why-meaning/
 
 ---
 
-> ![holybea.bsky.social's avatar](https://cdn.bsky.social/imgproxy/9cCOipD0Ad3K2faD8DxsQ3wuVaLFBVxjeMpPbfGYQkc/rs:fill:1000:1000:1:0/plain/bafkreifx7tqtzahlofjjklqzjhq7bociy7fpfzwoefbtu3ynpushmifdri@jpeg)
-ほりべあ @holybea.bsky.social 2023-03-12T09:07:38.838Z
+> ![ksk.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jlcoCePPCP1v6J-OXoHeJpHGIPxet-Sxo_r65PVWXdI/rs:fill:1000:1000:1:0/plain/bafkreihiph2vfkaodh5z4fiv3nkh5slkc4zn3rwntha5hruxdqlj5yrjvm@jpeg)
+Keisuke Horota @ksk.bsky.social 2023-03-12T10:51:55.654Z
 >
-> 🌈TOKIMEKI Bluesky🌈
-https://tokimekibluesky.vercel.app/
-
-・ 引用ポストに対応したよ(投稿右上のメニューから)
-・ 投稿まわりUI変更
+> かわいいよ
 
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T09:56:23.190Z
+> ![mofumemo.com's avatar](https://cdn.bsky.social/imgproxy/9muDMPQ3y53hXbU31iWi_ylUamWR2qoEkzTqxrmVb7g/rs:fill:1000:1000:1:0/plain/bafkreicbji2uxfmfjivx22ns4gto7iem2okkklvr7lpoem3d5didfnaceu@jpeg)
+maya🍀 @mofumemo.com 2023-03-12T10:50:56.725Z
 >
-> 😂
-
----
-
-> ![kisato.bsky.social's avatar](https://cdn.bsky.social/imgproxy/MwO3Gdt1sJZ_66om_i9yfbTF4jB5SVumDgpPce9plVQ/rs:fill:1000:1000:1:0/plain/bafkreic2a7bprckknp7kl47zb4ez6t5r4dgjhg7vkpjn6fdnuythxvnbxa@jpeg)
-きさと @kisato.bsky.social 2023-03-12T09:55:51.538Z
->
-> この半年を横に置くと、イロマスPの印象が強くてそこまで悪いイメージはなかったのだけれど
+> 私も気になっていたけど、かわいいよね。
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
