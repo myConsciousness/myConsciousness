@@ -197,44 +197,41 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![mofumemo.com's avatar](https://cdn.bsky.social/imgproxy/9muDMPQ3y53hXbU31iWi_ylUamWR2qoEkzTqxrmVb7g/rs:fill:1000:1000:1:0/plain/bafkreicbji2uxfmfjivx22ns4gto7iem2okkklvr7lpoem3d5didfnaceu@jpeg)
-maya🍀 @mofumemo.com 2023-03-12T08:00:37.790Z
+> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
+電子馬 @erechorse.bsky.social 2023-03-12T08:59:53.490Z
 >
-> 私も遊びに行きたーい！
-（遊びに行けない民からの嘆き）
+> 自分もガキの頃から活字中毒なので、ジャンクフードとしてTwitterを摂取してたな
+超短文質は良くないなぁと思いながらずっと読んでた
 
 ---
 
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-12T07:57:29.577Z
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-12T08:59:59.665Z
 >
-> Meta のテキストSNS、「Instagram力をレバレッジ」はOAuthみたいにログイン認証を転用したり、インスタを画像アップローダーとして使うってことかな。
-それってInstagramにメリットあるんです？
+> 前澤さん、お金配りおじさんとしては柔和さを押し出してるけど、アカウント名に「suck」を含んでいるところにパンクスだったことが現れている(適当)
 
 ---
 
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-12T07:54:55.207Z
+> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
+電子馬 @erechorse.bsky.social 2023-03-12T08:59:53.490Z
 >
-> Meta is building a decentralized, text-based social network
-https://www.platformer.news/p/meta-is-building-a-decentralized
+> 自分もガキの頃から活字中毒なので、ジャンクフードとしてTwitterを摂取してたな
+超短文質は良くないなぁと思いながらずっと読んでた
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T07:54:44.356Z
+> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
+わる @wal.bsky.social 2023-03-12T08:59:40.898Z
 >
-> ソースコードを軽く見た限りの情報を追加し、リンク。
-
-AT Protocol (BlueSky Social)仕様解説 ～ W3C DID仕様を添えて ～ https://qiita.com/gpsnmeajp/items/eb665d639f088b85454e #Qiita
+> 文字情報、インパクトを出すのが難しいのもあると思う
+視覚的に派手な方が何も考えず享受できるというかなんというか
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T07:49:05.834Z
+> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
+わる @wal.bsky.social 2023-03-12T08:58:36.197Z
 >
-> 予約済みの名前リスト
-https://github.com/bluesky-social/atproto/blob/main/packages/handle/src/reserved.ts
+> I'm 活字中毒
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
