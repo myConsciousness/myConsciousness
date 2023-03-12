@@ -197,42 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T17:50:57.026Z
+> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
+Maxon @maxon.bsky.social 2023-03-12T19:00:32.975Z
 >
-> Yikes may the odds be in your favor or something
+> obg de vdd ❤️🥺
 
 ---
 
 > ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
-Whyrusleeping @why.bsky.world 2023-03-12T17:50:53.024Z
+Whyrusleeping @why.bsky.world 2023-03-12T18:56:22.890Z
 >
-> That is a good doggo, send a DM for invites
+> Its a good vibe
 
 ---
 
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-12T17:50:40.360Z
+> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
+Maxon @maxon.bsky.social 2023-03-12T18:55:58.540Z
 >
-> Love it
+> tem dias que acordo bem mas são fases curtas, espero conseguir me sentir bem todos os dias e melhorar cada vez mais a minha autoestima
 
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T17:50:13.249Z
+> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
+Whyrusleeping @why.bsky.world 2023-03-12T18:55:38.710Z
 >
-> Very relatable lol
+> 👋
 
 ---
 
-> ![jik.wtf's avatar](https://cdn.bsky.social/imgproxy/4tMVLaookLpbzuGyAUJEWR294vkG3NgI7P2XbIkHU28/rs:fill:1000:1000:1:0/plain/bafkreigmmgs4jqjsfa5so2uvmytzf34awxm6lgtyriaiinqki356srzdsa@jpeg)
-🃏 @jik.wtf 2023-03-12T17:49:33.804Z
+> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
+Maxon @maxon.bsky.social 2023-03-12T18:54:21.056Z
 >
-> 99% Invisible
-Cortex
-Fall of Civilizations
-Darknet Diaries
-Theories of Everything with Curt
+> por que alguém como ele vai estar comigo? é o pensamento que reina na minha mente
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
