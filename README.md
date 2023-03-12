@@ -197,39 +197,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![rocket.bsky.social's avatar](https://cdn.bsky.social/imgproxy/X59QdChW_b-i25FZI_qx80k6M6PH8USRlZMBUHWPbEE/rs:fill:1000:1000:1:0/plain/bafkreighrkp44he7foxkyeeajosxjb5cxrbw4yr6wvt4iowuk7f3w4y7ru@jpeg)
-ろー @rocket.bsky.social 2023-03-12T04:55:33.294Z
+> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
+たんぐれー @tangure.bsky.social 2023-03-12T06:00:21.432Z
 >
-> handle:rocket.bsky.social
-did:did:plc:ftj5trjj4eiomt22hl7wpd3o
+> さて馬の時間だ
 
 ---
 
-> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
-ひゅうが霄 @showv3.bsky.social 2023-03-12T04:55:19.302Z
+> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
+Cat @cats.bsky.social 2023-03-12T05:59:22.653Z
 >
-> わかりみ。10年前とかついこないだだし
+> Who there
 
 ---
 
-> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
-マコト @makoto.bsky.social 2023-03-12T04:53:29.610Z
+> ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
+Don @nikolat.bsky.social 2023-03-12T05:57:44.271Z
 >
-> 肩と、あと首・背中・腰も終わってる
+> SSTP over HTTP で伺かゴーストに喋らせるボタンを生やすuserscript
+https://ukadon.shillest.net/@nikolat/110008718062739304
+
+現状、以下の3つのBluesky Webクライアントに対応
+- Skylight
+- Flat
+- TOKIMEKI Bluesky
 
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-12T04:52:53.099Z
+> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
+たんぐれー @tangure.bsky.social 2023-03-12T05:57:25.593Z
 >
-> T2……スカイネット……人類は滅亡する……
+> 青空ちゃん、自分がブルスカ自体の特徴がまだ掴みきれてないので、ぼやけたデザインにしかできない…
 
 ---
 
-> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
-マコト @makoto.bsky.social 2023-03-12T04:52:02.458Z
+> ![takeshi.bsky.social's avatar](https://cdn.bsky.social/imgproxy/7o-nvrfRqSp9HIGbAnj3VZOxHGCxLvQkFP3_n8VY3Bo/rs:fill:1000:1000:1:0/plain/bafkreiekqnqjwhjhc6ospryc52eu5f3tops3mqgsqpo7jjxig5lj67pszi@jpeg)
+Takeshi @takeshi.bsky.social 2023-03-12T05:55:43.213Z
 >
-> 凝り過ぎて肩が終わっちまった
+> おやつの時間ですよ🍭忘れていませんか？😐
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -323,8 +328,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Put on your red/blue glasses and float next to asteroid 101955 Bennu. Shaped like a spinning toy top with boulders littering its rough surface, the tiny Solar System world is about one Empire State Building (less than 500 meters) across. Frames used to construct this 3D anaglyph were taken by PolyCam on the OSIRIS_REx spacecraft on December 3, 2018 from a distance of about 80 kilometers. With a sample from the asteroid's rocky surface on board, OSIRIS_REx departed Bennu's vicinity in May of 2021 and is now enroute to planet Earth. The robotic spacecraft is scheduled to return the sample to Earth this September.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/ana03BennuVantuyne1024c.jpg)
+> What lies at the bottom of Hyperion's strange craters?  To help find out, the robot Cassini spacecraft that once orbited Saturn swooped past the sponge-textured moon and took images of unprecedented detail.  A six-image mosaic from the 2005 pass, featured here in scientifically assigned colors, shows a remarkable world strewn with strange craters and an odd, sponge-like surface.   At the bottom of most craters lies some type of unknown dark reddish material.  This material appears similar to that covering part of another of Saturn's moons, Iapetus, and might sink into the ice moon as it better absorbs warming sunlight. Hyperion is about 250 kilometers across,  rotates chaotically, and has a density so low that it likely houses a vast system of caverns inside.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/hyperion_cassini_1024.jpg)
 
 
 ---
