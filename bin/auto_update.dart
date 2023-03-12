@@ -1,6 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
+import 'package:bluesky/bluesky.dart' as bsky;
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
 import 'package:intl/intl.dart';
@@ -10,6 +11,10 @@ import 'package:twitter_api_v2/twitter_api_v2.dart' as v2;
 const _myRankInGitHubSectionStart =
     '<!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->';
 const _myRankInGitHubSectionEnd = '<!-- MY-RANK-IN-GITHUB:END -->';
+
+const _myBskyTimelineSectionStart =
+    '<!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->';
+const _myBskyTimelineSectionEnd = '<!-- MY-BSKY_TIMELINE:END -->';
 
 const _myTweetSectionStart =
     '<!-- MY-TWEETS:START - Do not remove or modify this section -->';
@@ -25,9 +30,54 @@ const _apodSectionEnd = '<!-- APOD:END -->';
 
 Future<void> main(List<String> arguments) async {
   await _updateGitHubRanking();
+  await _updateBlueskyTimeline();
   await _updateTweets();
   await _updateAPOD();
   await _updateZennArticles();
+}
+
+Future<void> _updateBlueskyTimeline() async {
+  final session = await bsky.createSession(
+    handle: Platform.environment['BLUESKY_HANDLE']!,
+    password: Platform.environment['BLUESKY_PASSWORD']!,
+  );
+
+  final bluesky = bsky.Bluesky.fromSession(
+    session.data,
+    retryConfig: bsky.RetryConfig(
+      maxAttempts: 10,
+      onExecute: (event) => print(
+        'Retry after ${event.intervalInSeconds} seconds... '
+        '[${event.retryCount} times]',
+      ),
+    ),
+  );
+
+  final feeds = await bluesky.feeds.lookupHomeTimeline(limit: 5);
+
+  final postUIs = <String>[];
+  for (final feed in feeds.data.feeds) {
+    final post = feed.post;
+    final me = post.author;
+
+    postUIs.add('''\n> ![${me.handle}'s avatar](${me.avatar})
+${me.displayName} @${me.handle} ${post.indexedAt.toUtc().toIso8601String()}
+>
+> ${feed.post.record.text}
+''');
+  }
+
+  final readme = File('README.md');
+  String content = readme.readAsStringSync();
+
+  readme.writeAsStringSync(
+    _replaceFileContent(
+      content,
+      _myBskyTimelineSectionStart,
+      _myBskyTimelineSectionEnd,
+      '\n---\n${postUIs.join('\n---\n')}\n---\n',
+    ),
+  );
 }
 
 Future<void> _updateGitHubRanking() async {
