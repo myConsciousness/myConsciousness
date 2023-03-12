@@ -197,55 +197,41 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
-Don @nikolat.bsky.social 2023-03-12T05:57:44.271Z
+> ![koteitan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/2xS8biyjRQpWAMUoU4Wenz0V5ab9a_6mut0DmCgDPUY/rs:fill:1000:1000:1:0/plain/bafkreib7yexslult7whlk34ciivrudahl5i4ktq3qrok5kzag6c3sii5h4@jpeg)
+alice in the git stash @koteitan.bsky.social 2023-03-12T15:45:14.482Z
 >
-> SSTP over HTTP で伺かゴーストに喋らせるボタンを生やすuserscript
-https://ukadon.shillest.net/@nikolat/110008718062739304
+> seiunテスト
 
-現状、以下の3つのBluesky Webクライアントに対応
-- Skylight
-- Flat
-- TOKIMEKI Bluesky
 
 ---
 
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-12T08:06:56.338Z
+> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
+わる @wal.bsky.social 2023-03-12T15:32:05.755Z
 >
-> Clubhouseで、異種SNS民交流が始まった時学んだこと
-
-『Instagram民はほとんどtwitterアカウント持ってない』
-『Clubhouseで饒舌でファンを集める人は、twitterは才筆ではない』
-
-勿論、多才な例外もたまにはいますが、大抵はこんな感じ
+> これ眠くなる頃にまたお腹痛くなりそうだな.......覚悟
 
 ---
 
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-12T08:27:47.423Z
+> ![rocket.bsky.social's avatar](https://cdn.bsky.social/imgproxy/X59QdChW_b-i25FZI_qx80k6M6PH8USRlZMBUHWPbEE/rs:fill:1000:1000:1:0/plain/bafkreighrkp44he7foxkyeeajosxjb5cxrbw4yr6wvt4iowuk7f3w4y7ru@jpeg)
+ろー @rocket.bsky.social 2023-03-12T15:20:39.463Z
 >
-> 「テキストメインのSNS を楽しめる人」というバイアス、忘れがちだよね我々
+> フォロー整理した。
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T11:57:20.179Z
+> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
+たんぐれー @tangure.bsky.social 2023-03-12T15:20:24.001Z
 >
-> plc.directory の存在を知って合点が行ったんだよね。
-カスタムドメインからdidわかっても通信先わかんないじゃんってのも、
-サーバー潰れてオフライン引越した時に追従どうすんのってのも、
-このサーバーが権威を持って保証するので可能になる。
-
-逆に、単一障害点になるし、権威を持つものでもある。
-DNSルートサーバーと同じ役割になるらしいよ。
+> 下塗りまではひと段落したので、おやすみなスカイ
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T12:12:45.572Z
+> ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
+Nick @nr.bsky.social 2023-03-12T15:18:40.151Z
 >
-> あんまりないと思うけど、plc.directoryからBANされたら死だよな
+> I need to buy more wall space so I can buy more art.
+
+https://artinres.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
