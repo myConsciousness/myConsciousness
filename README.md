@@ -197,39 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![ryumu.dev's avatar](https://cdn.bsky.social/imgproxy/NKVy7KAtJn_Ce_GNSRqL4OmBo0J-re7izAro4dWWHDY/rs:fill:1000:1000:1:0/plain/bafkreiemkmiiz4lg34ln7kaignoj6yxdglg2ckqapjpyrbzkw2ymjyufbe@jpeg)
-ryumu* @ryumu.dev 2023-03-12T02:24:10.671Z
+> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
+Shinya Kato @shinyakato.dev 2023-03-12T02:50:32.156Z
 >
-> デンジャーゾーン
+> ブルスコめちゃスコ
 
 ---
 
-> ![yto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/2yMO4O5yZrGmy5sO9ghu_S-5bya5Dga5I1NWOI5bzEY/rs:fill:1000:1000:1:0/plain/bafkreifxiuxtkx3si7metlt4vchortophnw4d2dfn5mv3dzeovaw3q7auy@jpeg)
-yto @yto.bsky.social 2023-03-12T02:23:46.071Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T02:47:45.832Z
 >
-> スピーカーで主張してるゴツい感じの車の列がすごく長くてちとやかましい。
-
----
-
-> ![kaori.bsky.social's avatar](https://cdn.bsky.social/imgproxy/oiqAe3i4r-5kFT_HVklzjSzTuBm92H9QmM7nyrlTwQg/rs:fill:1000:1000:1:0/plain/bafkreiac3axjaxetlfoyejaot4pqsdgsfimwx426nfh7fyy7x7oqsly42u@jpeg)
-Kaori @kaori.bsky.social 2023-03-12T02:23:26.610Z
->
-> そうですね。
-アプリも重たくなってきましたね。
-
----
-
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-12T02:21:49.004Z
->
-> test
+> Sometimes I love texting. I am juggling two separate conversations with two different people. In one, we are laughing about finance jobs and how bad tech in finance is a headache and in the other, I have my editor hat on for someone’s current manuscript
 
 ---
 
 > ![ryumu.dev's avatar](https://cdn.bsky.social/imgproxy/NKVy7KAtJn_Ce_GNSRqL4OmBo0J-re7izAro4dWWHDY/rs:fill:1000:1000:1:0/plain/bafkreiemkmiiz4lg34ln7kaignoj6yxdglg2ckqapjpyrbzkw2ymjyufbe@jpeg)
-ryumu* @ryumu.dev 2023-03-12T02:21:25.228Z
+ryumu* @ryumu.dev 2023-03-12T02:46:27.308Z
 >
-> ソニータイマーならぬアップルタイマー！？
+> 今日も酒場に行くか悩む。今めっちゃくちゃ頭痛い
+
+---
+
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-12T02:45:51.773Z
+>
+> 洗濯物済ませてランチしにいこか〜。
+
+---
+
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-12T02:45:35.252Z
+>
+> 今日はお家から出ます(なお曇)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
