@@ -197,38 +197,42 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
-T.Shinohara (Shino3) @shino3.bsky.social 2023-03-12T16:55:24.660Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T17:50:57.026Z
 >
-> SkylightのThePostを叩くとundefinedになってそう
+> Yikes may the odds be in your favor or something
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T16:54:01.086Z
+> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
+Whyrusleeping @why.bsky.world 2023-03-12T17:50:53.024Z
 >
-> Twitter
+> That is a good doggo, send a DM for invites
 
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T16:47:16.849Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-12T17:50:40.360Z
 >
-> twitter、4億ユーザーもいるのか...
-
----
-
-> ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
-Nick @nr.bsky.social 2023-03-12T16:46:00.646Z
->
-> Haha not a bad idea. Probably cheaper to spend 4 years learning how to build a house than to pay someone to do it at this point anyways
+> Love it
 
 ---
 
 > ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T16:38:56.763Z
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T17:50:13.249Z
 >
-> Stiles is my favorite character on teen wolf. I hope he survives all six of these seasons.
+> Very relatable lol
+
+---
+
+> ![jik.wtf's avatar](https://cdn.bsky.social/imgproxy/4tMVLaookLpbzuGyAUJEWR294vkG3NgI7P2XbIkHU28/rs:fill:1000:1000:1:0/plain/bafkreigmmgs4jqjsfa5so2uvmytzf34awxm6lgtyriaiinqki356srzdsa@jpeg)
+🃏 @jik.wtf 2023-03-12T17:49:33.804Z
+>
+> 99% Invisible
+Cortex
+Fall of Civilizations
+Darknet Diaries
+Theories of Everything with Curt
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
