@@ -198,40 +198,45 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ---
 
 > ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T12:14:46.796Z
+Segment @gpsnmeajp.achetaria.com 2023-03-12T13:58:48.899Z
 >
-> 野良plc.directoryが建ったとして、投稿内容は引き継げるがフォロワーはそのままは引き継げない。
-フォロワーたちもその野良plc.directoryを参照してくれるPDSに引っ越してもらう必要がある。
-ある意味Nostrのリレーみたいなもんだな。
+> handleは変わるし捨てられるものなので、ユーザーを覚えておくのはDIDでやらないといけない。
 
 ---
 
-> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
-マコト @makoto.bsky.social 2023-03-12T13:00:35.824Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T13:57:31.399Z
 >
-> 最近時間があまり取れないので完成させられる気がまるでしないんだけど、クライアントを作り始めました。とりあえずログイン画面だけできた。
+> 今の所の私の理解ですが、
+
+ユーザーの実体がdid:plcとそこから得られるDID Documentであって、PDSに縛り付けたくない。
+しかし、did:plcはあまりにも覚えにくいので、PDSのサブドメインか、自前のカスタムドメインを使えるようにしている。カスタムドメインからdid:plcを得るために紐づけているのがTXTレコードだが、あくまで紐づけているだけで実体はdid:plc。
+
+また、XRPCエンドポイントはDID Documentに書いてるのでそこを編集すればいくらでも引越しをできる仕組み。
 
 ---
 
-> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
-ひゅうが霄 @showv3.bsky.social 2023-03-12T13:03:01.062Z
+> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
+Nighthaven @nighthaven.bsky.social 2023-03-12T13:56:54.418Z
 >
-> うわー、格好いい
+> ただ，それが存在していると自分が信じていて，自分が属していると信じている共同体のテーマが非STEMである場合は認知的不協和が起きやすいかもしれないし，STEMでさえイデオロギーが発生すると認知的不協和が生ずる．
 
 ---
 
-> ![baiser.bsky.social's avatar](https://cdn.bsky.social/imgproxy/FUFsResb2OivchlouMCXu-41-kRZlN2MhMLPt1n4NI4/rs:fill:1000:1000:1:0/plain/bafkreicrwuidebqva6wpm6sfc6ie4ajywbbjxr6ti27im7wrbiybck4xtm@jpeg)
-baiser @baiser.bsky.social 2023-03-12T13:01:47.617Z
+> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
+Nighthaven @nighthaven.bsky.social 2023-03-12T13:55:24.621Z
 >
-> 某トレセンです。たくさんの競走馬がいるはずなんですが獣臭がしないのはさすがです🏇
-ブルスコ、ブルコスどっちだかわからなくなります）
+> さらに共同体感覚でいくと，投稿内容がSTEMなのかLifeなのかCultureなのかを脳内で分類（タグ付け）していくと，押し寄せる投稿をただ受け止めるのではなく，注意しなくていい投稿を受け流すことができるようになる．
 
 ---
 
-> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
-マコト @makoto.bsky.social 2023-03-12T13:00:35.824Z
+> ![mathias.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Ys1XUoNjMdT9QoRhhzHU5gHlh3V3RzXiYe1-51ISb-w/rs:fill:1000:1000:1:0/plain/bafkreiajaki2ilneiopv7iuxjx2aoi4rlsjys2vbkrf62uccyrw3czwj6e@jpeg)
+Mathias @mathias.bsky.social 2023-03-12T13:55:05.277Z
 >
-> 最近時間があまり取れないので完成させられる気がまるでしないんだけど、クライアントを作り始めました。とりあえずログイン画面だけできた。
+> 6 Seconds of light
+Night time long exposure (see the plane)
+Philadelphia, PA
+#Fujifilm #XPro2 XF14mmF2.8 R
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
