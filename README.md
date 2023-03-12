@@ -197,38 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
-Shinya Kato @shinyakato.dev 2023-03-12T02:50:32.156Z
+> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
+Cat @cats.bsky.social 2023-03-12T03:54:54.732Z
 >
-> ブルスコめちゃスコ
+> 🐈 Cute ginger
 
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T02:47:45.832Z
+> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
+電子馬 @erechorse.bsky.social 2023-03-12T03:48:33.747Z
 >
-> Sometimes I love texting. I am juggling two separate conversations with two different people. In one, we are laughing about finance jobs and how bad tech in finance is a headache and in the other, I have my editor hat on for someone’s current manuscript
+> ふと思ったけど、サジェストのアルゴリズムにAI(特に深層学習)使われると非常に厄介だな…
+パラメータがブラックボックスだからオープンアルゴリズムでも何をしてるのか分からない。
 
 ---
 
-> ![ryumu.dev's avatar](https://cdn.bsky.social/imgproxy/NKVy7KAtJn_Ce_GNSRqL4OmBo0J-re7izAro4dWWHDY/rs:fill:1000:1000:1:0/plain/bafkreiemkmiiz4lg34ln7kaignoj6yxdglg2ckqapjpyrbzkw2ymjyufbe@jpeg)
-ryumu* @ryumu.dev 2023-03-12T02:46:27.308Z
+> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
+たんぐれー @tangure.bsky.social 2023-03-12T03:48:28.354Z
 >
-> 今日も酒場に行くか悩む。今めっちゃくちゃ頭痛い
+> 髪の毛描いてると、日本刀の切先が頭に浮かんでくるんですよね
 
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-12T02:45:51.773Z
+> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
+わる @wal.bsky.social 2023-03-12T03:46:00.433Z
 >
-> 洗濯物済ませてランチしにいこか〜。
+> 夢があるな...........
 
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-12T02:45:35.252Z
+> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
+電子馬 @erechorse.bsky.social 2023-03-12T03:38:07.861Z
 >
-> 今日はお家から出ます(なお曇)
+> GPT使ってネタバレ検知してくれるクライアントとか、普通に出てきそうだからな
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
