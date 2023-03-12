@@ -198,37 +198,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ---
 
 > ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
-Nick @nr.bsky.social 2023-03-12T21:59:09.887Z
+Nick @nr.bsky.social 2023-03-12T23:00:18.575Z
 >
-> Presumably you mean that app.bsky.feed.setVote will be ammended to remove that functionality but someone may introduce a new lexicon that supports it?
+> I want my hour back
 
 ---
 
-> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
-ひゅうが霄 @showv3.bsky.social 2023-03-12T21:57:47.989Z
+> ![kawaiirailroads.millie-may.net's avatar](https://cdn.bsky.social/imgproxy/n2WiGJM87GKhh6TlaE0mk9IYNoeqhYg64afVd0hZ7oc/rs:fill:1000:1000:1:0/plain/bafkreic77pnbemjw4rbgsllludt3pxk7aqjxz3pq2rs4vugx2ajkfud7qu@jpeg)
+Millie May みりめい @kawaiirailroads.millie-may.net 2023-03-12T22:38:48.299Z
 >
-> おはスカ～。青空見えないので体調悪い
+> 
 
 ---
 
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-12T21:52:23.168Z
+> ![fudan10u.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SFY9xsPf523cTSQwSSZHtDBXd-SyOfl9awZz6QpcG3I/rs:fill:1000:1000:1:0/plain/bafkreic7jvwzvp7agzxl2erewiizig6ttm43mayt2rz2avwtp7metfoigy@jpeg)
+不断 @fudan10u.bsky.social 2023-03-12T22:56:59.818Z
 >
-> Oh no the protocol can definitely do them
+> @support-team.bsky.social
+I'm not sure if characters other than "/" cause this problem.
 
 ---
 
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-12T21:51:46.390Z
+> ![iamrosewang.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lFLXah7LepU1PXtmiIi3crjn_jEKJQru4-vvhjQGYXE/rs:fill:1000:1000:1:0/plain/bafkreia3ntrwsvr5n24xkvsuvjcfltaooabe2zcx6r4sqavwn7yvau7t7e@jpeg)
+Rose 🌹 @iamrosewang.bsky.social 2023-03-12T22:50:32.430Z
 >
-> Btw! We’re on board with many of your feature requests — OAuth, videos/gifs, better discovery, search, and so on. If we seem slow to respond it’s not disinterest; we just have a packed pipeline and we’re still wrapping the foundations
+> My understanding is most drummers prefer to be in the background, but I think drummers who want to be front and center should get that opp 🥁
 
 ---
 
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-12T21:51:44.337Z
+> ![fudan10u.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SFY9xsPf523cTSQwSSZHtDBXd-SyOfl9awZz6QpcG3I/rs:fill:1000:1000:1:0/plain/bafkreic7jvwzvp7agzxl2erewiizig6ttm43mayt2rz2avwtp7metfoigy@jpeg)
+不断 @fudan10u.bsky.social 2023-03-12T22:48:49.217Z
 >
-> gm pv ☀️
+> @support-team.bsky.social
+As I tested it, if "/" is included in the posted content, it seems that it will be passed to Google Translate only until just before that.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
