@@ -197,41 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T20:57:41.655Z
->
-> nindo 💙
-
----
-
-> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T20:57:10.565Z
->
-> seria uma indireta?
-
----
-
 > ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
-Nick @nr.bsky.social 2023-03-12T20:53:17.066Z
+Nick @nr.bsky.social 2023-03-12T21:59:09.887Z
 >
-> Downvotes implemented when? Gotta blam some posts.
-
-https://atproto.com/lexicons/app-bsky-feed#appbskyfeedsetvote
+> Presumably you mean that app.bsky.feed.setVote will be ammended to remove that functionality but someone may introduce a new lexicon that supports it?
 
 ---
 
-> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T20:52:41.803Z
+> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
+ひゅうが霄 @showv3.bsky.social 2023-03-12T21:57:47.989Z
 >
-> me recomendem músicas tristes, de amor, solidão, etc…🥺
-aqui deixo algumas que estão na minha playlist
+> おはスカ～。青空見えないので体調悪い
 
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-12T20:49:42.085Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-12T21:52:23.168Z
 >
-> Love a good Sunday afternoon where I get to watch a movie while dealing with laundry.
+> Oh no the protocol can definitely do them
+
+---
+
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-12T21:51:46.390Z
+>
+> Btw! We’re on board with many of your feature requests — OAuth, videos/gifs, better discovery, search, and so on. If we seem slow to respond it’s not disinterest; we just have a packed pipeline and we’re still wrapping the foundations
+
+---
+
+> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
+Nighthaven @nighthaven.bsky.social 2023-03-12T21:51:44.337Z
+>
+> gm pv ☀️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
