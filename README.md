@@ -197,41 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![koteitan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/2xS8biyjRQpWAMUoU4Wenz0V5ab9a_6mut0DmCgDPUY/rs:fill:1000:1000:1:0/plain/bafkreib7yexslult7whlk34ciivrudahl5i4ktq3qrok5kzag6c3sii5h4@jpeg)
-alice in the git stash @koteitan.bsky.social 2023-03-12T15:45:14.482Z
+> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
+T.Shinohara (Shino3) @shino3.bsky.social 2023-03-12T16:55:24.660Z
 >
-> seiunテスト
-
+> SkylightのThePostを叩くとundefinedになってそう
 
 ---
 
-> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
-わる @wal.bsky.social 2023-03-12T15:32:05.755Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T16:54:01.086Z
 >
-> これ眠くなる頃にまたお腹痛くなりそうだな.......覚悟
+> Twitter
 
 ---
 
-> ![rocket.bsky.social's avatar](https://cdn.bsky.social/imgproxy/X59QdChW_b-i25FZI_qx80k6M6PH8USRlZMBUHWPbEE/rs:fill:1000:1000:1:0/plain/bafkreighrkp44he7foxkyeeajosxjb5cxrbw4yr6wvt4iowuk7f3w4y7ru@jpeg)
-ろー @rocket.bsky.social 2023-03-12T15:20:39.463Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T16:47:16.849Z
 >
-> フォロー整理した。
-
----
-
-> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
-たんぐれー @tangure.bsky.social 2023-03-12T15:20:24.001Z
->
-> 下塗りまではひと段落したので、おやすみなスカイ
+> twitter、4億ユーザーもいるのか...
 
 ---
 
 > ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
-Nick @nr.bsky.social 2023-03-12T15:18:40.151Z
+Nick @nr.bsky.social 2023-03-12T16:46:00.646Z
 >
-> I need to buy more wall space so I can buy more art.
+> Haha not a bad idea. Probably cheaper to spend 4 years learning how to build a house than to pay someone to do it at this point anyways
 
-https://artinres.com
+---
+
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T16:38:56.763Z
+>
+> Stiles is my favorite character on teen wolf. I hope he survives all six of these seasons.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
