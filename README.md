@@ -197,39 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
-ひゅうが霄 @showv3.bsky.social 2023-03-12T10:58:49.135Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T12:00:24.943Z
 >
-> 「Bluesky」ってサービスなのかな。Mastodonはユーザーが独自に鯖を立てられて、何というか「枠組み」でしかないと思うんだけど、「Bluesky」はどういう将来像を描いてるんだろう
+> mastodonの課題を解決しようとして、プロトコル上の利害関係者が増えてるけど、理想通りにうまくいくのかなこれ
 
 ---
 
-> ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
-Don @nikolat.bsky.social 2023-03-12T10:56:58.132Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T11:59:23.675Z
 >
-> あれって認証無しAPIが用意されてるわけではないのか…
+> どれもまだドキュメントにはなってないと思う。matrixのBlueSky devの過去ログにある。
 
 ---
 
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-12T10:54:46.904Z
+> ![baiser.bsky.social's avatar](https://cdn.bsky.social/imgproxy/FUFsResb2OivchlouMCXu-41-kRZlN2MhMLPt1n4NI4/rs:fill:1000:1000:1:0/plain/bafkreicrwuidebqva6wpm6sfc6ie4ajywbbjxr6ti27im7wrbiybck4xtm@jpeg)
+baiser @baiser.bsky.social 2023-03-12T11:59:02.073Z
 >
-> ペッパーミルパフォーマンス、士気を高めるための様々な思いが込められているとの事だけど、隠れた下品な意味がきっとあるに違いない、と思うほどには心が汚れている
-https://riri-otokujoho.com/peppermillperformance-why-meaning/
+> 曜日感覚と時間感覚がバグってきた私。休み風でよいから休みたい。←ねこは水分補給してコタツへお戻りになりました。←ねこのためにコタツを設置しております笑
 
 ---
 
-> ![ksk.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jlcoCePPCP1v6J-OXoHeJpHGIPxet-Sxo_r65PVWXdI/rs:fill:1000:1000:1:0/plain/bafkreihiph2vfkaodh5z4fiv3nkh5slkc4zn3rwntha5hruxdqlj5yrjvm@jpeg)
-Keisuke Horota @ksk.bsky.social 2023-03-12T10:51:55.654Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T11:58:45.888Z
 >
-> かわいいよ
+> 連合した時のサーバーまたぎのモデレーションのための仕組みも作成中なんだっけか
 
 ---
 
-> ![mofumemo.com's avatar](https://cdn.bsky.social/imgproxy/9muDMPQ3y53hXbU31iWi_ylUamWR2qoEkzTqxrmVb7g/rs:fill:1000:1000:1:0/plain/bafkreicbji2uxfmfjivx22ns4gto7iem2okkklvr7lpoem3d5didfnaceu@jpeg)
-maya🍀 @mofumemo.com 2023-03-12T10:50:56.725Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T11:57:58.784Z
 >
-> 私も気になっていたけど、かわいいよね。
+> BlueSkyコンソーシアム会員とやらが運営することになるらしい。
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
