@@ -197,46 +197,55 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T13:58:48.899Z
+> ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
+Don @nikolat.bsky.social 2023-03-12T05:57:44.271Z
 >
-> handleは変わるし捨てられるものなので、ユーザーを覚えておくのはDIDでやらないといけない。
+> SSTP over HTTP で伺かゴーストに喋らせるボタンを生やすuserscript
+https://ukadon.shillest.net/@nikolat/110008718062739304
+
+現状、以下の3つのBluesky Webクライアントに対応
+- Skylight
+- Flat
+- TOKIMEKI Bluesky
+
+---
+
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-12T08:06:56.338Z
+>
+> Clubhouseで、異種SNS民交流が始まった時学んだこと
+
+『Instagram民はほとんどtwitterアカウント持ってない』
+『Clubhouseで饒舌でファンを集める人は、twitterは才筆ではない』
+
+勿論、多才な例外もたまにはいますが、大抵はこんな感じ
+
+---
+
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-12T08:27:47.423Z
+>
+> 「テキストメインのSNS を楽しめる人」というバイアス、忘れがちだよね我々
 
 ---
 
 > ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-12T13:57:31.399Z
+Segment @gpsnmeajp.achetaria.com 2023-03-12T11:57:20.179Z
 >
-> 今の所の私の理解ですが、
+> plc.directory の存在を知って合点が行ったんだよね。
+カスタムドメインからdidわかっても通信先わかんないじゃんってのも、
+サーバー潰れてオフライン引越した時に追従どうすんのってのも、
+このサーバーが権威を持って保証するので可能になる。
 
-ユーザーの実体がdid:plcとそこから得られるDID Documentであって、PDSに縛り付けたくない。
-しかし、did:plcはあまりにも覚えにくいので、PDSのサブドメインか、自前のカスタムドメインを使えるようにしている。カスタムドメインからdid:plcを得るために紐づけているのがTXTレコードだが、あくまで紐づけているだけで実体はdid:plc。
-
-また、XRPCエンドポイントはDID Documentに書いてるのでそこを編集すればいくらでも引越しをできる仕組み。
+逆に、単一障害点になるし、権威を持つものでもある。
+DNSルートサーバーと同じ役割になるらしいよ。
 
 ---
 
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-12T13:56:54.418Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-12T12:12:45.572Z
 >
-> ただ，それが存在していると自分が信じていて，自分が属していると信じている共同体のテーマが非STEMである場合は認知的不協和が起きやすいかもしれないし，STEMでさえイデオロギーが発生すると認知的不協和が生ずる．
-
----
-
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-12T13:55:24.621Z
->
-> さらに共同体感覚でいくと，投稿内容がSTEMなのかLifeなのかCultureなのかを脳内で分類（タグ付け）していくと，押し寄せる投稿をただ受け止めるのではなく，注意しなくていい投稿を受け流すことができるようになる．
-
----
-
-> ![mathias.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Ys1XUoNjMdT9QoRhhzHU5gHlh3V3RzXiYe1-51ISb-w/rs:fill:1000:1000:1:0/plain/bafkreiajaki2ilneiopv7iuxjx2aoi4rlsjys2vbkrf62uccyrw3czwj6e@jpeg)
-Mathias @mathias.bsky.social 2023-03-12T13:55:05.277Z
->
-> 6 Seconds of light
-Night time long exposure (see the plane)
-Philadelphia, PA
-#Fujifilm #XPro2 XF14mmF2.8 R
+> あんまりないと思うけど、plc.directoryからBANされたら死だよな
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
