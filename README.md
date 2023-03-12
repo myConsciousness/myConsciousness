@@ -197,44 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
-たんぐれー @tangure.bsky.social 2023-03-12T06:00:21.432Z
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-12T06:57:27.980Z
 >
-> さて馬の時間だ
+> めっちゃ鯉見た
 
 ---
 
-> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
-Cat @cats.bsky.social 2023-03-12T05:59:22.653Z
+> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
+Shinya Kato @shinyakato.dev 2023-03-12T06:46:19.776Z
 >
-> Who there
+> 公式アプリはまだ状態管理あたりにバグが多いな。アプリを手動で再起動しないと反映されないところがいくつかある
 
 ---
 
-> ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
-Don @nikolat.bsky.social 2023-03-12T05:57:44.271Z
+> ![chikuna.bsky.social's avatar](https://cdn.bsky.social/imgproxy/fG0BhjpRhWuy8Ag1fVL_tkLCEV2agwtKv7ZP1zKOjFc/rs:fill:1000:1000:1:0/plain/bafkreiav5gsskt7raykvyjin7l7pxopwie67jzvjciuweqsngk67rghtlq@jpeg)
+chikuna @chikuna.bsky.social 2023-03-12T06:40:11.914Z
 >
-> SSTP over HTTP で伺かゴーストに喋らせるボタンを生やすuserscript
-https://ukadon.shillest.net/@nikolat/110008718062739304
-
-現状、以下の3つのBluesky Webクライアントに対応
-- Skylight
-- Flat
-- TOKIMEKI Bluesky
+> メインメニューに検索が追加されたということは精度も上がったのかな？
 
 ---
 
-> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
-たんぐれー @tangure.bsky.social 2023-03-12T05:57:25.593Z
+> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
+Whyrusleeping @why.bsky.world 2023-03-12T06:39:12.259Z
 >
-> 青空ちゃん、自分がブルスカ自体の特徴がまだ掴みきれてないので、ぼやけたデザインにしかできない…
+> Though pure aluminum doesnt burn like magnesium does. Agree mag is better for most alloys
 
 ---
 
-> ![takeshi.bsky.social's avatar](https://cdn.bsky.social/imgproxy/7o-nvrfRqSp9HIGbAnj3VZOxHGCxLvQkFP3_n8VY3Bo/rs:fill:1000:1000:1:0/plain/bafkreiekqnqjwhjhc6ospryc52eu5f3tops3mqgsqpo7jjxig5lj67pszi@jpeg)
-Takeshi @takeshi.bsky.social 2023-03-12T05:55:43.213Z
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-12T06:30:13.112Z
 >
-> おやつの時間ですよ🍭忘れていませんか？😐
+> ケンタッキーもないところはないですよね。私と一番近いお店はなくなってしまった……。
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
