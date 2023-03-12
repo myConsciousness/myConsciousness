@@ -198,40 +198,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ---
 
 > ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T19:43:56.278Z
+Maxon @maxon.bsky.social 2023-03-12T20:57:41.655Z
 >
-> 😍😍
-
----
-
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-12T19:37:50.152Z
->
-> tters.jp のまったり優しい世界が好きで時々覗いている。
-和やかな書込みばかりが並んでいれば、多くの人はそれに倣って微笑ましい日常を綴ってみたくなるものだろうし、裏では細めなモデレーションをしているのだろう。
-
-そう自分では納得しているつもりなのだけど、暫く眺めていると不気味の壁がムクムクと頭をもたげてくる。…これ、AIがサクラやってたりしないのかな🤔
-
----
-
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-12T19:30:14.649Z
->
-> Finally refactored the composer. Now I can get into heaven
+> nindo 💙
 
 ---
 
 > ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
-Maxon @maxon.bsky.social 2023-03-12T19:29:41.543Z
+Maxon @maxon.bsky.social 2023-03-12T20:57:10.565Z
 >
-> 💙💙💙 brigaduhh
+> seria uma indireta?
 
 ---
 
-> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
-Whyrusleeping @why.bsky.world 2023-03-12T19:28:04.683Z
+> ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
+Nick @nr.bsky.social 2023-03-12T20:53:17.066Z
 >
-> It smells like people just want to watch the world burn (and have positioned themselves well for such an scenario)
+> Downvotes implemented when? Gotta blam some posts.
+
+https://atproto.com/lexicons/app-bsky-feed#appbskyfeedsetvote
+
+---
+
+> ![maxon.bsky.social's avatar](https://cdn.bsky.social/imgproxy/o_uRduO3gYsUGEcRCYwKu9qUQJiVLJn1GJQtBtiUEDw/rs:fill:1000:1000:1:0/plain/bafkreibwc7imh2z6ad5khmw64c2dtvjp3xeebbp5o2xikk3wuy2j73zxay@jpeg)
+Maxon @maxon.bsky.social 2023-03-12T20:52:41.803Z
+>
+> me recomendem músicas tristes, de amor, solidão, etc…🥺
+aqui deixo algumas que estão na minha playlist
+
+---
+
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T20:49:42.085Z
+>
+> Love a good Sunday afternoon where I get to watch a movie while dealing with laundry.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
