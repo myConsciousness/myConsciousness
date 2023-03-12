@@ -197,39 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
-Cat @cats.bsky.social 2023-03-12T03:54:54.732Z
+> ![rocket.bsky.social's avatar](https://cdn.bsky.social/imgproxy/X59QdChW_b-i25FZI_qx80k6M6PH8USRlZMBUHWPbEE/rs:fill:1000:1000:1:0/plain/bafkreighrkp44he7foxkyeeajosxjb5cxrbw4yr6wvt4iowuk7f3w4y7ru@jpeg)
+ろー @rocket.bsky.social 2023-03-12T04:55:33.294Z
 >
-> 🐈 Cute ginger
+> handle:rocket.bsky.social
+did:did:plc:ftj5trjj4eiomt22hl7wpd3o
 
 ---
 
-> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
-電子馬 @erechorse.bsky.social 2023-03-12T03:48:33.747Z
+> ![showv3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/297OfHFLPoQhfornDIX-lqbidrQKtPOD89QvKizWWdQ/rs:fill:1000:1000:1:0/plain/bafkreianneescdfsxi6gnlwg5erm34wplbtgs5snobvbccwbil4yxflqhu@jpeg)
+ひゅうが霄 @showv3.bsky.social 2023-03-12T04:55:19.302Z
 >
-> ふと思ったけど、サジェストのアルゴリズムにAI(特に深層学習)使われると非常に厄介だな…
-パラメータがブラックボックスだからオープンアルゴリズムでも何をしてるのか分からない。
+> わかりみ。10年前とかついこないだだし
 
 ---
 
-> ![tangure.bsky.social's avatar](https://cdn.bsky.social/imgproxy/PDAPjZw1J-P9oa_dwwzwkPy4uuLEOQ9js99D4kSw_Go/rs:fill:1000:1000:1:0/plain/bafkreiavwcpto2z64ds6ltmvgpyjqjyl4hv2pj7omtjtd27ent2secbxw4@jpeg)
-たんぐれー @tangure.bsky.social 2023-03-12T03:48:28.354Z
+> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
+マコト @makoto.bsky.social 2023-03-12T04:53:29.610Z
 >
-> 髪の毛描いてると、日本刀の切先が頭に浮かんでくるんですよね
+> 肩と、あと首・背中・腰も終わってる
 
 ---
 
-> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
-わる @wal.bsky.social 2023-03-12T03:46:00.433Z
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-12T04:52:53.099Z
 >
-> 夢があるな...........
+> T2……スカイネット……人類は滅亡する……
 
 ---
 
-> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
-電子馬 @erechorse.bsky.social 2023-03-12T03:38:07.861Z
+> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
+マコト @makoto.bsky.social 2023-03-12T04:52:02.458Z
 >
-> GPT使ってネタバレ検知してくれるクライアントとか、普通に出てきそうだからな
+> 凝り過ぎて肩が終わっちまった
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
