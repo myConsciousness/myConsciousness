@@ -197,41 +197,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
-電子馬 @erechorse.bsky.social 2023-03-12T08:59:53.490Z
+> ![nikolat.bsky.social's avatar](https://cdn.bsky.social/imgproxy/jScSeNBcRxD4ZIJEhG1xeApCVI38UQD0dBklkeJA7Xw/rs:fill:1000:1000:1:0/plain/bafkreifd2u453lhow26l3tvlkqraru2ggahucc3ce7ale6foj54ymzxqjq@jpeg)
+Don @nikolat.bsky.social 2023-03-12T09:59:12.891Z
 >
-> 自分もガキの頃から活字中毒なので、ジャンクフードとしてTwitterを摂取してたな
-超短文質は良くないなぁと思いながらずっと読んでた
+> 自分も特に新しいもの好きというわけではないんだよな
+単にSNSが好きなだけで
+知らない人との交流が好き
 
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-12T08:59:59.665Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T09:58:32.745Z
 >
-> 前澤さん、お金配りおじさんとしては柔和さを押し出してるけど、アカウント名に「suck」を含んでいるところにパンクスだったことが現れている(適当)
+> I’ve been told it’s very good!! The next I must to report back about to someone is episode 7 so I’m very curious lol she also said that 4&5 are intense so I’m very nervous for what’s about to happen lol
 
 ---
 
-> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
-電子馬 @erechorse.bsky.social 2023-03-12T08:59:53.490Z
+> ![holybea.bsky.social's avatar](https://cdn.bsky.social/imgproxy/9cCOipD0Ad3K2faD8DxsQ3wuVaLFBVxjeMpPbfGYQkc/rs:fill:1000:1000:1:0/plain/bafkreifx7tqtzahlofjjklqzjhq7bociy7fpfzwoefbtu3ynpushmifdri@jpeg)
+ほりべあ @holybea.bsky.social 2023-03-12T09:07:38.838Z
 >
-> 自分もガキの頃から活字中毒なので、ジャンクフードとしてTwitterを摂取してたな
-超短文質は良くないなぁと思いながらずっと読んでた
+> 🌈TOKIMEKI Bluesky🌈
+https://tokimekibluesky.vercel.app/
+
+・ 引用ポストに対応したよ(投稿右上のメニューから)
+・ 投稿まわりUI変更
 
 ---
 
-> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
-わる @wal.bsky.social 2023-03-12T08:59:40.898Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-12T09:56:23.190Z
 >
-> 文字情報、インパクトを出すのが難しいのもあると思う
-視覚的に派手な方が何も考えず享受できるというかなんというか
+> 😂
 
 ---
 
-> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
-わる @wal.bsky.social 2023-03-12T08:58:36.197Z
+> ![kisato.bsky.social's avatar](https://cdn.bsky.social/imgproxy/MwO3Gdt1sJZ_66om_i9yfbTF4jB5SVumDgpPce9plVQ/rs:fill:1000:1000:1:0/plain/bafkreic2a7bprckknp7kl47zb4ez6t5r4dgjhg7vkpjn6fdnuythxvnbxa@jpeg)
+きさと @kisato.bsky.social 2023-03-12T09:55:51.538Z
 >
-> I'm 活字中毒
+> この半年を横に置くと、イロマスPの印象が強くてそこまで悪いイメージはなかったのだけれど
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
