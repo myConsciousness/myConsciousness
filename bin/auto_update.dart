@@ -53,15 +53,18 @@ Future<void> _updateBlueskyTimeline() async {
     ),
   );
 
-  final feeds = await bluesky.feeds.lookupHomeTimeline(limit: 5);
+  final feeds = await bluesky.feeds.getFeeds(
+    author: 'shinyakato.dev',
+    limit: 5,
+  );
 
   final postUIs = <String>[];
   for (final feed in feeds.data.feeds) {
     final post = feed.post;
     final me = post.author;
 
-    postUIs.add('''\n> ![${me.handle}'s avatar](${me.avatar})
-${me.displayName} @${me.handle} ${post.indexedAt.toUtc().toIso8601String()}
+    postUIs.add(
+        '''\n> ${me.displayName} @${me.handle} ${post.indexedAt.toUtc().toIso8601String()}
 >
 > ${feed.post.record.text}
 ''');
