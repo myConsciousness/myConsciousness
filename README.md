@@ -7,7 +7,7 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 15th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 18th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
 🤖 **Fun fact 2**: I'm currently rated as [the 11st most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
@@ -197,39 +197,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-13T03:59:11.625Z
+> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
+Whyrusleeping @why.bsky.world 2023-03-13T04:59:38.259Z
 >
-> Mmm. Maybe a 6.5. A lot of good work but not amazing. Pacing of the season overall was weak. They didn’t have a core thesis to tie everything together. Why were Joel’s final decisions significant? What did they say about life or the world?
-
----
-
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-13T03:55:35.520Z
->
-> Yeah we know about it. We have an idea to fix it. I’m going to see if we can prioritize it Monday
+> Yep, we’re on it. Hoping to have a fix in early this week
 
 ---
 
 > ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T03:54:28.492Z
+syui @syui.cf 2023-03-13T04:56:25.204Z
 >
-> @yui.bsky.social /sh -r
+> Please try it when it is added
 
 ---
 
-> ![hoku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/iMB-JcDcg7U9ilu0klQzwDINf-h0bTsfSNQ6qOho9og/rs:fill:1000:1000:1:0/plain/bafkreigzi6mp74i7yjuqoyezean72lza4lhz2uxojzfqzrnmoiati43hdm@jpeg)
-hoku @hoku.bsky.social 2023-03-13T03:48:08.950Z
+> ![kappa.seijin.jp's avatar](https://cdn.bsky.social/imgproxy/yUs0f2nYDNab2utCPPwtHvim8dKLZ6D6WidJo3Dgv2M/rs:fill:1000:1000:1:0/plain/bafkreidq4fa4ozpvzwxp4wwotbczgrjuhohx2wnlbsxl4znrlnu6coke4a@jpeg)
+kappaseijin @kappa.seijin.jp 2023-03-13T04:55:04.723Z
 >
-> あ、返信ミスった。。
+> ありがとうございます。参加させてもらいます
 
 ---
 
-> ![hoku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/iMB-JcDcg7U9ilu0klQzwDINf-h0bTsfSNQ6qOho9og/rs:fill:1000:1000:1:0/plain/bafkreigzi6mp74i7yjuqoyezean72lza4lhz2uxojzfqzrnmoiati43hdm@jpeg)
-hoku @hoku.bsky.social 2023-03-13T03:47:30.658Z
+> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
+syui @syui.cf 2023-03-13T04:53:25.731Z
 >
-> データを持つのはユーザ本人である、という考えからですかね〜？
-それであればindexedAtと分かれているのも納得感ありますね。
+> 権限追加でなんとでもなるので、ちょっとテストしてもらうために @kappa.seijin.jp さんも追加してみますね。追加したらお知らせしますので試してみてください。/shとかは追加できないけど
+
+---
+
+> ![yukotan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/wN9Nkhk_WJHmIlkJQBXWz7b6wgXcRhUjtabcyLDa0zU/rs:fill:1000:1000:1:0/plain/bafkreihymb5f2zz2c2i5xfzmdiwmbur35iyihrtn64xjbqepgs7ru5542i@jpeg)
+yukotan @yukotan.bsky.social 2023-03-13T04:53:17.737Z
+>
+> - 松ト麦 (世田谷野沢) https://goo.gl/maps/s8B87BJcwQpD2tDa9
+- うどきち (所沢) https://goo.gl/maps/g9HdP5UGQJQcQ26J6
+- もり家 東京店 (浜松町) https://goo.gl/maps/hrTNr9Z6MjKzivqG8
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -323,9 +324,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What lies at the bottom of Hyperion's strange craters?  To help find out, the robot Cassini spacecraft that once orbited Saturn swooped past the sponge-textured moon and took images of unprecedented detail.  A six-image mosaic from the 2005 pass, featured here in scientifically assigned colors, shows a remarkable world strewn with strange craters and an odd, sponge-like surface.   At the bottom of most craters lies some type of unknown dark reddish material.  This material appears similar to that covering part of another of Saturn's moons, Iapetus, and might sink into the ice moon as it better absorbs warming sunlight. Hyperion is about 250 kilometers across,  rotates chaotically, and has a density so low that it likely houses a vast system of caverns inside.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/hyperion_cassini_1024.jpg)
-
+> What lies at the end of a rainbow? Something different for everyone.  For the photographer taking this picture, for example, one end of the rainbow ended at a tree. Others nearby, though, would likely see the rainbow end somewhere else.  The reason is because a rainbow's position depends on the observer.  The center of a rainbow always appears in the direction opposite the Sun, but that direction lines up differently on the horizon from different locations. This rainbow's arc indicates that its center is about 40 degrees to the left and slightly below the horizon, while the Sun is well behind the camera and just above the horizon. Reflections and refractions of sunlight from raindrops in a distant storm in the direction of the rainbow are what causes the colorful bands of light. This single exposure image was captured in early January near Knight's Ferry, California, USA.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/RainbowTree_Houck_960.jpg)
+> &copy; Eric Houck
 
 ---
 <!-- APOD:END -->
