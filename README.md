@@ -197,44 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
-Cat @cats.bsky.social 2023-03-13T08:58:49.299Z
+> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
+Shinya Kato @shinyakato.dev 2023-03-13T09:59:57.887Z
 >
-> "Glittering Morning"
-
- The wind is a little strong and the water surface reflects the rippling light.
- Cats playing in front of glitter from the morning.
+> Lexiconのスキーマをだいぶ読めるようになってきた
 
 ---
 
-> ![nobodyu.bsky.social's avatar](https://cdn.bsky.social/imgproxy/gw8u7w4UUAo_6fOk774SAaDmRvOqpWs3ZYJEki-o9Pw/rs:fill:1000:1000:1:0/plain/bafkreighbwpsjupaoinn6i4q3rkv2xjbz4lljuomzqrr7bajqzlsoty4a4@jpeg)
-香味焙煎☕️ @nobodyu.bsky.social 2023-03-13T08:57:18.435Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-12T17:16:05.790Z
 >
-> zapさせろ
+> eating that elephant
 
 ---
 
-> ![nobodyu.bsky.social's avatar](https://cdn.bsky.social/imgproxy/gw8u7w4UUAo_6fOk774SAaDmRvOqpWs3ZYJEki-o9Pw/rs:fill:1000:1000:1:0/plain/bafkreighbwpsjupaoinn6i4q3rkv2xjbz4lljuomzqrr7bajqzlsoty4a4@jpeg)
-香味焙煎☕️ @nobodyu.bsky.social 2023-03-13T08:56:54.861Z
+> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
+Shinya Kato @shinyakato.dev 2023-03-13T09:56:52.187Z
 >
-> ありがとうございます！！
+> まあブルスコはatprotoの一形態みたいなもので、拡張の仕方ではいろいろなサービスに昇華できそうな感じはする
 
 ---
 
-> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
-pomcan @pomcan.bsky.social 2023-03-13T08:55:51.306Z
+> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
+Nighthaven @nighthaven.bsky.social 2023-03-13T09:56:13.980Z
 >
-> お巡りさんに言って動いてもらえないことを、のえるさんが対処して当然だというのは違うと思います
-
-望まないポルノを見せつけられるのが不快だ、という声に対しては最大限の技術的配慮は施されているサーバーだと思います。
-公序良俗に反する行為の映像の拡散を許してはならない、というのは司法の問題であって、ひいては有権者の懈怠なのだと思っています。
+> こ、これは公式？？
 
 ---
 
-> ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
-KingYoSun @kingyosun.bsky.social 2023-03-13T08:54:22.361Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-12T21:19:53.025Z
 >
-> 久しぶりにAWSでSMTPやってるから手続きとか忘れてた
+> Closer to heaven every day
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
