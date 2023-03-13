@@ -197,38 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-13T01:26:21.340Z
+> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
+Segment @gpsnmeajp.achetaria.com 2023-03-13T02:19:23.092Z
 >
-> It feels like “how many licks to get to the center of a tootsie pop”
+> みんな忘れてますが作りたての未完成品なので
 
 ---
 
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-13T01:25:46.622Z
+> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
+T.Shinohara (Shino3) @shino3.bsky.social 2023-03-13T02:18:41.970Z
 >
-> How many virtual groups for Avon makeup, Tupperware, scentsy, and everything else do I have to ignore before they stop
-
----
-
-> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
-Cassie P @cassieprmkhtr.bsky.social 2023-03-13T01:23:46.472Z
->
-> 😅
+> Flatがアップデート重ねててすごい
+早く追いつきたい
 
 ---
 
 > ![kappa.seijin.jp's avatar](https://cdn.bsky.social/imgproxy/yUs0f2nYDNab2utCPPwtHvim8dKLZ6D6WidJo3Dgv2M/rs:fill:1000:1000:1:0/plain/bafkreidq4fa4ozpvzwxp4wwotbczgrjuhohx2wnlbsxl4znrlnu6coke4a@jpeg)
-kappaseijin @kappa.seijin.jp 2023-03-13T01:22:32.631Z
+kappaseijin @kappa.seijin.jp 2023-03-13T02:17:20.307Z
 >
-> Blueksyでemailとパスワードの変更っていつ出来るようになるんだろう。自分でAPI叩くしかないのかな(叩ける？)。
+> Bluesky、参加するのにwaitlistに登録したりinvite codeを奪い合ったり、プロトコル仕様書を確認したり、公式ブログを読んだり、altTwitterの中でもかなりハードル高いのでは。
 
 ---
 
-> ![jik.wtf's avatar](https://cdn.bsky.social/imgproxy/4tMVLaookLpbzuGyAUJEWR294vkG3NgI7P2XbIkHU28/rs:fill:1000:1000:1:0/plain/bafkreigmmgs4jqjsfa5so2uvmytzf34awxm6lgtyriaiinqki356srzdsa@jpeg)
-🃏 @jik.wtf 2023-03-13T01:19:51.727Z
+> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
+Shion @shion72.bsky.social 2023-03-13T02:16:38.245Z
 >
-> i’m gonna make skoot happen if it kills me
+> waitlistから招待、してるのか
+
+---
+
+> ![wangdora.jp's avatar](https://cdn.bsky.social/imgproxy/JJ5rVFCFipedxNraZdAkdcIyM4Qp1Fk1KdETV-urEQo/rs:fill:1000:1000:1:0/plain/bafkreic7ymtlysxoj3ynlz4l34cy7ybkwhjzynkxjwxrxm2dmrltpi7ddu@jpeg)
+Wangdora @wangdora.jp 2023-03-13T02:14:01.714Z
+>
+> 青い鳥から招待コード配りおじさんにDMすれば貰えるって死んだじいちゃんが言うてた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
