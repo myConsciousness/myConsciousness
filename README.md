@@ -197,39 +197,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
-KingYoSun @kingyosun.bsky.social 2023-03-13T07:28:55.788Z
+> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
+Cat @cats.bsky.social 2023-03-13T08:58:49.299Z
 >
-> 連合機能は無いんで公式からフォローしたりポスト見たりはできないです
+> "Glittering Morning"
 
----
-
-> ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
-KingYoSun @kingyosun.bsky.social 2023-03-13T06:59:54.828Z
->
-> I got it! my PDS is launched!!
-boobee.blue
+ The wind is a little strong and the water surface reflects the rippling light.
+ Cats playing in front of glitter from the morning.
 
 ---
 
 > ![nobodyu.bsky.social's avatar](https://cdn.bsky.social/imgproxy/gw8u7w4UUAo_6fOk774SAaDmRvOqpWs3ZYJEki-o9Pw/rs:fill:1000:1000:1:0/plain/bafkreighbwpsjupaoinn6i4q3rkv2xjbz4lljuomzqrr7bajqzlsoty4a4@jpeg)
-香味焙煎☕️ @nobodyu.bsky.social 2023-03-13T07:59:19.332Z
+香味焙煎☕️ @nobodyu.bsky.social 2023-03-13T08:57:18.435Z
 >
-> なるほどそうなんですね
+> zapさせろ
 
 ---
 
-> ![mofumemo.com's avatar](https://cdn.bsky.social/imgproxy/9muDMPQ3y53hXbU31iWi_ylUamWR2qoEkzTqxrmVb7g/rs:fill:1000:1000:1:0/plain/bafkreicbji2uxfmfjivx22ns4gto7iem2okkklvr7lpoem3d5didfnaceu@jpeg)
-maya🍀 @mofumemo.com 2023-03-13T07:58:20.418Z
+> ![nobodyu.bsky.social's avatar](https://cdn.bsky.social/imgproxy/gw8u7w4UUAo_6fOk774SAaDmRvOqpWs3ZYJEki-o9Pw/rs:fill:1000:1000:1:0/plain/bafkreighbwpsjupaoinn6i4q3rkv2xjbz4lljuomzqrr7bajqzlsoty4a4@jpeg)
+香味焙煎☕️ @nobodyu.bsky.social 2023-03-13T08:56:54.861Z
 >
-> 悲しい。
+> ありがとうございます！！
 
 ---
 
-> ![krdrailway.bsky.social's avatar](https://cdn.bsky.social/imgproxy/chj84fLbvhEYo_xdrvu43H3f-kQc1eA7R7rrDwzNvGw/rs:fill:1000:1000:1:0/plain/bafkreihimnvjwjqq3cvrdz5apsuab2slf35xgtvpk3n2mzpkh4z3d5fpje@jpeg)
-黒田 @krdrailway.bsky.social 2023-03-13T07:57:11.316Z
+> ![pomcan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/Q9ccCu3AjNXRdqZ4t-yTX6jjQSV24N4z6iaAeAMr5cY/rs:fill:1000:1000:1:0/plain/bafkreicp5gv5dugfh662ekc3r3ibowq4t2gjxnx3reibwzglemnsqvwr2q@jpeg)
+pomcan @pomcan.bsky.social 2023-03-13T08:55:51.306Z
 >
-> そういう仕組みだったんですね
+> お巡りさんに言って動いてもらえないことを、のえるさんが対処して当然だというのは違うと思います
+
+望まないポルノを見せつけられるのが不快だ、という声に対しては最大限の技術的配慮は施されているサーバーだと思います。
+公序良俗に反する行為の映像の拡散を許してはならない、というのは司法の問題であって、ひいては有権者の懈怠なのだと思っています。
+
+---
+
+> ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
+KingYoSun @kingyosun.bsky.social 2023-03-13T08:54:22.361Z
+>
+> 久しぶりにAWSでSMTPやってるから手続きとか忘れてた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
