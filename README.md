@@ -197,41 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
+Nighthaven @nighthaven.bsky.social 2023-03-13T12:00:37.957Z
+>
+> ステルス値上げに思うのは，どうやって小さくしてるんだろう，という点．
+
+---
+
 > ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T11:00:10.989Z
+syui @syui.cf 2023-03-13T12:00:35.567Z
 >
-> @yui.bsky.social /sh cargo version
+> what?
 
 ---
 
-> ![six.bsky.social's avatar](https://cdn.bsky.social/imgproxy/b2u4Q3CnMB8TfRl6Ijcpk1-fXi0-v6tMNCKyNnyJfz4/rs:fill:1000:1000:1:0/plain/bafkreigy2ns6o2ritp4vrz6iyvdvmju2dygg7eflvz3nr3t5pzngp7ozbm@jpeg)
-ロク @six.bsky.social 2023-03-13T10:59:41.288Z
+> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
+syui @syui.cf 2023-03-13T11:59:08.305Z
 >
-> あ〜既出の話かもしれないけどiOSでTwitterの神クライアントを作ってたところがMastodonのクライアント開発に乗り出したのか
+> great
 
 ---
 
-> ![adieucord.com's avatar](https://cdn.bsky.social/imgproxy/Y_OSlYFNlTcQasQpLEETjOh00vzPyqawCx8m3W_u9E4/rs:fill:1000:1000:1:0/plain/bafkreiebtzf74erzn5xm4fo3deuxr2u7o2s2rswvnnibihccrzrwaccmna@jpeg)
-adieuCord @adieucord.com 2023-03-13T10:59:21.163Z
+> ![louis.bsky.social's avatar](https://cdn.bsky.social/imgproxy/cCSMQeISCUuCZnMIZlW0sita6uVLOJH6e_iqeQpwMU0/rs:fill:1000:1000:1:0/plain/bafkreih6ypdu6surre5q7jywo3qt6mirkyr7nfgdelvrn6hd3etw73e23m@jpeg)
+Louis @louis.bsky.social 2023-03-13T11:58:35.021Z
 >
-> なるほど！！
-良かった！ありがとうございます！
+> @dongri.bsky.social そういえばRedskyのプルリクエストが、エラーになるの、直して頂けないでしょうか？？
 
 ---
 
-> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
-Shinya Kato @shinyakato.dev 2023-03-13T10:58:23.916Z
+> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
+syui @syui.cf 2023-03-13T11:58:15.368Z
 >
-> これ結構迷いますけど、今のところプロフィールへのリンクはこんな感じで作れるのでハンドルを教えておけば良さそうです
-
-https://bsky.app/profile/shinyakato.dev
-
----
-
-> ![adieucord.com's avatar](https://cdn.bsky.social/imgproxy/Y_OSlYFNlTcQasQpLEETjOh00vzPyqawCx8m3W_u9E4/rs:fill:1000:1000:1:0/plain/bafkreiebtzf74erzn5xm4fo3deuxr2u7o2s2rswvnnibihccrzrwaccmna@jpeg)
-adieuCord @adieucord.com 2023-03-13T10:55:43.846Z
->
-> あれ、カスタムドメイン設定した場合って、自分のアカウント教えるときってカスタムドメイン教えればいいの？
+> @yui.bsky.social hi
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
