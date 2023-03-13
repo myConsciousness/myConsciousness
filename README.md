@@ -197,47 +197,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![leandro.bsky.social's avatar](https://cdn.bsky.social/imgproxy/ccaqvlKG3cR1oFlZaDkfQDRFOfmCBN5xItiVulTq4ew/rs:fill:1000:1000:1:0/plain/bafkreiedriplehrbcpfntquou67utucwvbs4n35s2k3y3mhbfwcbj3klba@jpeg)
-Leandro Sovieri @leandro.bsky.social 2023-03-13T13:04:06.420Z
+> KingYoSun @kingyosun.bsky.social 2023-03-13T13:35:49.443Z
 >
-> A menina do meu trabalho e tão lerda
+> atprotoの最新の実装で新しい環境変数"APP_VIEW_REPO_PROVIDER"が爆誕してるからこれ好きなwebクライアントをPDSの公式クライアント扱いにできるようになるっぽいな
 
 ---
 
-> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T12:59:49.589Z
+> Shinya Kato @shinyakato.dev 2023-03-13T12:27:14.404Z
 >
-> @jik.wtf try it if you like
-## example
-@yui.bsky.social hi
-or
-@yui.bsky.social /chat hi
-@yui.bsky.social /deepl ja test
-@yui.bsky.social /diffusion kawaii cat
-
-https://bsky.app/profile/syui.cf/post/3jqsvdrk2e527
+> 後でフォローとミュート関連のテストします
 
 ---
 
-> ![wangdora.jp's avatar](https://cdn.bsky.social/imgproxy/JJ5rVFCFipedxNraZdAkdcIyM4Qp1Fk1KdETV-urEQo/rs:fill:1000:1000:1:0/plain/bafkreic7ymtlysxoj3ynlz4l34cy7ybkwhjzynkxjwxrxm2dmrltpi7ddu@jpeg)
-Wangdora @wangdora.jp 2023-03-13T12:55:09.951Z
+> 電子馬 @erechorse.bsky.social 2023-03-13T10:14:58.205Z
 >
-> 江楽ラーメン
-もぐもぐ
+> jack自身TwitterのUIに不満はないようです
+後悔してるのはプロトコル化しなかったこと
 
 ---
 
-> ![ericz.one's avatar](https://cdn.bsky.social/imgproxy/IuvjIY7P5WyorC_M2Md1R7SURoctNV4xAyk3-gU8hII/rs:fill:1000:1000:1:0/plain/bafkreih26gfn23jlsqloqolsbckcj7lfeflb4lqeitythr3eohovnusszy@jpeg)
-micheal phelps (weed) @ericz.one 2023-03-13T05:08:05.941Z
+> Shinya Kato @shinyakato.dev 2023-03-13T12:23:55.933Z
 >
-> me and all my homies on bsky (we don’t know each other but we all lookin pretty cool in varrock square)
+> まだ発展途上とはいえ、調べれば調べるほどatprotoはよくできてると感じる
 
 ---
 
-> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T12:54:42.694Z
+> Shinya Kato @shinyakato.dev 2023-03-13T10:58:23.916Z
 >
-> @yui.bsky.social /deepl ja try it if you like
+> これ結構迷いますけど、今のところプロフィールへのリンクはこんな感じで作れるのでハンドルを教えておけば良さそうです
+
+https://bsky.app/profile/shinyakato.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
