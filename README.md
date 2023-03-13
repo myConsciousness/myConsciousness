@@ -197,38 +197,47 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-13T12:00:37.957Z
+> ![leandro.bsky.social's avatar](https://cdn.bsky.social/imgproxy/ccaqvlKG3cR1oFlZaDkfQDRFOfmCBN5xItiVulTq4ew/rs:fill:1000:1000:1:0/plain/bafkreiedriplehrbcpfntquou67utucwvbs4n35s2k3y3mhbfwcbj3klba@jpeg)
+Leandro Sovieri @leandro.bsky.social 2023-03-13T13:04:06.420Z
 >
-> ステルス値上げに思うのは，どうやって小さくしてるんだろう，という点．
+> A menina do meu trabalho e tão lerda
 
 ---
 
 > ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T12:00:35.567Z
+syui @syui.cf 2023-03-13T12:59:49.589Z
 >
-> what?
+> @jik.wtf try it if you like
+## example
+@yui.bsky.social hi
+or
+@yui.bsky.social /chat hi
+@yui.bsky.social /deepl ja test
+@yui.bsky.social /diffusion kawaii cat
+
+https://bsky.app/profile/syui.cf/post/3jqsvdrk2e527
+
+---
+
+> ![wangdora.jp's avatar](https://cdn.bsky.social/imgproxy/JJ5rVFCFipedxNraZdAkdcIyM4Qp1Fk1KdETV-urEQo/rs:fill:1000:1000:1:0/plain/bafkreic7ymtlysxoj3ynlz4l34cy7ybkwhjzynkxjwxrxm2dmrltpi7ddu@jpeg)
+Wangdora @wangdora.jp 2023-03-13T12:55:09.951Z
+>
+> 江楽ラーメン
+もぐもぐ
+
+---
+
+> ![ericz.one's avatar](https://cdn.bsky.social/imgproxy/IuvjIY7P5WyorC_M2Md1R7SURoctNV4xAyk3-gU8hII/rs:fill:1000:1000:1:0/plain/bafkreih26gfn23jlsqloqolsbckcj7lfeflb4lqeitythr3eohovnusszy@jpeg)
+micheal phelps (weed) @ericz.one 2023-03-13T05:08:05.941Z
+>
+> me and all my homies on bsky (we don’t know each other but we all lookin pretty cool in varrock square)
 
 ---
 
 > ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T11:59:08.305Z
+syui @syui.cf 2023-03-13T12:54:42.694Z
 >
-> great
-
----
-
-> ![louis.bsky.social's avatar](https://cdn.bsky.social/imgproxy/cCSMQeISCUuCZnMIZlW0sita6uVLOJH6e_iqeQpwMU0/rs:fill:1000:1000:1:0/plain/bafkreih6ypdu6surre5q7jywo3qt6mirkyr7nfgdelvrn6hd3etw73e23m@jpeg)
-Louis @louis.bsky.social 2023-03-13T11:58:35.021Z
->
-> @dongri.bsky.social そういえばRedskyのプルリクエストが、エラーになるの、直して頂けないでしょうか？？
-
----
-
-> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T11:58:15.368Z
->
-> @yui.bsky.social hi
+> @yui.bsky.social /deepl ja try it if you like
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
