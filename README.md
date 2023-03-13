@@ -197,40 +197,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![why.bsky.world's avatar](https://cdn.bsky.social/imgproxy/TiEvaZ9nv2C-jwJUErgge53gyjzUbuSeyn3EA7NJjHU/rs:fill:1000:1000:1:0/plain/bafkreihxiic7f65slclhzy3aanyvrclotyvatwmd7lct4g4bwfvnzqlexa@jpeg)
-Whyrusleeping @why.bsky.world 2023-03-13T04:59:38.259Z
+> ![louis.bsky.social's avatar](https://cdn.bsky.social/imgproxy/cCSMQeISCUuCZnMIZlW0sita6uVLOJH6e_iqeQpwMU0/rs:fill:1000:1000:1:0/plain/bafkreih6ypdu6surre5q7jywo3qt6mirkyr7nfgdelvrn6hd3etw73e23m@jpeg)
+Louis @louis.bsky.social 2023-03-13T06:00:41.948Z
 >
-> Yep, we’re on it. Hoping to have a fix in early this week
+> Skylightを自分の環境で動くようにするだけでも一苦労だった。環境構築したことがないならなおさらね。
+
+---
+
+> ![jik.wtf's avatar](https://cdn.bsky.social/imgproxy/4tMVLaookLpbzuGyAUJEWR294vkG3NgI7P2XbIkHU28/rs:fill:1000:1000:1:0/plain/bafkreigmmgs4jqjsfa5so2uvmytzf34awxm6lgtyriaiinqki356srzdsa@jpeg)
+🃏 @jik.wtf 2023-03-13T05:59:37.270Z
+>
+> @syui.bsky.social
+
+---
+
+> ![sora.bsky.social's avatar](https://cdn.bsky.social/imgproxy/clTpdeF8cfeGoDHWUv8FQQDqkMGNeopTm_Ev1oJVA2A/rs:fill:1000:1000:1:0/plain/bafkreibewwjpmb6fd4tz7xlm5rm2krqetymwiqbq63f2cgskyobgjvi3pm@jpeg)
+ @sora.bsky.social 2023-03-13T05:59:16.950Z
+>
+> Overwhelming performance!
+
+https://twitter.com/Variety/status/1635099406524399618?t=6bBq-nb0e_Vc0K857MD4kg&s=19
 
 ---
 
 > ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T04:56:25.204Z
+syui @syui.cf 2023-03-13T05:59:05.534Z
 >
-> Please try it when it is added
+> すみません、まだリプライには対応できてない
 
 ---
 
 > ![kappa.seijin.jp's avatar](https://cdn.bsky.social/imgproxy/yUs0f2nYDNab2utCPPwtHvim8dKLZ6D6WidJo3Dgv2M/rs:fill:1000:1000:1:0/plain/bafkreidq4fa4ozpvzwxp4wwotbczgrjuhohx2wnlbsxl4znrlnu6coke4a@jpeg)
-kappaseijin @kappa.seijin.jp 2023-03-13T04:55:04.723Z
+kappaseijin @kappa.seijin.jp 2023-03-13T05:57:16.531Z
 >
-> ありがとうございます。参加させてもらいます
-
----
-
-> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T04:53:25.731Z
->
-> 権限追加でなんとでもなるので、ちょっとテストしてもらうために @kappa.seijin.jp さんも追加してみますね。追加したらお知らせしますので試してみてください。/shとかは追加できないけど
-
----
-
-> ![yukotan.bsky.social's avatar](https://cdn.bsky.social/imgproxy/wN9Nkhk_WJHmIlkJQBXWz7b6wgXcRhUjtabcyLDa0zU/rs:fill:1000:1000:1:0/plain/bafkreihymb5f2zz2c2i5xfzmdiwmbur35iyihrtn64xjbqepgs7ru5542i@jpeg)
-yukotan @yukotan.bsky.social 2023-03-13T04:53:17.737Z
->
-> - 松ト麦 (世田谷野沢) https://goo.gl/maps/s8B87BJcwQpD2tDa9
-- うどきち (所沢) https://goo.gl/maps/g9HdP5UGQJQcQ26J6
-- もり家 東京店 (浜松町) https://goo.gl/maps/hrTNr9Z6MjKzivqG8
+> Realy? do you are USA person?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
