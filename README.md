@@ -197,40 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![nr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/bTc3dqRAdoQlS2kxS-A2ddPkwuEMZKLk68uncmP-24I/rs:fill:1000:1000:1:0/plain/bafkreifvzqgicwcbl5ur2s7ywcgezbaoytot6cvkmtd23hmqit2qyimf7a@jpeg)
-Nick @nr.bsky.social 2023-03-12T23:00:18.575Z
+> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
+マコト @makoto.bsky.social 2023-03-12T23:59:09.791Z
 >
-> I want my hour back
+> おはスカイ〜〜〜
 
 ---
 
-> ![kawaiirailroads.millie-may.net's avatar](https://cdn.bsky.social/imgproxy/n2WiGJM87GKhh6TlaE0mk9IYNoeqhYg64afVd0hZ7oc/rs:fill:1000:1000:1:0/plain/bafkreic77pnbemjw4rbgsllludt3pxk7aqjxz3pq2rs4vugx2ajkfud7qu@jpeg)
-Millie May みりめい @kawaiirailroads.millie-may.net 2023-03-12T22:38:48.299Z
+> ![kaori.bsky.social's avatar](https://cdn.bsky.social/imgproxy/oiqAe3i4r-5kFT_HVklzjSzTuBm92H9QmM7nyrlTwQg/rs:fill:1000:1000:1:0/plain/bafkreiac3axjaxetlfoyejaot4pqsdgsfimwx426nfh7fyy7x7oqsly42u@jpeg)
+Kaori @kaori.bsky.social 2023-03-12T23:54:46.322Z
 >
-> 
+> gm! おはよう
 
 ---
 
-> ![fudan10u.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SFY9xsPf523cTSQwSSZHtDBXd-SyOfl9awZz6QpcG3I/rs:fill:1000:1000:1:0/plain/bafkreic7jvwzvp7agzxl2erewiizig6ttm43mayt2rz2avwtp7metfoigy@jpeg)
-不断 @fudan10u.bsky.social 2023-03-12T22:56:59.818Z
+> ![zaoriku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/_1qMvntLrHhWiMiBoqh-g1MXf9xmsWhPPPSM2o4mozA/rs:fill:1000:1000:1:0/plain/bafkreibl56bdyvm4c7g5k7nhn4j5bdmyuwirthfeun5uxqrfu6usmveedi@jpeg)
+Zaoriku🇯🇵🔅 @zaoriku.bsky.social 2023-03-12T23:46:43.091Z
 >
-> @support-team.bsky.social
-I'm not sure if characters other than "/" cause this problem.
+> Impressive moss is not easy to find
 
 ---
 
-> ![iamrosewang.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lFLXah7LepU1PXtmiIi3crjn_jEKJQru4-vvhjQGYXE/rs:fill:1000:1000:1:0/plain/bafkreia3ntrwsvr5n24xkvsuvjcfltaooabe2zcx6r4sqavwn7yvau7t7e@jpeg)
-Rose 🌹 @iamrosewang.bsky.social 2023-03-12T22:50:32.430Z
+> ![sora.bsky.social's avatar](https://cdn.bsky.social/imgproxy/clTpdeF8cfeGoDHWUv8FQQDqkMGNeopTm_Ev1oJVA2A/rs:fill:1000:1000:1:0/plain/bafkreibewwjpmb6fd4tz7xlm5rm2krqetymwiqbq63f2cgskyobgjvi3pm@jpeg)
+ @sora.bsky.social 2023-03-12T23:45:34.460Z
 >
-> My understanding is most drummers prefer to be in the background, but I think drummers who want to be front and center should get that opp 🥁
+> Good morning☀
 
 ---
 
-> ![fudan10u.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SFY9xsPf523cTSQwSSZHtDBXd-SyOfl9awZz6QpcG3I/rs:fill:1000:1000:1:0/plain/bafkreic7jvwzvp7agzxl2erewiizig6ttm43mayt2rz2avwtp7metfoigy@jpeg)
-不断 @fudan10u.bsky.social 2023-03-12T22:48:49.217Z
+> ![zaoriku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/_1qMvntLrHhWiMiBoqh-g1MXf9xmsWhPPPSM2o4mozA/rs:fill:1000:1000:1:0/plain/bafkreibl56bdyvm4c7g5k7nhn4j5bdmyuwirthfeun5uxqrfu6usmveedi@jpeg)
+Zaoriku🇯🇵🔅 @zaoriku.bsky.social 2023-03-12T23:43:48.509Z
 >
-> @support-team.bsky.social
-As I tested it, if "/" is included in the posted content, it seems that it will be passed to Google Translate only until just before that.
+> The last interview was for this… it has already aired
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
