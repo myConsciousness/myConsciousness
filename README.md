@@ -197,38 +197,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![makoto.bsky.social's avatar](https://cdn.bsky.social/imgproxy/SBIt9jXG2QEmchNcnHdVY1UXVjfYaMjRlt_IkrdzIBQ/rs:fill:1000:1000:1:0/plain/bafkreigblew6uw63tx2woi3ebkdxz2vxy6vmciq7ktgicwg5abbznmymzq@jpeg)
-マコト @makoto.bsky.social 2023-03-12T23:59:09.791Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-13T01:26:21.340Z
 >
-> おはスカイ〜〜〜
+> It feels like “how many licks to get to the center of a tootsie pop”
 
 ---
 
-> ![kaori.bsky.social's avatar](https://cdn.bsky.social/imgproxy/oiqAe3i4r-5kFT_HVklzjSzTuBm92H9QmM7nyrlTwQg/rs:fill:1000:1000:1:0/plain/bafkreiac3axjaxetlfoyejaot4pqsdgsfimwx426nfh7fyy7x7oqsly42u@jpeg)
-Kaori @kaori.bsky.social 2023-03-12T23:54:46.322Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-13T01:25:46.622Z
 >
-> gm! おはよう
+> How many virtual groups for Avon makeup, Tupperware, scentsy, and everything else do I have to ignore before they stop
 
 ---
 
-> ![zaoriku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/_1qMvntLrHhWiMiBoqh-g1MXf9xmsWhPPPSM2o4mozA/rs:fill:1000:1000:1:0/plain/bafkreibl56bdyvm4c7g5k7nhn4j5bdmyuwirthfeun5uxqrfu6usmveedi@jpeg)
-Zaoriku🇯🇵🔅 @zaoriku.bsky.social 2023-03-12T23:46:43.091Z
+> ![cassieprmkhtr.bsky.social's avatar](https://cdn.bsky.social/imgproxy/JKSmu7TZDebeM95j4CEVSP0cAE0KpJHHFboPrH-qTt8/rs:fill:1000:1000:1:0/plain/bafkreigi7gw2522d6zt4qyhrzrjqswrjmf5eacdlucxajomco5lnfdk6de@jpeg)
+Cassie P @cassieprmkhtr.bsky.social 2023-03-13T01:23:46.472Z
 >
-> Impressive moss is not easy to find
+> 😅
 
 ---
 
-> ![sora.bsky.social's avatar](https://cdn.bsky.social/imgproxy/clTpdeF8cfeGoDHWUv8FQQDqkMGNeopTm_Ev1oJVA2A/rs:fill:1000:1000:1:0/plain/bafkreibewwjpmb6fd4tz7xlm5rm2krqetymwiqbq63f2cgskyobgjvi3pm@jpeg)
- @sora.bsky.social 2023-03-12T23:45:34.460Z
+> ![kappa.seijin.jp's avatar](https://cdn.bsky.social/imgproxy/yUs0f2nYDNab2utCPPwtHvim8dKLZ6D6WidJo3Dgv2M/rs:fill:1000:1000:1:0/plain/bafkreidq4fa4ozpvzwxp4wwotbczgrjuhohx2wnlbsxl4znrlnu6coke4a@jpeg)
+kappaseijin @kappa.seijin.jp 2023-03-13T01:22:32.631Z
 >
-> Good morning☀
+> Blueksyでemailとパスワードの変更っていつ出来るようになるんだろう。自分でAPI叩くしかないのかな(叩ける？)。
 
 ---
 
-> ![zaoriku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/_1qMvntLrHhWiMiBoqh-g1MXf9xmsWhPPPSM2o4mozA/rs:fill:1000:1000:1:0/plain/bafkreibl56bdyvm4c7g5k7nhn4j5bdmyuwirthfeun5uxqrfu6usmveedi@jpeg)
-Zaoriku🇯🇵🔅 @zaoriku.bsky.social 2023-03-12T23:43:48.509Z
+> ![jik.wtf's avatar](https://cdn.bsky.social/imgproxy/4tMVLaookLpbzuGyAUJEWR294vkG3NgI7P2XbIkHU28/rs:fill:1000:1000:1:0/plain/bafkreigmmgs4jqjsfa5so2uvmytzf34awxm6lgtyriaiinqki356srzdsa@jpeg)
+🃏 @jik.wtf 2023-03-13T01:19:51.727Z
 >
-> The last interview was for this… it has already aired
+> i’m gonna make skoot happen if it kills me
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
