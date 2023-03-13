@@ -197,38 +197,41 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
+syui @syui.cf 2023-03-13T11:00:10.989Z
+>
+> @yui.bsky.social /sh cargo version
+
+---
+
+> ![six.bsky.social's avatar](https://cdn.bsky.social/imgproxy/b2u4Q3CnMB8TfRl6Ijcpk1-fXi0-v6tMNCKyNnyJfz4/rs:fill:1000:1000:1:0/plain/bafkreigy2ns6o2ritp4vrz6iyvdvmju2dygg7eflvz3nr3t5pzngp7ozbm@jpeg)
+ロク @six.bsky.social 2023-03-13T10:59:41.288Z
+>
+> あ〜既出の話かもしれないけどiOSでTwitterの神クライアントを作ってたところがMastodonのクライアント開発に乗り出したのか
+
+---
+
+> ![adieucord.com's avatar](https://cdn.bsky.social/imgproxy/Y_OSlYFNlTcQasQpLEETjOh00vzPyqawCx8m3W_u9E4/rs:fill:1000:1000:1:0/plain/bafkreiebtzf74erzn5xm4fo3deuxr2u7o2s2rswvnnibihccrzrwaccmna@jpeg)
+adieuCord @adieucord.com 2023-03-13T10:59:21.163Z
+>
+> なるほど！！
+良かった！ありがとうございます！
+
+---
+
 > ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
-Shinya Kato @shinyakato.dev 2023-03-13T09:59:57.887Z
+Shinya Kato @shinyakato.dev 2023-03-13T10:58:23.916Z
 >
-> Lexiconのスキーマをだいぶ読めるようになってきた
+> これ結構迷いますけど、今のところプロフィールへのリンクはこんな感じで作れるのでハンドルを教えておけば良さそうです
+
+https://bsky.app/profile/shinyakato.dev
 
 ---
 
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-12T17:16:05.790Z
+> ![adieucord.com's avatar](https://cdn.bsky.social/imgproxy/Y_OSlYFNlTcQasQpLEETjOh00vzPyqawCx8m3W_u9E4/rs:fill:1000:1000:1:0/plain/bafkreiebtzf74erzn5xm4fo3deuxr2u7o2s2rswvnnibihccrzrwaccmna@jpeg)
+adieuCord @adieucord.com 2023-03-13T10:55:43.846Z
 >
-> eating that elephant
-
----
-
-> ![shinyakato.dev's avatar](https://cdn.bsky.social/imgproxy/JF97YphLyIEWfq4KJNO_ZCYm9v_zNcRj7sSB8UZrRBw/rs:fill:1000:1000:1:0/plain/bafkreidqn4z6ocv5snxuqguarboozqdusam2tehccnu23yab7g2sgv64dq@jpeg)
-Shinya Kato @shinyakato.dev 2023-03-13T09:56:52.187Z
->
-> まあブルスコはatprotoの一形態みたいなもので、拡張の仕方ではいろいろなサービスに昇華できそうな感じはする
-
----
-
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-13T09:56:13.980Z
->
-> こ、これは公式？？
-
----
-
-> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
-Paul Frazee✌️ @pfrazee.com 2023-03-12T21:19:53.025Z
->
-> Closer to heaven every day
+> あれ、カスタムドメイン設定した場合って、自分のアカウント教えるときってカスタムドメイン教えればいいの？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
