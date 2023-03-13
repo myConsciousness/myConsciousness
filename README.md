@@ -197,39 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![gpsnmeajp.achetaria.com's avatar](https://cdn.bsky.social/imgproxy/Yapf94TGoIq5Y6SvHXshOaS-hk_-TXFz40Btvxrl3FU/rs:fill:1000:1000:1:0/plain/bafkreihwmh23ukzzyglr5kamai7g6u3unov6swjvctkcc6zpzwta7u4q5e@jpeg)
-Segment @gpsnmeajp.achetaria.com 2023-03-13T02:19:23.092Z
+> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
+わる @wal.bsky.social 2023-03-13T03:00:02.065Z
 >
-> みんな忘れてますが作りたての未完成品なので
+> T2のTwitterアカウント、情報収集用の鍵垢しか持ってないから「持ってない」にチェック入れちゃったわ.......
 
 ---
 
-> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
-T.Shinohara (Shino3) @shino3.bsky.social 2023-03-13T02:18:41.970Z
+> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
+Cat @cats.bsky.social 2023-03-13T02:58:17.586Z
 >
-> Flatがアップデート重ねててすごい
-早く追いつきたい
+> Stylish pink fur cat
 
 ---
 
-> ![kappa.seijin.jp's avatar](https://cdn.bsky.social/imgproxy/yUs0f2nYDNab2utCPPwtHvim8dKLZ6D6WidJo3Dgv2M/rs:fill:1000:1000:1:0/plain/bafkreidq4fa4ozpvzwxp4wwotbczgrjuhohx2wnlbsxl4znrlnu6coke4a@jpeg)
-kappaseijin @kappa.seijin.jp 2023-03-13T02:17:20.307Z
+> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
+電子馬 @erechorse.bsky.social 2023-03-13T02:58:08.313Z
 >
-> Bluesky、参加するのにwaitlistに登録したりinvite codeを奪い合ったり、プロトコル仕様書を確認したり、公式ブログを読んだり、altTwitterの中でもかなりハードル高いのでは。
+> T2来ないね
+Blueskyと違ってTwitterアカウント送らせてるからなんかめっちゃ絞りそうな気がする
 
 ---
 
-> ![shion72.bsky.social's avatar](https://cdn.bsky.social/imgproxy/79qxF9J1GgLMNv9IFGMFCq4CEJ2ivOPLJvAcW3jrKSk/rs:fill:1000:1000:1:0/plain/bafkreianqks6c4bvuvc6g7er33ycnrkcul6msz7vukw5vca74eq54qey4i@jpeg)
-Shion @shion72.bsky.social 2023-03-13T02:16:38.245Z
+> ![ryumu.dev's avatar](https://cdn.bsky.social/imgproxy/NKVy7KAtJn_Ce_GNSRqL4OmBo0J-re7izAro4dWWHDY/rs:fill:1000:1000:1:0/plain/bafkreiemkmiiz4lg34ln7kaignoj6yxdglg2ckqapjpyrbzkw2ymjyufbe@jpeg)
+ryumu* @ryumu.dev 2023-03-13T02:56:51.062Z
 >
-> waitlistから招待、してるのか
+> 夜中死ぬほど雨風強くてびっくりしたなあ。
 
 ---
 
-> ![wangdora.jp's avatar](https://cdn.bsky.social/imgproxy/JJ5rVFCFipedxNraZdAkdcIyM4Qp1Fk1KdETV-urEQo/rs:fill:1000:1000:1:0/plain/bafkreic7ymtlysxoj3ynlz4l34cy7ybkwhjzynkxjwxrxm2dmrltpi7ddu@jpeg)
-Wangdora @wangdora.jp 2023-03-13T02:14:01.714Z
+> ![nk1961.com's avatar](https://cdn.bsky.social/imgproxy/67upfOCnrjbY0q-Bhqcn1m58rG6q56BIcKirICer_tM/rs:fill:1000:1000:1:0/plain/bafkreianjndrylvzzepmwwg7efscpxtgzz5apegdili2sdpy2aknx4jz2e@jpeg)
+NK1961 @nk1961.com 2023-03-13T02:56:28.359Z
 >
-> 青い鳥から招待コード配りおじさんにDMすれば貰えるって死んだじいちゃんが言うてた
+> RRRが歌曲賞！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
