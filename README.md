@@ -197,39 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> ![wal.bsky.social's avatar](https://cdn.bsky.social/imgproxy/302TKu7QmVV-0yujGN6gi_VDeOFihSHzTlPmw_sp6xk/rs:fill:1000:1000:1:0/plain/bafkreid6kumg53hozwq6mrizwlgxoq4kik5ussztq7iafrt3vu2mtowq2q@jpeg)
-わる @wal.bsky.social 2023-03-13T03:00:02.065Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-13T03:59:11.625Z
 >
-> T2のTwitterアカウント、情報収集用の鍵垢しか持ってないから「持ってない」にチェック入れちゃったわ.......
+> Mmm. Maybe a 6.5. A lot of good work but not amazing. Pacing of the season overall was weak. They didn’t have a core thesis to tie everything together. Why were Joel’s final decisions significant? What did they say about life or the world?
 
 ---
 
-> ![cats.bsky.social's avatar](https://cdn.bsky.social/imgproxy/RH6CME41p0a4Gh16W4b6fxmyMyEKh6OFOzThBMODO-A/rs:fill:1000:1000:1:0/plain/bafkreig24kwjk4kucmeqlgmux2czvgqvbax43w4ovcukfr6rv2yy36chve@jpeg)
-Cat @cats.bsky.social 2023-03-13T02:58:17.586Z
+> ![pfrazee.com's avatar](https://cdn.bsky.social/imgproxy/gf5dEHfcUIkLi2LQFl1S0F7Gtl9jj8RoPP_kS-XA3Vg/rs:fill:1000:1000:1:0/plain/bafkreigwlore6bjbcm4gb46zh6ahfvnudhxzaeapmtro5hljjx4bfakpyy@jpeg)
+Paul Frazee✌️ @pfrazee.com 2023-03-13T03:55:35.520Z
 >
-> Stylish pink fur cat
+> Yeah we know about it. We have an idea to fix it. I’m going to see if we can prioritize it Monday
 
 ---
 
-> ![erechorse.bsky.social's avatar](https://cdn.bsky.social/imgproxy/IDali4r_23_QrDnJro3dOV-tl5N9mV5k5cPW3vea6is/rs:fill:1000:1000:1:0/plain/bafkreiepcay6iy6724ow2d75wjktc6knklwwjgujmzv4b6rcdd4t43xekq@jpeg)
-電子馬 @erechorse.bsky.social 2023-03-13T02:58:08.313Z
+> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
+syui @syui.cf 2023-03-13T03:54:28.492Z
 >
-> T2来ないね
-Blueskyと違ってTwitterアカウント送らせてるからなんかめっちゃ絞りそうな気がする
+> @yui.bsky.social /sh -r
 
 ---
 
-> ![ryumu.dev's avatar](https://cdn.bsky.social/imgproxy/NKVy7KAtJn_Ce_GNSRqL4OmBo0J-re7izAro4dWWHDY/rs:fill:1000:1000:1:0/plain/bafkreiemkmiiz4lg34ln7kaignoj6yxdglg2ckqapjpyrbzkw2ymjyufbe@jpeg)
-ryumu* @ryumu.dev 2023-03-13T02:56:51.062Z
+> ![hoku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/iMB-JcDcg7U9ilu0klQzwDINf-h0bTsfSNQ6qOho9og/rs:fill:1000:1000:1:0/plain/bafkreigzi6mp74i7yjuqoyezean72lza4lhz2uxojzfqzrnmoiati43hdm@jpeg)
+hoku @hoku.bsky.social 2023-03-13T03:48:08.950Z
 >
-> 夜中死ぬほど雨風強くてびっくりしたなあ。
+> あ、返信ミスった。。
 
 ---
 
-> ![nk1961.com's avatar](https://cdn.bsky.social/imgproxy/67upfOCnrjbY0q-Bhqcn1m58rG6q56BIcKirICer_tM/rs:fill:1000:1000:1:0/plain/bafkreianjndrylvzzepmwwg7efscpxtgzz5apegdili2sdpy2aknx4jz2e@jpeg)
-NK1961 @nk1961.com 2023-03-13T02:56:28.359Z
+> ![hoku.bsky.social's avatar](https://cdn.bsky.social/imgproxy/iMB-JcDcg7U9ilu0klQzwDINf-h0bTsfSNQ6qOho9og/rs:fill:1000:1000:1:0/plain/bafkreigzi6mp74i7yjuqoyezean72lza4lhz2uxojzfqzrnmoiati43hdm@jpeg)
+hoku @hoku.bsky.social 2023-03-13T03:47:30.658Z
 >
-> RRRが歌曲賞！
+> データを持つのはユーザ本人である、という考えからですかね〜？
+それであればindexedAtと分かれているのも納得感ありますね。
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
