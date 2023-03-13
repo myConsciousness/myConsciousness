@@ -198,6 +198,13 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ---
 
 > ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
+KingYoSun @kingyosun.bsky.social 2023-03-13T07:28:55.788Z
+>
+> 連合機能は無いんで公式からフォローしたりポスト見たりはできないです
+
+---
+
+> ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
 KingYoSun @kingyosun.bsky.social 2023-03-13T06:59:54.828Z
 >
 > I got it! my PDS is launched!!
@@ -205,31 +212,24 @@ boobee.blue
 
 ---
 
-> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
-T.Shinohara (Shino3) @shino3.bsky.social 2023-03-13T06:59:18.671Z
+> ![nobodyu.bsky.social's avatar](https://cdn.bsky.social/imgproxy/gw8u7w4UUAo_6fOk774SAaDmRvOqpWs3ZYJEki-o9Pw/rs:fill:1000:1000:1:0/plain/bafkreighbwpsjupaoinn6i4q3rkv2xjbz4lljuomzqrr7bajqzlsoty4a4@jpeg)
+香味焙煎☕️ @nobodyu.bsky.social 2023-03-13T07:59:19.332Z
 >
-> The Blueで練習する？
+> なるほどそうなんですね
 
 ---
 
-> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
-T.Shinohara (Shino3) @shino3.bsky.social 2023-03-13T06:58:52.921Z
+> ![mofumemo.com's avatar](https://cdn.bsky.social/imgproxy/9muDMPQ3y53hXbU31iWi_ylUamWR2qoEkzTqxrmVb7g/rs:fill:1000:1000:1:0/plain/bafkreicbji2uxfmfjivx22ns4gto7iem2okkklvr7lpoem3d5didfnaceu@jpeg)
+maya🍀 @mofumemo.com 2023-03-13T07:58:20.418Z
 >
-> たまにしょっぱい表記ミスとか電車の中で直したりするし？
+> 悲しい。
 
 ---
 
-> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
-Nighthaven @nighthaven.bsky.social 2023-03-13T06:58:52.156Z
+> ![krdrailway.bsky.social's avatar](https://cdn.bsky.social/imgproxy/chj84fLbvhEYo_xdrvu43H3f-kQc1eA7R7rrDwzNvGw/rs:fill:1000:1000:1:0/plain/bafkreihimnvjwjqq3cvrdz5apsuab2slf35xgtvpk3n2mzpkh4z3d5fpje@jpeg)
+黒田 @krdrailway.bsky.social 2023-03-13T07:57:11.316Z
 >
-> 好きな力士はコニシキです
-
----
-
-> ![louis.bsky.social's avatar](https://cdn.bsky.social/imgproxy/cCSMQeISCUuCZnMIZlW0sita6uVLOJH6e_iqeQpwMU0/rs:fill:1000:1000:1:0/plain/bafkreih6ypdu6surre5q7jywo3qt6mirkyr7nfgdelvrn6hd3etw73e23m@jpeg)
-Louis @louis.bsky.social 2023-03-13T06:58:41.712Z
->
-> 自分も初心者だが、Skylightに関してはMITライセンスで公開されてるから自由にフォーク出来るってぽーまんさんが言ってた！
+> そういう仕組みだったんですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
