@@ -197,40 +197,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> ![kingyosun.bsky.social's avatar](https://cdn.bsky.social/imgproxy/lVddZQLnlIZd75SaTtq-1ykSUTdbTGSuKLnzKJa4kDM/rs:fill:1000:1000:1:0/plain/bafkreie4tkoot33cbxj2jaudlqzzejkmvz5lkmvlkdo73rqq76fw753x6y@jpeg)
+KingYoSun @kingyosun.bsky.social 2023-03-13T06:59:54.828Z
+>
+> I got it! my PDS is launched!!
+boobee.blue
+
+---
+
+> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
+T.Shinohara (Shino3) @shino3.bsky.social 2023-03-13T06:59:18.671Z
+>
+> The Blueで練習する？
+
+---
+
+> ![shino3.bsky.social's avatar](https://cdn.bsky.social/imgproxy/qLXwnUdNMdFzMBRA314y4h32SSMQkC1qwFo42kJq7v8/rs:fill:1000:1000:1:0/plain/bafkreie5pv7mgbyitk3khi52j7a5o7tp6ilw5z3nhhp3xrke2zbnqhxsme@jpeg)
+T.Shinohara (Shino3) @shino3.bsky.social 2023-03-13T06:58:52.921Z
+>
+> たまにしょっぱい表記ミスとか電車の中で直したりするし？
+
+---
+
+> ![nighthaven.bsky.social's avatar](https://cdn.bsky.social/imgproxy/LhVKXIwEgOUL6rA6EZmMD74zo_aX6dnSqMfHM_dPsnI/rs:fill:1000:1000:1:0/plain/bafkreiafmomrplgzhwy3vw2n6gzij7ehr3zzdxhstddk4ai7klh5nwdxlm@jpeg)
+Nighthaven @nighthaven.bsky.social 2023-03-13T06:58:52.156Z
+>
+> 好きな力士はコニシキです
+
+---
+
 > ![louis.bsky.social's avatar](https://cdn.bsky.social/imgproxy/cCSMQeISCUuCZnMIZlW0sita6uVLOJH6e_iqeQpwMU0/rs:fill:1000:1000:1:0/plain/bafkreih6ypdu6surre5q7jywo3qt6mirkyr7nfgdelvrn6hd3etw73e23m@jpeg)
-Louis @louis.bsky.social 2023-03-13T06:00:41.948Z
+Louis @louis.bsky.social 2023-03-13T06:58:41.712Z
 >
-> Skylightを自分の環境で動くようにするだけでも一苦労だった。環境構築したことがないならなおさらね。
-
----
-
-> ![jik.wtf's avatar](https://cdn.bsky.social/imgproxy/4tMVLaookLpbzuGyAUJEWR294vkG3NgI7P2XbIkHU28/rs:fill:1000:1000:1:0/plain/bafkreigmmgs4jqjsfa5so2uvmytzf34awxm6lgtyriaiinqki356srzdsa@jpeg)
-🃏 @jik.wtf 2023-03-13T05:59:37.270Z
->
-> @syui.bsky.social
-
----
-
-> ![sora.bsky.social's avatar](https://cdn.bsky.social/imgproxy/clTpdeF8cfeGoDHWUv8FQQDqkMGNeopTm_Ev1oJVA2A/rs:fill:1000:1000:1:0/plain/bafkreibewwjpmb6fd4tz7xlm5rm2krqetymwiqbq63f2cgskyobgjvi3pm@jpeg)
- @sora.bsky.social 2023-03-13T05:59:16.950Z
->
-> Overwhelming performance!
-
-https://twitter.com/Variety/status/1635099406524399618?t=6bBq-nb0e_Vc0K857MD4kg&s=19
-
----
-
-> ![syui.cf's avatar](https://cdn.bsky.social/imgproxy/aSbqSRpqXSxkXBRpRODZUEquXcWOdaBXiwtPcMvmXZM/rs:fill:1000:1000:1:0/plain/bafkreid6kcc5pnn4b3ar7mj6vi3eiawhxgkcrw3edgbqeacyrlnlcoetea@jpeg)
-syui @syui.cf 2023-03-13T05:59:05.534Z
->
-> すみません、まだリプライには対応できてない
-
----
-
-> ![kappa.seijin.jp's avatar](https://cdn.bsky.social/imgproxy/yUs0f2nYDNab2utCPPwtHvim8dKLZ6D6WidJo3Dgv2M/rs:fill:1000:1000:1:0/plain/bafkreidq4fa4ozpvzwxp4wwotbczgrjuhohx2wnlbsxl4znrlnu6coke4a@jpeg)
-kappaseijin @kappa.seijin.jp 2023-03-13T05:57:16.531Z
->
-> Realy? do you are USA person?
+> 自分も初心者だが、Skylightに関してはMITライセンスで公開されてるから自由にフォーク出来るってぽーまんさんが言ってた！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
