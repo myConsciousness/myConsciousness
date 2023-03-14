@@ -197,6 +197,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-13T23:16:50.789Z
+>
+> やっぱりvoteのdirectionはリファクタリングで消されるようだ。しかもこのリファクタリングは今週実施されるらしい
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-13T23:07:15.658Z
+>
+> gm ブルスコ
+
+---
+
 > KingYoSun @kingyosun.bsky.social 2023-03-13T13:35:49.443Z
 >
 > atprotoの最新の実装で新しい環境変数"APP_VIEW_REPO_PROVIDER"が爆誕してるからこれ好きなwebクライアントをPDSの公式クライアント扱いにできるようになるっぽいな
@@ -213,20 +225,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 >
 > jack自身TwitterのUIに不満はないようです
 後悔してるのはプロトコル化しなかったこと
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-13T12:23:55.933Z
->
-> まだ発展途上とはいえ、調べれば調べるほどatprotoはよくできてると感じる
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-13T10:58:23.916Z
->
-> これ結構迷いますけど、今のところプロフィールへのリンクはこんな感じで作れるのでハンドルを教えておけば良さそうです
-
-https://bsky.app/profile/shinyakato.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
