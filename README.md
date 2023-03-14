@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-14T05:14:59.752Z
+>
+> 後でAPIから画像をアップロードできるか試してみよう
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-14T03:44:49.556Z
 >
 > Yo. みんなブルスコしてるかい？
@@ -220,12 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > やったぜ
 
 ---
-
-> Whyrusleeping @why.bsky.world 2023-03-14T02:14:50.947Z
->
-> There’s over 4000 of you now.
-
----
 <!-- MY-BSKY_TIMELINE:END -->
 
 </details>
@@ -238,6 +238,15 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twitter-api-v2).
 
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
+---
+
+> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-14T05:56:19.000Z](https://twitter.com/realshinyakato/status/1635520213054787585)
+>
+> 誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法｜加藤 真也 https://t.co/dXdqH3cUjw [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click)
+>
+> [Reply](https://twitter.com/intent/tweet?in_reply_to=1635520213054787585)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1635520213054787585)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1635520213054787585)
+
 ---
 
 > ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
@@ -282,16 +291,6 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 > [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331890990862336)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331890990862336)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331890990862336)
 
 ---
-
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:12:51.000Z](https://twitter.com/realshinyakato/status/1634331513209880576)
->
-> Hello, [#Twitter](https://twitter.com/hashtag/Twitter?src=hashtag_click) instance users. Are you still suffering from the Twitter revamp? Let's move to [#Bluesky,](https://twitter.com/hashtag/Bluesky,?src=hashtag_click) Twitter is a dying service :) https://t.co/YH1sJF6ioK
-> ![No AltText](https://pbs.twimg.com/media/Fq5P2WdakAADOAX.jpg)
->
-> [Reply](https://twitter.com/intent/tweet?in_reply_to=1634331513209880576)&emsp;[Retweet](https://twitter.com/intent/retweet?tweet_id=1634331513209880576)&emsp;[Like](https://twitter.com/intent/favorite?tweet_id=1634331513209880576)
-
----
 <!-- MY-TWEETS:END -->
 </details>
 
@@ -299,11 +298,11 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
+- 💙 [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
 - 💙 [分散型SNSの大本命「Bluesky」をさっそく試してみた](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-social) (2023-03-07)
 - 📙 [【Dart/Flutter】httpパッケージを使ってMultipart形式のリクエストを送る](https://zenn.dev/kato_shinya/articles/how-to-send-multipart-request-with-dart) (2023-02-28)
 - 🤔 [公開した自作OSSを有名にしたいすべてのOSS開発者が実践すべきこと](https://zenn.dev/kato_shinya/articles/why-your-packages-are-not-popular) (2022-11-13)
 - 🎥 [【Dart/Flutter】twitter_api_v2でメディアファイルを簡単にアップロードする方法](https://zenn.dev/kato_shinya/articles/how-to-upload-media-with-twitter-api-v2) (2022-10-31)
-- 🖼️ [【Dart/Flutter】twitter_api_v2を使ってメディア付きのツイートをする方法](https://zenn.dev/kato_shinya/articles/how-to-create-media-tweet-with-twitter-api-v2-dart) (2022-09-01)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
