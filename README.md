@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-14T12:20:20.299Z
+>
+> UserとActorは異なるオブジェクトなのか？でもリファクタリング対象にuser→actorがあったりするから、Actorで標準化しそうな感じはあるんだけど
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-14T05:14:59.752Z
 >
 > 後でAPIから画像をアップロードできるか試してみよう
@@ -218,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Paul Frazee✌️ @pfrazee.com 2023-03-12T21:51:46.390Z
 >
 > Btw! We’re on board with many of your feature requests — OAuth, videos/gifs, better discovery, search, and so on. If we seem slow to respond it’s not disinterest; we just have a packed pipeline and we’re still wrapping the foundations
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-14T03:04:14.857Z
->
-> やったぜ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
