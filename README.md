@@ -317,9 +317,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What lies at the end of a rainbow? Something different for everyone.  For the photographer taking this picture, for example, one end of the rainbow ended at a tree. Others nearby, though, would likely see the rainbow end somewhere else.  The reason is because a rainbow's position depends on the observer.  The center of a rainbow always appears in the direction opposite the Sun, but that direction lines up differently on the horizon from different locations. This rainbow's arc indicates that its center is about 40 degrees to the left and slightly below the horizon, while the Sun is well behind the camera and just above the horizon. Reflections and refractions of sunlight from raindrops in a distant storm in the direction of the rainbow are what causes the colorful bands of light. This single exposure image was captured in early January near Knight's Ferry, California, USA.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/RainbowTree_Houck_960.jpg)
-> &copy; Eric Houck
+> Stars are forming in the Soul of the Queen of Aethopia. More specifically, a large star forming region called the Soul Nebula can be found in the direction of the constellation Cassiopeia, whom Greek mythology credits as the vain wife of a King who long ago ruled lands surrounding the upper Nile river. Also known as Westerhout 5 (W5), the Soul Nebula houses several open clusters of stars, ridges and pillars darkened by cosmic dust, and huge evacuated bubbles formed by the winds of young massive stars. Located about 6,500 light years away, the Soul Nebula spans about 100 light years and is usually imaged next to its celestial neighbor the Heart Nebula (IC 1805). The featured image is a composite of exposures made in different colors: red as emitted by hydrogen gas, yellow as emitted by sulfur, and blue as emitted by oxygen.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg)
+> &copy; José Jiménez
 
 ---
 <!-- APOD:END -->
