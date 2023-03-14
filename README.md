@@ -197,34 +197,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-13T23:16:50.789Z
+> Shinya Kato @shinyakato.dev 2023-03-14T03:44:49.556Z
 >
-> やっぱりvoteのdirectionはリファクタリングで消されるようだ。しかもこのリファクタリングは今週実施されるらしい
+> Yo. みんなブルスコしてるかい？
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-13T23:07:15.658Z
+> Shinya Kato @shinyakato.dev 2023-03-14T03:41:41.541Z
 >
-> gm ブルスコ
+> Wait Listなんかなかった
 
 ---
 
-> KingYoSun @kingyosun.bsky.social 2023-03-13T13:35:49.443Z
+> Paul Frazee✌️ @pfrazee.com 2023-03-12T21:51:46.390Z
 >
-> atprotoの最新の実装で新しい環境変数"APP_VIEW_REPO_PROVIDER"が爆誕してるからこれ好きなwebクライアントをPDSの公式クライアント扱いにできるようになるっぽいな
+> Btw! We’re on board with many of your feature requests — OAuth, videos/gifs, better discovery, search, and so on. If we seem slow to respond it’s not disinterest; we just have a packed pipeline and we’re still wrapping the foundations
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-13T12:27:14.404Z
+> Shinya Kato @shinyakato.dev 2023-03-14T03:04:14.857Z
 >
-> 後でフォローとミュート関連のテストします
+> やったぜ
 
 ---
 
-> 電子馬 @erechorse.bsky.social 2023-03-13T10:14:58.205Z
+> Whyrusleeping @why.bsky.world 2023-03-14T02:14:50.947Z
 >
-> jack自身TwitterのUIに不満はないようです
-後悔してるのはプロトコル化しなかったこと
+> There’s over 4000 of you now.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
