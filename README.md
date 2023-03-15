@@ -197,33 +197,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-15T02:17:10.307Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:39:01.403Z
 >
-> Welcome to the ブルスコ…
+> まあプロトタイプだしこんなものだろう
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-15T02:07:51.815Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:36:31.455Z
 >
-> Waiting for merge to main! 👍
+> こうか
 
 ---
 
-> daniel 🫠 @dholms.xyz 2023-03-15T02:06:07.291Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:36:21.250Z
 >
-> lex refactor going well
+> なんかすごい微妙な形でトリミングされた
 
 ---
 
-> Whyrusleeping @why.bsky.world 2023-03-15T01:22:19.274Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:35:39.621Z
 >
-> Posting from the official web app. Almost ready for release :)
+> めちゃくちゃはみ出てる・・・
 
 ---
 
-> ほりべあ @holybea.bsky.social 2023-03-15T01:35:31.025Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:32:54.491Z
 >
-> 公式Web appから！
+> Twitterみたいにヘッダーがあったほうが良さそう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
