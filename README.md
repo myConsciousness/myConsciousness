@@ -197,6 +197,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-15T16:17:27.504Z
+>
+> ひとまず寝よう
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-15T16:13:43.418Z
+>
+> FlutterでTwitter CardsみたいにPostを表示できるWidgetを作ってみた
+
+とりあえず今は試作品程度の出来なので、これからリファクタリングしていって土曜日くらいまでにはパッケージとしてリリースするかどうかといったところ
+
+---
+
 > Paul Frazee✌️ @pfrazee.com 2023-03-15T14:07:10.135Z
 >
 > The logout bug is still happening. It has survived all our fixes. Going to spend more time on it today, but I now suspect the bug is sentient, some kind of superbug that perhaps integrated with GPT4 and will soon begin to hunt me as I hunt it.
@@ -212,18 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-15T03:56:05.606Z
 >
 > 今週のリファクタリングで消されるようです
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T03:46:04.838Z
->
-> 昼休みに自宅の庭からブルスコ
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T02:39:01.403Z
->
-> まあプロトタイプだしこんなものだろう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
