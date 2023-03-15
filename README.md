@@ -197,6 +197,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-14T23:27:14.686Z
+>
+> Lexicon のリファクタリング用のブランチができてた。とりあえずuserの名前を全てactorにするらしい
+
+https://github.com/bluesky-social/atproto/blob/lex-refactor/lexicons/app/bsky/actor/search.json
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-14T22:00:36.989Z
 >
 > オハスコ
@@ -220,12 +228,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Yo. みんなブルスコしてるかい？
 
 ---
-
-> Shinya Kato @shinyakato.dev 2023-03-14T03:41:41.541Z
->
-> Wait Listなんかなかった
-
----
 <!-- MY-BSKY_TIMELINE:END -->
 
 </details>
@@ -240,8 +242,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
   <!-- MY-TWEETS:START - Do not remove or modify this section -->
 ---
 
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-14T05:56:19.000Z](https://twitter.com/realshinyakato/status/1635520213054787585)
+> ![bsky.app/profile/shinyakato.dev's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[bsky.app/profile/shinyakato.dev](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-14T05:56:19.000Z](https://twitter.com/realshinyakato/status/1635520213054787585)
 >
 > 誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法｜加藤 真也 https://t.co/dXdqH3cUjw [#zenn](https://twitter.com/hashtag/zenn?src=hashtag_click) [#Bluesky](https://twitter.com/hashtag/Bluesky?src=hashtag_click)
 >
@@ -249,8 +251,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:33.000Z](https://twitter.com/realshinyakato/status/1634331941192495104)
+> ![bsky.app/profile/shinyakato.dev's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[bsky.app/profile/shinyakato.dev](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:33.000Z](https://twitter.com/realshinyakato/status/1634331941192495104)
 >
 > RT [@arcalinea:](https://twitter.com/arcalinea:) Time for a tweet thread on the blog post I published yesterday. 🧵
 > 
@@ -260,8 +262,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:29.000Z](https://twitter.com/realshinyakato/status/1634331923207319553)
+> ![bsky.app/profile/shinyakato.dev's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[bsky.app/profile/shinyakato.dev](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:29.000Z](https://twitter.com/realshinyakato/status/1634331923207319553)
 >
 > RT [@arcalinea:](https://twitter.com/arcalinea:) Here are the protocol features we're excited to finish: 
 > 
@@ -272,8 +274,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:26.000Z](https://twitter.com/realshinyakato/status/1634331911446487040)
+> ![bsky.app/profile/shinyakato.dev's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[bsky.app/profile/shinyakato.dev](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:26.000Z](https://twitter.com/realshinyakato/status/1634331911446487040)
 >
 > RT [@arcalinea:](https://twitter.com/arcalinea:) Our end goals are to support choice for users, freedom for developers, and control for creators. 
 > 
@@ -283,8 +285,8 @@ This content is fetched by [twitter_api_v2](https://github.com/twitter-dart/twit
 
 ---
 
-> ![@shinyakato.bsky.social's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
-[@shinyakato.bsky.social](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:21.000Z](https://twitter.com/realshinyakato/status/1634331890990862336)
+> ![bsky.app/profile/shinyakato.dev's avatar](https://pbs.twimg.com/profile_images/1610281170511724544/i1ghNtS3_normal.jpg)
+[bsky.app/profile/shinyakato.dev](https://twitter.com/realshinyakato) [@realshinyakato](https://twitter.com/realshinyakato) [2023-03-10T23:14:21.000Z](https://twitter.com/realshinyakato/status/1634331890990862336)
 >
 > RT [@arcalinea:](https://twitter.com/arcalinea:) Domain names as handles! Why are we excited about this feature in the [@at_protocol?](https://twitter.com/at_protocol?) It's a way to achieve decentralized veri…
 >
