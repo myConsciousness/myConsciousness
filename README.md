@@ -197,35 +197,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-15T01:07:34.974Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:17:10.307Z
 >
-> PCスペックが低すぎてBIツールが定期的に音も立てず落ちるの草
+> Welcome to the ブルスコ…
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-15T01:05:00.971Z
+> Shinya Kato @shinyakato.dev 2023-03-15T02:07:51.815Z
 >
-> 最近はBIツールで線を引っ張る仕事が多くて配線してる電気技師みたいになってる
+> Waiting for merge to main! 👍
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-15T01:02:58.506Z
+> daniel 🫠 @dholms.xyz 2023-03-15T02:06:07.291Z
 >
-> 社畜を、舐めるなよ…！
+> lex refactor going well
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-15T01:02:37.215Z
+> Whyrusleeping @why.bsky.world 2023-03-15T01:22:19.274Z
 >
-> 給料日を忘れるほどの忙しさ
+> Posting from the official web app. Almost ready for release :)
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-14T23:27:14.686Z
+> ほりべあ @holybea.bsky.social 2023-03-15T01:35:31.025Z
 >
-> Lexicon のリファクタリング用のブランチができてた。とりあえずuserの名前を全てactorにするらしい
-
-https://github.com/bluesky-social/atproto/blob/lex-refactor/lexicons/app/bsky/actor/search.json
+> 公式Web appから！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
