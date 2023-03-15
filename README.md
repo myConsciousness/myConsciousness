@@ -316,9 +316,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Stars are forming in the Soul of the Queen of Aethopia. More specifically, a large star forming region called the Soul Nebula can be found in the direction of the constellation Cassiopeia, whom Greek mythology credits as the vain wife of a King who long ago ruled lands surrounding the upper Nile river. Also known as Westerhout 5 (W5), the Soul Nebula houses several open clusters of stars, ridges and pillars darkened by cosmic dust, and huge evacuated bubbles formed by the winds of young massive stars. Located about 6,500 light years away, the Soul Nebula spans about 100 light years and is usually imaged next to its celestial neighbor the Heart Nebula (IC 1805). The featured image is a composite of exposures made in different colors: red as emitted by hydrogen gas, yellow as emitted by sulfur, and blue as emitted by oxygen.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/Soul_Jimenez_1080.jpg)
-> &copy; José Jiménez
+> This was a sky to show the kids. Early this month the two brightest planets in the night sky, Jupiter and Venus, appeared to converge. At their closest, the two planets were separated by only about the angular width of the full moon. The spectacle occurred just after sunset and was seen and photographed all across planet Earth. The displayed image was taken near to the time of closest approach from Wiltingen, Germany, and features the astrophotographer, spouse, and their two children.  Of course, Venus remains much closer to both the Sun and the Earth than Jupiter -- the apparent closeness between the planets in the sky of Earth was only angular.  Jupiter and Venus have passed and now appear increasingly far apart. Similar planetary convergence opportunities will eventually arise.  In a few months, for example, Mars and Venus will appear to congregate just as the Sun sets.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
+> ![APOD](https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg)
+> &copy; Michael LuyTrier Observatory
 
 ---
 <!-- APOD:END -->
