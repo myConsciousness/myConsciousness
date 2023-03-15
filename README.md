@@ -197,6 +197,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-15T03:56:05.606Z
+>
+> 今週のリファクタリングで消されるようです
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-15T03:46:04.838Z
+>
+> 昼休みに自宅の庭からブルスコ
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-15T02:39:01.403Z
 >
 > まあプロトタイプだしこんなものだろう
@@ -212,18 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-15T02:36:21.250Z
 >
 > なんかすごい微妙な形でトリミングされた
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T02:35:39.621Z
->
-> めちゃくちゃはみ出てる・・・
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T02:32:54.491Z
->
-> Twitterみたいにヘッダーがあったほうが良さそう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
