@@ -197,35 +197,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-15T01:07:34.974Z
+>
+> PCスペックが低すぎてBIツールが定期的に音も立てず落ちるの草
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-15T01:05:00.971Z
+>
+> 最近はBIツールで線を引っ張る仕事が多くて配線してる電気技師みたいになってる
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-15T01:02:58.506Z
+>
+> 社畜を、舐めるなよ…！
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-15T01:02:37.215Z
+>
+> 給料日を忘れるほどの忙しさ
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-14T23:27:14.686Z
 >
 > Lexicon のリファクタリング用のブランチができてた。とりあえずuserの名前を全てactorにするらしい
 
 https://github.com/bluesky-social/atproto/blob/lex-refactor/lexicons/app/bsky/actor/search.json
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-14T22:00:36.989Z
->
-> オハスコ
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-14T12:20:20.299Z
->
-> UserとActorは異なるオブジェクトなのか？でもリファクタリング対象にuser→actorがあったりするから、Actorで標準化しそうな感じはあるんだけど
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-14T05:14:59.752Z
->
-> 後でAPIから画像をアップロードできるか試してみよう
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-14T03:44:49.556Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
