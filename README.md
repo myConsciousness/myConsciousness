@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Paul Frazee✌️ @pfrazee.com 2023-03-15T14:07:10.135Z
+>
+> The logout bug is still happening. It has survived all our fixes. Going to spend more time on it today, but I now suspect the bug is sentient, some kind of superbug that perhaps integrated with GPT4 and will soon begin to hunt me as I hunt it.
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-15T05:05:28.137Z
 >
 > Twitterで消されたsourceフィールドですね
@@ -218,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-15T02:39:01.403Z
 >
 > まあプロトタイプだしこんなものだろう
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T02:36:31.455Z
->
-> こうか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
