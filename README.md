@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-15T05:05:28.137Z
+>
+> Twitterで消されたsourceフィールドですね
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-15T03:56:05.606Z
 >
 > 今週のリファクタリングで消されるようです
@@ -218,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-15T02:36:31.455Z
 >
 > こうか
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T02:36:21.250Z
->
-> なんかすごい微妙な形でトリミングされた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
