@@ -197,6 +197,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> kamakura/鎌倉 @omi.bsky.social 2023-03-16T09:18:40.330Z
+>
+> Full code is available here:
+
+https://github.com/akiomik/seiun
+
+Thanks to the support of the Japanese Nostr community🥰
+
+---
+
+> kamakura/鎌倉 @omi.bsky.social 2023-03-16T09:15:52.081Z
+>
+> Seiun, the first Bluesky Android application in the world, is now available on the Google Play Store🥳🥳🥳.
+
+https://play.google.com/store/apps/details?id=io.github.akiomik.seiun
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T09:18:20.439Z
+>
+> ログアウトしたければ端末の電源を落とせばいいじゃない
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-16T08:54:15.973Z
 >
 > なんかタイムラインが賑やかになってきた
@@ -206,27 +230,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-16T08:01:07.222Z
 >
 > vimの猛者たちが漂流してきたか…
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T07:57:35.907Z
->
-> 昨日の夜にこっそり投稿したFlutter用パッケージのbluesky_cardsをリリースした。ひとまず静的なEmbeddedCardのみだけど、ちょっと弄ればなんとなくタイムライン用のCardにもできそうだな
-
-https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cards
-https://pub.dev/packages/bluesky_cards
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T07:50:23.196Z
->
-> ブルスコへようこそ・・・
-
----
-
-> noraglyphs @noraglyphs.bsky.social 2023-03-16T02:29:47.377Z
->
-> 鳥アプリDMでBluesky招待コードをやり取りするのって、授業中に先生が黒板向いてる隙にノートの切れ端やスマホSMSで水面下のやりとりをしたりオフィスで付箋を貼って退社後の逢瀬をオフィスラブしたりする感じでドキドキするわね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
