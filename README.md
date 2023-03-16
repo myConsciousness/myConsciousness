@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-15T23:46:02.541Z
+>
+> gm ブルスコ
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-15T16:17:27.504Z
 >
 > ひとまず寝よう
@@ -220,12 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-15T05:05:28.137Z
 >
 > Twitterで消されたsourceフィールドですね
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T03:56:05.606Z
->
-> 今週のリファクタリングで消されるようです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
