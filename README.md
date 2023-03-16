@@ -197,6 +197,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato @shinyakato.dev 2023-03-16T02:13:11.791Z
+>
+> ヌルッと動くようになったな
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-16T02:12:43.252Z
+>
+> 新しいバージョンで画面遷移時のアニメーションが追加された？前から？
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-16T01:46:05.450Z
+>
+> test
+
+---
+
 > Whyrusleeping @why.bsky.world 2023-03-16T00:32:28.855Z
 >
 > Testing out full text post search locally. Pretty fun to see what you all are up to.
@@ -206,26 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-15T23:46:02.541Z
 >
 > gm ブルスコ
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T16:17:27.504Z
->
-> ひとまず寝よう
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T16:13:43.418Z
->
-> FlutterでTwitter CardsみたいにPostを表示できるWidgetを作ってみた
-
-とりあえず今は試作品程度の出来なので、これからリファクタリングしていって土曜日くらいまでにはパッケージとしてリリースするかどうかといったところ
-
----
-
-> Paul Frazee✌️ @pfrazee.com 2023-03-15T14:07:10.135Z
->
-> The logout bug is still happening. It has survived all our fixes. Going to spend more time on it today, but I now suspect the bug is sentient, some kind of superbug that perhaps integrated with GPT4 and will soon begin to hunt me as I hunt it.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
