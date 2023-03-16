@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T13:54:53.279Z
+>
+> 急ピッチでいろいろ作りすぎててわけがわからなくなる瞬間がある
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-16T10:56:11.720Z
 >
 > 久しぶりにモバイルアプリ作りたくなってきたな
@@ -224,12 +230,6 @@ Thanks to the support of the Japanese Nostr community🥰
 > Seiun, the first Bluesky Android application in the world, is now available on the Google Play Store🥳🥳🥳.
 
 https://play.google.com/store/apps/details?id=io.github.akiomik.seiun
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T09:18:20.439Z
->
-> ログアウトしたければ端末の電源を落とせばいいじゃない
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
