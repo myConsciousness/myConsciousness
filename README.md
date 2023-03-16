@@ -197,6 +197,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> noraglyphs @noraglyphs.bsky.social 2023-03-16T02:29:47.377Z
+>
+> 鳥アプリDMでBluesky招待コードをやり取りするのって、授業中に先生が黒板向いてる隙にノートの切れ端やスマホSMSで水面下のやりとりをしたりオフィスで付箋を貼って退社後の逢瀬をオフィスラブしたりする感じでドキドキするわね
+
+---
+
+> Shinya Kato @shinyakato.dev 2023-03-16T04:16:59.951Z
+>
+> 文明の利器は使う側の能力も必要だからね・・・
+
+---
+
+> Paul Frazee✌️ @pfrazee.com 2023-03-15T23:54:56.783Z
+>
+> 1.7 is now available. Let’s see if this finally solves the logout problem
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-16T02:13:11.791Z
 >
 > ヌルッと動くようになったな
@@ -206,24 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato @shinyakato.dev 2023-03-16T02:12:43.252Z
 >
 > 新しいバージョンで画面遷移時のアニメーションが追加された？前から？
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-16T01:46:05.450Z
->
-> test
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-16T00:32:28.855Z
->
-> Testing out full text post search locally. Pretty fun to see what you all are up to.
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T23:46:02.541Z
->
-> gm ブルスコ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -316,9 +316,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> This was a sky to show the kids. Early this month the two brightest planets in the night sky, Jupiter and Venus, appeared to converge. At their closest, the two planets were separated by only about the angular width of the full moon. The spectacle occurred just after sunset and was seen and photographed all across planet Earth. The displayed image was taken near to the time of closest approach from Wiltingen, Germany, and features the astrophotographer, spouse, and their two children.  Of course, Venus remains much closer to both the Sun and the Earth than Jupiter -- the apparent closeness between the planets in the sky of Earth was only angular.  Jupiter and Venus have passed and now appear increasingly far apart. Similar planetary convergence opportunities will eventually arise.  In a few months, for example, Mars and Venus will appear to congregate just as the Sun sets.   Jupiter & Venus Conjunction Gallery: Notable Submissions to APOD
-> ![APOD](https://apod.nasa.gov/apod/image/2303/JupiterVenus_Luy_960.jpg)
-> &copy; Michael LuyTrier Observatory
+> Globular star cluster Omega Centauri, also known as NGC 5139, is 15,000 light-years away. The cluster is packed with about 10 million stars much older than the Sun within a volume about 150 light-years in diameter. It's the largest and brightest of 200 or so known globular clusters that roam the halo of our Milky Way galaxy. Though most star clusters consist of stars with the same age and composition, the enigmatic Omega Cen exhibits the presence of different stellar populations with a spread of ages and chemical abundances. In fact, Omega Cen may be the remnant core of a small galaxy merging with the Milky Way. Omega Centauri's red giant stars (with a yellowish hue) are easy to pick out in this sharp, color telescopic view.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/NGC5139_Omega_Centauri_1024px.jpg)
+> &copy; Neil Corke
 
 ---
 <!-- APOD:END -->
