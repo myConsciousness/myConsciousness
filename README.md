@@ -197,39 +197,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> KingYoSun @kingyosun.bsky.social 2023-03-16T14:30:10.283Z
+>
+> PDSサーバー立てた感想文書いた
+技術記事じゃなくて感想文だからnoteです
+https://note.com/kingyosun/n/n45d3b1ff89bf
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T14:43:45.374Z
+>
+> Instagramはサイエンス垢しかフォローしてないからまったくバエない
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T14:33:07.768Z
+>
+> bskyのAPI分はほぼ全部実装し終えた。あとはまだmainにマージされてない公式のリファクタリング分をどうするかだな
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T14:05:35.265Z
+>
+> テスト用に誰かを一時的にミュートします
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-16T13:54:53.279Z
 >
 > 急ピッチでいろいろ作りすぎててわけがわからなくなる瞬間がある
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T10:56:11.720Z
->
-> 久しぶりにモバイルアプリ作りたくなってきたな
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T10:31:08.237Z
->
-> Twitterってなんだっけ
-
----
-
-> kamakura/鎌倉 @omi.bsky.social 2023-03-16T09:18:40.330Z
->
-> Full code is available here:
-
-https://github.com/akiomik/seiun
-
-Thanks to the support of the Japanese Nostr community🥰
-
----
-
-> kamakura/鎌倉 @omi.bsky.social 2023-03-16T09:15:52.081Z
->
-> Seiun, the first Bluesky Android application in the world, is now available on the Google Play Store🥳🥳🥳.
-
-https://play.google.com/store/apps/details?id=io.github.akiomik.seiun
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
