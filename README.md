@@ -197,6 +197,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Whyrusleeping @why.bsky.world 2023-03-16T00:32:28.855Z
+>
+> Testing out full text post search locally. Pretty fun to see what you all are up to.
+
+---
+
 > Shinya Kato @shinyakato.dev 2023-03-15T23:46:02.541Z
 >
 > gm ブルスコ
@@ -220,12 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Paul Frazee✌️ @pfrazee.com 2023-03-15T14:07:10.135Z
 >
 > The logout bug is still happening. It has survived all our fixes. Going to spend more time on it today, but I now suspect the bug is sentient, some kind of superbug that perhaps integrated with GPT4 and will soon begin to hunt me as I hunt it.
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-15T05:05:28.137Z
->
-> Twitterで消されたsourceフィールドですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
