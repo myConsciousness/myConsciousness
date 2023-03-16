@@ -197,7 +197,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-16T07:57:35.907Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T08:54:15.973Z
+>
+> なんかタイムラインが賑やかになってきた
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T08:01:07.222Z
+>
+> vimの猛者たちが漂流してきたか…
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T07:57:35.907Z
 >
 > 昨日の夜にこっそり投稿したFlutter用パッケージのbluesky_cardsをリリースした。ひとまず静的なEmbeddedCardのみだけど、ちょっと弄ればなんとなくタイムライン用のCardにもできそうだな
 
@@ -206,7 +218,7 @@ https://pub.dev/packages/bluesky_cards
 
 ---
 
-> Shinya Kato @shinyakato.dev 2023-03-16T07:50:23.196Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T07:50:23.196Z
 >
 > ブルスコへようこそ・・・
 
@@ -215,18 +227,6 @@ https://pub.dev/packages/bluesky_cards
 > noraglyphs @noraglyphs.bsky.social 2023-03-16T02:29:47.377Z
 >
 > 鳥アプリDMでBluesky招待コードをやり取りするのって、授業中に先生が黒板向いてる隙にノートの切れ端やスマホSMSで水面下のやりとりをしたりオフィスで付箋を貼って退社後の逢瀬をオフィスラブしたりする感じでドキドキするわね
-
----
-
-> Shinya Kato @shinyakato.dev 2023-03-16T04:16:59.951Z
->
-> 文明の利器は使う側の能力も必要だからね・・・
-
----
-
-> Paul Frazee✌️ @pfrazee.com 2023-03-15T23:54:56.783Z
->
-> 1.7 is now available. Let’s see if this finally solves the logout problem
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
