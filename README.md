@@ -197,6 +197,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T10:56:11.720Z
+>
+> 久しぶりにモバイルアプリ作りたくなってきたな
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T10:31:08.237Z
+>
+> Twitterってなんだっけ
+
+---
+
 > kamakura/鎌倉 @omi.bsky.social 2023-03-16T09:18:40.330Z
 >
 > Full code is available here:
@@ -218,18 +230,6 @@ https://play.google.com/store/apps/details?id=io.github.akiomik.seiun
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-16T09:18:20.439Z
 >
 > ログアウトしたければ端末の電源を落とせばいいじゃない
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T08:54:15.973Z
->
-> なんかタイムラインが賑やかになってきた
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T08:01:07.222Z
->
-> vimの猛者たちが漂流してきたか…
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
