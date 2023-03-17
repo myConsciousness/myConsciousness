@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T22:57:42.083Z
+>
+> 特に旧Facebookの急落ぶりはすごいな、既にTSMCより時価総額が低い
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T22:54:56.578Z
+>
+> NVIDIAって全盛期の株価からかなり落ちたけど時価総額は世界4位なんだなと思って見てたら、他の企業の時価総額が急落してただけだった
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T22:49:21.523Z
+>
+> gm ブルスコ
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T03:27:15.088Z
 >
 > CLIツールも作りたくなってきた
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Case NY Edition  @case.bsky.social 2023-03-17T03:08:38.390Z
 >
 > 
-
----
-
-> Patrick @ninjapleasedj.bsky.social 2023-03-17T00:45:32.110Z
->
-> Current mood
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T02:44:34.396Z
->
-> 年代物っぽいテイスト
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T00:29:59.779Z
->
-> なんか保有してる米国株がめっちゃ暴騰してる
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
