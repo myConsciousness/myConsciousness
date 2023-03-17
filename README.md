@@ -192,35 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> KingYoSun @kingyosun.bsky.social 2023-03-16T14:30:10.283Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T00:29:59.779Z
 >
-> PDSサーバー立てた感想文書いた
-技術記事じゃなくて感想文だからnoteです
-https://note.com/kingyosun/n/n45d3b1ff89bf
+> なんか保有してる米国株がめっちゃ暴騰してる
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T14:43:45.374Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T00:27:04.834Z
 >
-> Instagramはサイエンス垢しかフォローしてないからまったくバエない
+> まあつぶやきに1000文字も必要ないわな
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T14:33:07.768Z
+> Paul Frazee✌️ @pfrazee.com 2023-03-16T20:50:21.800Z
 >
-> bskyのAPI分はほぼ全部実装し終えた。あとはまだmainにマージされてない公式のリファクタリング分をどうするかだな
+> We’re going to update the limit to 300 characters in the near future to add some headroom, but that’s it.
+
+There will be a separate kind of post for longer content later
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T14:05:35.265Z
+> Jik🃏 @jik.wtf 2023-03-17T00:21:25.431Z
 >
-> テスト用に誰かを一時的にミュートします
+> I love the smell of Open Source in the morning
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-16T13:54:53.279Z
+> Vishal Gulia 🌞 @vishal.bsky.social 2023-03-15T18:39:38.729Z
 >
-> 急ピッチでいろいろ作りすぎててわけがわからなくなる瞬間がある
+> How many unread emails do you guys have? Be honest! 👀
+
+I have 31,835. 😅
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
