@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T03:27:15.088Z
+>
+> CLIツールも作りたくなってきた
+
+---
+
+> Case NY Edition  @case.bsky.social 2023-03-17T03:08:38.390Z
+>
+> 
+
+---
+
+> Patrick @ninjapleasedj.bsky.social 2023-03-17T00:45:32.110Z
+>
+> Current mood
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T02:44:34.396Z
 >
 > 年代物っぽいテイスト
@@ -201,26 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T00:29:59.779Z
 >
 > なんか保有してる米国株がめっちゃ暴騰してる
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T00:27:04.834Z
->
-> まあつぶやきに1000文字も必要ないわな
-
----
-
-> Paul Frazee✌️ @pfrazee.com 2023-03-16T20:50:21.800Z
->
-> We’re going to update the limit to 300 characters in the near future to add some headroom, but that’s it.
-
-There will be a separate kind of post for longer content later
-
----
-
-> Jik🃏 @jik.wtf 2023-03-17T00:21:25.431Z
->
-> I love the smell of Open Source in the morning
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
