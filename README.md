@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T02:44:34.396Z
+>
+> 年代物っぽいテイスト
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T00:29:59.779Z
 >
 > なんか保有してる米国株がめっちゃ暴騰してる
@@ -215,14 +221,6 @@ There will be a separate kind of post for longer content later
 > Jik🃏 @jik.wtf 2023-03-17T00:21:25.431Z
 >
 > I love the smell of Open Source in the morning
-
----
-
-> Vishal Gulia 🌞 @vishal.bsky.social 2023-03-15T18:39:38.729Z
->
-> How many unread emails do you guys have? Be honest! 👀
-
-I have 31,835. 😅
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
