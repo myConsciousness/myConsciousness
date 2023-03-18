@@ -192,38 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shorty @shorty.dkl.jp 2023-03-18T01:46:29.883Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T03:58:53.574Z
 >
-> 自分の言葉で表すならこうかな。
-
-Twitter         中央集権型
-ActibityPub 連合分散型
-Nostr           個人集合型
-ATProtocol  個人型連合分散
+> まさにこれ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T00:09:22.743Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T03:57:58.653Z
 >
-> あんまり良い投資先がないな
+> ただ再帰的なデータ構造になってるから、クライアントとかでThreadを扱うのはちょっと面倒な処理が必要そう
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:45:59.632Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T03:52:12.899Z
 >
-> 少し円高に触れたから、有望なペニーストックにも少しだけ割り振っておきたい
+> ファイルシステムみたいな再帰構造になってんだ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:44:27.780Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T03:49:23.607Z
 >
-> ナノ・ディメンションとかいうイスラエルの企業が気になってリサーチしてる
+> app.bsky.feed.getPostThread#threadViewPost のデータ構造面白いな
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:36:05.991Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T03:46:30.167Z
 >
-> オハスコ
+> コンスコ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
