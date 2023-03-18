@@ -192,6 +192,17 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shorty @shorty.dkl.jp 2023-03-18T01:46:29.883Z
+>
+> 自分の言葉で表すならこうかな。
+
+Twitter         中央集権型
+ActibityPub 連合分散型
+Nostr           個人集合型
+ATProtocol  個人型連合分散
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-18T00:09:22.743Z
 >
 > あんまり良い投資先がないな
@@ -213,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:36:05.991Z
 >
 > オハスコ
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:22:05.903Z
->
-> もうM1 MacBook が酷使しすぎて限界に近づいている、今年は買い換えよう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
