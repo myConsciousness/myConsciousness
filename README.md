@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T06:38:40.686Z
+>
+> search.bsky.social はルートが配列で返ってくるんだな
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T06:36:40.906Z
+>
+> サブスクして障害を楽しむSNS、それがTwitter
+
+---
+
 > Whyrusleeping @why.bsky.world 2023-03-18T04:28:28.619Z
 >
 > Oh btw i'm going to Japan at the end of the month. Any meetups worth going to?
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-18T04:26:43.944Z
 >
 > 日本人開発者がマークされてるな
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T04:25:29.124Z
->
-> Yay, thanks for the quick works!
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-18T04:19:01.493Z
->
-> good feedback, i'll fix that
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
