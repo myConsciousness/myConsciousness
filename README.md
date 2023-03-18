@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T08:55:36.336Z
+>
+> 個人的にMisskeyは結構犯罪スレスレのグレーゾーンなSNSだと思ってる
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T08:52:52.768Z
+>
+> 与謝野晶子の子孫とかMisskeyのタイムラインみたらどういう気持ちになるんだろ
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T08:47:25.323Z
+>
+> テストしにくいところをどうにかして改善するか…
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T08:44:07.685Z
+>
+> カスタム絵文字って言うほど必要かな？Misskeyみたいな絵文字地獄にはしてほしくないな
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:35:02.173Z
 >
 > XRPCの仕様が結構好き
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:27:37.074Z
->
-> ひとまずこのエンドポイントの実装は置いておこう
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:26:40.920Z
->
-> ワイさんによると search.bsky.social はやっぱり最終的にはLexiconになるようだ
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:25:38.543Z
->
-> Okay I'm convinced :) I know it's a lot of work, but I'm waiting for your release! 👍
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:20:24.946Z
->
-> なんか毛色が違うように見えるから、またパッケージを分けるか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
