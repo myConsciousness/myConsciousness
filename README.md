@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T12:24:12.984Z
+>
+> やはり資本力が正義か
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T12:22:48.188Z
+>
+> おじいちゃんだからね…
+
+---
+
+> 電子馬 @erechorse.bsky.social 2023-03-18T12:04:50.052Z
+>
+> トランプはTwitterのパスワード忘れてログインできない説を推す
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T12:21:00.821Z
+>
+> いいこと聞きました、ありがとうございます！👍
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:50:04.687Z
 >
 > app.misskeyのLexiconが生まれるのか
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:47:40.399Z
->
-> まあでもたしかに自鯖でフルタイムでボットやらなにやらを動かしまくってた時期に電気代がめちゃくちゃ出たという経験もないので、案外電気代はたいしたことないのか
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:45:23.762Z
->
-> 自鯖で運用した時に電気代がいくらになるのか気になるところですね。AWSのEC2やRoute 53の維持費よりも安く済むんですかね？
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:35:10.783Z
->
-> 個人でPDSたてると維持費どれくらいなんだろうな。マストドンのインスタンスと同じくらいかな
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:33:33.349Z
->
-> 今Blueskyの開発費がどこから生まれてるかはわからないけど、どの道収益化の問題にはぶち当たると思う。ただBlueskyの開発陣がJackのように大富豪であれば少なくともbsky.socialのマネタイズはどうでもいいかもしれん
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
