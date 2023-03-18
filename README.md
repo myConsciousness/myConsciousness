@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:00:37.708Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:50:04.687Z
 >
-> TypeScript覚えて公式リポジトリにPR作りたいぞ
+> app.misskeyのLexiconが生まれるのか
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T10:59:29.559Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:47:40.399Z
 >
-> ここ２週間でいろいろ作りすぎてしまった感が否めない
+> まあでもたしかに自鯖でフルタイムでボットやらなにやらを動かしまくってた時期に電気代がめちゃくちゃ出たという経験もないので、案外電気代はたいしたことないのか
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T10:56:43.999Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:45:23.762Z
 >
-> 私としてはmisskey.ioしかインスタンスを知らないので、misskey=misskey.ioですね。私がTwitterであまり日本人やFlutter開発者以外と関わりがないせいかもしれないですけど、たまに流れてくるリツイートを見る限りだと一発アウトな投稿をしてるのは日本人が多い印象ですね・・・。そもそもそういう法的に一発アウトな投稿をする人は分散型SNSには流れてこないような気もしますが、クリーン化は推進してほしいですね
+> 自鯖で運用した時に電気代がいくらになるのか気になるところですね。AWSのEC2やRoute 53の維持費よりも安く済むんですかね？
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T09:56:23.689Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:35:10.783Z
 >
-> あとbskyで色々する時のcom.atproto.repoのcreateRecordとdeleteRecordの簡潔さは神
+> 個人でPDSたてると維持費どれくらいなんだろうな。マストドンのインスタンスと同じくらいかな
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T09:52:52.728Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:33:33.349Z
 >
-> Lexiconも読み方がわかるとだいぶ開発が加速するね
+> 今Blueskyの開発費がどこから生まれてるかはわからないけど、どの道収益化の問題にはぶち当たると思う。ただBlueskyの開発陣がJackのように大富豪であれば少なくともbsky.socialのマネタイズはどうでもいいかもしれん
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
