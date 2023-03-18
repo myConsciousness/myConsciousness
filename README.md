@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T00:09:22.743Z
+>
+> あんまり良い投資先がないな
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:45:59.632Z
 >
 > 少し円高に触れたから、有望なペニーストックにも少しだけ割り振っておきたい
@@ -213,14 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:22:05.903Z
 >
 > もうM1 MacBook が酷使しすぎて限界に近づいている、今年は買い換えよう
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:03:45.460Z
->
-> app.bsky.unspecced.getPopular のLexicon が追加されてた
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/unspecced/getPopular.json
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
