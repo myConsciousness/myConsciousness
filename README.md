@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T06:38:40.686Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:35:02.173Z
 >
-> search.bsky.social はルートが配列で返ってくるんだな
+> XRPCの仕様が結構好き
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T06:36:40.906Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:27:37.074Z
 >
-> サブスクして障害を楽しむSNS、それがTwitter
+> ひとまずこのエンドポイントの実装は置いておこう
 
 ---
 
-> Whyrusleeping @why.bsky.world 2023-03-18T04:28:28.619Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:26:40.920Z
 >
-> Oh btw i'm going to Japan at the end of the month. Any meetups worth going to?
+> ワイさんによると search.bsky.social はやっぱり最終的にはLexiconになるようだ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T04:31:22.221Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:25:38.543Z
 >
-> At least the GET communication is successful, so I think it's good that the HTTP status is 200. But, I feel it would be easier to use if it returns an empty object if there is no corresponding record instead of "null" :)
+> Okay I'm convinced :) I know it's a lot of work, but I'm waiting for your release! 👍
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T04:26:43.944Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T07:20:24.946Z
 >
-> 日本人開発者がマークされてるな
+> なんか毛色が違うように見えるから、またパッケージを分けるか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
