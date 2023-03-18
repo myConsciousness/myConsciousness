@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T22:57:42.083Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:45:59.632Z
 >
-> 特に旧Facebookの急落ぶりはすごいな、既にTSMCより時価総額が低い
+> 少し円高に触れたから、有望なペニーストックにも少しだけ割り振っておきたい
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T22:54:56.578Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:44:27.780Z
 >
-> NVIDIAって全盛期の株価からかなり落ちたけど時価総額は世界4位なんだなと思って見てたら、他の企業の時価総額が急落してただけだった
+> ナノ・ディメンションとかいうイスラエルの企業が気になってリサーチしてる
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T22:49:21.523Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:36:05.991Z
 >
-> gm ブルスコ
+> オハスコ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T03:27:15.088Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:22:05.903Z
 >
-> CLIツールも作りたくなってきた
+> もうM1 MacBook が酷使しすぎて限界に近づいている、今年は買い換えよう
 
 ---
 
-> Case NY Edition  @case.bsky.social 2023-03-17T03:08:38.390Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-17T23:03:45.460Z
 >
-> 
+> app.bsky.unspecced.getPopular のLexicon が追加されてた
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/unspecced/getPopular.json
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
