@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T22:59:45.833Z
+>
+> まあJackはビットコ信者だし、nostr推すよね
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-19T14:40:51.069Z
 >
 > TikTokは動物のおもしろ動画を数分見るくらいがちょうどいい
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-19T14:26:13.170Z
 >
 > まあTwitterが終了して一斉に分散型へ引っ越しとはならんだろうね。一般的な日本人の感度だと知名度的にインスタかTikTokかな・・・
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T14:21:18.459Z
->
-> う〜ん、使えば使うほどChatGPT素晴らしい
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
