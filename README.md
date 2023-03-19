@@ -311,9 +311,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Driven by powerful stellar winds, expanding shrouds of gas and dust frame hot, luminous star Wolf-Rayet 124 in this sharp infrared view. The eye-catching 6-spike star pattern is characteristic of stellar images made with the 18 hexagonal mirrors of the James Webb Space Telescope. About 15,000 light-years distant toward the pointed northern constellation Sagitta, WR 124 has over 30 times the mass of the Sun. Produced in a brief and rarely spotted phase of massive star evolution in the Milky Way, this star's turbulent nebula is nearly 6 light-years across. It heralds WR 124's impending stellar death in a supernova explosion.  Formed in the expanding nebula, dusty interstellar debris that survives the supernova will influence the formation of future generations of stars.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/WR124_Webb1024.png)
-
+> To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. Tomorrow marks another equinox -- not only at Temple of Kukulcán, but all over planet Earth.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg)
+> &copy; Robert Fedez
 
 ---
 <!-- APOD:END -->
