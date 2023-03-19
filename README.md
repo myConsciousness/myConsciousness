@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:33:43.411Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:08:56.298Z
 >
-> ビーナスラインで走りたいぜ
+> 意地でも英語を使いたくない執念を感じる
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:32:47.556Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:08:19.117Z
 >
-> ちなみに白樺湖です
+> 中国人開発者のリポジトリが結構おもしろいの多いんだけど、ほとんどのドキュメントが中国語オンリーなのが残念
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:12:50.134Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:01:48.185Z
 >
-> 長野県のブルスコめちゃスコ
+> 給料なんかいらねーよみたいな富豪しか応募できないのか
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:03:52.086Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:01:02.706Z
 >
-> 
+> Bluesky は一応開発者募集してるけど給料でるのか
 
 ---
 
-> Whyrusleeping @why.bsky.world 2023-03-18T20:54:57.987Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T00:58:10.976Z
 >
-> 
+> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
