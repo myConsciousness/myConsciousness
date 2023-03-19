@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T12:24:12.984Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:33:43.411Z
 >
-> やはり資本力が正義か
+> ビーナスラインで走りたいぜ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T12:22:48.188Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:32:47.556Z
 >
-> おじいちゃんだからね…
+> ちなみに白樺湖です
 
 ---
 
-> 電子馬 @erechorse.bsky.social 2023-03-18T12:04:50.052Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:12:50.134Z
 >
-> トランプはTwitterのパスワード忘れてログインできない説を推す
+> 長野県のブルスコめちゃスコ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T12:21:00.821Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T23:03:52.086Z
 >
-> いいこと聞きました、ありがとうございます！👍
+> 
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-18T11:50:04.687Z
+> Whyrusleeping @why.bsky.world 2023-03-18T20:54:57.987Z
 >
-> app.misskeyのLexiconが生まれるのか
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
