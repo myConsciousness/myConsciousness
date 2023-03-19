@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:43:12.019Z
+>
+> いよいよFlutter for Webを使う時が来たか…
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:08:56.298Z
 >
 > 意地でも英語を使いたくない執念を感じる
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-19T01:01:02.706Z
 >
 > Bluesky は一応開発者募集してるけど給料でるのか
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T00:58:10.976Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
