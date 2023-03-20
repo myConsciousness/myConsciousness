@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T23:16:15.121Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:17:56.391Z
 >
-> 今はまだChatGPTが大規模なソフトウェアを完成させることはできないけど、仮に要件のテキスト入力だけで数秒でWebアプリ全体を作れるならプログラミングを学ぶ気力はなくなるだろうな
+> Yo.
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T23:09:33.928Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:07:15.012Z
 >
-> それでもChatGPTみたいなAGIが登場する前からプログラマーをできたのは幸運だったかもしれない。初心者の頃にChatGPTに簡単なプログラムを聞いてすぐに返事が返ってくるなら、プログラミングを真面目に勉強しようとはならなかった気がする
+> Eugen俺と年齢一緒なんだな
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T23:04:09.096Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:03:56.976Z
 >
-> 「ChatGPTでxxxxが終わる」みたいな話は、諸行無常で今ある全ての事柄は終わりがあると考えてると気が楽だ。難しいのは、新しいことを学ぶことではなく、古い価値観を捨てることなんだ
+> ただ省きすぎても既存SNSとの競争には勝てない気がするんだよな。それを上回る魅力がブルスコにあればいいんだが
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T22:59:45.833Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T00:21:01.633Z
 >
-> まあJackはビットコ信者だし、nostr推すよね
+> トップだと長文はたたまれた状態で「続きを読む」みたいなのが出ますね。それを押すと下に長文が展開される仕様です
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-19T14:40:51.069Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T00:13:36.413Z
 >
-> TikTokは動物のおもしろ動画を数分見るくらいがちょうどいい
+> Twitterを買収する前にTeslaやSpaceXのMastodonインスタンスを立ち上げて感覚を掴んでいればあんなめちゃくちゃな運営にはならなかったのではないかと想像してみたり
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
