@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T02:01:36.264Z
+>
+> 現状のAT URIを見た感じまだ実装されてないのか
+
+at://did:plc:iijrtk7ocored6zuziwmqq3c/app.bsky.graph.follow/3jqfgtjlf6225
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:55:54.365Z
+>
+> 少なくとも今の公式の実装だとエラーになるな
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:47:53.203Z
+>
+> AT URIに「at://bob.com/com.example.post?test=test/1234」みたいなクエリパラメータをもたせようとした形跡があるけどなんだろこれ
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:38:12.371Z
+>
+> こちら自然状態
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:17:56.391Z
 >
 > Yo.
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:07:15.012Z
->
-> Eugen俺と年齢一緒なんだな
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:03:56.976Z
->
-> ただ省きすぎても既存SNSとの競争には勝てない気がするんだよな。それを上回る魅力がブルスコにあればいいんだが
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T00:21:01.633Z
->
-> トップだと長文はたたまれた状態で「続きを読む」みたいなのが出ますね。それを押すと下に長文が展開される仕様です
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T00:13:36.413Z
->
-> Twitterを買収する前にTeslaやSpaceXのMastodonインスタンスを立ち上げて感覚を掴んでいればあんなめちゃくちゃな運営にはならなかったのではないかと想像してみたり
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
