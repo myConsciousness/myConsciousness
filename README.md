@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T02:58:34.559Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:52:05.264Z
 >
-> 正直なところ期待できない
+> こちら自然状態
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T02:57:46.712Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:45:07.341Z
 >
-> 提案書を書いて出しても開発チームに伝えるの一点張りで、実際に実装されたものは結局一つもなかったんだよな
+> mastodonじゃなくて草
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T02:55:15.011Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:40:03.292Z
 >
-> オープンソースではないけど、Open Evolution というTwitter APIの改善案を外部から募集する取り組みがあったにも関わらず、この仕組みがまったく機能してなかった過去がある
+> そして今見てみたら言うほど「ショート」動画でもなかったです・・・
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T02:01:36.264Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:36:14.466Z
 >
-> 現状のAT URIを見た感じまだ実装されてないのか
-
-at://did:plc:iijrtk7ocored6zuziwmqq3c/app.bsky.graph.follow/3jqfgtjlf6225
+> Lineでショート動画を楽しむ需要がどれほどあるのだろうか・・・
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T01:55:54.365Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:34:30.542Z
 >
-> 少なくとも今の公式の実装だとエラーになるな
+> Line一番の謎機能、「VOOM」
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
