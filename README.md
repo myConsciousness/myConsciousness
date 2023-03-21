@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T09:10:04.954Z
+>
+> どしたん話聞こうか？
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T09:05:05.382Z
+>
+> 合ってますね、まだ仕組みがないかもしれないですけどBluesky以外のSNSもatproto上に作れます
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-21T07:38:48.260Z
 >
 > よくみたらWeb版にもWhat's hot増えたのね
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-21T07:25:40.780Z
 >
 > 画像のURLを渡しても解釈してくれるので、一応読んでくれるみたいです
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:49:31.568Z
->
-> TikTok→YouTubeへの誘導は多い気がする
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:46:59.008Z
->
-> リバイバル
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
