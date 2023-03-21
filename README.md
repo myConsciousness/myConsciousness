@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T03:02:40.042Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:49:31.568Z
 >
-> いいものを見せてもらった
+> TikTok→YouTubeへの誘導は多い気がする
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T03:02:08.977Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:46:59.008Z
 >
-> 村上のあのシーンは不調なシーンと合わせて何十年も使われるだろうな
+> リバイバル
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T02:57:23.013Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:43:29.234Z
 >
-> APIのレートリミットはまだないけど、そのうちに実装するらしい
-
-https://github.com/bluesky-social/atproto/discussions/697
+> なんとなくTikTokって80年代後半から90年代あたりのキラキラしたダンスミュージックが流行ってた日本にあったらすごく合ってた気がするんだよね
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T02:46:36.836Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:39:30.132Z
 >
-> イチロー枠は村上だったな
+> TikTokはアプリのロゴにも使われたビデオエフェクトがかっこいいよね。あのホラー映画のリングみたいなエフェクトをダンス動画の定番みたいに昇華させたのはすごいわ
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T02:45:08.081Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:36:01.332Z
 >
-> 村上がヒーローだ！
+> TikTokの一般的に投稿されるショート動画を楽しめる人って結構感性が若いと思うんだよな。あれで楽しめるのは箸が転んでもおかしい年頃の人だよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
