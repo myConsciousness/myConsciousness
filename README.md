@@ -8,7 +8,7 @@
 
 <!-- MY-RANK-IN-GITHUB:END -->
 
-If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Twitter](https://twitter.com/realshinyakato).
+If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Bluesky Social](https://staging.bsky.app/profile/shinyakato.dev).
 
 ## **_Sponsoring_**
 
