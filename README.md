@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T22:39:24.434Z
+>
+> gm ブルスコ
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-21T09:10:04.954Z
 >
 > どしたん話聞こうか？
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Patrick @ninjapleasedj.bsky.social 2023-03-21T07:25:15.285Z
 >
 > Hey guys I’m selling custom PS5’s, I’m doing a special deal for the first 20 people. I swear to dog this isn’t a scam.
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T07:25:40.780Z
->
-> 画像のURLを渡しても解釈してくれるので、一応読んでくれるみたいです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
