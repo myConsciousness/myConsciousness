@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T07:38:48.260Z
+>
+> よくみたらWeb版にもWhat's hot増えたのね
+
+---
+
+> Patrick @ninjapleasedj.bsky.social 2023-03-21T07:25:15.285Z
+>
+> Hey guys I’m selling custom PS5’s, I’m doing a special deal for the first 20 people. I swear to dog this isn’t a scam.
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T07:25:40.780Z
+>
+> 画像のURLを渡しても解釈してくれるので、一応読んでくれるみたいです
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:49:31.568Z
 >
 > TikTok→YouTubeへの誘導は多い気がする
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:46:59.008Z
 >
 > リバイバル
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:43:29.234Z
->
-> なんとなくTikTokって80年代後半から90年代あたりのキラキラしたダンスミュージックが流行ってた日本にあったらすごく合ってた気がするんだよね
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:39:30.132Z
->
-> TikTokはアプリのロゴにも使われたビデオエフェクトがかっこいいよね。あのホラー映画のリングみたいなエフェクトをダンス動画の定番みたいに昇華させたのはすごいわ
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T06:36:01.332Z
->
-> TikTokの一般的に投稿されるショート動画を楽しめる人って結構感性が若いと思うんだよな。あれで楽しめるのは箸が転んでもおかしい年頃の人だよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
