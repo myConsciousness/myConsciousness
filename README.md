@@ -2,8 +2,8 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 18th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the 11st most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 15th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the 10th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
 <!-- MY-RANK-IN-GITHUB:END -->
@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:52:05.264Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T03:02:40.042Z
 >
-> こちら自然状態
+> いいものを見せてもらった
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:45:07.341Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T03:02:08.977Z
 >
-> mastodonじゃなくて草
+> 村上のあのシーンは不調なシーンと合わせて何十年も使われるだろうな
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:40:03.292Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T02:57:23.013Z
 >
-> そして今見てみたら言うほど「ショート」動画でもなかったです・・・
+> APIのレートリミットはまだないけど、そのうちに実装するらしい
+
+https://github.com/bluesky-social/atproto/discussions/697
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:36:14.466Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T02:46:36.836Z
 >
-> Lineでショート動画を楽しむ需要がどれほどあるのだろうか・・・
+> イチロー枠は村上だったな
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-20T03:34:30.542Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T02:45:08.081Z
 >
-> Line一番の謎機能、「VOOM」
+> 村上がヒーローだ！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -311,9 +313,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> To see the feathered serpent descend the Mayan pyramid requires exquisite timing.  You must visit El Castillo -- in Mexico's Yucatán Peninsula -- near an equinox.  Then, during the late afternoon if the sky is clear, the pyramid's own shadows create triangles that merge into the famous illusion of a slithering viper.  Also known as the Temple of Kukulkan, the impressive step-pyramid stands 30 meters tall and 55 meters wide at the base.  Built up as a series of square terraces by the pre-Columbian civilization between the 9th and 12th century, the structure can be used as a calendar and is noted for astronomical alignments. The featured composite image was captured in 2019 with Jupiter and Saturn straddling the diagonal central band of our Milky Way galaxy. Tomorrow marks another equinox -- not only at Temple of Kukulcán, but all over planet Earth.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/MayanMilkyWay_Fernandez_1080.jpg)
-> &copy; Robert Fedez
+> Can dust be beautiful? Yes, and it can also be useful.  The Taurus molecular cloud has several bright stars, but it is the dark dust that really draws attention.  The pervasive dust has waves and ripples and makes picturesque dust bunnies, but perhaps more importantly, it marks regions where interstellar gas is dense enough to gravitationally contract to form stars. In the image center is a light cloud lit by neighboring stars that is home not only to a famous nebula, but to a very young and massive famous star.  Both the star, T Tauri, and the nebula, Hind's Variable Nebula, are seen to vary dramatically in brightness -- but not necessarily at the same time, adding to the mystery of this intriguing region. T Tauri and similar stars are now generally recognized to be Sun-like stars that are less than a few million years old and so still in the early stages of formation. The featured image spans about four degrees not far from the Pleiades star cluster, while the featured dust field lies about 400 light-years away.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg)
+> &copy; Vikas Chander
 
 ---
 <!-- APOD:END -->
