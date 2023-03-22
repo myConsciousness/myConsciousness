@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:53:24.444Z
+>
+> いいゾ〜
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:50:18.924Z
+>
+> やっぱり来るなー
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:38:59.135Z
+>
+> 有料化が宣言されてて料金プランが明確になってないAPIを使ってアプリ開発を続けるのはリスクが高いというか博打だよなぁ。値段によっては一発で開発中止な可能性もあるわけだし
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:34:09.303Z
+>
+> アメリカの火事場の馬鹿力が怖いな
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-21T22:39:24.434Z
 >
 > gm ブルスコ
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T09:10:04.954Z
->
-> どしたん話聞こうか？
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T09:05:05.382Z
->
-> 合ってますね、まだ仕組みがないかもしれないですけどBluesky以外のSNSもatproto上に作れます
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T07:38:48.260Z
->
-> よくみたらWeb版にもWhat's hot増えたのね
-
----
-
-> Patrick @ninjapleasedj.bsky.social 2023-03-21T07:25:15.285Z
->
-> Hey guys I’m selling custom PS5’s, I’m doing a special deal for the first 20 people. I swear to dog this isn’t a scam.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
