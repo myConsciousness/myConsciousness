@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Paul Frazee✌️ @pfrazee.com 2023-03-22T15:13:33.478Z
+>
+> I had my reasons but it’s hard to deny how much nicer this looks
+
+---
+
 > Whyrusleeping @why.bsky.world 2023-03-21T23:21:21.557Z
 >
 > Not to steal anybodies thunder, but…
@@ -217,12 +223,6 @@ Shout out to the backend bois with special mention for @why.bsky.world for makin
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:41:12.710Z
 >
 > マンガみたいな展開
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:41:03.318Z
->
-> ここでトラウトか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
