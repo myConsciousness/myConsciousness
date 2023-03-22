@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:45:25.798Z
+>
+> 映画化決定
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:41:12.710Z
+>
+> マンガみたいな展開
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:41:03.318Z
+>
+> ここでトラウトか
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:18:24.455Z
+>
+> おつかれダル
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:53:24.444Z
 >
 > いいゾ〜
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:50:18.924Z
->
-> やっぱり来るなー
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:38:59.135Z
->
-> 有料化が宣言されてて料金プランが明確になってないAPIを使ってアプリ開発を続けるのはリスクが高いというか博打だよなぁ。値段によっては一発で開発中止な可能性もあるわけだし
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:34:09.303Z
->
-> アメリカの火事場の馬鹿力が怖いな
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-21T22:39:24.434Z
->
-> gm ブルスコ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
