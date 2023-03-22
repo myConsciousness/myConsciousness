@@ -311,9 +311,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Can dust be beautiful? Yes, and it can also be useful.  The Taurus molecular cloud has several bright stars, but it is the dark dust that really draws attention.  The pervasive dust has waves and ripples and makes picturesque dust bunnies, but perhaps more importantly, it marks regions where interstellar gas is dense enough to gravitationally contract to form stars. In the image center is a light cloud lit by neighboring stars that is home not only to a famous nebula, but to a very young and massive famous star.  Both the star, T Tauri, and the nebula, Hind's Variable Nebula, are seen to vary dramatically in brightness -- but not necessarily at the same time, adding to the mystery of this intriguing region. T Tauri and similar stars are now generally recognized to be Sun-like stars that are less than a few million years old and so still in the early stages of formation. The featured image spans about four degrees not far from the Pleiades star cluster, while the featured dust field lies about 400 light-years away.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/TaurusDust_Chander_1080.jpg)
-> &copy; Vikas Chander
+> How far can you see? The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy, over two million light-years away.  Without a telescope, even this immense spiral galaxy appears as an unremarkable, faint, nebulous cloud in the constellation Andromeda.  But a bright white nucleus, dark winding dust lanes, luminous blue spiral arms, and bright red emission nebulas are recorded in this stunning fifteen-hour telescopic digital mosaic of our closest major galactic neighbor.  But how do we know this spiral nebula is really so far away? This question was central to the famous Shapley-Curtis debate of 1920.  M31's great distance was determined in the 1920s by observations that resolved individual stars that changed their brightness in a way that gave up their true distance. The result proved that Andromeda is just like our Milky Way Galaxy -- a conclusion making the rest of the universe much more vast than had ever been previously imagined.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg)
+> &copy; Abdullah Al-Harbi
 
 ---
 <!-- APOD:END -->
