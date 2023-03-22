@@ -192,6 +192,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Whyrusleeping @why.bsky.world 2023-03-21T23:21:21.557Z
+>
+> Not to steal anybodies thunder, but…
+
+---
+
+> Paul Frazee✌️ @pfrazee.com 2023-03-22T01:20:08.910Z
+>
+> Some of you already got the news…
+
+📢v1.9 is now available! It has search! It also fixed up the feeds a bit but mainly it has search!
+
+Shout out to the backend bois with special mention for @why.bsky.world for making it happen
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:45:25.798Z
 >
 > 映画化決定
@@ -207,18 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:41:03.318Z
 >
 > ここでトラウトか
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:18:24.455Z
->
-> おつかれダル
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T01:53:24.444Z
->
-> いいゾ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
