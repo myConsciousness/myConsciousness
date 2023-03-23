@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T05:53:59.601Z
+>
+> APIの名前やパラメータの名前が変わるので対応が必須ですね
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T05:10:25.784Z
+>
+> DeepLとかの技術を組み込めればリアルタイム翻訳できるよね
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T05:09:59.465Z
+>
+> APIの通信時間さえなんとかなればユーザーごとの言語設定に合わせてリアルタイムの自動翻訳とかできるのかな。通信時間云々でいえばブルスコに組み込めばいいんだけど
+
+---
+
 > chadkoh @chadkohalyk.com 2023-03-23T04:24:48.968Z
 >
 > Took a tour down into the facility. Unfortunately no photos allowed. After that, back to the space center for a float and an “Oh!Moonライス” 🌙 at the JAXA caf
@@ -201,26 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:16:41.966Z
 >
 > どの道βなので破壊的変更もなにもないんですけどね
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-23T04:10:08.428Z
->
-> Existing clients will need to upgrade. It shouldnt be too hard, but we need to make some changes before finalizing some bits of the API
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:14:39.042Z
->
-> 今回の破壊的変更（リファクタリング）に関する方針は以下のIssueで回答してもらってます
-
-https://github.com/bluesky-social/atproto/issues/597
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:13:08.299Z
->
-> サードパーティは使えなくなると思いますね。削除されるLexiconに対応するエンドポイントを使わないようにしたり、user→actorのようなパラメータ名称に対応しなければいけないです。Paulに聞いたところ今回の変更は安定版リリース前なのでv1/v2といったAPIのバージョン管理もしないようです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
