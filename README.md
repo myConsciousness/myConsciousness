@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:00:33.454Z
+>
+> Twitterは企業であるが故に持続不可能
+
+---
+
 > Paul Frazee✌️ @pfrazee.com 2023-03-23T17:13:58.023Z
 >
 > Doing the big refactor in the app now -- all the changes have been done in the server so I just gotta update my code.
@@ -215,12 +221,6 @@ Thank Cats for Typescript. A refactor like this would've been brutal in the old 
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-23T13:26:23.364Z
 >
 > Hello, Bluesky!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T08:36:26.533Z
->
-> ホリエモンもGPT4とPython で遊んでるのね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
