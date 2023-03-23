@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T09:00:10.848Z
+>
+> 緊急時にプロパーががんばらない現象 is 何
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T08:36:26.533Z
+>
+> ホリエモンもGPT4とPython で遊んでるのね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-23T07:39:55.679Z
 >
 > atprotoのI/O定義であるLexicon に修正が入るからこういう表現になった感じですね
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Nighthaven @nighthaven.bsky.social 2023-03-15T12:59:36.591Z
 >
 > Cataclysm ; from nostr to bsky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T07:16:20.690Z
->
-> やるとすればそれが現実的ですね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T06:47:31.190Z
->
-> 手入力するものが多すぎて自分で作った手順書を紛失したら来年の確定申告できなくなりそうです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
