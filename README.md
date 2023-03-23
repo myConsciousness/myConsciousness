@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-03-22T15:13:33.478Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:26:40.393Z
 >
-> I had my reasons but it’s hard to deny how much nicer this looks
+> Test via API
 
 ---
 
-> Whyrusleeping @why.bsky.world 2023-03-21T23:21:21.557Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:18:30.163Z
 >
-> Not to steal anybodies thunder, but…
+> Great work 😄
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-03-22T01:20:08.910Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:15:29.384Z
 >
-> Some of you already got the news…
-
-📢v1.9 is now available! It has search! It also fixed up the feeds a bit but mainly it has search!
-
-Shout out to the backend bois with special mention for @why.bsky.world for making it happen
+> Expanding your perspectives in Bluesky:)
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:45:25.798Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:12:25.919Z
 >
-> 映画化決定
+> I’m going to change my profile properly
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-22T02:41:12.710Z
+> null @hnbot.bsky.social 2023-03-22T23:57:54.264Z
 >
-> マンガみたいな展開
+> Everything ChatGPT – under the hood of the ChatGPT web app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
