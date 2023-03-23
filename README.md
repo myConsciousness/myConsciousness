@@ -192,39 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T03:37:48.848Z
+> chadkoh @chadkohalyk.com 2023-03-23T04:24:48.968Z
 >
-> Twitterで招待コード配ってるぜ
+> Took a tour down into the facility. Unfortunately no photos allowed. After that, back to the space center for a float and an “Oh!Moonライス” 🌙 at the JAXA caf
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T03:27:34.025Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:16:41.966Z
 >
-> userパラメータはおそらく全部actorに変わって、Lexicon IDも変わるよ
+> どの道βなので破壊的変更もなにもないんですけどね
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T03:23:57.263Z
+> Whyrusleeping @why.bsky.world 2023-03-23T04:10:08.428Z
 >
-> Yay, waiting for new protocol! ✌️
+> Existing clients will need to upgrade. It shouldnt be too hard, but we need to make some changes before finalizing some bits of the API
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-03-23T03:05:04.706Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:14:39.042Z
 >
-> ➡️Important News⬅️
+> 今回の破壊的変更（リファクタリング）に関する方針は以下のIssueで回答してもらってます
 
-Soon — possibly by Friday — we’re going to publish a new version of the app and protocol.
-
-You will see a screen telling you to update your app. No need to worry! Just update your app and everything will be fine!
+https://github.com/bluesky-social/atproto/issues/597
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:45:43.630Z
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:13:08.299Z
 >
-> The post will be 3,000 in max length and 300 in grapheme
-
-https://github.com/bluesky-social/atproto/pull/671/files
+> サードパーティは使えなくなると思いますね。削除されるLexiconに対応するエンドポイントを使わないようにしたり、user→actorのようなパラメータ名称に対応しなければいけないです。Paulに聞いたところ今回の変更は安定版リリース前なのでv1/v2といったAPIのバージョン管理もしないようです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -317,9 +313,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> How far can you see? The most distant object easily visible to the unaided eye is M31, the great Andromeda Galaxy, over two million light-years away.  Without a telescope, even this immense spiral galaxy appears as an unremarkable, faint, nebulous cloud in the constellation Andromeda.  But a bright white nucleus, dark winding dust lanes, luminous blue spiral arms, and bright red emission nebulas are recorded in this stunning fifteen-hour telescopic digital mosaic of our closest major galactic neighbor.  But how do we know this spiral nebula is really so far away? This question was central to the famous Shapley-Curtis debate of 1920.  M31's great distance was determined in the 1920s by observations that resolved individual stars that changed their brightness in a way that gave up their true distance. The result proved that Andromeda is just like our Milky Way Galaxy -- a conclusion making the rest of the universe much more vast than had ever been previously imagined.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/M31_Alharbi_960.jpg)
-> &copy; Abdullah Al-Harbi
+> A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in planet Earth's night sky toward the northern constellation of Ursa Major. This sharp image centered on the gorgeous island universe also captures spiky foreground Milky Way stars and more distant background galaxies within the same telescopic field of view. It shows off the bright nucleus of NGC 2841, along with its inclined galactic disk, and faint outer regions.  Dust lanes, small star-forming regions, and young star clusters are embedded in the galaxy's patchy, tightly wound spiral arms. In contrast, many other spirals exhibit broader, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, making it even larger than our own Milky Way. X-ray images suggest that extreme outflows from giant stars and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg)
+> &copy; Roberto Marinoni
 
 ---
 <!-- APOD:END -->
