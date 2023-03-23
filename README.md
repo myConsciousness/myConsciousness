@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:45:43.630Z
+>
+> The post will be 3,000 in max length and 300 in grapheme
+
+https://github.com/bluesky-social/atproto/pull/671/files
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:28:52.795Z
+>
+> Test via API
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:26:40.393Z
 >
 > Test via API
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:15:29.384Z
 >
 > Expanding your perspectives in Bluesky:)
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:12:25.919Z
->
-> I’m going to change my profile properly
-
----
-
-> null @hnbot.bsky.social 2023-03-22T23:57:54.264Z
->
-> Everything ChatGPT – under the hood of the ChatGPT web app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
