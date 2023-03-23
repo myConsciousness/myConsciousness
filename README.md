@@ -192,6 +192,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:18:50.924Z
+>
+> I want to build Flutter apps for Bluesky 🤨
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:17:47.276Z
+>
+> atproto & bluesky related packages for Dart/Flutter are in development :)
+
+https://github.com/myConsciousness/atproto.dart
+
+---
+
+> Nighthaven @nighthaven.bsky.social 2023-03-23T14:54:50.681Z
+>
+> Segwhy
+@why.bsky.world 
+@jack.bsky.social
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:00:33.454Z
 >
 > Twitterは企業であるが故に持続不可能
@@ -203,24 +225,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Doing the big refactor in the app now -- all the changes have been done in the server so I just gotta update my code.
 
 Thank Cats for Typescript. A refactor like this would've been brutal in the old JS days.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T17:08:49.467Z
->
-> I’m so glad so many people arrived to Bluesky Social :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T17:04:01.390Z
->
-> Poll should be implemented in the future :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T13:26:23.364Z
->
-> Hello, Bluesky!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
