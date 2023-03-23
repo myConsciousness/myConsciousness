@@ -192,6 +192,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Paul Frazee✌️ @pfrazee.com 2023-03-23T17:13:58.023Z
+>
+> Doing the big refactor in the app now -- all the changes have been done in the server so I just gotta update my code.
+
+Thank Cats for Typescript. A refactor like this would've been brutal in the old JS days.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T17:08:49.467Z
+>
+> I’m so glad so many people arrived to Bluesky Social :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T17:04:01.390Z
+>
+> Poll should be implemented in the future :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-23T13:26:23.364Z
 >
 > Hello, Bluesky!
@@ -201,24 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-23T08:36:26.533Z
 >
 > ホリエモンもGPT4とPython で遊んでるのね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T07:39:55.679Z
->
-> atprotoのI/O定義であるLexicon に修正が入るからこういう表現になった感じですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T07:35:54.657Z
->
-> test via API
-
----
-
-> Nighthaven @nighthaven.bsky.social 2023-03-15T12:59:36.591Z
->
-> Cataclysm ; from nostr to bsky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
