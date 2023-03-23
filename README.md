@@ -192,19 +192,25 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T05:53:59.601Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T06:47:31.190Z
+>
+> 手入力するものが多すぎて自分で作った手順書を紛失したら来年の確定申告できなくなりそうです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T05:53:59.601Z
 >
 > APIの名前やパラメータの名前が変わるので対応が必須ですね
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T05:10:25.784Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T05:10:25.784Z
 >
 > DeepLとかの技術を組み込めればリアルタイム翻訳できるよね
 
 ---
 
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T05:09:59.465Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T05:09:59.465Z
 >
 > APIの通信時間さえなんとかなればユーザーごとの言語設定に合わせてリアルタイムの自動翻訳とかできるのかな。通信時間云々でいえばブルスコに組み込めばいいんだけど
 
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > chadkoh @chadkohalyk.com 2023-03-23T04:24:48.968Z
 >
 > Took a tour down into the facility. Unfortunately no photos allowed. After that, back to the space center for a float and an “Oh!Moonライス” 🌙 at the JAXA caf
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T04:16:41.966Z
->
-> どの道βなので破壊的変更もなにもないんですけどね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
