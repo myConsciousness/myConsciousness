@@ -192,35 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T03:37:48.848Z
+>
+> Twitterで招待コード配ってるぜ
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T03:27:34.025Z
+>
+> userパラメータはおそらく全部actorに変わって、Lexicon IDも変わるよ
+
+---
+
+> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T03:23:57.263Z
+>
+> Yay, waiting for new protocol! ✌️
+
+---
+
+> Paul Frazee✌️ @pfrazee.com 2023-03-23T03:05:04.706Z
+>
+> ➡️Important News⬅️
+
+Soon — possibly by Friday — we’re going to publish a new version of the app and protocol.
+
+You will see a screen telling you to update your app. No need to worry! Just update your app and everything will be fine!
+
+---
+
 > Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:45:43.630Z
 >
 > The post will be 3,000 in max length and 300 in grapheme
 
 https://github.com/bluesky-social/atproto/pull/671/files
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:28:52.795Z
->
-> Test via API
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T01:26:40.393Z
->
-> Test via API
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:18:30.163Z
->
-> Great work 😄
-
----
-
-> Shinya Kato 🫡 @shinyakato.dev 2023-03-23T00:15:29.384Z
->
-> Expanding your perspectives in Bluesky:)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
