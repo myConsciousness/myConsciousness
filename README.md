@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:36:06.391Z
+>
+> ちょっと風刺的で好き
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:35:31.712Z
+>
+> マストドンのツイートに対するトゥートのネーミングセンスが抜群にはまってる
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:33:53.646Z
+>
+> マンモスのマスコットはなかなかキャッチーでいいんですけどね〜
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:36:49.832Z
 >
 > Congrats! ✌️
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:22:41.708Z
 >
 > つまり虚無
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:21:59.425Z
->
-> 従来のSNSの認証バッジは社会的に一定の成功を収めた人を明確に区別するためにいい仕組みだと思うけど、それを一律金を払って買うというのは集金が第一目的に思えて俺はすごい嫌。客に興味がなくて金目当てしかないキャバクラ店で延々と延長コールするのと似てる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:15:53.467Z
->
-> Looks so tasty 😋
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:14:07.093Z
->
-> 金を払う人だけが認証できるというのは資本主義の権化ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -311,9 +311,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> A mere 46 million light-years distant, spiral galaxy NGC 2841 can be found in planet Earth's night sky toward the northern constellation of Ursa Major. This sharp image centered on the gorgeous island universe also captures spiky foreground Milky Way stars and more distant background galaxies within the same telescopic field of view. It shows off the bright nucleus of NGC 2841, along with its inclined galactic disk, and faint outer regions.  Dust lanes, small star-forming regions, and young star clusters are embedded in the galaxy's patchy, tightly wound spiral arms. In contrast, many other spirals exhibit broader, sweeping arms with large star-forming regions.  NGC 2841 has a diameter of over 150,000 light-years, making it even larger than our own Milky Way. X-ray images suggest that extreme outflows from giant stars and stellar explosions create plumes of hot gas extending into a halo around NGC 2841.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/NGC2841_1024.jpg)
-> &copy; Roberto Marinoni
+> Former darling of the northern sky Comet C/2022E3 (ZTF) has faded. During its closest approach to our fair planet in early February Comet ZTF was a mere 2.3 light-minutes distant. Then known as the green comet, this visitor from the remote Oort Cloud is now nearly 13.3 light-minutes away. In this deep image, composed of exposures captured on March 21, the comet still sports a broad, whitish dust tail and greenish tinted coma though. Not far on the sky from Orion's bright star Rigel, Comet ZTF shares the field of view with faint, dusty nebulae and distant background galaxies. The telephoto frame is crowded with Milky Way stars toward the constellation Eridanus. The influence of Jupiter's gravity on the comet's orbit as ZTF headed for the inner solar system, may have set the comet on an outbound journey, never to return.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg)
+> &copy; Former darling
 
 ---
 <!-- APOD:END -->
