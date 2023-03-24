@@ -192,39 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:18:50.924Z
+> Thomas Pockrandt @tho.bsky.social 2023-03-19T15:44:49.985Z
 >
-> I want to build Flutter apps for Bluesky 🤨
+> Just another reason to avoid Twitter
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:17:47.276Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T23:57:34.278Z
 >
-> atproto & bluesky related packages for Dart/Flutter are in development :)
-
-https://github.com/myConsciousness/atproto.dart
+> Well said! 👌
 
 ---
 
-> Nighthaven @nighthaven.bsky.social 2023-03-23T14:54:50.681Z
+> Thomas Pockrandt @tho.bsky.social 2023-03-23T23:56:33.442Z
 >
-> Segwhy
-@why.bsky.world 
-@jack.bsky.social
+> True. The only thing the blue badge indicates is that Twitter has verified that the user has a working credit card.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T19:00:33.454Z
+> atasinti @atasinti.bsky.social 2023-03-23T23:52:17.081Z
 >
-> Twitterは企業であるが故に持続不可能
+> Blueskyの公式Webクライアントより投稿テストを兼ねて。
+１日に１枚、青空の写真
+2023.3.6撮影　横浜 鶴見川の土手の上
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-03-23T17:13:58.023Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T23:48:13.118Z
 >
-> Doing the big refactor in the app now -- all the changes have been done in the server so I just gotta update my code.
-
-Thank Cats for Typescript. A refactor like this would've been brutal in the old JS days.
+> Twitter Blue is broken
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
