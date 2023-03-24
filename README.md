@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Thomas Pockrandt @tho.bsky.social 2023-03-19T15:44:49.985Z
+> Amir Shevat @amir.bsky.social 2023-03-23T21:28:06.613Z
 >
-> Just another reason to avoid Twitter
+> Blue sky in the Cork area in Ireland 🍀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T23:57:34.278Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:14:58.636Z
 >
-> Well said! 👌
+> Just work 😁👍
 
 ---
 
-> Thomas Pockrandt @tho.bsky.social 2023-03-23T23:56:33.442Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:09:29.793Z
 >
-> True. The only thing the blue badge indicates is that Twitter has verified that the user has a working credit card.
+> GMT+9 :)
 
 ---
 
-> atasinti @atasinti.bsky.social 2023-03-23T23:52:17.081Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:04:06.382Z
 >
-> Blueskyの公式Webクライアントより投稿テストを兼ねて。
-１日に１枚、青空の写真
-2023.3.6撮影　横浜 鶴見川の土手の上
+> ハッシュタグの検索結果はまだバグが多そう
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-23T23:48:13.118Z
+> Mark Foster @mfoster.io 2023-03-24T01:00:45.033Z
 >
-> Twitter Blue is broken
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
