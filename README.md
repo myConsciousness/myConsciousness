@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T11:57:32.362Z
+>
+> フラッシュやニコニコ動画で爆笑できたあの頃…
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T11:56:08.461Z
+>
+> ありますね〜、だけどこのロゴだとインパクトが足りない感じがしますね🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T11:04:35.009Z
+>
+> 「毛根が後退したんじゃない。俺が前進しすぎただけさ。」（ローランド）
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:55:03.168Z
 >
 > 今はこれがロゴですね
@@ -203,26 +221,6 @@ https://github.com/myConsciousness/atproto.dart/blob/main/resources/brands/atpro
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:47:05.849Z
 >
 > ひとまずLexicon のリファクタリング分があるブランチははまだマージされていないもよう
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:43:38.211Z
->
-> これで変更点が一目瞭然だぜ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:43:06.010Z
->
-> Lexicon の変更をわかりやすくするために、毎日公式リポジトリのmainにあるLexiconファイルをミラーリングするようにした
-
-https://github.com/myConsciousness/atproto.dart/tree/main/lexicons
-
----
-
-> ジョジョ @jojo.bsky.social 2023-03-24T07:03:31.895Z
->
-> 良い天気！青空があったらBlueskyにアップしたくなる今日この頃
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
