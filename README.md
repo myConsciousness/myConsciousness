@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> ジョジョ @jojo.bsky.social 2023-03-24T07:03:31.895Z
+>
+> 良い天気！青空があったらBlueskyにアップしたくなる今日この頃
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T05:51:26.055Z
 >
 > 
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:33:53.646Z
 >
 > マンモスのマスコットはなかなかキャッチーでいいんですけどね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:36:49.832Z
->
-> Congrats! ✌️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
