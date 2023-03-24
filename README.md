@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:55:03.168Z
+>
+> 今はこれがロゴですね
+
+https://github.com/myConsciousness/atproto.dart/blob/main/resources/brands/atproto.001.png
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:47:05.849Z
+>
+> ひとまずLexicon のリファクタリング分があるブランチははまだマージされていないもよう
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:43:38.211Z
+>
+> これで変更点が一目瞭然だぜ
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:43:06.010Z
+>
+> Lexicon の変更をわかりやすくするために、毎日公式リポジトリのmainにあるLexiconファイルをミラーリングするようにした
+
+https://github.com/myConsciousness/atproto.dart/tree/main/lexicons
+
+---
+
 > ジョジョ @jojo.bsky.social 2023-03-24T07:03:31.895Z
 >
 > 良い天気！青空があったらBlueskyにアップしたくなる今日この頃
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T05:51:26.055Z
->
-> 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:36:06.391Z
->
-> ちょっと風刺的で好き
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:35:31.712Z
->
-> マストドンのツイートに対するトゥートのネーミングセンスが抜群にはまってる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T04:33:53.646Z
->
-> マンモスのマスコットはなかなかキャッチーでいいんですけどね〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
