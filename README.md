@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T13:04:40.520Z
+>
+> 企業ブランドの歴史を見るの結構好き
+
+https://goworkship.com/magazine/logo-history-18/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:54:53.603Z
 >
 > まあTwitterだって最初はかなりてきとうなロゴだったから…
@@ -215,12 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > App icon
 @jay.bsky.social 
 @why.bsky.world
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:18:01.083Z
->
-> BlueskyとしてはやっぱりAT Protocol も強調していきたいんだろうな。むしろAT Protocol の布教がメインだと思うし
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
