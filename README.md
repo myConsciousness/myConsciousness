@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Paul Frazee✌️ @pfrazee.com 2023-03-23T03:07:15.680Z
+>
+> As one of the last steps before publishing v1 of the protocol, we’re doing a bunch of refactors that are not backwards compatible. This won’t happen again, but it will make the protocol much nicer for devs to use.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T02:59:49.861Z
+>
+> Good morning! 😙
+
+---
+
 > Amir Shevat @amir.bsky.social 2023-03-23T21:28:06.613Z
 >
 > Blue sky in the Cork area in Ireland 🍀
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:09:29.793Z
 >
 > GMT+9 :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:04:06.382Z
->
-> ハッシュタグの検索結果はまだバグが多そう
-
----
-
-> Mark Foster @mfoster.io 2023-03-24T01:00:45.033Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
