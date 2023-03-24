@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T11:57:32.362Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:54:53.603Z
 >
-> フラッシュやニコニコ動画で爆笑できたあの頃…
+> まあTwitterだって最初はかなりてきとうなロゴだったから…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T11:56:08.461Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:53:15.838Z
 >
-> ありますね〜、だけどこのロゴだとインパクトが足りない感じがしますね🤔
+> ガラパゴス諸島にいそうなかわいい鳥を使って欲しいな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T11:04:35.009Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:52:34.231Z
 >
-> 「毛根が後退したんじゃない。俺が前進しすぎただけさ。」（ローランド）
+> カモメかー
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:55:03.168Z
+> Nighthaven @nighthaven.bsky.social 2023-03-24T12:42:51.197Z
 >
-> 今はこれがロゴですね
-
-https://github.com/myConsciousness/atproto.dart/blob/main/resources/brands/atproto.001.png
+> App icon
+@jay.bsky.social 
+@why.bsky.world
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T10:47:05.849Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:18:01.083Z
 >
-> ひとまずLexicon のリファクタリング分があるブランチははまだマージされていないもよう
+> BlueskyとしてはやっぱりAT Protocol も強調していきたいんだろうな。むしろAT Protocol の布教がメインだと思うし
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
