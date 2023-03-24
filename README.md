@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-03-23T03:07:15.680Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:36:49.832Z
 >
-> As one of the last steps before publishing v1 of the protocol, we’re doing a bunch of refactors that are not backwards compatible. This won’t happen again, but it will make the protocol much nicer for devs to use.
+> Congrats! ✌️
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T02:59:49.861Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:22:41.708Z
 >
-> Good morning! 😙
+> つまり虚無
 
 ---
 
-> Amir Shevat @amir.bsky.social 2023-03-23T21:28:06.613Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:21:59.425Z
 >
-> Blue sky in the Cork area in Ireland 🍀
+> 従来のSNSの認証バッジは社会的に一定の成功を収めた人を明確に区別するためにいい仕組みだと思うけど、それを一律金を払って買うというのは集金が第一目的に思えて俺はすごい嫌。客に興味がなくて金目当てしかないキャバクラ店で延々と延長コールするのと似てる
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:14:58.636Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:15:53.467Z
 >
-> Just work 😁👍
+> Looks so tasty 😋
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T01:09:29.793Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T03:14:07.093Z
 >
-> GMT+9 :)
+> 金を払う人だけが認証できるというのは資本主義の権化ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
