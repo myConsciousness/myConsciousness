@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T22:56:51.838Z
+>
+> Good morning ブルスコ
+
+---
+
+> hilda @hilda.bsky.social 2023-03-24T18:57:09.559Z
+>
+> Hello, friend!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T13:04:40.520Z
 >
 > 企業ブランドの歴史を見るの結構好き
@@ -209,20 +221,6 @@ https://goworkship.com/magazine/logo-history-18/
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:53:15.838Z
 >
 > ガラパゴス諸島にいそうなかわいい鳥を使って欲しいな
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:52:34.231Z
->
-> カモメかー
-
----
-
-> Nighthaven @nighthaven.bsky.social 2023-03-24T12:42:51.197Z
->
-> App icon
-@jay.bsky.social 
-@why.bsky.world
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
