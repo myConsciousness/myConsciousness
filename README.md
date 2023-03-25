@@ -192,6 +192,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> VITO @vito.fyi 2023-03-10T01:30:43.126Z
+>
+> Postei anteriormente os ícones que fiz pra usar com o Bluesky.
+
+Vocês curtiram e pediram pra mostrar como eu adicionei na tela de início, então vou compartilhar a seguir o passo a passo com vocês.
+
+Segue o fio! 🧵
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T02:21:13.274Z
+>
+> おはスカ〜
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:15:23.258Z
 >
 > 
@@ -207,18 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:09:10.222Z
 >
 > 破壊的変更がここまで待望されるのは草
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:08:32.931Z
->
-> 公式の破壊待ち
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T00:59:12.649Z
->
-> 私が今2000人くらいですけど、ポストを追いきれないということはないですね。外国人が多い内訳ですけど、あまりポストしないのか彼らが活動するタイムゾーンでも流れは穏やかです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
