@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T22:56:51.838Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:27:16.419Z
 >
-> Good morning ブルスコ
+> So cute and big eyes 👀😁
 
 ---
 
-> hilda @hilda.bsky.social 2023-03-24T18:57:09.559Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:24:26.482Z
 >
-> Hello, friend!
+> まあ結構大規模に直してたし、どこかしらに不具合が出ててもおかしくはないな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T13:04:40.520Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:20:56.633Z
 >
-> 企業ブランドの歴史を見るの結構好き
-
-https://goworkship.com/magazine/logo-history-18/
+> なんかデプロイにトラブってるのかな？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:54:53.603Z
+> Shahab @shahab.bsky.social 2023-03-11T18:59:32.654Z
 >
-> まあTwitterだって最初はかなりてきとうなロゴだったから…
+> Noticed this and can‘t unsee it now!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T12:53:15.838Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:18:07.135Z
 >
-> ガラパゴス諸島にいそうなかわいい鳥を使って欲しいな
+> 公式のリファクタリングはまだmainにマージされてないね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
