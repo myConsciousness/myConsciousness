@@ -315,9 +315,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Former darling of the northern sky Comet C/2022E3 (ZTF) has faded. During its closest approach to our fair planet in early February Comet ZTF was a mere 2.3 light-minutes distant. Then known as the green comet, this visitor from the remote Oort Cloud is now nearly 13.3 light-minutes away. In this deep image, composed of exposures captured on March 21, the comet still sports a broad, whitish dust tail and greenish tinted coma though. Not far on the sky from Orion's bright star Rigel, Comet ZTF shares the field of view with faint, dusty nebulae and distant background galaxies. The telephoto frame is crowded with Milky Way stars toward the constellation Eridanus. The influence of Jupiter's gravity on the comet's orbit as ZTF headed for the inner solar system, may have set the comet on an outbound journey, never to return.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/C2022E3_230321_1024.jpg)
-> &copy; Former darling
+> On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth's brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg)
+> &copy; Giorgia Hofer
 
 ---
 <!-- APOD:END -->
