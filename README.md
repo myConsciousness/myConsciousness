@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:27:16.419Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:15:23.258Z
 >
-> So cute and big eyes 👀😁
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:24:26.482Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:09:32.333Z
 >
-> まあ結構大規模に直してたし、どこかしらに不具合が出ててもおかしくはないな
+> 早く破壊してくれ！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:20:56.633Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:09:10.222Z
 >
-> なんかデプロイにトラブってるのかな？
+> 破壊的変更がここまで待望されるのは草
 
 ---
 
-> Shahab @shahab.bsky.social 2023-03-11T18:59:32.654Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:08:32.931Z
 >
-> Noticed this and can‘t unsee it now!
+> 公式の破壊待ち
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-24T23:18:07.135Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T00:59:12.649Z
 >
-> 公式のリファクタリングはまだmainにマージされてないね
+> 私が今2000人くらいですけど、ポストを追いきれないということはないですね。外国人が多い内訳ですけど、あまりポストしないのか彼らが活動するタイムゾーンでも流れは穏やかです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
