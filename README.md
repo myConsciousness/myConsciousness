@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T12:31:10.374Z
+>
+> フォローチャレンジしてるけど手動はなかなか疲れる
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T12:22:07.259Z
+>
+> ここ一週間でアクティブユーザーが急増したのかWebの動作が重くなったな
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T11:56:19.310Z
 >
 > Blueskyの画面のソースか…?
@@ -213,18 +225,6 @@ https://github.com/bluesky-social/atproto/tree/bsky-app-view/packages/bsky
 Vocês curtiram e pediram pra mostrar como eu adicionei na tela de início, então vou compartilhar a seguir o passo a passo com vocês.
 
 Segue o fio! 🧵
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T02:21:13.274Z
->
-> おはスカ〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:15:23.258Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
