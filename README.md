@@ -192,33 +192,34 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T15:27:04.099Z
+>
+> Good night 😪
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T15:18:51.768Z
+>
+> Welcome to Bluesky ✌️
+
+---
+
+> ham30 @ham30.bsky.social 2023-03-25T14:46:12.879Z
+>
+> 産まれたてのコールダック
+
+---
+
+> Allan @allan.bsky.social 2023-03-25T15:14:08.295Z
+>
+> Boa tarde, Brasil.
+Good afternoon, Bsky.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:56:52.671Z
 >
 > AT Protocol is amazing, the potential of this technology is as large as the current Internet 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:49:18.557Z
->
-> You’re welcome 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:47:17.522Z
->
-> I sent👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:45:06.450Z
->
-> Please send empty email to contact@shinyakato.dev, I’ll send you back :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:44:08.907Z
->
-> How can I share? Email? :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
