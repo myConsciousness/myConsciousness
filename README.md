@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T11:56:19.310Z
+>
+> Blueskyの画面のソースか…?
+
+https://github.com/bluesky-social/atproto/tree/bsky-app-view/packages/bsky
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T11:55:00.805Z
+>
+> 公式リポジトリのブランチの中にbskyパッケージを追加するものがある
+
+---
+
 > VITO @vito.fyi 2023-03-10T01:30:43.126Z
 >
 > Postei anteriormente os ícones que fiz pra usar com o Bluesky.
@@ -211,18 +225,6 @@ Segue o fio! 🧵
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:15:23.258Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:09:32.333Z
->
-> 早く破壊してくれ！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T01:09:10.222Z
->
-> 破壊的変更がここまで待望されるのは草
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
