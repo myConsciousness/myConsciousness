@@ -192,39 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T13:41:14.873Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:56:52.671Z
 >
-> I guess the number of users has increased, but the web version of Bluesky is now very slow. Especially the loading time is quite long
+> AT Protocol is amazing, the potential of this technology is as large as the current Internet 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T13:38:48.780Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:49:18.557Z
 >
-> @pfrazee.com @jay.bsky.social 
-
-Are there any plans to create a page on the official AT Protocol or Bluesky website listing third-party libraries?
+> You’re welcome 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T13:36:21.118Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:47:17.522Z
 >
-> I have developed more than 10 Bluesky related packages for Dart/Flutter, use them if you want to run AT Protocol, Bluesky's API, etc. in Dart or Flutter :)
-
-Never used Dart or Flutter? Why don't you try now!
-
-https://github.com/myConsciousness/atproto.dart
+> I sent👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T13:29:33.523Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:45:06.450Z
 >
-> I updated my profile :)
+> Please send empty email to contact@shinyakato.dev, I’ll send you back :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T13:12:27.714Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:44:08.907Z
 >
-> And I uninstalled Mastodon too ✌️
+> How can I share? Email? :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
