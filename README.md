@@ -192,34 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T15:27:04.099Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:32:50.391Z
 >
-> Good night 😪
+> Oh that’s great news, I look forward to seeing it published! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T15:18:51.768Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:31:27.653Z
 >
-> Welcome to Bluesky ✌️
+> If you want to use APIs of Bluesky, then you should read README in this package at first, it’s very easy to use :)
+
+https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky
+
+And pub.dev
+
+https://pub.dev/packages/bluesky
 
 ---
 
-> ham30 @ham30.bsky.social 2023-03-25T14:46:12.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:22:56.756Z
 >
-> 産まれたてのコールダック
+> Yes, how many do you need? 😃
 
 ---
 
-> Allan @allan.bsky.social 2023-03-25T15:14:08.295Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:18:41.715Z
 >
-> Boa tarde, Brasil.
-Good afternoon, Bsky.
+> I’m challenging to follow all people 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T14:56:52.671Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:15:23.961Z
 >
-> AT Protocol is amazing, the potential of this technology is as large as the current Internet 👀
+> Oh hello flutter dev! Of course you can use and I can help, but please wait until next Tuesday or later, because official refactoring will come at next Monday so I need to merge them! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
