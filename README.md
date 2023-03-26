@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-26T00:35:23.366Z
+>
+> And a wonderful blue sky 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:32:50.391Z
 >
 > Oh that’s great news, I look forward to seeing it published! 🤝
@@ -219,12 +225,6 @@ https://pub.dev/packages/bluesky
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:18:41.715Z
 >
 > I’m challenging to follow all people 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:15:23.961Z
->
-> Oh hello flutter dev! Of course you can use and I can help, but please wait until next Tuesday or later, because official refactoring will come at next Monday so I need to merge them! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
