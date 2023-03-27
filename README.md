@@ -192,35 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T11:45:28.692Z
+> daniel 🫠 @dholms.xyz 2023-03-26T22:35:14.439Z
 >
-> リリース準備したいから早く破壊してくれ
+> Been very jealous of all the ski photos on bluesky but I finally made it 🥲
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T10:05:22.783Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T13:10:27.371Z
 >
-> Me ✌️
+> ローカルで作ったブランチすらプッシュできんぞ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T10:02:58.705Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T12:38:45.852Z
 >
-> test post to be liked via CLI
+> 仕方ない、ローカルでブランチ作って後で紐づけるか
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T09:57:38.269Z
+> Whyrusleeping @why.bsky.world 2023-03-27T04:41:42.527Z
 >
-> こちら自然状態
-
-All clear
+> Ill be in japan until the 10th or so, maybe @bmann.ca can connect us for coordination purposes :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T09:34:53.072Z
+> noraglyphs @noraglyphs.bsky.social 2023-03-27T12:08:20.676Z
 >
-> Yes it worked! ✌️
+> 日本語というか非アルファベット語話者でよかったなあと思うことのひとつはこういう文字群を見た時に知ってる単語が強烈に立ち上がって見えてくる体験を面白がれること
+雑踏の中で幼馴染を偶然見つけたような気分になる
+
+https://search.bsky.social/search/posts?q=破壊
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
