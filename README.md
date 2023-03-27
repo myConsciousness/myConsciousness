@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T11:45:28.692Z
+>
+> リリース準備したいから早く破壊してくれ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T10:05:22.783Z
 >
 > Me ✌️
@@ -215,12 +221,6 @@ All clear
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T09:34:53.072Z
 >
 > Yes it worked! ✌️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T06:47:46.175Z
->
-> test post via CLI
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
