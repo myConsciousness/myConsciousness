@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T14:07:25.397Z
+>
+> 招待コードは生成する時に使用上限を指定して登録するのでコードによって回数は違います。発行した人によりますけど、基本的に指定がない限りは使い切りのはずです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T13:36:15.033Z
+>
+> GitHub復旧したっぽい
+
+---
+
 > daniel 🫠 @dholms.xyz 2023-03-26T22:35:14.439Z
 >
 > Been very jealous of all the ski photos on bluesky but I finally made it 🥲
@@ -207,21 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T12:38:45.852Z
 >
 > 仕方ない、ローカルでブランチ作って後で紐づけるか
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-27T04:41:42.527Z
->
-> Ill be in japan until the 10th or so, maybe @bmann.ca can connect us for coordination purposes :)
-
----
-
-> noraglyphs @noraglyphs.bsky.social 2023-03-27T12:08:20.676Z
->
-> 日本語というか非アルファベット語話者でよかったなあと思うことのひとつはこういう文字群を見た時に知ってる単語が強烈に立ち上がって見えてくる体験を面白がれること
-雑踏の中で幼馴染を偶然見つけたような気分になる
-
-https://search.bsky.social/search/posts?q=破壊
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
