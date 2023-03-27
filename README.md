@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T14:15:55.698Z
+>
+> 円安と米国株高が同時進行した時の確変ぶり
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T14:07:25.397Z
 >
 > 招待コードは生成する時に使用上限を指定して登録するのでコードによって回数は違います。発行した人によりますけど、基本的に指定がない限りは使い切りのはずです
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T13:10:27.371Z
 >
 > ローカルで作ったブランチすらプッシュできんぞ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T12:38:45.852Z
->
-> 仕方ない、ローカルでブランチ作って後で紐づけるか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
