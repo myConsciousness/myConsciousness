@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T06:47:46.175Z
+>
+> test post via CLI
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T06:47:01.117Z
+>
+> test
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:48:23.940Z
 >
 > 破壊待ちナウ
@@ -209,18 +221,6 @@ And yes, that is smoke. It is a bit shocking to have meteorologists on the night
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:47:19.265Z
 >
 > atproto上にメッセンジャーサービスを構築するのは可能か？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:46:36.750Z
->
-> 今日は、黙示録…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:46:15.758Z
->
-> DMが欲しい気がするけど、atprotoがある今ではBlueskyに実装しなくてもいい気がしてきた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
