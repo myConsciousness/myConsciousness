@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T14:15:55.698Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T22:37:37.839Z
 >
-> 円安と米国株高が同時進行した時の確変ぶり
+> まだリファクタリングをコミットし続けてるので、これがmainにマージされない限りは来ないですね
+
+https://github.com/bluesky-social/atproto/pull/658
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T14:07:25.397Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T22:32:33.861Z
 >
-> 招待コードは生成する時に使用上限を指定して登録するのでコードによって回数は違います。発行した人によりますけど、基本的に指定がない限りは使い切りのはずです
+> リファクタリングはまだ公式リポジトリのmainにマージされてないな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T13:36:15.033Z
+> Jay 🦋 @jay.bsky.social 2023-03-27T18:18:35.938Z
 >
-> GitHub復旧したっぽい
+> Some sea lettuce found on the puget sound yesterday. 
+
+This seaweed washes up all over around here. My foraging books say it’s edible though I have not tried myself.
 
 ---
 
-> daniel 🫠 @dholms.xyz 2023-03-26T22:35:14.439Z
+> Whyrusleeping @why.bsky.world 2023-03-27T21:14:33.274Z
 >
-> Been very jealous of all the ski photos on bluesky but I finally made it 🥲
+> Its pretty good out here
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T13:10:27.371Z
+> Mike @ m1k3.net @dick.bsky.social 2023-03-27T21:55:42.258Z
 >
-> ローカルで作ったブランチすらプッシュできんぞ
+> bluesky still up
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
