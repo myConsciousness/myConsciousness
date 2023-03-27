@@ -192,15 +192,23 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T06:47:46.175Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T09:57:38.269Z
 >
-> test post via CLI
+> こちら自然状態
+
+All clear
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T06:47:01.117Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T09:34:53.072Z
 >
-> test
+> Yes it worked! ✌️
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T06:47:46.175Z
+>
+> test post via CLI
 
 ---
 
@@ -215,12 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Today’s blue sky… and volcano! 🌋 
 
 And yes, that is smoke. It is a bit shocking to have meteorologists on the nightly news report “Today was sunny, and there were no explosions from Sakurajima” 😅
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:47:19.265Z
->
-> atproto上にメッセンジャーサービスを構築するのは可能か？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
