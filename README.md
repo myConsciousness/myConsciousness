@@ -2,7 +2,7 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 15th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 14th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
 🤖 **Fun fact 2**: I'm currently rated as [the 10th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
@@ -192,39 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-26T00:35:23.366Z
+> Liisa Lee @liisalee.bsky.social 2023-03-27T02:08:23.235Z
 >
-> And a wonderful blue sky 👍
+> Sunday sunshine & blue skies.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:32:50.391Z
+> null @gbraga.bsky.social 2023-03-27T02:19:10.221Z
 >
-> Oh that’s great news, I look forward to seeing it published! 🤝
+> Bluesky of the day
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:31:27.653Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T01:19:29.394Z
 >
-> If you want to use APIs of Bluesky, then you should read README in this package at first, it’s very easy to use :)
-
-https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky
-
-And pub.dev
-
-https://pub.dev/packages/bluesky
+> そろそろリファクタリング対応用のブランチを作っておこう
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:22:56.756Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T01:15:49.638Z
 >
-> Yes, how many do you need? 😃
+> All clear
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-25T23:18:41.715Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T01:14:01.667Z
 >
-> I’m challenging to follow all people 👀
+> test like and repost via API
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -317,9 +311,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> On March 23 early evening skygazers could watch Venus and a young crescent moon, both near the western horizon. On that date Earth's brilliant evening star, faint lunar night side and slender sunlit crescent were captured in this telephoto skyscape posing alongside a church tower from Danta di Cadore, Dolomiti, Italy. Of course the subtle lunar illumination is earthshine, earthlight reflected from the Moon's night side. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci. On March 24, from some locations the Moon could be seen to occult or pass in front of Venus. Around the planet tonight, a waxing lunar crescent will appear near the Pleiades star cluster.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/_GHR3094-venerelunafirma800.jpg)
-> &copy; Giorgia Hofer
+> Reports of powerful solar flares started a seven-hour quest north to capture modern monuments against an aurora-filled sky.  The peaks of iconic Arctic Henge in Raufarhöfn in northern Iceland were already aligned with the stars: some are lined up toward the exact north from one side and toward exact south from the other. The featured image, taken after sunset late last month, looks directly south, but since the composite image covers so much of the sky, the north star Polaris is actually visible at the very top of the frame. Also visible are familiar constellations including the Great Bear (Ursa Major) on the left, and the Hunter (Orion) on the lower right. The quest was successful.  The sky lit up dramatically with bright and memorable auroras that shimmered with amazing colors including red, pink, yellow, and green -- sometimes several at once.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/ArcticHenge_Letelier_960.jpg)
+> &copy; Cari Letelier
 
 ---
 <!-- APOD:END -->
