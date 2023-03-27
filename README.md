@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Liisa Lee @liisalee.bsky.social 2023-03-27T02:08:23.235Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:48:23.940Z
 >
-> Sunday sunshine & blue skies.
+> 破壊待ちナウ
 
 ---
 
-> null @gbraga.bsky.social 2023-03-27T02:19:10.221Z
+> chadkoh @chadkohalyk.com 2023-03-27T03:53:44.729Z
 >
-> Bluesky of the day
+> Today’s blue sky… and volcano! 🌋 
+
+And yes, that is smoke. It is a bit shocking to have meteorologists on the nightly news report “Today was sunny, and there were no explosions from Sakurajima” 😅
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T01:19:29.394Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:47:19.265Z
 >
-> そろそろリファクタリング対応用のブランチを作っておこう
+> atproto上にメッセンジャーサービスを構築するのは可能か？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T01:15:49.638Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:46:36.750Z
 >
-> All clear
+> 今日は、黙示録…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T01:14:01.667Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T05:46:15.758Z
 >
-> test like and repost via API
+> DMが欲しい気がするけど、atprotoがある今ではBlueskyに実装しなくてもいい気がしてきた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
