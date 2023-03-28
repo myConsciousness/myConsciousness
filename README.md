@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> hilda @hilda.bsky.social 2023-03-28T11:56:13.283Z
+>
+> Look, Simba, everything the light touches is our kingdom
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T12:07:49.107Z
+>
+> Yes please test it! 👍 I plan to add an option to output JSON to file 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T11:41:59.666Z
 >
 > Of course! 👍 Dart is very powerful language, and you can use Flutter also if you learn Dart! 😁
@@ -207,20 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Ray Wong @raywong.bsky.social 2023-03-28T03:59:43.746Z
 >
 > Let the bird burn. As a verified journalist on Twitter, it is so sad to watch the bird burn
-
----
-
-> Jay 🦋 @jay.bsky.social 2023-03-28T05:08:39.486Z
->
-> so i def also listen to new music. esp while at the gym. love this one. modernity is having a normal one 
-
-https://youtu.be/286jXjwdst0
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:39:12.805Z
->
-> なんかデプロイで上手くいってなさそうな感じ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
