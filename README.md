@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T03:05:04.944Z
+>
+> TwitterはTwitter Blue加入者と非加入者の格差が広がってユーザー数を減らすと予想。まあ金払わないやつはユーザーではないと言われればそこまでの話だが、少なくとももう万人のための場ではないわな
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:34:15.513Z
 >
 > How beautiful it is 😂
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:22:43.688Z
 >
 > まあ旅行は静かに楽しみたいこともあるし
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:48.380Z
->
-> こちら自然状態
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
