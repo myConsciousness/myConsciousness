@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:34:15.513Z
+>
+> How beautiful it is 😂
+
+---
+
+> Filipe Espósito @filipeesposito.bsky.social 2023-03-28T00:30:11.152Z
+>
+> 🤡
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:23:42.363Z
+>
+> 日本に来て破壊を望む変人たちに囲まれたくはないだろう…
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:22:43.688Z
+>
+> まあ旅行は静かに楽しみたいこともあるし
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:48.380Z
 >
 > こちら自然状態
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:39.851Z
->
-> 出社したくないでござる！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:05.275Z
->
-> 在宅勤務中にVPNの調子が悪くなった時の焦り
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:11:10.147Z
->
-> Good morning ブルスコ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T22:37:37.839Z
->
-> まだリファクタリングをコミットし続けてるので、これがmainにマージされない限りは来ないですね
-
-https://github.com/bluesky-social/atproto/pull/658
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
