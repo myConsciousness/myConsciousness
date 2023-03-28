@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T07:23:12.015Z
+>
+> 試してみたけどDIDだけでfollowできるようになってるな
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T07:19:19.210Z
+>
+> DIDがある中でdeclarationCidの存在意義がわからなかったけどやっぱり消されるのか
+
+https://github.com/bluesky-social/atproto/issues/579
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T03:05:04.944Z
 >
 > TwitterはTwitter Blue加入者と非加入者の格差が広がってユーザー数を減らすと予想。まあ金払わないやつはユーザーではないと言われればそこまでの話だが、少なくとももう万人のための場ではないわな
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Filipe Espósito @filipeesposito.bsky.social 2023-03-28T00:30:11.152Z
 >
 > 🤡
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:23:42.363Z
->
-> 日本に来て破壊を望む変人たちに囲まれたくはないだろう…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:22:43.688Z
->
-> まあ旅行は静かに楽しみたいこともあるし
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
