@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Paul Frazee✌️ @pfrazee.com 2023-03-25T19:59:50.953Z
+>
+> I am a CRAFTSMAN and my code is BEAUTIFUL and absolutely OBSOLETE
+
+---
+
 > Ray Wong @raywong.bsky.social 2023-03-28T03:59:43.746Z
 >
 > Let the bird burn. As a verified journalist on Twitter, it is so sad to watch the bird burn
@@ -215,12 +221,6 @@ https://youtu.be/286jXjwdst0
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:36:54.382Z
 >
 > なお破壊はまだなもよう
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:16:32.336Z
->
-> This post is sent via bluesky_cli.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
