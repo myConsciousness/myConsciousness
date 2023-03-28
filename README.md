@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T11:41:59.666Z
+>
+> Of course! 👍 Dart is very powerful language, and you can use Flutter also if you learn Dart! 😁
+
+---
+
 > Paul Frazee✌️ @pfrazee.com 2023-03-25T19:59:50.953Z
 >
 > I am a CRAFTSMAN and my code is BEAUTIFUL and absolutely OBSOLETE
@@ -215,12 +221,6 @@ https://youtu.be/286jXjwdst0
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:39:12.805Z
 >
 > なんかデプロイで上手くいってなさそうな感じ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:36:54.382Z
->
-> なお破壊はまだなもよう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
