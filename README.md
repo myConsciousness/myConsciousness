@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T07:23:12.015Z
+> Ray Wong @raywong.bsky.social 2023-03-28T03:59:43.746Z
 >
-> 試してみたけどDIDだけでfollowできるようになってるな
+> Let the bird burn. As a verified journalist on Twitter, it is so sad to watch the bird burn
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T07:19:19.210Z
+> Jay 🦋 @jay.bsky.social 2023-03-28T05:08:39.486Z
 >
-> DIDがある中でdeclarationCidの存在意義がわからなかったけどやっぱり消されるのか
+> so i def also listen to new music. esp while at the gym. love this one. modernity is having a normal one 
 
-https://github.com/bluesky-social/atproto/issues/579
+https://youtu.be/286jXjwdst0
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T03:05:04.944Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:39:12.805Z
 >
-> TwitterはTwitter Blue加入者と非加入者の格差が広がってユーザー数を減らすと予想。まあ金払わないやつはユーザーではないと言われればそこまでの話だが、少なくとももう万人のための場ではないわな
+> なんかデプロイで上手くいってなさそうな感じ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T00:34:15.513Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:36:54.382Z
 >
-> How beautiful it is 😂
+> なお破壊はまだなもよう
 
 ---
 
-> Filipe Espósito @filipeesposito.bsky.social 2023-03-28T00:30:11.152Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T09:16:32.336Z
 >
-> 🤡
+> This post is sent via bluesky_cli.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
