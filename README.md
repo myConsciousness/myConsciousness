@@ -192,37 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:48.380Z
+>
+> こちら自然状態
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:39.851Z
+>
+> 出社したくないでござる！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:35:05.275Z
+>
+> 在宅勤務中にVPNの調子が悪くなった時の焦り
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T23:11:10.147Z
+>
+> Good morning ブルスコ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-27T22:37:37.839Z
 >
 > まだリファクタリングをコミットし続けてるので、これがmainにマージされない限りは来ないですね
 
 https://github.com/bluesky-social/atproto/pull/658
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-27T22:32:33.861Z
->
-> リファクタリングはまだ公式リポジトリのmainにマージされてないな
-
----
-
-> Jay 🦋 @jay.bsky.social 2023-03-27T18:18:35.938Z
->
-> Some sea lettuce found on the puget sound yesterday. 
-
-This seaweed washes up all over around here. My foraging books say it’s edible though I have not tried myself.
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-27T21:14:33.274Z
->
-> Its pretty good out here
-
----
-
-> Mike @ m1k3.net @dick.bsky.social 2023-03-27T21:55:42.258Z
->
-> bluesky still up
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
