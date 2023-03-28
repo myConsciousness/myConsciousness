@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T22:18:00.803Z
+>
+> gm ブルスコ
+
+---
+
 > hilda @hilda.bsky.social 2023-03-28T11:56:13.283Z
 >
 > Look, Simba, everything the light touches is our kingdom
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Paul Frazee✌️ @pfrazee.com 2023-03-25T19:59:50.953Z
 >
 > I am a CRAFTSMAN and my code is BEAUTIFUL and absolutely OBSOLETE
-
----
-
-> Ray Wong @raywong.bsky.social 2023-03-28T03:59:43.746Z
->
-> Let the bird burn. As a verified journalist on Twitter, it is so sad to watch the bird burn
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
