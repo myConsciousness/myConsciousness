@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Whyrusleeping @why.bsky.world 2023-03-29T11:49:05.479Z
+>
+> Some nice trees out tonight
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T13:35:56.139Z
+>
+> Hi Paul! Yes I’m watching PRs for refactoring :)
+
+I’m aware of the scope of the changes and will release the revised version once it is merged into MAIN and the protocol is updated 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-29T08:39:01.465Z
 >
 > Welcome! ✌🏻
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Whyrusleeping @why.bsky.world 2023-03-29T08:26:05.465Z
 >
 > Agreed
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T08:17:50.689Z
->
-> NetlifyでホスティングするかGitHub Pagesで済ませるか悩むところ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T08:04:17.209Z
->
-> 品川駅港南口は社畜時代を思い出す
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
