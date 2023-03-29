@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T02:42:07.659Z
+>
+> Now you can format JSON with `--pretty` option, show status code and request URI with `--status` and `--request` options :)
+
+Like "bsky timeline --pretty --status --request"
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T02:41:39.693Z
+>
+> I released bluesky_cli v0.0.4 :) You can install or upgrade with following command:
+
+→ "dart pub global activate bluesky_cli"
+
+https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli#121-prettify-json
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T23:18:18.140Z
 >
 > Yo. みんなブルスコしてるかい？
@@ -207,18 +225,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T22:18:00.803Z
 >
 > gm ブルスコ
-
----
-
-> hilda @hilda.bsky.social 2023-03-28T11:56:13.283Z
->
-> Look, Simba, everything the light touches is our kingdom
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T12:07:49.107Z
->
-> Yes please test it! 👍 I plan to add an option to output JSON to file 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
