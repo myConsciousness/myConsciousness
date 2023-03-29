@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T15:23:35.626Z
+>
+> That’s alright, I’m looking forward to see new refactored protocol! 😁👍
+
+---
+
 > wwwjim @jim.bsky.social 2023-03-29T14:56:49.170Z
 >
 > 🌸
@@ -215,12 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Hi Paul! Yes I’m watching PRs for refactoring :)
 
 I’m aware of the scope of the changes and will release the revised version once it is merged into MAIN and the protocol is updated 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T08:39:01.465Z
->
-> Welcome! ✌🏻
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
