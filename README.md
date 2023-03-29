@@ -192,6 +192,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T06:47:33.033Z
+>
+> なんか通知が分身して*2の状態で届くんだよな
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T06:21:13.384Z
+>
+> And pub.dev
+
+https://pub.dev/packages/bluesky
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T06:20:45.837Z
+>
+> I released a wrapper library for Bluesky Social’s API for Dart and Flutter :)
+
+https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky
+
+---
+
 > Paul Frazee✌️ @pfrazee.com 2023-03-29T03:30:00.031Z
 >
 > Got myself a new blanket wdyt
@@ -203,28 +225,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Now you can format JSON with `--pretty` option, show status code and request URI with `--status` and `--request` options :)
 
 Like "bsky timeline --pretty --status --request"
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T02:41:39.693Z
->
-> I released bluesky_cli v0.0.4 :) You can install or upgrade with following command:
-
-→ "dart pub global activate bluesky_cli"
-
-https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli#121-prettify-json
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T23:18:18.140Z
->
-> Yo. みんなブルスコしてるかい？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T23:17:49.260Z
->
-> オハスコ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
