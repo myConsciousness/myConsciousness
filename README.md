@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> wwwjim @jim.bsky.social 2023-03-29T14:56:49.170Z
+>
+> 🌸
+
+---
+
+> wwwjim @jim.bsky.social 2023-03-29T07:52:18.507Z
+>
+> the journey begins
+
+---
+
 > Whyrusleeping @why.bsky.world 2023-03-29T11:49:05.479Z
 >
 > Some nice trees out tonight
@@ -209,18 +221,6 @@ I’m aware of the scope of the changes and will release the revised version onc
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-29T08:39:01.465Z
 >
 > Welcome! ✌🏻
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-29T08:38:09.444Z
->
-> めっちゃ笑ってて草
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-29T08:26:05.465Z
->
-> Agreed
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
