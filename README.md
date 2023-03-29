@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Paul Frazee✌️ @pfrazee.com 2023-03-29T03:30:00.031Z
+>
+> Got myself a new blanket wdyt
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-29T02:42:07.659Z
 >
 > Now you can format JSON with `--pretty` option, show status code and request URI with `--status` and `--request` options :)
@@ -219,12 +225,6 @@ https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli#1
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-28T23:17:49.260Z
 >
 > オハスコ〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-28T22:18:00.803Z
->
-> gm ブルスコ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
