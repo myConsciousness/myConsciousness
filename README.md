@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T05:19:15.280Z
+>
+> HandleとDIDでいけます
+
+---
+
 > Whyrusleeping @why.bsky.world 2023-03-29T22:50:44.224Z
 >
 > Suntory BOSS Coffee Vending Machine.
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Evan 🟠 @evan.best 2023-03-30T02:54:00.156Z
 >
 > There is no red in this image.
-
----
-
-> ほりべあ @holybea.bsky.social 2023-03-29T05:58:58.450Z
->
-> 又兵衛桜にきた🌸🌸🌸🌸
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
