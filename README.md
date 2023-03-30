@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T02:59:12.787Z
+>
+> 👀👀👀
+
+---
+
+> Evan 🟠 @evan.best 2023-03-30T02:54:00.156Z
+>
+> There is no red in this image.
+
+---
+
+> ほりべあ @holybea.bsky.social 2023-03-29T05:58:58.450Z
+>
+> 又兵衛桜にきた🌸🌸🌸🌸
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-30T00:46:28.395Z
 >
 > ロゴはしばらくこれにしよう
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-29T15:23:35.626Z
 >
 > That’s alright, I’m looking forward to see new refactored protocol! 😁👍
-
----
-
-> wwwjim @jim.bsky.social 2023-03-29T14:56:49.170Z
->
-> 🌸
-
----
-
-> wwwjim @jim.bsky.social 2023-03-29T07:52:18.507Z
->
-> the journey begins
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-29T11:49:05.479Z
->
-> Some nice trees out tonight
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
