@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T22:53:09.468Z
+>
+> おはでスカイ〜
+
+---
+
 > Mark Caldwell @mark-caldwell.com 2023-03-30T15:18:04.439Z
 >
 > Only sharing because I love the headline, you all already know the story. 🤣
@@ -215,12 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > ちなみにイーロン・マスクに首を切られたTweepsが集まるMastodonインスタンスはこちらです
 
 https://macaw.social
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:59:40.211Z
->
-> Twitter APIをこれからも多くの人に使ってもらいたいとか公式スペースで語ってくれたTweepsは元気だろうか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
