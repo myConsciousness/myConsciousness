@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Whyrusleeping @why.bsky.world 2023-03-29T22:50:44.224Z
+>
+> Suntory BOSS Coffee Vending Machine.
+
+---
+
 > Whyrusleeping @why.bsky.world 2023-03-30T03:18:21.031Z
 >
 > Some Blue
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > ほりべあ @holybea.bsky.social 2023-03-29T05:58:58.450Z
 >
 > 又兵衛桜にきた🌸🌸🌸🌸
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T00:46:28.395Z
->
-> ロゴはしばらくこれにしよう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -311,9 +311,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Which star created this bubble? It wasn't the bright star on the bubble's right. And it also wasn't a giant space dolphin. It was the star in the blue nebula's center, a famously energetic Wolf-Rayet star. Wolf-Rayet stars in general have over 20 times the mass of our Sun and expel fast particle winds that can create iconic looking nebulas. In this case, the resulting star bubble spans over 60 light years, is about 70,000 years old, and happens to look like the head of a dolphin.  Named Sh2-308 and dubbed the Dolphin-Head Nebula, the gas ball lies about 5,000 light years away and covers as much sky as the full moon -- although it is much dimmer. The nearby red-tinged clouds on the left of the featured image may owe their glow and shape to energetic light emitted from the same Wolf-Rayet star.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/DolphinReef_Roig_960.jpg)
-> &copy; Aleix RoigAstroCatInfo
+> The delightful Dark Doodad Nebula drifts through southern skies, a tantalizing target for binoculars toward the small constellation Musca, The Fly. The dusty cosmic cloud is seen against rich starfields just south of the Coalsack Nebula and the Southern Cross. Stretching for about 3 degrees across the center of this telephoto field of view, the Dark Doodad is punctuated near its southern tip (upper right) by yellowish globular star cluster NGC 4372. Of course NGC 4372 roams the halo of our Milky Way Galaxy, a background object some 20,000 light-years away and only by chance along our line-of-sight to the Dark Doodad. The Dark Doodad's well defined silhouette belongs to the Musca molecular cloud, but its better known alliterative moniker was first coined by astro-imager and writer Dennis di Cicco in 1986 while observing Comet Halley from the Australian outback. The Dark Doodad is around 700 light-years distant and over 30 light-years long.
+> ![APOD](https://apod.nasa.gov/apod/image/2303/Doodad200mmAPOD1024crop.jpg)
+> &copy; Matias Tomasello
 
 ---
 <!-- APOD:END -->
