@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Mark Caldwell @mark-caldwell.com 2023-03-30T15:18:04.439Z
+>
+> Only sharing because I love the headline, you all already know the story. 🤣
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T21:38:37.176Z
+>
+> Good morning ブルスコ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-30T09:19:47.183Z
 >
 > Twitter従業員だけが知る秘密をアカウント作成寺に提出する必要があるので完全に閉ざされた空間です
@@ -209,22 +221,6 @@ https://macaw.social
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:59:40.211Z
 >
 > Twitter APIをこれからも多くの人に使ってもらいたいとか公式スペースで語ってくれたTweepsは元気だろうか
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:40:55.613Z
->
-> イーロン・マスクは間違いなくサイコパスだけど、だからこそTwitter以外のあまりユーザーと直接関わらないサービスでは爆発的に成功できたんだろうなとも思う
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:08:59.352Z
->
-> 新東名に自動運転レーン　政府が24年度計画、物流省人化
-
-どの道必要になるから早めに試してほしい
-
-https://www.nikkei.com/article/DGXZQOUA2933J0Z20C23A3000000/
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
