@@ -192,6 +192,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:59:40.211Z
+>
+> Twitter APIをこれからも多くの人に使ってもらいたいとか公式スペースで語ってくれたTweepsは元気だろうか
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:40:55.613Z
+>
+> イーロン・マスクは間違いなくサイコパスだけど、だからこそTwitter以外のあまりユーザーと直接関わらないサービスでは爆発的に成功できたんだろうなとも思う
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:08:59.352Z
+>
+> 新東名に自動運転レーン　政府が24年度計画、物流省人化
+
+どの道必要になるから早めに試してほしい
+
+https://www.nikkei.com/article/DGXZQOUA2933J0Z20C23A3000000/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:22:55.114Z
 >
 > ブルスコにDMの実装が検討されるぞ〜
@@ -201,24 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Paul Frazee✌️ @pfrazee.com 2023-03-29T23:21:33.475Z
 >
 > We’ve got some ideas for encrypted DMs that we’re going to explore in the summer. Then we’ll be able to see how other kinds of private stuff can work
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:21:52.907Z
->
-> CLIから
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:20:57.331Z
->
-> そうでスカイ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:05:12.419Z
->
-> こちら自然状態
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
