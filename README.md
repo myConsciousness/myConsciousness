@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T05:19:15.280Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:22:55.114Z
 >
-> HandleとDIDでいけます
+> ブルスコにDMの実装が検討されるぞ〜
 
 ---
 
-> Whyrusleeping @why.bsky.world 2023-03-29T22:50:44.224Z
+> Paul Frazee✌️ @pfrazee.com 2023-03-29T23:21:33.475Z
 >
-> Suntory BOSS Coffee Vending Machine.
+> We’ve got some ideas for encrypted DMs that we’re going to explore in the summer. Then we’ll be able to see how other kinds of private stuff can work
 
 ---
 
-> Whyrusleeping @why.bsky.world 2023-03-30T03:18:21.031Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:21:52.907Z
 >
-> Some Blue
+> CLIから
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T02:59:12.787Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:20:57.331Z
 >
-> 👀👀👀
+> そうでスカイ
 
 ---
 
-> Evan 🟠 @evan.best 2023-03-30T02:54:00.156Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:05:12.419Z
 >
-> There is no red in this image.
+> こちら自然状態
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
