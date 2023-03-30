@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T09:19:47.183Z
+>
+> Twitter従業員だけが知る秘密をアカウント作成寺に提出する必要があるので完全に閉ざされた空間です
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T09:00:57.641Z
+>
+> ちなみにイーロン・マスクに首を切られたTweepsが集まるMastodonインスタンスはこちらです
+
+https://macaw.social
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-30T08:59:40.211Z
 >
 > Twitter APIをこれからも多くの人に使ってもらいたいとか公式スペースで語ってくれたTweepsは元気だろうか
@@ -211,18 +225,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 どの道必要になるから早めに試してほしい
 
 https://www.nikkei.com/article/DGXZQOUA2933J0Z20C23A3000000/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T07:22:55.114Z
->
-> ブルスコにDMの実装が検討されるぞ〜
-
----
-
-> Paul Frazee✌️ @pfrazee.com 2023-03-29T23:21:33.475Z
->
-> We’ve got some ideas for encrypted DMs that we’re going to explore in the summer. Then we’ll be able to see how other kinds of private stuff can work
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
