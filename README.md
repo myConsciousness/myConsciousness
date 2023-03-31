@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T00:28:34.085Z
+>
+> Have a nice trip ✌️
+
+---
+
+> wwwjim @jim.bsky.social 2023-03-31T00:22:09.375Z
+>
+> good morning from Kyoto 🌸
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:26:54.091Z
 >
 > GitHubってこんな感じで画像の差分比較できたんだな
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Jake Gold @jakegold.us 2023-03-30T23:00:59.141Z
 >
 > Latest blog post from @jay.bsky.social
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:14:21.411Z
->
-> DartでReactを使えるようにしてくれないかな
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:12:57.261Z
->
-> React使うとFlutter for Webはやっぱりおもちゃに見える
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
