@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T03:22:32.648Z
+>
+> 黙示録は近い
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T03:02:58.251Z
+>
+> All clear
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T03:02:47.722Z
+>
+> こちら自然状態
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T02:20:33.896Z
 >
 > 自衛隊式懸垂はきついけど間違いなくパンプアップを実感できる
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T01:51:50.362Z
 >
 > And even better than Twitter :)
-
----
-
-> Ray Wong @raywong.bsky.social 2023-03-31T01:48:06.526Z
->
-> The Bluesky community is already so much better than Mastodon which is lulz
-
----
-
-> Rose 🌹 @iamrosewang.bsky.social 2023-03-31T01:41:33.522Z
->
-> Seems like AGI is already here and there’s nothing we can do to stop it. Give @dwarkesh.bsky.social interview w Ilya a listen: https://youtu.be/Yf1o0TQzry8
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T00:28:34.085Z
->
-> Have a nice trip ✌️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
