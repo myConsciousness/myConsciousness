@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T05:55:49.884Z
+>
+> 東海地方から関東地方を動き回ってる流浪人にミートアップ参加の選択肢はなかった
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T03:22:32.648Z
 >
 > 黙示録は近い
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T02:20:33.896Z
 >
 > 自衛隊式懸垂はきついけど間違いなくパンプアップを実感できる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T01:51:50.362Z
->
-> And even better than Twitter :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
