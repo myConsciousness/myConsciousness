@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T17:23:43.891Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:59:17.655Z
 >
-> おやすみでスカイ
+> こっちも夜まで不在
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T17:03:11.865Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:53:29.081Z
 >
-> Yes of course, please send me an email :)
+> Good morning ブルスコ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T12:34:42.978Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:52:32.249Z
 >
-> たくさん貰ったコードが余ってるだけです！
+> 権威主義のイーロンマスクにとって公平さとか1ミリも興味ないだろうけど
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T08:24:45.471Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:50:39.412Z
 >
-> I want a mobile app to test APIs like CLI app. Then what? I have to create it 🤔
+> 面白くなってきた
 
 ---
 
-> Natasha Malhi @natasha.bsky.social 2023-03-31T08:08:01.389Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:49:35.913Z
 >
-> My Bluesky from Salzburg to Vienna from the window seat. 
+> 破壊的変更がmainにマージされたのでプロトコルにデプロイされ次第サードパーティはしばらく休止します
 
-Fun fact: I hate window seats 💺 on the plane ✈️ purely cause I wanna reach freely the exit, the loo and stewards without taking permission to move from my seating neighbor. Who else does that?
+https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
