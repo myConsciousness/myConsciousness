@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T01:51:50.362Z
+>
+> And even better than Twitter :)
+
+---
+
+> Ray Wong @raywong.bsky.social 2023-03-31T01:48:06.526Z
+>
+> The Bluesky community is already so much better than Mastodon which is lulz
+
+---
+
+> Rose 🌹 @iamrosewang.bsky.social 2023-03-31T01:41:33.522Z
+>
+> Seems like AGI is already here and there’s nothing we can do to stop it. Give @dwarkesh.bsky.social interview w Ilya a listen: https://youtu.be/Yf1o0TQzry8
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T00:28:34.085Z
 >
 > Have a nice trip ✌️
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > wwwjim @jim.bsky.social 2023-03-31T00:22:09.375Z
 >
 > good morning from Kyoto 🌸
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:26:54.091Z
->
-> GitHubってこんな感じで画像の差分比較できたんだな
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:16:31.524Z
->
-> Dartで動くReactを作ればいいのか？
-
----
-
-> Jake Gold @jakegold.us 2023-03-30T23:00:59.141Z
->
-> Latest blog post from @jay.bsky.social
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
