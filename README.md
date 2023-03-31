@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T22:53:09.468Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:26:54.091Z
 >
-> おはでスカイ〜
+> GitHubってこんな感じで画像の差分比較できたんだな
 
 ---
 
-> Mark Caldwell @mark-caldwell.com 2023-03-30T15:18:04.439Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:16:31.524Z
 >
-> Only sharing because I love the headline, you all already know the story. 🤣
+> Dartで動くReactを作ればいいのか？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T21:38:37.176Z
+> Jake Gold @jakegold.us 2023-03-30T23:00:59.141Z
 >
-> Good morning ブルスコ
+> Latest blog post from @jay.bsky.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T09:19:47.183Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:14:21.411Z
 >
-> Twitter従業員だけが知る秘密をアカウント作成寺に提出する必要があるので完全に閉ざされた空間です
+> DartでReactを使えるようにしてくれないかな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T09:00:57.641Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-30T23:12:57.261Z
 >
-> ちなみにイーロン・マスクに首を切られたTweepsが集まるMastodonインスタンスはこちらです
-
-https://macaw.social
+> React使うとFlutter for Webはやっぱりおもちゃに見える
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
