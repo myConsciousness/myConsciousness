@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T02:20:33.896Z
+>
+> 自衛隊式懸垂はきついけど間違いなくパンプアップを実感できる
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T01:51:50.362Z
 >
 > And even better than Twitter :)
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T00:28:34.085Z
 >
 > Have a nice trip ✌️
-
----
-
-> wwwjim @jim.bsky.social 2023-03-31T00:22:09.375Z
->
-> good morning from Kyoto 🌸
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
