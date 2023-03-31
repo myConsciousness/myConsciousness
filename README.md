@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T17:23:43.891Z
+>
+> おやすみでスカイ
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T17:03:11.865Z
+>
+> Yes of course, please send me an email :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T12:34:42.978Z
 >
 > たくさん貰ったコードが余ってるだけです！
@@ -209,20 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > My Bluesky from Salzburg to Vienna from the window seat. 
 
 Fun fact: I hate window seats 💺 on the plane ✈️ purely cause I wanna reach freely the exit, the loo and stewards without taking permission to move from my seating neighbor. Who else does that?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T08:22:15.432Z
->
-> Hi, how many do you need? Please send me a mail with count :)
-
-contact@shinyakato.dev
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T05:55:49.884Z
->
-> 東海地方から関東地方を動き回ってる流浪人にミートアップ参加の選択肢はなかった
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
