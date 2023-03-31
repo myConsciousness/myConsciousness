@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T12:34:42.978Z
+>
+> たくさん貰ったコードが余ってるだけです！
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T08:24:45.471Z
 >
 > I want a mobile app to test APIs like CLI app. Then what? I have to create it 🤔
@@ -217,12 +223,6 @@ contact@shinyakato.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T05:55:49.884Z
 >
 > 東海地方から関東地方を動き回ってる流浪人にミートアップ参加の選択肢はなかった
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T03:22:32.648Z
->
-> 黙示録は近い
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
