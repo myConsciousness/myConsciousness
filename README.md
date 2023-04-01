@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T01:39:50.948Z
+>
+> ハンドルだけじゃなくてメールアドレスからもセッションを作れるようになったのか
+
+https://github.com/bluesky-social/atproto/pull/492
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T01:35:02.014Z
+>
+> 散髪してスッキリ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T00:39:44.200Z
 >
 > Great work, please sleep now 👍
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Whyrusleeping @why.bsky.world 2023-03-31T23:27:06.027Z
 >
 > 
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-31T23:24:25.968Z
->
-> 30 miles of walking in two days
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:31:38.321Z
->
-> 公式アプリが配信可能になったら切り替える感じか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
