@@ -192,6 +192,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Mark Caldwell @mark-caldwell.com 2023-03-31T22:26:35.193Z
+>
+> For any Apple/Mac fans here, this is great.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T02:40:19.077Z
+>
+> 美味しくないものは外に放り投げるイッヌ
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T02:33:04.178Z
+>
+> とりあえず認知してる変更点をマージした。あとはプロトコルに反映された後に動作確認をする
+
+https://github.com/myConsciousness/atproto.dart/pull/226
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T01:39:50.948Z
 >
 > ハンドルだけじゃなくてメールアドレスからもセッションを作れるようになったのか
@@ -203,24 +223,6 @@ https://github.com/bluesky-social/atproto/pull/492
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T01:35:02.014Z
 >
 > 散髪してスッキリ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T00:39:44.200Z
->
-> Great work, please sleep now 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:37:33.951Z
->
-> インプットの変更は把握してるけど、アウトプットの構造が変わってる可能性があるから実際にデプロイされるまで見えない部分がある
-
----
-
-> Whyrusleeping @why.bsky.world 2023-03-31T23:27:06.027Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
