@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T08:26:25.956Z
+>
+> 南信州のブルスコ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:46:34.445Z
 >
 > たまに出る再現性が不明確なバグ
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Mark Caldwell @mark-caldwell.com 2023-03-31T22:26:35.193Z
 >
 > For any Apple/Mac fans here, this is great.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T02:40:19.077Z
->
-> 美味しくないものは外に放り投げるイッヌ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
