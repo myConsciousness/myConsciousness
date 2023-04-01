@@ -311,9 +311,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Shrouded in a thick atmosphere, Saturn's largest moon Titan really is hard to see. Small particles suspended in the upper atmosphere cause an almost impenetrable haze, strongly scattering light at visible wavelengths and hiding Titan's surface features from prying eyes. But Titan's surface is better imaged at infrared wavelengths where scattering is weaker and atmospheric absorption is reduced. Arrayed around this visible light image (center) of Titan are some of the clearest global infrared views of the tantalizing moon so far. In false color, the six panels present a consistent processing of 13 years of infrared image data from the Visual and Infrared Mapping Spectrometer (VIMS) on board the Cassini spacecraft orbiting Saturn from 2004 to 2017. They offer a stunning comparison with Cassini's visible light view. NASA's revolutionary rotorcraft mission to Titan is due to launch in 2027.
-> ![APOD](https://apod.nasa.gov/apod/image/2303/PIA21923_fig1SeeingTitan1024.jpg)
-
+> Distorted galaxy NGC 2442 can be found in the southern constellation of the flying fish, (Piscis) Volans. Located about 50 million light-years away, the galaxy's two spiral arms extending from a pronounced central bar give it a hook-shaped appearance in this deep colorful image, with spiky foreground stars scattered across the telescopic field of view. The image also reveals the distant galaxy's obscuring dust lanes, young blue star clusters and reddish star forming regions surrounding a core of yellowish light from an older population of stars. But the star forming regions seem more concentrated along the drawn-out (upper right) spiral arm. The distorted structure is likely the result of an ancient close encounter with the smaller galaxy seen near the top left of the frame. The two interacting galaxies are separated by about 150,000 light-years at the estimated distance of NGC 2442.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/NGC2442-NicolasROLLAND_signatur1024.jpg)
+> &copy; Nicolas Rolland
 
 ---
 <!-- APOD:END -->
