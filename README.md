@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:46:34.445Z
+>
+> たまに出る再現性が不明確なバグ
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:43:34.240Z
+>
+> 暑い… 春の気温じゃないぞこれ…
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:35:21.843Z
+>
+> お出かけ前に庭で日光浴
+
+---
+
 > Mark Caldwell @mark-caldwell.com 2023-03-31T22:26:35.193Z
 >
 > For any Apple/Mac fans here, this is great.
@@ -201,28 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T02:40:19.077Z
 >
 > 美味しくないものは外に放り投げるイッヌ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T02:33:04.178Z
->
-> とりあえず認知してる変更点をマージした。あとはプロトコルに反映された後に動作確認をする
-
-https://github.com/myConsciousness/atproto.dart/pull/226
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T01:39:50.948Z
->
-> ハンドルだけじゃなくてメールアドレスからもセッションを作れるようになったのか
-
-https://github.com/bluesky-social/atproto/pull/492
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T01:35:02.014Z
->
-> 散髪してスッキリ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
