@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T14:20:35.990Z
+>
+> 起きた時に破壊されてることを祈り就寝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T13:51:57.961Z
 >
 > そろそろApp Storeの審査が通ったところか？
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T11:19:18.476Z
 >
 > リンクになってない・・・
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T11:17:19.577Z
->
-> @yui.bsky.social /card
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
