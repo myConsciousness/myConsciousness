@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T10:51:07.875Z
+>
+> こちら自然状態
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T08:26:25.956Z
 >
 > 南信州のブルスコ
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:35:21.843Z
 >
 > お出かけ前に庭で日光浴
-
----
-
-> Mark Caldwell @mark-caldwell.com 2023-03-31T22:26:35.193Z
->
-> For any Apple/Mac fans here, this is great.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
