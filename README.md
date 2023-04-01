@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:59:17.655Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:37:33.951Z
 >
-> こっちも夜まで不在
+> インプットの変更は把握してるけど、アウトプットの構造が変わってる可能性があるから実際にデプロイされるまで見えない部分がある
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:53:29.081Z
+> Whyrusleeping @why.bsky.world 2023-03-31T23:27:06.027Z
 >
-> Good morning ブルスコ
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:52:32.249Z
+> Whyrusleeping @why.bsky.world 2023-03-31T23:24:25.968Z
 >
-> 権威主義のイーロンマスクにとって公平さとか1ミリも興味ないだろうけど
+> 30 miles of walking in two days
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:50:39.412Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:31:38.321Z
 >
-> 面白くなってきた
+> 公式アプリが配信可能になったら切り替える感じか
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T22:49:35.913Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:29:23.901Z
 >
-> 破壊的変更がmainにマージされたのでプロトコルにデプロイされ次第サードパーティはしばらく休止します
-
-https://github.com/bluesky-social/atproto/tree/main/lexicons/app/bsky
+> test via cli
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
