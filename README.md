@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T11:20:28.068Z
+>
+> これでいいのか
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T11:20:15.192Z
+>
+> @yui.bsky.social /card
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T11:19:18.476Z
+>
+> リンクになってない・・・
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T11:17:19.577Z
+>
+> @yui.bsky.social /card
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T10:51:07.875Z
 >
 > こちら自然状態
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T08:26:25.956Z
->
-> 南信州のブルスコ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:46:34.445Z
->
-> たまに出る再現性が不明確なバグ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:43:34.240Z
->
-> 暑い… 春の気温じゃないぞこれ…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T03:35:21.843Z
->
-> お出かけ前に庭で日光浴
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
