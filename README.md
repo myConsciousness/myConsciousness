@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T00:39:44.200Z
+>
+> Great work, please sleep now 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:37:33.951Z
 >
 > インプットの変更は把握してるけど、アウトプットの構造が変わってる可能性があるから実際にデプロイされるまで見えない部分がある
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:31:38.321Z
 >
 > 公式アプリが配信可能になったら切り替える感じか
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-03-31T23:29:23.901Z
->
-> test via cli
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
