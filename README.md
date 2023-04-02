@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Whyrusleeping @why.bsky.world 2023-04-02T00:25:58.152Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:45:31.573Z
 >
-> Ferry to Naoshima today
+> おやすみでスカイ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T00:07:19.345Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:25:09.716Z
 >
-> @yui.bsky.social /card
+> ドッグランで遊び疲れたもよう
 
 ---
 
-> wwwjim @jim.bsky.social 2023-04-01T22:16:20.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:23:12.833Z
 >
-> good morning ☀️ 
-
-last night I found a matcha churro with @why.bsky.social and it was the best churro I have ever had.
+> 天気だけ良ければ最高だった
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T22:15:39.913Z
+> Thomas Pockrandt @tho.bsky.social 2023-04-02T11:13:36.781Z
 >
-> 招待コードが本当に使われたかどうかを確認するエンドポイントが欲しい
+> Open sourcing a ranking algorithm promotes transparency, but it also serves as an open rulebook. If you don't comply, others may be seen more than you.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T22:07:55.378Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:17:48.888Z
 >
-> Good morning ブルスコ
+> 晴れてれば最高に映えた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
