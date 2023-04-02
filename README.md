@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Renata Diem @renatadiem.bsky.social 2023-04-02T13:24:41.888Z
+>
+> Pinball Space
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:45:31.573Z
 >
 > おやすみでスカイ〜
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Thomas Pockrandt @tho.bsky.social 2023-04-02T11:13:36.781Z
 >
 > Open sourcing a ranking algorithm promotes transparency, but it also serves as an open rulebook. If you don't comply, others may be seen more than you.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:17:48.888Z
->
-> 晴れてれば最高に映えた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
