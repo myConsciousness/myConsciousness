@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Whyrusleeping @why.bsky.world 2023-04-02T00:25:58.152Z
+>
+> Ferry to Naoshima today
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T00:07:19.345Z
+>
+> @yui.bsky.social /card
+
+---
+
 > wwwjim @jim.bsky.social 2023-04-01T22:16:20.879Z
 >
 > good morning ☀️ 
@@ -209,18 +221,6 @@ last night I found a matcha churro with @why.bsky.social and it was the best chu
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-01T22:07:55.378Z
 >
 > Good morning ブルスコ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T22:07:42.968Z
->
-> こちら自然状態
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-01T14:20:35.990Z
->
-> 起きた時に破壊されてることを祈り就寝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
