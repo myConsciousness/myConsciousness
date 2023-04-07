@@ -192,33 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T10:00:41.289Z
+> سیــخ سیخی ✓⃝ @sikhsikhi.bsky.social 2023-04-07T11:44:03.873Z
 >
-> 皆さんMeetup楽しんでください、ほな…
+> حالا که یه چیزی خوب رو دولوپ کردین، یه عرقی نخوریم؟
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T10:00:00.255Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T11:42:11.841Z
 >
-> 仕事の後に静岡に移動するどころじゃないぜ
+> プレゼンありがとうございました！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T09:57:32.151Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T11:41:28.087Z
 >
-> 【悲報】障害対応で27時までの残業が決定してしまう
+> 仕事抜け出してこっそり見たらもうプレゼンが終わってた
 
 ---
 
-> chadkoh @chadkohalyk.com 2023-04-07T01:35:08.254Z
+> kogure🪬 @kogure.bsky.social 2023-04-07T11:35:03.420Z
 >
-> On the Shinkansen heading to Tokyo for the Bluesky meet up. Hope to see a bunch of you there!
+> 日本人開発者プレゼン終わり！
+最高でした！
+
+ポールさん「全て素晴らしい！」
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T03:37:21.007Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T11:40:29.734Z
 >
-> おはスコ〜
+> 🙌🙌🙌
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
