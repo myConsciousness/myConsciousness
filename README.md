@@ -192,36 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:50:13.623Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:48:18.858Z
 >
-> サードパーティでこちらもありますよ〜
-
-https://klearsky.pages.dev/#/home
+> AT Protocolが安定版になった時からが本番
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:39:11.446Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:44:58.363Z
 >
-> "空"ではなく監獄に拉致されるTwitterユーザー
+> APIだとミュートだけ特殊なんだよな
 
 ---
 
-> Nighthaven🌰 @nighthaven.bsky.social 2023-04-07T00:33:59.923Z
+> 周子愉 Fausto Chou @faustochou.eatnews.net 2023-04-07T01:28:15.501Z
 >
-> 日本語訳（In Japanese）
-“Yo. 新たに“空”に上がってきたみんな、ブルスコしてるかい？　ようやくみんな集まりやがったな！　ここは今，祝祭《パーティー》の真っ最中だ．靴は玄関に置いてくれ．コーラとチートスはキッチンにあるから勝手にもっていきやがってくれ！”
+> Twitter Verified has officially unfollowed everyone!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:35:33.458Z
+> Nighthaven🌰 @nighthaven.bsky.social 2023-04-07T00:57:09.739Z
 >
-> おはようございます〜
+> The yesterday
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:29:24.754Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:03:21.686Z
 >
-> Yo. みんなブルスコしてるかい？
+> 若かりし頃のJackと最近のJack、なにが彼をここまで変えてしまったのか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
