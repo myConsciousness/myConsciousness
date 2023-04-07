@@ -192,36 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T12:12:33.239Z
+>
+> Thank you so much, I will invest all my best in AT Protocol! 😁👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T12:06:07.836Z
+>
+> さて、私は仕事に戻ります…
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T12:04:45.102Z
+>
+> @jay.bsky.social @jim.bsky.social @why.bsky.world @pfrazee.com @chadkohalyk.com 
+
+Thank you for the opportunity to host this meetup in Japan. Unfortunately I could not attend due to work, but I'm very much looking forward to the future development of AT Protocol! 🙌
+
+---
+
+> wwwjim @jim.bsky.social 2023-04-07T11:45:56.411Z
+>
+> Awesome end of meetup speech by @why.bsky.world 😍
+
+---
+
 > سیــخ سیخی ✓⃝ @sikhsikhi.bsky.social 2023-04-07T11:44:03.873Z
 >
 > حالا که یه چیزی خوب رو دولوپ کردین، یه عرقی نخوریم؟
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T11:42:11.841Z
->
-> プレゼンありがとうございました！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T11:41:28.087Z
->
-> 仕事抜け出してこっそり見たらもうプレゼンが終わってた
-
----
-
-> kogure🪬 @kogure.bsky.social 2023-04-07T11:35:03.420Z
->
-> 日本人開発者プレゼン終わり！
-最高でした！
-
-ポールさん「全て素晴らしい！」
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T11:40:29.734Z
->
-> 🙌🙌🙌
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
