@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T12:12:33.239Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:48:06.812Z
 >
-> Thank you so much, I will invest all my best in AT Protocol! 😁👍
+> Ohhh then it's already potentially implementable 👀 It's very exciting to think that what we can do with Bluesky can be applied to other services in different formats!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T12:06:07.836Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:36:26.313Z
 >
-> さて、私は仕事に戻ります…
+> app.atgramみたいな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T12:04:45.102Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:34:26.637Z
 >
-> @jay.bsky.social @jim.bsky.social @why.bsky.world @pfrazee.com @chadkohalyk.com 
-
-Thank you for the opportunity to host this meetup in Japan. Unfortunately I could not attend due to work, but I'm very much looking forward to the future development of AT Protocol! 🙌
+> 動画主体のTikTokとかはまだATPではできなさそうだけど、Instagramみたいに画像主体のサービスであれば細かい点は抜きにしてもうAT Protocol上に作れそうだなと思いました
 
 ---
 
-> wwwjim @jim.bsky.social 2023-04-07T11:45:56.411Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:31:19.370Z
 >
-> Awesome end of meetup speech by @why.bsky.world 😍
+> なんかフォロー溜まってるので休憩時間中にフォローバックしていきます
 
 ---
 
-> سیــخ سیخی ✓⃝ @sikhsikhi.bsky.social 2023-04-07T11:44:03.873Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:29:57.887Z
 >
-> حالا که یه چیزی خوب رو دولوپ کردین، یه عرقی نخوریم؟
+> You, Bluesky Japan作っちゃいなよ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
