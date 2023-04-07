@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T02:29:28.063Z
+>
+> 関東も降り出しそうだな
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:48:18.858Z
 >
 > AT Protocolが安定版になった時からが本番
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Nighthaven🌰 @nighthaven.bsky.social 2023-04-07T00:57:09.739Z
 >
 > The yesterday
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:03:21.686Z
->
-> 若かりし頃のJackと最近のJack、なにが彼をここまで変えてしまったのか
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
