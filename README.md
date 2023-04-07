@@ -192,35 +192,34 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T15:47:42.767Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T16:59:52.504Z
 >
-> Hello new Bluesky friends, welcome! :)
+> 仕事終わったので、おやすみでスカイ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T15:35:52.896Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T16:58:17.269Z
 >
-> It seems like it will reach 15k users by the end of this month 🤔
+> 「うる星やつら」は私の世代ではないのですが、子供の頃よく行った銭湯のテレビで録画されたものが流されてたのをよく覚えています
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T15:19:59.741Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T16:52:11.388Z
 >
-> 猛暑、大雪、強風大雨の日は障害発生率が上がる
+> Blueskyへようこそ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T15:15:59.762Z
+> 声優の平野文です @fumi23.bsky.social 2023-04-07T16:46:29.446Z
 >
-> ISO8601形式です
-
-2023-04-07T04:43:36.939Z
+> @kogure.bsky.social コグレさんにご紹介いただきこちらにも参加させていただくことになりました。
+金夜23:15からのクラブハウス「平野文のマイクの向こう側」今夜は急遽 @shino3.bsky.social Shino3（しのさん）にもご登壇いただきBlueskyトーク！わかりやすい解説ありがとうございました！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T15:12:59.379Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T16:46:40.538Z
 >
-> そして負けてしまった・・・
+> 予定より1時間早くリカバリが終わりそうだ、よかったなー（瀕死）
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
