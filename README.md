@@ -2,8 +2,8 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 14th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the 10th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 12nd most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the 9th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
 <!-- MY-RANK-IN-GITHUB:END -->
@@ -192,33 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Renata Diem @renatadiem.bsky.social 2023-04-02T13:24:41.888Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:50:13.623Z
 >
-> Pinball Space
+> サードパーティでこちらもありますよ〜
+
+https://klearsky.pages.dev/#/home
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:45:31.573Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:39:11.446Z
 >
-> おやすみでスカイ〜
+> "空"ではなく監獄に拉致されるTwitterユーザー
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:25:09.716Z
+> Nighthaven🌰 @nighthaven.bsky.social 2023-04-07T00:33:59.923Z
 >
-> ドッグランで遊び疲れたもよう
+> 日本語訳（In Japanese）
+“Yo. 新たに“空”に上がってきたみんな、ブルスコしてるかい？　ようやくみんな集まりやがったな！　ここは今，祝祭《パーティー》の真っ最中だ．靴は玄関に置いてくれ．コーラとチートスはキッチンにあるから勝手にもっていきやがってくれ！”
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-02T12:23:12.833Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:35:33.458Z
 >
-> 天気だけ良ければ最高だった
+> おはようございます〜
 
 ---
 
-> Thomas Pockrandt @tho.bsky.social 2023-04-02T11:13:36.781Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T00:29:24.754Z
 >
-> Open sourcing a ranking algorithm promotes transparency, but it also serves as an open rulebook. If you don't comply, others may be seen more than you.
+> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -229,11 +232,11 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
+- 💙 [bluesky_cliでコマンドラインから簡単にBluesky SocialのAPIを叩く](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-cli) (2023-04-04)
 - 💙 [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
 - 💙 [分散型SNSの大本命「Bluesky」をさっそく試してみた](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-social) (2023-03-07)
 - 📙 [【Dart/Flutter】httpパッケージを使ってMultipart形式のリクエストを送る](https://zenn.dev/kato_shinya/articles/how-to-send-multipart-request-with-dart) (2023-02-28)
 - 🤔 [公開した自作OSSを有名にしたいすべてのOSS開発者が実践すべきこと](https://zenn.dev/kato_shinya/articles/why-your-packages-are-not-popular) (2022-11-13)
-- 🎥 [【Dart/Flutter】twitter_api_v2でメディアファイルを簡単にアップロードする方法](https://zenn.dev/kato_shinya/articles/how-to-upload-media-with-twitter-api-v2) (2022-10-31)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
@@ -247,8 +250,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> It was noticed hundreds of years ago by stargazers who could not understand its unusual shape.  It looked like a ring on the sky. Except for the rings of Saturn, the Ring Nebula (M57) may be the most famous celestial circle. We now know what it is, and that its iconic shape is due to our lucky perspective. The recent mapping of the expanding nebula's 3-D structure, based in part on this clear Hubble image,indicates that the nebula is a relatively dense, donut-like ring wrapped around the middle of an (American) football-shaped cloud of glowing gas. Our view from planet Earth looks down the long axis of the football, face-on to the ring. Of course, in this well-studied example of a planetary nebula, the glowing material does not come from planets. Instead, the gaseous shroud represents outer layers expelled from the dying, once sun-like star, now a tiny pinprick of light seen at the nebula's center. Intense ultraviolet light from the hot central star ionizes atoms in the gas. The Ring Nebula is about one light-year across and 2,500 light-years away.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/Ring_HubbleSchmidt_960.jpg)
+> Relativity's Terran 1 Rocket is mostly 3D-printed. It burns a cryogenic rocket fuel composed of liquid methane and liquid oxygen (methalox). In this close-up of a Terran 1 launch on the night of March 22 from Cape Canaveral, icy chunks fall through the stunning frame as intense blue exhaust streams from its nine Aeon 1 engines. In a largely successful flight the inovative rocket achieved main engine cutoff and stage separation but fell short of orbit after an anomaly at the beginning of its second stage flight. Of course this Terran 1 rocket was never intended to travel to Mars. Still, the methane and liquid oxygen components of its methalox fuel can be made solely from materials found on the Red Planet. Methalox manufactured on Mars could be used as fuel for rockets returning to planet Earth.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg)
 
 
 ---
