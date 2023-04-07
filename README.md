@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T22:54:06.526Z
+>
+> Good morning ブルスコ
+
+---
+
 > rby @rby.bsky.social 2023-04-07T17:16:36.259Z
 >
 > Thanks for the invite :)
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-07T17:04:10.351Z
 >
 > 在宅勤務だからこんな時間まで働いてもすぐにベッドにいける、時短だね！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T16:59:52.504Z
->
-> 仕事終わったので、おやすみでスカイ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
