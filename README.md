@@ -192,6 +192,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T14:52:59.435Z
+>
+> そろそろ眠気が来る時間ですが私の仕事はまだ終わっていません ✌️
+
+---
+
+> Shino3（しのさん） @shino3.bsky.social 2023-04-07T14:00:20.780Z
+>
+> 今日のイベント、写真は10年後に伝説になる
+
+Special thanks.
+@why.bsky.world 
+and Bluesky team.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:48:06.812Z
 >
 > Ohhh then it's already potentially implementable 👀 It's very exciting to think that what we can do with Bluesky can be applied to other services in different formats!
@@ -207,18 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:34:26.637Z
 >
 > 動画主体のTikTokとかはまだATPではできなさそうだけど、Instagramみたいに画像主体のサービスであれば細かい点は抜きにしてもうAT Protocol上に作れそうだなと思いました
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:31:19.370Z
->
-> なんかフォロー溜まってるので休憩時間中にフォローバックしていきます
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T13:29:57.887Z
->
-> You, Bluesky Japan作っちゃいなよ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
