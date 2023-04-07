@@ -33,30 +33,46 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.10.0"
+  at_identifier:
+    dependency: transitive
+    description:
+      name: at_identifier
+      sha256: d188f34129b550a82dcc081e5d4634e50eaf5ec484971e4b3c881a4b09684b33
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
+  at_uri:
+    dependency: transitive
+    description:
+      name: at_uri
+      sha256: "62c35fbaed4c12da971874a3e589e780081caf74fdde52890daea4b0ed4c4cc9"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.3"
   atproto:
     dependency: transitive
     description:
       name: atproto
-      sha256: "248203158cbf93306c45fd96c62c4fe0b905e838cdd5b8b36d607a2e3756c6d1"
+      sha256: da4ad984f2dbe0d1d870526d01f839d5d8751e13c2e9fb378ab36f8db6e504f8
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.1"
+    version: "0.2.3"
   atproto_core:
     dependency: transitive
     description:
       name: atproto_core
-      sha256: "08c5fd2076ff90b9e74dfeab4c608e5b887c47e4a4d2d1dbcbd402fcd0760f98"
+      sha256: "00937c34a913799b125bacf4b3a4d235a5befca37915d88cd1a32331d045f637"
       url: "https://pub.dev"
     source: hosted
-    version: "0.1.0"
+    version: "0.2.1"
   bluesky:
     dependency: "direct main"
     description:
       name: bluesky
-      sha256: ebffdb6f1f5c5a0904efe8b57cca80aed049a038a0e7ac46ddb3a71b133a6379
+      sha256: "557ded824f1b4ffab8bcf8a6a7e7a3b3f62b9a3d213efebf3994b3fa3dd1cdc0"
       url: "https://pub.dev"
     source: hosted
-    version: "0.2.1"
+    version: "0.3.3"
   boolean_selector:
     dependency: transitive
     description:
@@ -265,14 +281,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.0.1"
-  oauth1:
+  nsid:
     dependency: transitive
     description:
-      name: oauth1
-      sha256: bc23d3d5d36ba1cb39ba0f9ad18d29ab08a7c4e06f1d0fa7b2fb9b0225622873
+      name: nsid
+      sha256: "94b1fb7d171d31e12ec12e13de4ee89769c894b3f46e282290163b487ac0e791"
       url: "https://pub.dev"
     source: hosted
-    version: "2.0.0"
+    version: "0.0.3"
   package_config:
     dependency: transitive
     description:
@@ -417,14 +433,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.4.24"
-  twitter_api_v2:
-    dependency: "direct main"
-    description:
-      name: twitter_api_v2
-      sha256: df71222ab23e9c9f97ebece51ab920c0135c995c42695f7c2c841913a367ffb1
-      url: "https://pub.dev"
-    source: hosted
-    version: "4.9.3"
   typed_data:
     dependency: transitive
     description:
@@ -473,6 +481,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.2.0"
+  xrpc:
+    dependency: transitive
+    description:
+      name: xrpc
+      sha256: a1a076d36e34b993f817273a97569c1d0826a8749740e5a76a5e04cf422f84a9
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.6"
   yaml:
     dependency: transitive
     description:
