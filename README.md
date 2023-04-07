@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T02:29:28.063Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T10:00:41.289Z
 >
-> 関東も降り出しそうだな
+> 皆さんMeetup楽しんでください、ほな…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:48:18.858Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T10:00:00.255Z
 >
-> AT Protocolが安定版になった時からが本番
+> 仕事の後に静岡に移動するどころじゃないぜ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T01:44:58.363Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T09:57:32.151Z
 >
-> APIだとミュートだけ特殊なんだよな
+> 【悲報】障害対応で27時までの残業が決定してしまう
 
 ---
 
-> 周子愉 Fausto Chou @faustochou.eatnews.net 2023-04-07T01:28:15.501Z
+> chadkoh @chadkohalyk.com 2023-04-07T01:35:08.254Z
 >
-> Twitter Verified has officially unfollowed everyone!
+> On the Shinkansen heading to Tokyo for the Bluesky meet up. Hope to see a bunch of you there!
 
 ---
 
-> Nighthaven🌰 @nighthaven.bsky.social 2023-04-07T00:57:09.739Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T03:37:21.007Z
 >
-> The yesterday
+> おはスコ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,8 +247,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Relativity's Terran 1 Rocket is mostly 3D-printed. It burns a cryogenic rocket fuel composed of liquid methane and liquid oxygen (methalox). In this close-up of a Terran 1 launch on the night of March 22 from Cape Canaveral, icy chunks fall through the stunning frame as intense blue exhaust streams from its nine Aeon 1 engines. In a largely successful flight the inovative rocket achieved main engine cutoff and stage separation but fell short of orbit after an anomaly at the beginning of its second stage flight. Of course this Terran 1 rocket was never intended to travel to Mars. Still, the methane and liquid oxygen components of its methalox fuel can be made solely from materials found on the Red Planet. Methalox manufactured on Mars could be used as fuel for rockets returning to planet Earth.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/2023-03-22_Terran-1-GLHF_Kraus_thumb.jpg)
+> Brilliant, blue, supergiant star Rigel marks the foot of Orion the Hunter in planet Earth's night. Designated Beta Orionis, it's at the center of this remarkably deep and wide field of view.  Rigel's blue color indicates that it is much hotter than its rival supergiant in Orion the yellowish Betelgeuse (Alpha Orionis), though both stars are massive enough to eventually end their days as core collapse supernovae. Some 860 light-years away, Rigel is hotter than the Sun too and extends to about 74 times the solar radius. That's about the size of the orbit of Mercury. In the 10 degree wide frame toward the nebula rich constellation, the Orion Nebula is at the upper left. To the right of Rigel and illuminated by its brilliant blue starlight lies the dusty Witch Head Nebula. Rigel is part of a multiple star system, though its companion stars are much fainter.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/Rigel_wide1200.jpg)
 
 
 ---
