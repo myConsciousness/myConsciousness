@@ -192,38 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> wwwjim @jim.bsky.social 2023-04-08T02:50:31.017Z
+>
+> Morning coffee
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T02:45:48.962Z
+>
+> ちょっとサーバーが不安定だな
+
+---
+
+> chadkoh @chadkohalyk.com 2023-04-08T02:30:53.978Z
+>
+> Got my シャケ弁 (and some 胡麻卵 black sesame eggs) and bulleting back to Kyoto now. Thanks Tokyo! 👋
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T02:43:15.869Z
+>
+> https://www.takayamasatou.com/smartphone/detail.html?id=000000000069
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-07T23:32:45.134Z
 >
 > 俺には聞こえる. AT Protocol 上で分散するサービスたちの産声が.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T23:18:54.325Z
->
-> さて、私は高速道路を使って移動します
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T23:18:06.095Z
->
-> ありがとうでスカイ〜✌️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T23:15:22.044Z
->
-> Good night there! 🤝
-
----
-
-> Paul Frazee✌️ @pfrazee.com 2023-04-07T22:56:27.708Z
->
-> 📢 1.15 update!
-
-🔹 Display names can no longer render check mark emojis so you can't fake being verified.
-🔹 Fixed posts for people with numbers at the start of their handles.
-🔹 Fixed a bug where you couldn't post if you mention a non-existent user
-🔹 The "loading" spinner is now positioned correctly.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
