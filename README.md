@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T14:00:09.829Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T15:00:02.139Z
 >
-> 今ATプロトコルをベースにした新サービスに一番近いのはboobee.blueだと思ってる
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T13:55:46.129Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T14:34:28.043Z
 >
-> Yaaaaay
+> しまった、日付が変わったらカード引かないと・・・
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T13:52:58.811Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T14:33:46.680Z
 >
-> 久しぶりに見かけた人はPostの内容にかかわらずLike押します
+> 一般向けにはなんでもいいのでATプロトコルをベースにしたBluesky以外のサービスが出てこないと違いが見えてこなそうですね〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T13:51:52.042Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T14:30:52.501Z
 >
-> Yo. みんなブルスコしてるかい？
+> 皆さん、おやスカ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T13:31:12.620Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T14:29:14.510Z
 >
-> 私がこっそり数人ほど拉致してきました・・・
+> おつかれでスカイ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
