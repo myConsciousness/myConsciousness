@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:58:34.192Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T09:58:44.351Z
 >
-> 入力と出力の標準的な「約束事」という理解で合ってます！細かい点を抜きにすると、ATプロトコルはHTTPというプロトコルをベースにしていまして、Blueskyのようなサービスを構築しやすいようにHTTPの仕様をさらに洗練したものになります
+> これからの開発に期待ですね！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:48:03.735Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T09:34:26.795Z
 >
-> 厨房の頃にFC2ブログやってなかったら今頃プログラマーやってなかったかもしれんね
+> AT Protocol上にTinderみたいなの作ったら面白そうだなとちょっと考えました（治安悪化）
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:46:18.406Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T09:26:52.670Z
 >
-> 当時厨房だった私はFC2ブログのテンプレートカスタマイズでHTMLとCSSなどを学びました
+> 今のAPIでも頑張ればできなくもないですけど、ストリーミング系のAPIが公式から提供されてないので現状はないと思いますね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:44:50.086Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T09:19:47.033Z
 >
-> 2007年頃はニコニコとmixiの勢いがけっこうあったような記憶がある
-
-あとFC2ブログ
+> Windows NTの開発を指揮したデヴィッド・カトラーが癇癪を起こすたびに壁に穴を開けてたから、Microsoftの新しいビルは全部屋をコンクリート打ちっぱなしにして穴を開けられないようにしたとかいう話好き
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:24:19.508Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T09:15:29.753Z
 >
-> まずい、サーバーが死にかけてる
+> アプリからは今のところ自分のLikeを確認する画面はないですね。ただAPIからは取得できるので、将来的には追加されるかもしれません
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
