@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> chadkoh @chadkohalyk.com 2023-04-08T05:19:11.031Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:58:34.192Z
 >
-> Back home in Kyoto and the flags are out at Higashi Honganji for Hanamatsuri, celebrating the birth of the Buddha
+> 入力と出力の標準的な「約束事」という理解で合ってます！細かい点を抜きにすると、ATプロトコルはHTTPというプロトコルをベースにしていまして、Blueskyのようなサービスを構築しやすいようにHTTPの仕様をさらに洗練したものになります
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T07:52:04.729Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:48:03.735Z
 >
-> This week alone, a very large number of users reached Bluesky. Let's have fun and don't overload the server too much! 😁
+> 厨房の頃にFC2ブログやってなかったら今頃プログラマーやってなかったかもしれんね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T07:45:18.971Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:46:18.406Z
 >
-> 懐かしいTwitterスタッフのプロフィール画像！Bluesky へようこそ〜
+> 当時厨房だった私はFC2ブログのテンプレートカスタマイズでHTMLとCSSなどを学びました
 
 ---
 
-> Masami Kito鬼™️ @masamiiiiiiii.bsky.social 2023-04-07T11:43:13.877Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:44:50.086Z
 >
-> なんか初めてTwitterアカウントを開設した時のようなヨチヨチ感だっ
+> 2007年頃はニコニコとmixiの勢いがけっこうあったような記憶がある
+
+あとFC2ブログ
 
 ---
 
-> Saghar Bahram @sagharia.bsky.social 2023-04-08T06:24:40.838Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T08:24:19.508Z
 >
-> 
+> まずい、サーバーが死にかけてる
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
