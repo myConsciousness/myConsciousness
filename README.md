@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:50:11.466Z
+> chadkoh @chadkohalyk.com 2023-04-08T05:19:11.031Z
 >
-> ブルスコが大衆化した時にはたして原住民たちは生き残れるのか
+> Back home in Kyoto and the flags are out at Higashi Honganji for Hanamatsuri, celebrating the birth of the Buddha
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:44:16.211Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T07:52:04.729Z
 >
-> 主席の顔写真玄関に飾るから許してください🥹
+> This week alone, a very large number of users reached Bluesky. Let's have fun and don't overload the server too much! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:41:24.710Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T07:45:18.971Z
 >
-> 若者の心を掴むものは一体なんなのか。
-
-その謎を解明するため、我々調査隊はTikTokの奥地へと向かった――。
+> 懐かしいTwitterスタッフのプロフィール画像！Bluesky へようこそ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:39:04.822Z
+> Masami Kito鬼™️ @masamiiiiiiii.bsky.social 2023-04-07T11:43:13.877Z
 >
-> おはスカ〜
+> なんか初めてTwitterアカウントを開設した時のようなヨチヨチ感だっ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:17:28.503Z
+> Saghar Bahram @sagharia.bsky.social 2023-04-08T06:24:40.838Z
 >
-> Try it~ 😀
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
