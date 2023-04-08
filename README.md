@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> wwwjim @jim.bsky.social 2023-04-08T02:50:31.017Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:50:11.466Z
 >
-> Morning coffee
+> ブルスコが大衆化した時にはたして原住民たちは生き残れるのか
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T02:45:48.962Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:44:16.211Z
 >
-> ちょっとサーバーが不安定だな
+> 主席の顔写真玄関に飾るから許してください🥹
 
 ---
 
-> chadkoh @chadkohalyk.com 2023-04-08T02:30:53.978Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:41:24.710Z
 >
-> Got my シャケ弁 (and some 胡麻卵 black sesame eggs) and bulleting back to Kyoto now. Thanks Tokyo! 👋
+> 若者の心を掴むものは一体なんなのか。
+
+その謎を解明するため、我々調査隊はTikTokの奥地へと向かった――。
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T02:43:15.869Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:39:04.822Z
 >
-> https://www.takayamasatou.com/smartphone/detail.html?id=000000000069
+> おはスカ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-07T23:32:45.134Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T03:17:28.503Z
 >
-> 俺には聞こえる. AT Protocol 上で分散するサービスたちの産声が.
+> Try it~ 😀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
