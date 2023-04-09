@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:00:00.977Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:20:19.457Z
 >
-> @yui.bsky.social /card
+> 聞こえるかJack.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:19:51.040Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:08:28.783Z
 >
-> おやスコ〜
+> Yes, I agree with you! I have stopped development of this tool once I see that it may generate a lot of unnecessary postings 😅
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:19:32.300Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:03:13.446Z
 >
-> おやすみでスカイ〜
+> 今月の運を使い果たしてしまったかもしれん
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:19:11.716Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:01:57.543Z
 >
-> おやすみでスカイ〜
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:18:48.679Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:01:23.512Z
 >
-> おやスコ〜
+> キターーーー
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
