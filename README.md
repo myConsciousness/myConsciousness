@@ -192,34 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:57:07.037Z
+> Shorty @shorty.dkl.jp 2023-04-09T09:42:51.159Z
 >
-> 数パターン検証してわかった。deleteRecordせずに連投した場合はアップサートで前回作成したレコードを上書きしてる
+> 『これまでMastodon、Misskey、Nostrといったサービスが注目を集めてきましたが、ここ数日は「Bluesky」の話題で持ちきりとなっています。』
+
+ほんとかいな
+
+https://news.yahoo.co.jp/byline/yamaguchikenta/20230409-00344869
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:50:07.109Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T09:53:22.501Z
 >
-> この状態で1件だけdeleteRecordしたら両方消えるのか？
+> 今のところよくわからないのはBLOBの旧フォーマットがレスポンスに混ざってるのが正しい状態かどうかなんだよな。少なくとも破壊後に投稿されたポストには旧フォーマットは残ってない
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:48:29.643Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T09:50:32.018Z
 >
-> Likeを同じ投稿に2連投してもエラーにはならなくて、それでLikeを取得するAPIはちゃんと1件分だけを返すんだけど、Likeした時のレスポンス見る限りだとデータベース上は２レコードできてるはず
+> テストデータ集めるために言語関係なくフォローしまくってるのにタイムラインにいるメンツがほとんど同じで本当に草
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:42:23.504Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T09:45:54.546Z
 >
-> {"uri":"at://did:plc:iijrtk7ocored6zuziwmqq3c/app.bsky.feed.like/3jswgvil5b22g","cid":"bafyreid7kvfqkssndetbiw7e7zm4lxdi4bdxc3ke4mnuvltcx5mhioxnim"}
-{"uri":"at://did:plc:iijrtk7ocored6zuziwmqq3c/app.bsky.feed.like/3jswgvszy422k","cid":"bafyreiay2sp2ahide7mnrbeczjzg5fcwtky5eckdgba2y7wo66k3h7hnqe"}
+> “空”で待ってるぜ.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:39:43.031Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T09:43:07.170Z
 >
-> test record
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
