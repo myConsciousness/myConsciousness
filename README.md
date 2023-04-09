@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T10:59:48.068Z
+> chadkoh @chadkohalyk.com 2023-04-09T11:57:33.904Z
 >
-> Google Domainsへようこそ...
+> My wife and daughter brought home some stones from the magical sunset beach we were at in Tanegashima. They put them in the art nook. 
+
+I just HAD to add the final touch. 
+
+IYKYK
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T10:58:36.537Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T11:55:30.976Z
 >
-> そのとおりです！
+> 対戦したくて震える
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T10:58:06.206Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T11:54:16.206Z
 >
-> かといってindexedAtが指定可能な引数になるとは思えないしなー
+> 対戦はリセットされてないのか
 
 ---
 
-> Wangdora @wangdora.jp 2023-04-09T10:53:40.737Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T11:52:47.694Z
 >
-> 誰か、次の破壊を三行で説明頼む
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T10:56:11.880Z
+> うるし @uakihir0.bsky.social 2023-04-09T11:35:51.109Z
 >
-> どうせインポートするならTweetが投稿された日付まで再現したいよね
+> カードバトル、限定キラカードのおかげで勝てました！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
