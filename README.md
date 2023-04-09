@@ -192,46 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Koji @koji.bsky.social 2023-04-09T05:58:40.270Z
+> Nighthaven⛺ @nighthaven.bsky.social 2023-04-09T07:49:27.341Z
 >
-> A list of Japanese developers introduced at the Tokyo meetup
-@penpenpng.bsky.social
-@louis.bsky.social
-@shino3.bsky.social
-@holybea.bsky.social
-@mimonelu.bsky.social
-@omi.bsky.social
-@syui.bsky.social
-@uakihir0.bsky.social
-@mattn.bsky.social
-@shinyakato.dev
-@c-stellar.net
+> The sky destroyer
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T03:47:40.608Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:47:51.443Z
 >
-> おはスカ〜
+> 本物の破壊者になりかねない
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T03:47:28.468Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:47:30.597Z
 >
-> おはスカ〜
+> このサーバーの状態でツイートのインポートツールを作っていいものなのか
 
 ---
 
-> KingYoSun @kingyosun.bsky.social 2023-04-09T03:42:45.447Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:45:43.886Z
 >
-> ブロックはもっと難しくてPDSにまかせるようにしてしまうとブロック処理をあえてバイパスする悪意あるPDSを立てられたら抜けられてしまう
-かといって全ての検索サーバーでのブロック設定同期を確保するのも難しい
-そもそもストーキングレベルまで想定するなら監視用アカウントで簡単に抜けられるんでどっかで妥協する必要がある
+> “破壊”
 
 ---
 
-> 甘夏みかん @amanatsu-mikan.bsky.social 2023-04-09T03:44:17.267Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:45:14.439Z
 >
-> 個人的にはTwitterであったキーワードで一括ブロックできるのがこっちでも使いたいなーって思ってる　いわゆる**活系のやつとか出会い系とか本当に嫌いで事前に打てる手は打ちたい派なので…そういうのもこっちでまた開発されて欲しいし、今回ので閉鎖を被ったAPI関係開発の方々もこっちでまた色々開発して欲しいな　あれは財産だよ
+> こちら自然状態.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
