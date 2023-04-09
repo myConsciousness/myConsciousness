@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Emily @emilyliu.me 2023-04-09T20:45:02.447Z
+>
+> @why.bsky.world is a 10x engineer and needs that many laptops too
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:20:19.457Z
 >
 > 聞こえるかJack.
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:01:57.543Z
 >
 > @yui.bsky.social /card -b
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:01:23.512Z
->
-> キターーーー
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
