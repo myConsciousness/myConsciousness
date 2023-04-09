@@ -192,33 +192,34 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Nighthaven⛺ @nighthaven.bsky.social 2023-04-09T07:49:27.341Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:57:07.037Z
 >
-> The sky destroyer
+> 数パターン検証してわかった。deleteRecordせずに連投した場合はアップサートで前回作成したレコードを上書きしてる
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:47:51.443Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:50:07.109Z
 >
-> 本物の破壊者になりかねない
+> この状態で1件だけdeleteRecordしたら両方消えるのか？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:47:30.597Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:48:29.643Z
 >
-> このサーバーの状態でツイートのインポートツールを作っていいものなのか
+> Likeを同じ投稿に2連投してもエラーにはならなくて、それでLikeを取得するAPIはちゃんと1件分だけを返すんだけど、Likeした時のレスポンス見る限りだとデータベース上は２レコードできてるはず
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:45:43.886Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:42:23.504Z
 >
-> “破壊”
+> {"uri":"at://did:plc:iijrtk7ocored6zuziwmqq3c/app.bsky.feed.like/3jswgvil5b22g","cid":"bafyreid7kvfqkssndetbiw7e7zm4lxdi4bdxc3ke4mnuvltcx5mhioxnim"}
+{"uri":"at://did:plc:iijrtk7ocored6zuziwmqq3c/app.bsky.feed.like/3jswgvszy422k","cid":"bafyreiay2sp2ahide7mnrbeczjzg5fcwtky5eckdgba2y7wo66k3h7hnqe"}
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T07:45:14.439Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T08:39:43.031Z
 >
-> こちら自然状態.
+> test record
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
