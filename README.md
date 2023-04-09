@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T00:17:39.522Z
+>
+> すごい、1400円で計算してもほぼ５、６万ですね 😳
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T00:01:46.357Z
+>
+> ドメインコレクターや！👀
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:32:41.343Z
 >
 > PythonのコードはChatGPTを使ってDartに変換する
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:26:01.951Z
 >
 > Yes I'm from Japan and living :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:25:28.204Z
->
-> Twitterのアーカイブデータをリクエストするところから始める
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:24:35.777Z
->
-> Hi Adam! 👋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
