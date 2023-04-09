@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T21:59:41.152Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T22:53:29.694Z
 >
-> Morning there! 😁
+> こちら自然状態.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T21:56:40.313Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T22:48:18.667Z
 >
-> あの人はリアルの問題解決に忙しい感じですねー
+> This Skoot will be a legend in the future 😂👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T21:55:00.454Z
+> Jik🃏 @jik.wtf 2023-04-09T22:46:30.119Z
 >
-> lol This is a very interesting contrast!
+> First bluesky merch!
+
+Some of our newer users may not realize that bluesky posts are officially known as “Skoots”!
+
+Fun!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T21:34:26.953Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T22:41:02.138Z
 >
-> GM! 🙌
+> lol I’ll drink it! 😁👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T21:32:47.406Z
+> Chris Hahn @newmodernscience.com 2023-04-09T22:38:16.347Z
 >
-> Good morning! 😁
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
