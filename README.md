@@ -192,37 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> chadkoh @chadkohalyk.com 2023-04-09T11:57:33.904Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:29:12.450Z
 >
-> My wife and daughter brought home some stones from the magical sunset beach we were at in Tanegashima. They put them in the art nook. 
-
-I just HAD to add the final touch. 
-
-IYKYK
+> 自分の招待コード使ってサブ垢を作るしかないですね~
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T11:55:30.976Z
+> Don @nikolat.bsky.social 2023-04-09T12:26:40.755Z
 >
-> 対戦したくて震える
+> AT Protocolのデモが終わったらBlueskyは最後に爆破してもらいたい
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T11:54:16.206Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:27:51.021Z
 >
-> 対戦はリセットされてないのか
+> インポートについてベストなのは公式でindexedAtを直接書き込める引越し専用ツールを用意すること
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T11:52:47.694Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:19:19.743Z
 >
-> @yui.bsky.social /card -b
+> Hi @pfrazee.com !
+
+If we were to import our Tweets into Bluesky from an archive file, would the server be able to withstand it?
+
+Also, the official Bluesky app uses indexedAt as the basis for dates, but we need to use createdAt if we “import” them strictly. Is it possible to solve this problem? 🤔
 
 ---
 
-> うるし @uakihir0.bsky.social 2023-04-09T11:35:51.109Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:07:10.858Z
 >
-> カードバトル、限定キラカードのおかげで勝てました！
+> UMASOU
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
