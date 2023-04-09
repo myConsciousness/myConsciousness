@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T22:55:04.167Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:32:41.343Z
 >
-> Wow Japanese books 👀
+> PythonのコードはChatGPTを使ってDartに変換する
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T22:49:42.824Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:26:35.554Z
 >
-> 皆けっこう自分のドメイン持ってるんだな
+> Hi there! 👋
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T22:48:06.939Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:26:01.951Z
 >
-> おはスカ〜
+> Yes I'm from Japan and living :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T22:47:13.362Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:25:28.204Z
 >
-> キンギョ=サンの功績を宣伝
+> Twitterのアーカイブデータをリクエストするところから始める
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T22:45:26.683Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-08T23:24:35.777Z
 >
-> 既に @kingyosun.bsky.social が個人でPDSを立てることに成功しているので、以下のドキュメントも読んでみてください！
-
-https://github.com/KingYoSun/atproto-aws
+> Hi Adam! 👋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
