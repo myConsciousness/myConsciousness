@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:29:12.450Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T15:00:00.977Z
 >
-> 自分の招待コード使ってサブ垢を作るしかないですね~
+> @yui.bsky.social /card
 
 ---
 
-> Don @nikolat.bsky.social 2023-04-09T12:26:40.755Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:19:51.040Z
 >
-> AT Protocolのデモが終わったらBlueskyは最後に爆破してもらいたい
+> おやスコ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:27:51.021Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:19:32.300Z
 >
-> インポートについてベストなのは公式でindexedAtを直接書き込める引越し専用ツールを用意すること
+> おやすみでスカイ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:19:19.743Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:19:11.716Z
 >
-> Hi @pfrazee.com !
-
-If we were to import our Tweets into Bluesky from an archive file, would the server be able to withstand it?
-
-Also, the official Bluesky app uses indexedAt as the basis for dates, but we need to use createdAt if we “import” them strictly. Is it possible to solve this problem? 🤔
+> おやすみでスカイ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T12:07:10.858Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T14:18:48.679Z
 >
-> UMASOU
+> おやスコ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
