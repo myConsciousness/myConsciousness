@@ -192,6 +192,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T10:53:53.182Z
+>
+> create操作のAPIがなんでも入れられる仕様なので、おそらくアプリ側の制御の問題のような気がしますね。プロフィールのユーザーが自分かどうかを意識しないといけないです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T10:31:53.919Z
+>
+> test-use record
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T10:03:19.177Z
+>
+> これやっぱり com.atproto.repo.createRecordで重複レコード作れるのが問題なのでは
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T10:01:45.785Z
+>
+> ありがとうございます👍
+
+---
+
 > daniel 🫠 @dholms.xyz 2023-04-10T06:49:23.905Z
 >
 > we have several things roadmapped for the short term:
@@ -202,34 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 - DMs
 
 but we're pretty light on our feet & shift priorities as we feel the need
-
----
-
-> Daniel @growingdaniel.bsky.social 2023-04-10T05:39:28.576Z
->
-> Babe wake up jstn is here
-
----
-
-> KingYoSun @kingyosun.bsky.social 2023-04-10T07:30:06.095Z
->
-> DM別実装で思いついたけど確かに別実装できるわ
-ログインがplcサーバー依存だから1on1なメッセージングアプリを別で立ち上げるのは可能っすね
-big world不要だからATProtocolみがあんまり無いから思いつかなんだ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T07:50:31.115Z
->
-> @pfrazee.com 
-
-This also occurs on my follower and following screen. Not always, but when I scroll down the screen, the same users appear 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T07:45:42.667Z
->
-> Thanks, you too! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
