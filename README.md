@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T15:00:01.895Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T15:35:26.032Z
 >
-> @yui.bsky.social /card
+> 黒幕はJack
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:57:09.577Z
+> Nighthaven⛺ @nighthaven.bsky.social 2023-04-10T15:33:27.664Z
 >
-> せめてカード引かせて
+> ジャック、お前が始めた物語《メンテ》だろ？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:51:50.104Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T15:31:15.939Z
 >
-> What's hotをどれだけ日本語で埋めれば気が済むんだ！
+> Just kidding
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:50:18.465Z
+> kojira @kojira.bsky.social 2023-04-10T15:28:38.022Z
 >
-> 破壊は連鎖する
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:46:48.353Z
+> tmy @tmy.bsky.social 2023-04-10T15:22:30.043Z
 >
-> 次のページないのに謎のカーソルが設定されてますよね
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
