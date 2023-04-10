@@ -192,35 +192,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T06:10:28.012Z
+> daniel 🫠 @dholms.xyz 2023-04-10T06:49:23.905Z
 >
-> Yes it’s my buddy, thanks! 😁
+> we have several things roadmapped for the short term:
+- moderation w/ labels & user choice
+- launching federation & account migration
+- custom 3rd party algos
+- 3rd party labels
+- DMs
+
+but we're pretty light on our feet & shift priorities as we feel the need
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T06:06:43.551Z
+> Daniel @growingdaniel.bsky.social 2023-04-10T05:39:28.576Z
 >
-> Bluesky on holiday.
-
-The ski slopes are the best walking trails in the spring 😎
+> Babe wake up jstn is here
 
 ---
 
-> Daniel @growingdaniel.bsky.social 2023-04-10T03:31:51.054Z
+> KingYoSun @kingyosun.bsky.social 2023-04-10T07:30:06.095Z
 >
-> Already about to apply for a job at bluesky and do the whole bit again
+> DM別実装で思いついたけど確かに別実装できるわ
+ログインがplcサーバー依存だから1on1なメッセージングアプリを別で立ち上げるのは可能っすね
+big world不要だからATProtocolみがあんまり無いから思いつかなんだ
 
 ---
 
-> Daniel @growingdaniel.bsky.social 2023-04-10T02:05:00.430Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T07:50:31.115Z
 >
-> You were different on twitter. You’ve changed
+> @pfrazee.com 
+
+This also occurs on my follower and following screen. Not always, but when I scroll down the screen, the same users appear 🤔
 
 ---
 
-> Daniel @growingdaniel.bsky.social 2023-04-10T02:02:39.022Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T07:45:42.667Z
 >
-> If I’m not 50k by tomorrow morning I’m quitting. Yes this is a threat
+> Thanks, you too! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
