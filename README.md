@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T11:59:22.170Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:52:18.002Z
 >
-> これはもう戦争かもしれんね
+> プロフィール編集を完了した時に初めてindexedAtが打たれるのか？
 
 ---
 
-> うるし @uakihir0.bsky.social 2023-04-10T11:52:37.824Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:49:33.317Z
 >
-> 招待コード渡す時は、cool な人を呼ぶんやで。自分、割と広くTwitter で呼びかけて招待したけど、ちゃんとみんな cool な事を確認して呼んだで。
+> なんだこの中途半端なデータ
+
+{"did":"did:plc:xxxxxxxxxxxxxxxxxxxxxxxx","handle":"xxxxxxxxx.bsky.social","followsCount":3,"followersCount":5,"postsCount":1,"viewer":{"muted":false}}
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T11:55:16.822Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:38:28.938Z
 >
-> 数日待って壊れたファイル送られたらブチギレそうですね
+> 実は潜んでます.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T11:51:27.156Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:37:56.959Z
 >
-> ただこのツールが既にecosystemの一覧に追加されてるんですよね。これは公式も実行してほしいのか...?
-
-https://github.com/bluesky-social/atproto-ecosystem#other-tools
+> indexedAtが設定されていないProfileレコードが存在する？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T11:50:07.310Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:34:27.571Z
 >
-> "破壊"の時間ですね
+> 一切皆苦
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
