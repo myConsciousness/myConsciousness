@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T00:00:06.519Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T01:23:03.089Z
 >
-> We will understand it👍
+> Great job, the possibilities are endless, whether it be a web client or a service with a collection of tools!
 
 ---
 
-> Jay 🦋 @jay.bsky.social 2023-04-09T23:57:27.993Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T01:09:54.172Z
 >
-> ‼️🚨 Important PSA: Bluesky is going down for maintenance at 7am PT tomorrow morning (Monday 4/9) 🚨 ‼️
-
-Will be down for 15-30 min.
-
-We’re doing a lot of work upgrading bsky.social to new infra, so bear with us! Thanks for joining us this early in the journey. 🙏
+> Jack、
 
 ---
 
-> Igor Brigadir @igorbrigadir.bsky.social 2023-04-09T23:43:52.565Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T01:06:54.637Z
 >
-> Ok the vibe on Bluesky right now is like if you go to a house party in a totally different part of town, but suddenly all your friends start arriving
+> It looks so nice start! What features do you plan to add? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T23:54:24.790Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T00:58:31.854Z
 >
-> いい眺めですね〜
+> 本人です！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T23:53:41.472Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T00:53:46.356Z
 >
-> おはスコ〜
+> これ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
