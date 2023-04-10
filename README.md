@@ -192,35 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:52:18.002Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:54:29.850Z
 >
-> プロフィール編集を完了した時に初めてindexedAtが打たれるのか？
+> No, that seems to be the setup to me 🤔 
+
+How long has it been since you made this DNS setting?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:49:33.317Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:50:10.291Z
 >
-> なんだこの中途半端なデータ
-
-{"did":"did:plc:xxxxxxxxxxxxxxxxxxxxxxxx","handle":"xxxxxxxxx.bsky.social","followsCount":3,"followersCount":5,"postsCount":1,"viewer":{"muted":false}}
+> The DID format is like "did=did:plc:iijrtk7ocored6zuziwmqq3c"?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:38:28.938Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:49:25.202Z
 >
-> 実は潜んでます.
+> Oh no, your image is cropped!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:37:56.959Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:47:03.654Z
 >
-> indexedAtが設定されていないProfileレコードが存在する？
+> OAuthは実装予定ですが今のところ優先度は低めです
+
+https://github.com/bluesky-social/atproto/issues/649
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T12:34:27.571Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:44:42.475Z
 >
-> 一切皆苦
+> DIDは今のところカスタムドメインを設定する時かAPIで使う以外に用途はないですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
