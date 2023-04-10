@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:54:29.850Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T15:00:01.895Z
 >
-> No, that seems to be the setup to me 🤔 
-
-How long has it been since you made this DNS setting?
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:50:10.291Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:57:09.577Z
 >
-> The DID format is like "did=did:plc:iijrtk7ocored6zuziwmqq3c"?
+> せめてカード引かせて
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:49:25.202Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:51:50.104Z
 >
-> Oh no, your image is cropped!
+> What's hotをどれだけ日本語で埋めれば気が済むんだ！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:47:03.654Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:50:18.465Z
 >
-> OAuthは実装予定ですが今のところ優先度は低めです
-
-https://github.com/bluesky-social/atproto/issues/649
+> 破壊は連鎖する
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T13:44:42.475Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T14:46:48.353Z
 >
-> DIDは今のところカスタムドメインを設定する時かAPIで使う以外に用途はないですね
+> 次のページないのに謎のカーソルが設定されてますよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
