@@ -192,37 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T22:53:29.694Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T00:00:06.519Z
 >
-> こちら自然状態.
+> We will understand it👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T22:48:18.667Z
+> Jay 🦋 @jay.bsky.social 2023-04-09T23:57:27.993Z
 >
-> This Skoot will be a legend in the future 😂👍
+> ‼️🚨 Important PSA: Bluesky is going down for maintenance at 7am PT tomorrow morning (Monday 4/9) 🚨 ‼️
+
+Will be down for 15-30 min.
+
+We’re doing a lot of work upgrading bsky.social to new infra, so bear with us! Thanks for joining us this early in the journey. 🙏
 
 ---
 
-> Jik🃏 @jik.wtf 2023-04-09T22:46:30.119Z
+> Igor Brigadir @igorbrigadir.bsky.social 2023-04-09T23:43:52.565Z
 >
-> First bluesky merch!
-
-Some of our newer users may not realize that bluesky posts are officially known as “Skoots”!
-
-Fun!
+> Ok the vibe on Bluesky right now is like if you go to a house party in a totally different part of town, but suddenly all your friends start arriving
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T22:41:02.138Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T23:54:24.790Z
 >
-> lol I’ll drink it! 😁👍
+> いい眺めですね〜
 
 ---
 
-> Chris Hahn @newmodernscience.com 2023-04-09T22:38:16.347Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-09T23:53:41.472Z
 >
-> 
+> おはスコ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
