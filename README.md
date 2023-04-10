@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Daniel @growingdaniel.bsky.social 2023-04-10T03:31:51.054Z
+>
+> Already about to apply for a job at bluesky and do the whole bit again
+
+---
+
 > Daniel @growingdaniel.bsky.social 2023-04-10T02:05:00.430Z
 >
 > You were different on twitter. You’ve changed
@@ -213,14 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-10T02:02:56.873Z
 >
 > Blueskyへようこそ〜
-
----
-
-> 鎌倉/kamakura🐦‍⬛ @omi.bsky.social 2023-04-10T01:44:22.953Z
->
-> 公式androidアプリは早ければ数時間、おそらく今日明日中にはリリースされそうな雰囲気
-
-私が作ってるandroidクライアントの青雲の方は開発スピードを落とす予定です。公式アプリとは別の価値を提供できるように、ゆっくり改善していこうと思います〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
