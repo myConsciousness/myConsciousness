@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T01:23:03.089Z
+> Daniel @growingdaniel.bsky.social 2023-04-10T02:05:00.430Z
 >
-> Great job, the possibilities are endless, whether it be a web client or a service with a collection of tools!
+> You were different on twitter. You’ve changed
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T01:09:54.172Z
+> Daniel @growingdaniel.bsky.social 2023-04-10T02:02:39.022Z
 >
-> Jack、
+> If I’m not 50k by tomorrow morning I’m quitting. Yes this is a threat
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T01:06:54.637Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T02:03:51.968Z
 >
-> It looks so nice start! What features do you plan to add? 👀
+> Wow Daniel is finally here! 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T00:58:31.854Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T02:02:56.873Z
 >
-> 本人です！
+> Blueskyへようこそ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T00:53:46.356Z
+> 鎌倉/kamakura🐦‍⬛ @omi.bsky.social 2023-04-10T01:44:22.953Z
 >
-> これ
+> 公式androidアプリは早ければ数時間、おそらく今日明日中にはリリースされそうな雰囲気
+
+私が作ってるandroidクライアントの青雲の方は開発スピードを落とす予定です。公式アプリとは別の価値を提供できるように、ゆっくり改善していこうと思います〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
