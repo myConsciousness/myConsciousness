@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T06:10:28.012Z
+>
+> Yes it’s my buddy, thanks! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T06:06:43.551Z
+>
+> Bluesky on holiday.
+
+The ski slopes are the best walking trails in the spring 😎
+
+---
+
 > Daniel @growingdaniel.bsky.social 2023-04-10T03:31:51.054Z
 >
 > Already about to apply for a job at bluesky and do the whole bit again
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Daniel @growingdaniel.bsky.social 2023-04-10T02:02:39.022Z
 >
 > If I’m not 50k by tomorrow morning I’m quitting. Yes this is a threat
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T02:03:51.968Z
->
-> Wow Daniel is finally here! 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T02:02:56.873Z
->
-> Blueskyへようこそ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
