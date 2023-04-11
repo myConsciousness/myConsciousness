@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:05:17.466Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:41:13.356Z
 >
-> mutedByみたいなプロパティがあったような気がしたんですけど、今改めて見てみたらミュートはAPIからでも認証ユーザー自身がポストやユーザーをミュートしているかどうかしかわからないみたいです！
+> 聞いてはないですけどそうかもしれないですね〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:54:41.810Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:35:43.902Z
 >
-> 今でもミュートされてるかどうかはAPIで丸見えですからね〜
+> rootとparentの表現がちょっとややこしいけど結構面白い仕様だな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:49:03.892Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:33:55.013Z
 >
-> おはスカ〜
+> 理解した
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-11T01:48:15.641Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:32:44.784Z
 >
-> LOOK AT MY CAT THX
+> test record 3
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:44:22.633Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:31:54.788Z
 >
-> クライアント開発戦争になりそうだからここらへんで一旦止めておこう
+> test record 3
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
