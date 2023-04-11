@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:49:11.265Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T13:55:10.318Z
 >
-> Welcome to Bluesky 😁
+> So nice, and it’s already time to sleep 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:46:58.656Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T13:46:05.652Z
 >
-> So nice, you’re already on AT Protocol! 😁
+> It’s just matter of time, you will have codes per 2 weeks since you registered:)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:46:16.978Z
+> Koji @koji.bsky.social 2023-04-11T13:04:47.059Z
 >
-> Woooo maybe you use Bluesky too much?😏 I’m glad you have a chilling day anyway!
+> 先日こんな投稿をさせていただきましたが、このリストを随時メンテして配信していきたいと思ってますので、こんな(日本人)開発者もいるよ！というのがありましたら、是非教えてください。よろしくお願いします。
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:43:29.551Z
+> Palash @palash.co 2023-04-11T13:00:06.475Z
 >
-> Wooo you already tried custom domain! 👍
+> I got invited by @shinyakato.dev too, thanks :))
 
 ---
 
-> Kim @thinkverse.dev 2023-04-11T12:38:02.631Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T13:04:35.303Z
 >
-> Let's share some positivity by thanking @shinyakato.dev for the invite. 🙏
+> Hey there! 👋 Thanks! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
