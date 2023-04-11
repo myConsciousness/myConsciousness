@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Daniel @growingdaniel.bsky.social 2023-04-11T05:13:07.781Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:57:44.281Z
 >
-> The danger for bluesky is right now it’s an invite only social network and me and my friends like it because it’s only people we like but there’s Retard Horde on the horizon and then it won’t be much different than twitter
+> Is Jack in Mastodon in the first place? 🤔
 
 ---
 
-> daniel 🫠 @dholms.xyz 2023-04-11T03:44:00.880Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:53:25.711Z
 >
-> Yup it'll go hand in hand with federation. More details soon, but the basic gist is that federation will happen through massive relays & some services we're calling "AppViews" that you can think of like a prism that takes in the firehose of the network on one side & outputs cogent views on the other
+> Do you mean mobile app and web client and so on?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:38:43.343Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:37:37.475Z
 >
-> Oh no😂
+> staging.bsky.app
 
 ---
 
-> すかいちゃん @sky-chan.bsky.social 2023-04-11T04:37:26.020Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:33:46.350Z
 >
-> 【中の人】本来はリプライ来たらリプライ返す予定でした
+> His handle is officially reserved tho 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:36:31.764Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:24:24.420Z
 >
-> すごい
+> He must prove it 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
