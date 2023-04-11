@@ -192,39 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-07T14:20:50.594Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:56:01.957Z
 >
-> We generally call this the "trust graph" and it covers a lot of topics:
-
-- Is this person really who they claim?
-- Can we trust this person to behave well? (ie not spam mentions)
-- Is this person recommended for something or uniquely credible?
-
-etc, etc
+> なんか表示バグってるぞ！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T07:44:18.105Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:55:13.720Z
 >
-> Vulnerabilities are easily created from versatility🤔
+> リンク偽装というよりは、用途としてはMarkdownで[xxxx](https://aaaa)みたいにする感覚なんだろうな
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-11T07:18:45.132Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:53:39.735Z
 >
-> This account is fake. This announcement is fake.
+> 大きい鳥に乗ったヒゲもじゃおじさんがいるだけです👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T07:21:46.502Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:47:40.538Z
 >
-> Haha I know, well you can disguise links from the API. But don’t abuse it like him!
+> どうせJackはブルスコにいないしfakeでもなんでもないのかもしれない
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T07:16:54.459Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:44:47.079Z
 >
-> He gave one example of API abuse
+> 完璧
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
