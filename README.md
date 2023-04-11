@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T15:35:26.032Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:59:01.697Z
 >
-> 黒幕はJack
+> Call the E-girls before there is no DM
+
+https://www.dexerto.com/entertainment/twitter-e-girls-apologize-as-group-chat-leak-exposes-fatphobic-messages-2045581/
 
 ---
 
-> Nighthaven⛺ @nighthaven.bsky.social 2023-04-10T15:33:27.664Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:55:40.581Z
 >
-> ジャック、お前が始めた物語《メンテ》だろ？
+> おはスカ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T15:31:15.939Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:54:32.282Z
 >
-> Just kidding
+> 定期
 
 ---
 
-> kojira @kojira.bsky.social 2023-04-10T15:28:38.022Z
+> Nighthaven⛺ @nighthaven.bsky.social 2023-04-10T23:49:47.411Z
 >
-> 
+> ドーシー，なんだよ，別の物語《夢》を生きてるのかよ！
+
+https://www.politico.com/newsletters/digital-future-daily/2023/04/10/jack-dorsey-explains-his-new-obsession-00091279
 
 ---
 
-> tmy @tmy.bsky.social 2023-04-10T15:22:30.043Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:47:29.569Z
 >
-> 
+> It's a nice picture that captures the features 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
