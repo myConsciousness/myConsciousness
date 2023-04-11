@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:53:27.615Z
+> Whyrusleeping @why.bsky.world 2023-04-11T04:14:34.091Z
 >
-> It's a secret magic 😉
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:51:34.167Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:54:28.598Z
 >
-> Yo. みんなブルスコしてるかい？
+> welcome :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:41:56.387Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:51:40.116Z
 >
-> Congrats!
+> こちら自然状態
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:36:52.954Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:48:41.686Z
 >
-> この開発リポジトリのmainブランチにマージされたものがこのアプリやプロトコルに反映されるので、常にこのリポジトリのmainブランチの実装が最新で正ですね。
-
-逆に言うとこのリポジトリにない処理は起こりえません
+> Hello Bluesky friends, how's your day going? :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:18:08.000Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:45:17.364Z
 >
-> atproto.comは今のところほぼメンテナンスされていないのでmainブランチのソースを見ておけば間違いないです
+> So good! In JST it's already time to get ready for bed :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
