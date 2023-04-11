@@ -192,33 +192,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:41:13.356Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:00:37.332Z
 >
-> 聞いてはないですけどそうかもしれないですね〜
+> n
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:35:43.902Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T03:59:33.740Z
 >
-> rootとparentの表現がちょっとややこしいけど結構面白い仕様だな
+> Thanks, I’m not so interesting person tho 😉
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:33:55.013Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T03:58:33.733Z
 >
-> 理解した
+> lol you did it😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:32:44.784Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
 >
-> test record 3
+> For developers,
+
+Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:31:54.788Z
+> kai @kai.ingroup.social 2023-04-11T03:38:24.490Z
 >
-> test record 3
+> ooooo
+so is there stuff people want, we can build things n make it happen
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
