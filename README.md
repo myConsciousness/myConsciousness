@@ -192,33 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:57:44.281Z
+> Paul Frazee✌️ @pfrazee.com 2023-04-07T14:20:50.594Z
 >
-> Is Jack in Mastodon in the first place? 🤔
+> We generally call this the "trust graph" and it covers a lot of topics:
+
+- Is this person really who they claim?
+- Can we trust this person to behave well? (ie not spam mentions)
+- Is this person recommended for something or uniquely credible?
+
+etc, etc
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:53:25.711Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T07:44:18.105Z
 >
-> Do you mean mobile app and web client and so on?
+> Vulnerabilities are easily created from versatility🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:37:37.475Z
+> Paul Frazee✌️ @pfrazee.com 2023-04-11T07:18:45.132Z
 >
-> staging.bsky.app
+> This account is fake. This announcement is fake.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:33:46.350Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T07:21:46.502Z
 >
-> His handle is officially reserved tho 😂
+> Haha I know, well you can disguise links from the API. But don’t abuse it like him!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T06:24:24.420Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T07:16:54.459Z
 >
-> He must prove it 😂
+> He gave one example of API abuse
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
