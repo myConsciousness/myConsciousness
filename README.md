@@ -192,44 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:21:29.861Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T02:05:17.466Z
 >
-> feather for Blueskyを作ってくれるといいですね！
+> mutedByみたいなプロパティがあったような気がしたんですけど、今改めて見てみたらミュートはAPIからでも認証ユーザー自身がポストやユーザーをミュートしているかどうかしかわからないみたいです！
 
 ---
 
-> 馮 富久 FUON Tomihisa ⚾️ @tomihisa.bsky.social 2023-04-11T00:41:24.612Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:54:41.810Z
 >
-> 本日、gihyo.jp にて、Bluesky記事を2本、公開いたしました！
-https://gihyo.jp
+> 今でもミュートされてるかどうかはAPIで丸見えですからね〜
 
 ---
 
-> Michael v1.0.0 (ChudGPT arc)  @chudgpt.bsky.social 2023-04-11T01:04:38.170Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:49:03.892Z
 >
-> there's a CLI tool -- lets fucking goooooo
+> おはスカ〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:04:01.914Z
+> Paul Frazee✌️ @pfrazee.com 2023-04-11T01:48:15.641Z
 >
-> @pfrazee.com 
-
-I have tested several times to do a createRecord without a deleteRecord once created from the API, and I suspect that the duplicate record created in this case may be the cause 🤔
-
-But strangely this is not happened in third-party apps like:
-
-https://klearsky.pages.dev
+> LOOK AT MY CAT THX
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:44:22.633Z
 >
-> For developers,
-
-Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
-
-https://github.com/bluesky-social/atproto-ecosystem
+> クライアント開発戦争になりそうだからここらへんで一旦止めておこう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
