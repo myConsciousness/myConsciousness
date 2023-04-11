@@ -192,33 +192,46 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T15:10:12.561Z
+>
+> 負ける気がしないです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T15:03:29.262Z
+>
+> Booyah!
+
+---
+
+> Don @nikolat.bsky.social 2023-04-11T14:54:46.928Z
+>
+> こちらカードバトルサポートセンターです
+
+@yui.bsky.social /card
+とリプするとカードが1枚もらえます
+
+@yui.bsky.social /card -b
+とリプするとバトルができます
+勝ったらカードが1枚もらえます
+相手はランダムで選ばれます
+手持ちの上位3枚同士で対戦します
+3枚のうち1枚がランダムで選ばれそのカードで対戦です
+cpがカードの強さです
+それぞれ1日1回までです
+24:00にリセットされます
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T15:01:17.467Z
+>
+> @yui.bsky.social /card -b
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-11T15:00:01.182Z
 >
 > @yui.bsky.social /card
-
----
-
-> Mark O'Sullivan @markos.dev 2023-04-11T14:55:38.044Z
->
-> Thank you @shinyakato.dev for the invite 🙌
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T14:51:52.630Z
->
-> Yes almost 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T14:38:36.546Z
->
-> Welcome to Bluesky! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T14:33:15.209Z
->
-> Yes, this is an abbreviation of Bluesky used in Japanese community😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
