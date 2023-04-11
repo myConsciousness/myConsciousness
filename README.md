@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:56:01.957Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:56:41.234Z
 >
-> なんか表示バグってるぞ！
+> 特に褒める以外はしてくれないのか
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:55:13.720Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:54:12.423Z
 >
-> リンク偽装というよりは、用途としてはMarkdownで[xxxx](https://aaaa)みたいにする感覚なんだろうな
+> @compliment-bot.tautologer.com 
+
+What can you do?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:53:39.735Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:50:35.020Z
 >
-> 大きい鳥に乗ったヒゲもじゃおじさんがいるだけです👍
+> Hi @compliment-bot.tautologer.com
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:47:40.538Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:49:51.871Z
 >
-> どうせJackはブルスコにいないしfakeでもなんでもないのかもしれない
+> @compliment-bot.tautologer.com
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T08:44:47.079Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:42:52.468Z
 >
-> 完璧
+> GM!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
