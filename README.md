@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:56:41.234Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:53:27.615Z
 >
-> 特に褒める以外はしてくれないのか
+> It's a secret magic 😉
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:54:12.423Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:51:34.167Z
 >
-> @compliment-bot.tautologer.com 
-
-What can you do?
+> Yo. みんなブルスコしてるかい？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:50:35.020Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:41:56.387Z
 >
-> Hi @compliment-bot.tautologer.com
+> Congrats!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:49:51.871Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:36:52.954Z
 >
-> @compliment-bot.tautologer.com
+> この開発リポジトリのmainブランチにマージされたものがこのアプリやプロトコルに反映されるので、常にこのリポジトリのmainブランチの実装が最新で正ですね。
+
+逆に言うとこのリポジトリにない処理は起こりえません
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T09:42:52.468Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T10:18:08.000Z
 >
-> GM!
+> atproto.comは今のところほぼメンテナンスされていないのでmainブランチのソースを見ておけば間違いないです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
