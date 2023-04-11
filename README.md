@@ -192,37 +192,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:59:01.697Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:21:29.861Z
 >
-> Call the E-girls before there is no DM
-
-https://www.dexerto.com/entertainment/twitter-e-girls-apologize-as-group-chat-leak-exposes-fatphobic-messages-2045581/
+> feather for Blueskyを作ってくれるといいですね！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:55:40.581Z
+> 馮 富久 FUON Tomihisa ⚾️ @tomihisa.bsky.social 2023-04-11T00:41:24.612Z
 >
-> おはスカ〜
+> 本日、gihyo.jp にて、Bluesky記事を2本、公開いたしました！
+https://gihyo.jp
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:54:32.282Z
+> Michael v1.0.0 (ChudGPT arc)  @chudgpt.bsky.social 2023-04-11T01:04:38.170Z
 >
-> 定期
+> there's a CLI tool -- lets fucking goooooo
 
 ---
 
-> Nighthaven⛺ @nighthaven.bsky.social 2023-04-10T23:49:47.411Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T01:04:01.914Z
 >
-> ドーシー，なんだよ，別の物語《夢》を生きてるのかよ！
+> @pfrazee.com 
 
-https://www.politico.com/newsletters/digital-future-daily/2023/04/10/jack-dorsey-explains-his-new-obsession-00091279
+I have tested several times to do a createRecord without a deleteRecord once created from the API, and I suspect that the duplicate record created in this case may be the cause 🤔
+
+But strangely this is not happened in third-party apps like:
+
+https://klearsky.pages.dev
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-10T23:47:29.569Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
 >
-> It's a nice picture that captures the features 😂
+> For developers,
+
+Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
