@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Whyrusleeping @why.bsky.world 2023-04-11T04:14:34.091Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:49:11.265Z
 >
-> 
+> Welcome to Bluesky 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:54:28.598Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:46:58.656Z
 >
-> welcome :)
+> So nice, you’re already on AT Protocol! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:51:40.116Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:46:16.978Z
 >
-> こちら自然状態
+> Woooo maybe you use Bluesky too much?😏 I’m glad you have a chilling day anyway!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:48:41.686Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T12:43:29.551Z
 >
-> Hello Bluesky friends, how's your day going? :)
+> Wooo you already tried custom domain! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T11:45:17.364Z
+> Kim @thinkverse.dev 2023-04-11T12:38:02.631Z
 >
-> So good! In JST it's already time to get ready for bed :)
+> Let's share some positivity by thanking @shinyakato.dev for the invite. 🙏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
