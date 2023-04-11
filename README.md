@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T13:55:10.318Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T15:00:01.182Z
 >
-> So nice, and it’s already time to sleep 😏
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T13:46:05.652Z
+> Mark O'Sullivan @markos.dev 2023-04-11T14:55:38.044Z
 >
-> It’s just matter of time, you will have codes per 2 weeks since you registered:)
+> Thank you @shinyakato.dev for the invite 🙌
 
 ---
 
-> Koji @koji.bsky.social 2023-04-11T13:04:47.059Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T14:51:52.630Z
 >
-> 先日こんな投稿をさせていただきましたが、このリストを随時メンテして配信していきたいと思ってますので、こんな(日本人)開発者もいるよ！というのがありましたら、是非教えてください。よろしくお願いします。
+> Yes almost 😏
 
 ---
 
-> Palash @palash.co 2023-04-11T13:00:06.475Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T14:38:36.546Z
 >
-> I got invited by @shinyakato.dev too, thanks :))
+> Welcome to Bluesky! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T13:04:35.303Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T14:33:15.209Z
 >
-> Hey there! 👋 Thanks! 😁
+> Yes, this is an abbreviation of Bluesky used in Japanese community😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
