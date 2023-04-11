@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Daniel @growingdaniel.bsky.social 2023-04-11T05:13:07.781Z
+>
+> The danger for bluesky is right now it’s an invite only social network and me and my friends like it because it’s only people we like but there’s Retard Horde on the horizon and then it won’t be much different than twitter
+
+---
+
 > daniel 🫠 @dholms.xyz 2023-04-11T03:44:00.880Z
 >
 > Yup it'll go hand in hand with federation. More details soon, but the basic gist is that federation will happen through massive relays & some services we're calling "AppViews" that you can think of like a prism that takes in the firehose of the network on one side & outputs cogent views on the other
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:36:31.764Z
 >
 > すごい
-
----
-
-> Chelsea Manning @xychelsea.tv 2023-04-11T03:58:19.056Z
->
-> 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679821480865132823066470938446095505822317253594081284811174502841027019385211055596446229489549303819644288109756659334461284756482337867831652712019091456485669234603486104543266482133936072602491412
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
