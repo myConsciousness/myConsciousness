@@ -192,38 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:00:37.332Z
+> daniel 🫠 @dholms.xyz 2023-04-11T03:44:00.880Z
 >
-> n
+> Yup it'll go hand in hand with federation. More details soon, but the basic gist is that federation will happen through massive relays & some services we're calling "AppViews" that you can think of like a prism that takes in the firehose of the network on one side & outputs cogent views on the other
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T03:59:33.740Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:38:43.343Z
 >
-> Thanks, I’m not so interesting person tho 😉
+> Oh no😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T03:58:33.733Z
+> すかいちゃん @sky-chan.bsky.social 2023-04-11T04:37:26.020Z
 >
-> lol you did it😂
+> 【中の人】本来はリプライ来たらリプライ返す予定でした
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T04:36:31.764Z
 >
-> For developers,
-
-Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
-
-https://github.com/bluesky-social/atproto-ecosystem
+> すごい
 
 ---
 
-> kai @kai.ingroup.social 2023-04-11T03:38:24.490Z
+> Chelsea Manning @xychelsea.tv 2023-04-11T03:58:19.056Z
 >
-> ooooo
-so is there stuff people want, we can build things n make it happen
+> 3.1415926535897932384626433832795028841971693993751058209749445923078164062862089986280348253421170679821480865132823066470938446095505822317253594081284811174502841027019385211055596446229489549303819644288109756659334461284756482337867831652712019091456485669234603486104543266482133936072602491412
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -252,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> To some, it looks like a giant chicken running across the sky. To others, it looks like a gaseous nebula where star formation takes place. Cataloged as IC 2944, the Running Chicken Nebula spans about 100 light years and lies about 6,000 light years away toward the constellation of the Centaur (Centaurus).  The featured image, shown in scientifically assigned colors, was captured recently in a 16-hour exposure over three nights. The star cluster Collinder 249 is visible embedded in the nebula's glowing gas.  Although difficult to discern here, several dark molecular clouds with distinct shapes can be found inside the nebula.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/ChickenRun_Stern_960.jpg)
-> &copy; Daniel Stern
+> Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the eight-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame as well as the globular star cluster NGC 188 on the far left.  The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Explore Your Universe: Random APOD Generator
+> ![APOD](https://apod.nasa.gov/apod/image/2304/PolarisIfn_Zayaz_960.jpg)
+> &copy; Javier Zayaz
 
 ---
 <!-- APOD:END -->
