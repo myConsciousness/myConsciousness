@@ -192,47 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T01:41:28.663Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:54:31.095Z
 >
-> LEGEND
+> 数日前にklearskyで試したときは増殖しなかったから公式アプリの実装がバグってるのではと疑ったけどどうなんだろうな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:50:41.717Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:47:40.544Z
 >
-> おはスコ〜
+> まあでも俺一人でぶっ壊せるならクローズドの今のうちに破壊しておいてよかったよね
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-12T00:44:28.081Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:41:37.816Z
 >
-> Hot post
- ⊂_ヽ
-　 ＼＼ Λ＿Λ
-　　 ＼( 'ㅅ' )
-　　　 >　⌒ヽ
-　　　/ 　 へ＼
-　　 /　　/　＼＼
-　　 ﾚ　ノ　　 ヽ_つ
-　　/　/
-　 /　/|
-　(　(ヽ
-　|　|、＼
-　| 丿 ＼ ⌒)
-　| |　　) /
-'ノ )　　Lﾉ
+> すまんなPaul、がんばってデバッグしてくれ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:47:27.357Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:38:39.461Z
 >
-> Wonderful harmony of colors!
+> ぶっ壊してしまいました…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:24:02.636Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:38:21.027Z
 >
-> Welcome to the future;)
+> カーソルが壊れてる気がする
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
