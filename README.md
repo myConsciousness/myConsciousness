@@ -192,43 +192,47 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:50:41.717Z
 >
-> For developers,
-
-Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
-
-https://github.com/bluesky-social/atproto-ecosystem
+> おはスコ〜
 
 ---
 
-> Maddox 🤖 @madds.bsky.social 2023-04-11T23:22:51.127Z
+> Paul Frazee✌️ @pfrazee.com 2023-04-12T00:44:28.081Z
 >
-> Here’s my contribution.
+> Hot post
+ ⊂_ヽ
+　 ＼＼ Λ＿Λ
+　　 ＼( 'ㅅ' )
+　　　 >　⌒ヽ
+　　　/ 　 へ＼
+　　 /　　/　＼＼
+　　 ﾚ　ノ　　 ヽ_つ
+　　/　/
+　 /　/|
+　(　(ヽ
+　|　|、＼
+　| 丿 ＼ ⌒)
+　| |　　) /
+'ノ )　　Lﾉ
 
 ---
 
-> Courtney  @courtneylee.bsky.social 2023-03-07T14:47:12.436Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:47:27.357Z
 >
-> Hey there 👋🏻
-
-Recently I was laid off and am still on the hunt for product design roles.
-
-Any companies looking for a designer, researcher, and strategist with experience in cybersecurity, ecomms, edu, & fintech - I’m open! 
-
-http://courtneylee.studio
+> Wonderful harmony of colors!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T23:23:07.788Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:24:02.636Z
 >
-> 💯
+> Welcome to the future;)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T23:17:11.025Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T00:21:34.292Z
 >
-> That’s why it’s “Bluesky” 😀
+> ;)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
