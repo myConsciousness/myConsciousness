@@ -192,35 +192,41 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T04:47:24.017Z
+> daniel 🫠 @dholms.xyz 2023-04-12T05:46:08.218Z
 >
-> 皆さん今のうちにバグを楽しんでください
+> when someone says there’s a bug in my code
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T04:40:04.359Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:51:04.862Z
 >
-> “無限” アカウントはこちらです
+> This bug has been there for about a month :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T04:26:53.352Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:47:16.794Z
 >
-> third party Web client!
-
-https://klearsky.pages.dev/#/home
+> But the root cause was not clear to me. It's probably caused by records in the DB, but please good luck debugging it! 🙏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:54:31.095Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:44:18.865Z
 >
-> 数日前にklearskyで試したときは増殖しなかったから公式アプリの実装がバグってるのではと疑ったけどどうなんだろうな
+> Then I got the same cursor.
+
+"cursor":"1681268597154::bafyreicsswgu5kqa7o4cbw6imyucypdq7yb7ot6m34dubjcyivsgcl6glq"
+
+There seems to be a glitch in the cursor regarding the phenomenon of increasing accounts
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T03:47:40.544Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:42:55.170Z
 >
-> まあでも俺一人でぶっ壊せるならクローズドの今のうちに破壊しておいてよかったよね
+> @pfrazee.com 
+
+Regarding the issue of duplicate accounts on the follower and follow screens we talked about before, I tried the following request:
+
+/xrpc/app.bsky.graph.getFollows?actor=shinyakato.dev&limit=1&cursor=1681268597154%3A%3Abafyreicsswgu5kqa7o4cbw6imyucypdq7yb7ot6m34dubjcyivsgcl6glq
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
