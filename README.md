@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T16:33:47.524Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:59:16.640Z
 >
-> 👍👍👍
+> Twitter is a centralized yet international infrastructure. If he remakes Twitter the way he wants to, it will create even more chaos than it does now 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T16:28:21.586Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:56:03.923Z
 >
-> Welcome! 👋
+> 🫡
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T16:24:04.350Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:54:09.535Z
 >
-> +1
+> Indeed, the ultimate ideals of Elon Musk and Jack may be similar 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T16:22:48.148Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:52:50.381Z
 >
-> Bon appetite! 😏
+> There is recommendation process only for Elon Musk 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T16:20:48.958Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:50:48.831Z
 >
-> GM! 👋
+> おはでスカイ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
