@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:16:31.357Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T08:57:59.853Z
 >
-> APODのBOT作るか
+> Is it a rainy season there? 🤔
 
 ---
 
-> Emmanuel 🦉🍕🇬🇭 @pizzaknight.bsky.social 2023-04-12T06:38:56.114Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T08:54:54.711Z
 >
-> 
+> 翻訳を使って結構読んでくれていますね！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:03:43.616Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T08:53:58.699Z
 >
-> こっそり作ってたテスト用垢でやってみます！
+> That’s great, we have to make this place better! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:02:22.409Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T08:48:09.030Z
 >
-> 一瞬Twitterの認証マークが頭をよぎりました
+> Hello new Bluesky friends, have a nice day with blue skies! 😎
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:00:24.384Z
+> Jay 🦋 @jay.bsky.social 2023-04-12T05:05:15.797Z
 >
-> そうなると認証済ドメインの印がやっぱり欲しいんだな
+> from my bluesky proposal presented to twitter back in 2021.
+
+graphic design is my passion
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
