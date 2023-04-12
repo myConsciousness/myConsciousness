@@ -192,6 +192,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T15:00:00.843Z
+>
+> @yui.bsky.social /card
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T14:49:40.131Z
+>
+> こちら自然状態.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T14:37:34.714Z
+>
+> @yui.bsky.social how are you?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T14:36:43.294Z
+>
+> ここがnostrか
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
 >
 > For developers,
@@ -199,30 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
 
 https://github.com/bluesky-social/atproto-ecosystem
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T09:42:58.364Z
->
-> @adakoda.bsky.social 来てくれたんですね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T09:42:02.959Z
->
-> 無の境地へ.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T09:41:09.883Z
->
-> 「ブルスコ」は女子高生たちが流行らせてくれると信じてる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T09:38:08.067Z
->
-> 次の機会を狙いましょう！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
