@@ -192,41 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> daniel 🫠 @dholms.xyz 2023-04-12T05:46:08.218Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:00:24.384Z
 >
-> when someone says there’s a bug in my code
+> そうなると認証済ドメインの印がやっぱり欲しいんだな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:51:04.862Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:59:37.195Z
 >
-> This bug has been there for about a month :^)
+> いけますね！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:47:16.794Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:57:35.953Z
 >
-> But the root cause was not clear to me. It's probably caused by records in the DB, but please good luck debugging it! 🙏
+> まあたぶん検証できないカスタムドメインの名前が残るんだろうけどね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:44:18.865Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:57:00.189Z
 >
-> Then I got the same cursor.
-
-"cursor":"1681268597154::bafyreicsswgu5kqa7o4cbw6imyucypdq7yb7ot6m34dubjcyivsgcl6glq"
-
-There seems to be a glitch in the cursor regarding the phenomenon of increasing accounts
+> 急募: カスタムドメインを設定したまま今すぐドメインの契約解除ができる人
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T05:42:55.170Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:52:19.094Z
 >
-> @pfrazee.com 
-
-Regarding the issue of duplicate accounts on the follower and follow screens we talked about before, I tried the following request:
-
-/xrpc/app.bsky.graph.getFollows?actor=shinyakato.dev&limit=1&cursor=1681268597154%3A%3Abafyreicsswgu5kqa7o4cbw6imyucypdq7yb7ot6m34dubjcyivsgcl6glq
+> @compliment-bot.tautologer.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
