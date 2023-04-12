@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:16:31.357Z
+>
+> APODのBOT作るか
+
+---
+
+> Emmanuel 🦉🍕🇬🇭 @pizzaknight.bsky.social 2023-04-12T06:38:56.114Z
+>
+> 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:03:43.616Z
+>
+> こっそり作ってたテスト用垢でやってみます！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:02:22.409Z
+>
+> 一瞬Twitterの認証マークが頭をよぎりました
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-12T07:00:24.384Z
 >
 > そうなると認証済ドメインの印がやっぱり欲しいんだな
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:59:37.195Z
->
-> いけますね！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:57:35.953Z
->
-> まあたぶん検証できないカスタムドメインの名前が残るんだろうけどね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:57:00.189Z
->
-> 急募: カスタムドメインを設定したまま今すぐドメインの契約解除ができる人
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T06:52:19.094Z
->
-> @compliment-bot.tautologer.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
