@@ -192,33 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:55:05.725Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:45:49.771Z
 >
-> contact@shinyakato.dev
+> PDSが違うのでそうですね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:09:52.341Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:44:12.789Z
 >
-> よろスコ〜
+> サービス単位（bsky.social等）での発行なので使えない気がしますね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:04:25.424Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:39:04.470Z
 >
-> それか本当にBANされてログイン不可の状態になったとかですかね〜
+> ないです（遠目）
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:02:33.726Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
 >
-> IDで検索するとまだいます
+> For developers,
+
+Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:00:42.004Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:22:35.142Z
 >
-> Jay姐さんに頼んでないのに増殖させてしまった罪悪感
+> Pythonのラッパーまだないですけどこちらにツールがあります
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
