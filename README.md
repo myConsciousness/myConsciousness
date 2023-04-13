@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> heyhoe @h3y6e.bsky.social 2023-04-13T11:57:07.590Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:00:17.102Z
 >
-> unko.ga のmattnさんを見たくないと言ったら嘘になる
+> アクティブユーザー数が気になるんだよなー
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T11:43:17.061Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:59:48.464Z
 >
-> アプリから設定できない時にAPIから設定してた猛者達
+> It’s not so interesting post though :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T11:42:03.743Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:58:55.109Z
 >
-> 結構なんでもありますね
+> We love Japanize! 😁👍
 
 ---
 
-> 電子馬🏇 @erechorse.com 2023-04-13T10:55:06.761Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:51:31.387Z
 >
-> ナイトヘイブン師匠(たぶん)のレビュー永遠に擦られる
+> ただ2万人近くフォローしてても流れが速すぎるということはまったくないから、とりあえず登録して放置民とサブ垢がけっこうありそう
 
 ---
 
-> KingYoSun @kingyosun.bsky.social 2023-04-13T10:37:48.162Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:46:51.748Z
 >
-> 自分の城を持つのは良いぞ
-自宅のサーバーだともっといい
-「俺が王だ」って気持ち、エモーショナル
+> たぶんあと2日くらいで全アカウントをカバーできます！✌️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
