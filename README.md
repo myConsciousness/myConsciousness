@@ -192,37 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:47:05.365Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:03:52.642Z
 >
-> 使えます！
+> Let's think together about what we didn't prefer in Twitter 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:46:00.444Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T01:51:36.450Z
 >
-> サーバーが耐えられるかどうかが課題です
+> Amen!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:44:33.513Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T01:47:31.182Z
 >
-> Welcome to Bluesky! 👋
+> At first, you can use it the same way you use Twitter, that’s okay. But you know this is not Twitter. Let's create a better place than Twitter with a new spirit 🤙
 
 ---
 
-> Alexandra @alexandramardegan.bsky.social 2023-04-13T00:42:45.944Z
+> Chelsea Manning @xychelsea.tv 2023-04-13T01:43:49.927Z
 >
-> In a mastery move of diplomacy, @shinyakato.dev was able to settle the conflict and reach peace! 🕊
-
-Mario was freed and is safely drinking beer at this nerd cave. 🍻
-
-bsky barely started and it's already making the workd a better place. 🤩
+> follow me
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:37:59.368Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T01:38:09.752Z
 >
-> 
+> It’s very complicated but these are different object, I already implemented it in my package but it works
+
+github.com/myConsciousness/atproto.dart/blob/main/packages/bluesky/lib/src/entities/embed_view.dart
+
+And 
+
+entities/embed_view_record.dart
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
