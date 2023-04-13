@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T15:47:01.390Z
+> Nighthaven⛺ @nighthaven.bsky.social 2023-04-13T22:59:35.632Z
 >
-> GN! 😁
+> Japan blue
 
 ---
 
-> Igor Brigadir @igorbrigadir.bsky.social 2023-04-13T15:38:29.722Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T22:59:59.838Z
 >
-> GIVE ME INVITES I CAN BE TRUSTED WITH SEEDING THE COMMUNITY
+> I sent! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T15:43:58.096Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T22:59:50.829Z
 >
-> Thanks! ✌️
+> :)))))))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T15:43:32.805Z
+> msh @masih.bsky.social 2023-04-13T22:57:42.285Z
 >
-> lol nice 😏
+> :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T15:40:58.528Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T22:54:39.323Z
 >
-> Good night Bluesky friends, have a nice day! 🤙
+> It’s abbr of “Bluesky” or “Bsky” in Japanese 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
