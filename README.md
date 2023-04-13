@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T04:27:40.513Z
+>
+> Thanks! 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T04:14:35.904Z
+>
+> Great job! 🫡
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:35:03.972Z
 >
 > Jack is in nostr, he just posted some texts a month a ago here and that’s all we know about his activities 😂
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:16:45.812Z
 >
 > Unfortunately Jack is not here 🥲
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:16:09.359Z
->
-> Success!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:56:59.695Z
->
-> So legend 🥲
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found right of center in this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/Trottier_M31SW_APOD_Re1024.jpg)
-> &copy; Howard Trottier
+> Stars of the globular cluster NGC 2419 are packed into this Hubble Space Telescope field of view toward the mostly stealthy constellation Lynx. The two brighter spiky stars near the edge of the frame are within our own galaxy. NGC 2419 itself is remote though, some 300,000 light-years away. In comparison, the Milky Way's satellite galaxy, the Large Magellanic Cloud, is only about 160,000 light-years distant. Roughly similar to other large globular star clusters like Omega Centauri, NGC 2419 is intrinsically bright, but appears faint because it is so far away. Its extreme distance makes it difficult to study and compare its properties with other globular clusters that roam the halo of our Milky Way galaxy. Sometimes called "the Intergalactic Wanderer", NGC 2419 really does seem to have come from beyond the Milky Way. Measurements of the cluster's motion through space suggest it once belonged to the Sagittarius dwarf spheroidal galaxy, another small satellite galaxy being disrupted by repeated encounters with the much larger Milky Way.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg)
+
 
 ---
 <!-- APOD:END -->
