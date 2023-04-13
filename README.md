@@ -192,39 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:45:49.771Z
+> KingYoSun @kingyosun.bsky.social 2023-04-13T10:37:48.162Z
 >
-> PDSが違うのでそうですね
+> 自分の城を持つのは良いぞ
+自宅のサーバーだともっといい
+「俺が王だ」って気持ち、エモーショナル
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:44:12.789Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T10:52:34.191Z
 >
-> サービス単位（bsky.social等）での発行なので使えない気がしますね
+> ニヤリ😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:39:04.470Z
+> 響 @4513echo.dev 2023-04-11T07:59:22.026Z
 >
-> ないです（遠目）
+> ドメインは新時代の必需品。
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T10:41:51.966Z
 >
-> For developers,
-
-Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
-
-https://github.com/bluesky-social/atproto-ecosystem
+> ドメイン設定代行サービス
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T09:22:35.142Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T10:38:58.585Z
 >
-> Pythonのラッパーまだないですけどこちらにツールがあります
-
-https://github.com/bluesky-social/atproto-ecosystem
+> 例えば有名スポーツ選手がブルスコに遊びに来たとして、本人であることを証明するためにドメインを自分で設定できるかというとまずできないと思うんだよな
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
