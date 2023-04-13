@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> heyhoe @h3y6e.bsky.social 2023-04-13T11:57:07.590Z
+>
+> unko.ga のmattnさんを見たくないと言ったら嘘になる
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T11:43:17.061Z
+>
+> アプリから設定できない時にAPIから設定してた猛者達
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T11:42:03.743Z
+>
+> 結構なんでもありますね
+
+---
+
+> 電子馬🏇 @erechorse.com 2023-04-13T10:55:06.761Z
+>
+> ナイトヘイブン師匠(たぶん)のレビュー永遠に擦られる
+
+---
+
 > KingYoSun @kingyosun.bsky.social 2023-04-13T10:37:48.162Z
 >
 > 自分の城を持つのは良いぞ
 自宅のサーバーだともっといい
 「俺が王だ」って気持ち、エモーショナル
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T10:52:34.191Z
->
-> ニヤリ😏
-
----
-
-> 響 @4513echo.dev 2023-04-11T07:59:22.026Z
->
-> ドメインは新時代の必需品。
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T10:41:51.966Z
->
-> ドメイン設定代行サービス
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T10:38:58.585Z
->
-> 例えば有名スポーツ選手がブルスコに遊びに来たとして、本人であることを証明するためにドメインを自分で設定できるかというとまずできないと思うんだよな
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
