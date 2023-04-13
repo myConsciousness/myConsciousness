@@ -192,39 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:03:52.642Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:56:59.695Z
 >
-> Let's think together about what we didn't prefer in Twitter 😁
+> So legend 🥲
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T01:51:36.450Z
+> Mark O'Sullivan @markos.dev 2023-04-13T02:51:42.716Z
 >
-> Amen!
+> On Sunday I had the pleasure of attending C. A. Huracán play River Plate at their stadium, this was my first time attending a live Argentinian football match and the atmosphere was awesome
+
+Didn't matter that Huracán got beat 3-0, the crowd were passionate with songs throughout the entire game
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T01:47:31.182Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:51:08.484Z
 >
-> At first, you can use it the same way you use Twitter, that’s okay. But you know this is not Twitter. Let's create a better place than Twitter with a new spirit 🤙
+> Thanks, I also try it!
 
 ---
 
-> Chelsea Manning @xychelsea.tv 2023-04-13T01:43:49.927Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:45:59.635Z
 >
-> follow me
+> たぶんWhyさんはもうフォローチャレンジをしてないですね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T01:38:09.752Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:37:47.840Z
 >
-> It’s very complicated but these are different object, I already implemented it in my package but it works
+> Utopia 😉
 
-github.com/myConsciousness/atproto.dart/blob/main/packages/bluesky/lib/src/entities/embed_view.dart
-
-And 
-
-entities/embed_view_record.dart
+https://youtu.be/ugrAo8wEPiI
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
