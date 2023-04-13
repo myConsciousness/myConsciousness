@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:59:11.765Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:47:05.365Z
 >
-> @emilyliu.me what if you have an app icon like this on your phone?
+> 使えます！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:52:21.056Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:46:00.444Z
 >
-> GN! 🤙
+> サーバーが耐えられるかどうかが課題です
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:48:13.733Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:44:33.513Z
 >
-> It just can prove the identity of the person verified on the AT protocol by domain. Also its authenticated handle is valid for all services on the AT protocol :)
+> Welcome to Bluesky! 👋
 
 ---
 
-> Daniel @growingdaniel.bsky.social 2023-04-12T23:33:45.034Z
+> Alexandra @alexandramardegan.bsky.social 2023-04-13T00:42:45.944Z
 >
-> Guys what if a cat was an accountant 😂 has anybody considered this 🤔
+> In a mastery move of diplomacy, @shinyakato.dev was able to settle the conflict and reach peace! 🕊
+
+Mario was freed and is safely drinking beer at this nerd cave. 🍻
+
+bsky barely started and it's already making the workd a better place. 🤩
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:45:08.380Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T00:37:59.368Z
 >
-> lol
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
