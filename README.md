@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:00:02.751Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:00:42.004Z
 >
-> I knew this hack :^)
+> Jay姐さんに頼んでないのに増殖させてしまった罪悪感
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:57:04.675Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:57:08.043Z
 >
-> Good question, if you are not a developer and have been gracious on Twitter and other SNS, please stay that way! 👍
+> 令和のバーゲンセールや！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:49:59.121Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:56:19.315Z
 >
-> Please read the text in the image with a tool that translates the text! 👍
+> ブルスコ！ブルスコ！ブルスコ！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:48:56.744Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:37:12.274Z
 >
-> This is based on the following text that was posted in the App Store review section when people were trying to figure out what to call "Bsky" :) The term "brusco (ブルスコ)" was used in this text, and it evolved into a meme 😂
+> Twitterに出張してきます
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:37:09.090Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:35:08.840Z
 >
-> This is one of the abbr of "Bluesky"! It's not a generic one, but a meme for the name of this platform in Bluesky Social :^)
+> 😉😉😉
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
