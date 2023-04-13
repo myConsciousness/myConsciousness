@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:59:16.640Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:59:11.765Z
 >
-> Twitter is a centralized yet international infrastructure. If he remakes Twitter the way he wants to, it will create even more chaos than it does now 🤔
+> @emilyliu.me what if you have an app icon like this on your phone?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:56:03.923Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:52:21.056Z
 >
-> 🫡
+> GN! 🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:54:09.535Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:48:13.733Z
 >
-> Indeed, the ultimate ideals of Elon Musk and Jack may be similar 🤔
+> It just can prove the identity of the person verified on the AT protocol by domain. Also its authenticated handle is valid for all services on the AT protocol :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:52:50.381Z
+> Daniel @growingdaniel.bsky.social 2023-04-12T23:33:45.034Z
 >
-> There is recommendation process only for Elon Musk 😏
+> Guys what if a cat was an accountant 😂 has anybody considered this 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T22:50:48.831Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-12T23:45:08.380Z
 >
-> おはでスカイ〜
+> lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
