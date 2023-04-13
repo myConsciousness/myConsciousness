@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:35:03.972Z
+>
+> Jack is in nostr, he just posted some texts a month a ago here and that’s all we know about his activities 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:24:07.881Z
+>
+> Pura vida! 🤙
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:16:45.812Z
+>
+> Unfortunately Jack is not here 🥲
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:16:09.359Z
+>
+> Success!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:56:59.695Z
 >
 > So legend 🥲
-
----
-
-> Mark O'Sullivan @markos.dev 2023-04-13T02:51:42.716Z
->
-> On Sunday I had the pleasure of attending C. A. Huracán play River Plate at their stadium, this was my first time attending a live Argentinian football match and the atmosphere was awesome
-
-Didn't matter that Huracán got beat 3-0, the crowd were passionate with songs throughout the entire game
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:51:08.484Z
->
-> Thanks, I also try it!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:45:59.635Z
->
-> たぶんWhyさんはもうフォローチャレンジをしてないですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T02:37:47.840Z
->
-> Utopia 😉
-
-https://youtu.be/ugrAo8wEPiI
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
