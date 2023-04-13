@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T04:27:40.513Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:57:58.804Z
 >
-> Thanks! 🤝
+> 今ゲームの紹介ページを見てきましたけどなんとなくイメージがわかりました！自浄作用があるの面白そうですね〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T04:14:35.904Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:47:59.987Z
 >
-> Great job! 🫡
+> そもそもTLはそこまで気を遣って構築するものなのか？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:35:03.972Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:47:06.198Z
 >
-> Jack is in nostr, he just posted some texts a month a ago here and that’s all we know about his activities 😂
+> Instagram のストーリーみたいなPDS！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:24:07.881Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:44:29.318Z
 >
-> Pura vida! 🤙
+> やはり村が最強…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T03:16:45.812Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:28:53.066Z
 >
-> Unfortunately Jack is not here 🥲
+> @yui.bsky.social how are you?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
