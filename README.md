@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:57:58.804Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:00:02.751Z
 >
-> 今ゲームの紹介ページを見てきましたけどなんとなくイメージがわかりました！自浄作用があるの面白そうですね〜
+> I knew this hack :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:47:59.987Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:57:04.675Z
 >
-> そもそもTLはそこまで気を遣って構築するものなのか？
+> Good question, if you are not a developer and have been gracious on Twitter and other SNS, please stay that way! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:47:06.198Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:49:59.121Z
 >
-> Instagram のストーリーみたいなPDS！
+> Please read the text in the image with a tool that translates the text! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:44:29.318Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:48:56.744Z
 >
-> やはり村が最強…
+> This is based on the following text that was posted in the App Store review section when people were trying to figure out what to call "Bsky" :) The term "brusco (ブルスコ)" was used in this text, and it evolved into a meme 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T05:28:53.066Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T06:37:09.090Z
 >
-> @yui.bsky.social how are you?
+> This is one of the abbr of "Bluesky"! It's not a generic one, but a meme for the name of this platform in Bluesky Social :^)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
