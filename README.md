@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T15:00:01.100Z
+>
+> @yui.bsky.social /card
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:40:02.180Z
 >
 > Jack is 神
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:15:38.230Z
 >
 > ここがnostrか
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:14:43.510Z
->
-> Jack, なんで”空”に来てくれないんだよ…！！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
