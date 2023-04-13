@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:55:05.725Z
+>
+> contact@shinyakato.dev
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:09:52.341Z
+>
+> よろスコ〜
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:04:25.424Z
+>
+> それか本当にBANされてログイン不可の状態になったとかですかね〜
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:02:33.726Z
+>
+> IDで検索するとまだいます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-13T08:00:42.004Z
 >
 > Jay姐さんに頼んでないのに増殖させてしまった罪悪感
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:57:08.043Z
->
-> 令和のバーゲンセールや！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:56:19.315Z
->
-> ブルスコ！ブルスコ！ブルスコ！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:37:12.274Z
->
-> Twitterに出張してきます
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T07:35:08.840Z
->
-> 😉😉😉
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
