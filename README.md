@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:00:17.102Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:40:02.180Z
 >
-> アクティブユーザー数が気になるんだよなー
+> Jack is 神
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:59:48.464Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:22:36.868Z
 >
-> It’s not so interesting post though :^)
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:58:55.109Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:19:23.471Z
 >
-> We love Japanize! 😁👍
+> Jack実はもうこの次元にいないのでは
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:51:31.387Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:15:38.230Z
 >
-> ただ2万人近くフォローしてても流れが速すぎるということはまったくないから、とりあえず登録して放置民とサブ垢がけっこうありそう
+> ここがnostrか
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T12:46:51.748Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T13:14:43.510Z
 >
-> たぶんあと2日くらいで全アカウントをカバーできます！✌️
+> Jack, なんで”空”に来てくれないんだよ…！！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
