@@ -192,37 +192,34 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:04:48.691Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:03:17.387Z
 >
-> 偽物とかですかね
+> Oh then it’s not delivered in your country, please wait a bit! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:01:16.719Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:51:34.451Z
 >
-> さすがNighthaven師匠や…！！
+> ほんこれ案件
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
+> Shino3（しのさん） @shino3.bsky.social 2023-04-14T01:22:52.568Z
 >
-> For developers,
-
-Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
-
-https://github.com/bluesky-social/atproto-ecosystem
+> 驚きの事実。
+前回のブルスコミーとアップからまだ1週間しか経ってない
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T00:44:19.391Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:50:22.107Z
 >
-> Success 👍
+> Waiting to see warn notice contents
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T00:38:48.390Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:48:55.372Z
 >
-> お待ちしております🤙
+> You can upgrade from App Store if you’re using iOS 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
