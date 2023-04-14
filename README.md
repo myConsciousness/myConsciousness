@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T07:59:47.449Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:06:43.106Z
 >
-> And it costs money.
+> lol zaps! ⚡️
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T07:56:20.180Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:06:03.594Z
 >
-> What features would you find useful or interesting if Bluesky had? And why is that?
-
-You can reply as a thread, so if you have an idea write it down, maybe it will come true :)
+> I have not been good at managing lists since my Twitter days, but this is a very useful feature for those who always want to see the posts of people they care about! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T05:23:25.173Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:03:37.759Z
 >
-> なるほど、リプライ数もカウントに入るから朝おはスコ巡りするだけで結構な数になるんだね
+> Warning warning 😀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T05:21:09.644Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:02:34.481Z
 >
-> contact@shinyakato.dev
-
-If you need invite codes :)
+> Yes it’s an essential element of democracy!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T04:25:51.248Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:01:39.459Z
 >
-> ん？なんか見慣れた名前が…
+> I see, Bookmarks can be substituted with Likes, but I do feel that a dedicated function would indeed be useful :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
