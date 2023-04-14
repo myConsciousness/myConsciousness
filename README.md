@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T10:04:13.609Z
+>
+> どんどんやってください😂✌️
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T09:16:48.706Z
 >
 > @jay.bsky.team @why.bsky.team @pfrazee.com 
@@ -215,12 +221,6 @@ Some may already be in the plan, but please take a look at the ideas of the user
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:06:03.594Z
 >
 > I have not been good at managing lists since my Twitter days, but this is a very useful feature for those who always want to see the posts of people they care about! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:03:37.759Z
->
-> Warning warning 😀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
