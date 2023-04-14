@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:41:18.263Z
+>
+> はい、その通りです！😁👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:39:10.024Z
+>
+> Great job, it’s also the way :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:12:14.890Z
+>
+> It’s very clever to set up a BOT account handle with a subdomain. It’s not clear if the account is a BOT, but it is easy to see who is managing the BOT.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:06:11.331Z
+>
+> Please use “ブルスコ” sometimes 🙏
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T10:04:13.609Z
 >
 > どんどんやってください😂✌️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T09:16:48.706Z
->
-> @jay.bsky.team @why.bsky.team @pfrazee.com 
-
-Some may already be in the plan, but please take a look at the ideas of the users who wrote in :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T09:11:22.556Z
->
-> 👍👍👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:06:43.106Z
->
-> lol zaps! ⚡️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:06:03.594Z
->
-> I have not been good at managing lists since my Twitter days, but this is a very useful feature for those who always want to see the posts of people they care about! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
