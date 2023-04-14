@@ -192,35 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T00:00:25.579Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:04:48.691Z
 >
-> Welcome professor! 👋
+> 偽物とかですかね
 
 ---
 
-> Dovicchi @dovicchi.bsky.social 2023-04-13T23:30:50.601Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:01:16.719Z
 >
-> Hi, happy to be in this new realm. I am a retired professor, I used to teach numeric computation and programming paradigms. I am also musician and composer. I can be easily found on YT and Musescore using my name "dovicchi". Feel free to add me and lets make this social network big.
+> さすがNighthaven師匠や…！！
 
 ---
 
-> Jay 🦋 @jay.bsky.team 2023-04-13T23:21:55.292Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-11T00:55:20.505Z
 >
-> Just like our approach to algorithmic choice, our approach to moderation allows for an ecosystem of third-party providers. Moderation should be a composable, customizable piece that can be layered into your experience. 
+> For developers,
 
-https://blueskyweb.xyz/blog/4-13-2023-moderation
+Libraries and tools for using the AT Protocol and Bluesky Social APIs are already listed on the following page.
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T23:58:29.056Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T00:44:19.391Z
 >
-> 🧘‍♂️🧘‍♂️🧘‍♂️
+> Success 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-13T23:57:50.912Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T00:38:48.390Z
 >
-> Webはデプロイすれば反映されるから対応が早いな
+> お待ちしております🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
