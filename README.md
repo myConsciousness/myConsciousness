@@ -192,34 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:53:07.696Z
+>
+> animal_genitalia_and_human 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:47:06.446Z
+>
+> おはスコーン！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:44:20.755Z
+>
+> これは間違いなくえっち
+
+---
+
+> KingYoSun @kingyosun.bsky.social 2023-04-14T02:41:43.025Z
+>
+> boobeeでラベリング試せた！！！！
+nsfwをwarnに設定すると画像だけじゃなくて投稿全体がHideされてクリックしないと表示されなくなってますね
+んで設定値をhideにしたらTLから消えました
+これはクライアントだけでやっててAPIからは普通に見えます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:03:17.387Z
 >
 > Oh then it’s not delivered in your country, please wait a bit! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:51:34.451Z
->
-> ほんこれ案件
-
----
-
-> Shino3（しのさん） @shino3.bsky.social 2023-04-14T01:22:52.568Z
->
-> 驚きの事実。
-前回のブルスコミーとアップからまだ1週間しか経ってない
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:50:22.107Z
->
-> Waiting to see warn notice contents
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T01:48:55.372Z
->
-> You can upgrade from App Store if you’re using iOS 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
