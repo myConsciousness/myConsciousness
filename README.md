@@ -192,36 +192,46 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:53:07.696Z
+> null @skyhigh.bsky.social 2023-04-14T03:50:04.302Z
 >
-> animal_genitalia_and_human 😂
+> 【すか廃ランキング 2023/04/13】
+👑　：190 🐾🪻わる🩵🪽
+2位：160 Jik🃏
+3位：99 ももせ
+4位：89 Lira
+5位：87 Chris Hahn 🍥 
+6位：75 ばいそに
+7位：72 YukiMizuki🐈.・.𓂃✍︎
+8位：70 てるこ
+9位：58 Brent Peters 🌏
+10位：58 Layla
+
+#skyhighrank 
+
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:47:06.446Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:51:00.367Z
 >
-> おはスコーン！
+> Yo. みんなブルスコしてるかい？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:44:20.755Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:46:26.604Z
 >
-> これは間違いなくえっち
+> よかった、まだただのブルスコおじさんだったようだ
 
 ---
 
-> KingYoSun @kingyosun.bsky.social 2023-04-14T02:41:43.025Z
+> mattn @mattn.bsky.social 2023-04-14T03:34:23.057Z
 >
-> boobeeでラベリング試せた！！！！
-nsfwをwarnに設定すると画像だけじゃなくて投稿全体がHideされてクリックしないと表示されなくなってますね
-んで設定値をhideにしたらTLから消えました
-これはクライアントだけでやっててAPIからは普通に見えます
+> 実を言うと (blue) sky はもう限界です。突然こんなこと言ってごめんね。 でも本当です。２、３日後にものすごく大量の Twitter ユーザが入ってきます。(略
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T02:03:17.387Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:39:46.422Z
 >
-> Oh then it’s not delivered in your country, please wait a bit! 👍
+> limit (unlimit)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
