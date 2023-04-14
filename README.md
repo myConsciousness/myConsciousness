@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:41:18.263Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:55:46.857Z
 >
-> はい、その通りです！😁👍
+> lol but we deliver funny memes
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:39:10.024Z
+> Daniel @growingdaniel.bsky.social 2023-04-14T12:54:02.622Z
 >
-> Great job, it’s also the way :)
+> Every night when Japan wakes up
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:12:14.890Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:52:16.522Z
 >
-> It’s very clever to set up a BOT account handle with a subdomain. It’s not clear if the account is a BOT, but it is easy to see who is managing the BOT.
+> この瞬間を待っていた.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T11:06:11.331Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:50:14.347Z
 >
-> Please use “ブルスコ” sometimes 🙏
+> 🎌🎌🎌
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T10:04:13.609Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:49:39.543Z
 >
-> どんどんやってください😂✌️
+> どうも人力Firehose APIです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
