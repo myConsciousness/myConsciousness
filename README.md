@@ -192,22 +192,15 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> null @skyhigh.bsky.social 2023-04-14T03:50:04.302Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T04:25:51.248Z
 >
-> 【すか廃ランキング 2023/04/13】
-👑　：190 🐾🪻わる🩵🪽
-2位：160 Jik🃏
-3位：99 ももせ
-4位：89 Lira
-5位：87 Chris Hahn 🍥 
-6位：75 ばいそに
-7位：72 YukiMizuki🐈.・.𓂃✍︎
-8位：70 てるこ
-9位：58 Brent Peters 🌏
-10位：58 Layla
+> ん？なんか見慣れた名前が…
 
-#skyhighrank 
+---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T04:22:36.773Z
+>
+> もしかして美シャルのフォロー数に追いついた？
 
 ---
 
@@ -226,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > mattn @mattn.bsky.social 2023-04-14T03:34:23.057Z
 >
 > 実を言うと (blue) sky はもう限界です。突然こんなこと言ってごめんね。 でも本当です。２、３日後にものすごく大量の Twitter ユーザが入ってきます。(略
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:39:46.422Z
->
-> limit (unlimit)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -260,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Stars of the globular cluster NGC 2419 are packed into this Hubble Space Telescope field of view toward the mostly stealthy constellation Lynx. The two brighter spiky stars near the edge of the frame are within our own galaxy. NGC 2419 itself is remote though, some 300,000 light-years away. In comparison, the Milky Way's satellite galaxy, the Large Magellanic Cloud, is only about 160,000 light-years distant. Roughly similar to other large globular star clusters like Omega Centauri, NGC 2419 is intrinsically bright, but appears faint because it is so far away. Its extreme distance makes it difficult to study and compare its properties with other globular clusters that roam the halo of our Milky Way galaxy. Sometimes called "the Intergalactic Wanderer", NGC 2419 really does seem to have come from beyond the Milky Way. Measurements of the cluster's motion through space suggest it once belonged to the Sagittarius dwarf spheroidal galaxy, another small satellite galaxy being disrupted by repeated encounters with the much larger Milky Way.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/hubble_ngc2419_potw1908a_1024.jpg)
-
+> Sharp telescopic views of NGC 3628 show a puffy galactic disk divided by dark dust lanes. Of course, this portrait of the magnificent, edge-on spiral galaxy puts some astronomers in mind of its popular moniker, the Hamburger Galaxy. It also reveals a small galaxy nearby (below), likely a satellite of NGC 3628, and a very faint but extensive tidal tail. The drawn out tail stretches for about 300,000 light-years, even beyond the left edge of the frame. NGC 3628 shares its neighborhood in the local universe with two other large spirals M65 and M66 in a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for creating the tidal tail, as well as the extended flare and warp of this spiral's disk. The tantalizing island universe itself is about 100,000 light-years across and 35 million light-years away in the northern springtime constellation Leo.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg)
+> &copy; Mike Selby
 
 ---
 <!-- APOD:END -->
