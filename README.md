@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T09:16:48.706Z
+>
+> @jay.bsky.team @why.bsky.team @pfrazee.com 
+
+Some may already be in the plan, but please take a look at the ideas of the users who wrote in :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T09:11:22.556Z
+>
+> 👍👍👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:06:43.106Z
 >
 > lol zaps! ⚡️
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:03:37.759Z
 >
 > Warning warning 😀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:02:34.481Z
->
-> Yes it’s an essential element of democracy!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T08:01:39.459Z
->
-> I see, Bookmarks can be substituted with Likes, but I do feel that a dedicated function would indeed be useful :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
