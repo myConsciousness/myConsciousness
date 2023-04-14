@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T07:59:47.449Z
+>
+> And it costs money.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T07:56:20.180Z
+>
+> What features would you find useful or interesting if Bluesky had? And why is that?
+
+You can reply as a thread, so if you have an idea write it down, maybe it will come true :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T05:23:25.173Z
 >
 > なるほど、リプライ数もカウントに入るから朝おはスコ巡りするだけで結構な数になるんだね
@@ -209,18 +223,6 @@ If you need invite codes :)
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T04:25:51.248Z
 >
 > ん？なんか見慣れた名前が…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T04:22:36.773Z
->
-> もしかして美シャルのフォロー数に追いついた？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:51:00.367Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
