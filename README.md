@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:55:46.857Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T16:51:53.119Z
 >
-> lol but we deliver funny memes
+> WE NEED DMC-12
 
 ---
 
-> Daniel @growingdaniel.bsky.social 2023-04-14T12:54:02.622Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T16:37:57.901Z
 >
-> Every night when Japan wakes up
+> Bluesky's server runs lighter when Japanese sleep
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:52:16.522Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T07:56:20.180Z
 >
-> この瞬間を待っていた.
+> What features would you find useful or interesting if Bluesky had? And why is that?
+
+You can reply as a thread, so if you have an idea write it down, maybe it will come true :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:50:14.347Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T16:30:22.248Z
 >
-> 🎌🎌🎌
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T12:49:39.543Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T16:29:53.660Z
 >
-> どうも人力Firehose APIです
+> @yui.bsky.social /card
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
