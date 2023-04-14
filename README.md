@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T05:23:25.173Z
+>
+> なるほど、リプライ数もカウントに入るから朝おはスコ巡りするだけで結構な数になるんだね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T05:21:09.644Z
+>
+> contact@shinyakato.dev
+
+If you need invite codes :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T04:25:51.248Z
 >
 > ん？なんか見慣れた名前が…
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:51:00.367Z
 >
 > Yo. みんなブルスコしてるかい？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T03:46:26.604Z
->
-> よかった、まだただのブルスコおじさんだったようだ
-
----
-
-> mattn @mattn.bsky.social 2023-04-14T03:34:23.057Z
->
-> 実を言うと (blue) sky はもう限界です。突然こんなこと言ってごめんね。 でも本当です。２、３日後にものすごく大量の Twitter ユーザが入ってきます。(略
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
