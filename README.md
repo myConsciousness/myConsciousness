@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T06:00:20.334Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T07:00:37.028Z
 >
-> Where are Dart/Flutter developers btw?
+> Welcome! 🍻
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T05:56:44.234Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T07:00:26.075Z
 >
-> Please send me email, if after a few days there are still unused codes I will pass it on to you :)
+> Welcome! 🍻
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T05:49:42.272Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T06:56:30.132Z
 >
-> vibes
+> Sorry I'm already out of stock 😂
 
 ---
 
-> Whyrusleeping @why.bsky.team 2023-04-15T03:36:38.392Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T06:52:19.391Z
 >
-> okay but bring your weird friends who vibe good
+> You can try if you have spares :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T05:48:57.569Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T06:46:33.179Z
 >
-> This is a huge customer list 😂👍
+> Any way you want it ;)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
