@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T04:56:44.007Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T06:00:20.334Z
 >
-> Bluesky chose chaotic growth. Let's see how much we can load up this server
+> Where are Dart/Flutter developers btw?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T04:53:16.342Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T05:56:44.234Z
 >
-> Send me email if you want invite codes
-
-contact@shinyakato.dev
+> Please send me email, if after a few days there are still unused codes I will pass it on to you :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T04:43:44.827Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T05:49:42.272Z
 >
-> @why.bsky.team chaotic so good
+> vibes
 
 ---
 
-> C̶͚̃a̵̯͠s̸͌͜s̷̜̎ả̵̻n̵̥͑d̸̓ͅr̶̦̽a̵̛̠  @amorvincitomnia.bsky.social 2023-04-15T02:10:21.232Z
+> Whyrusleeping @why.bsky.team 2023-04-15T03:36:38.392Z
 >
-> cultivating mental whiplash for the sheer thrill of it
+> okay but bring your weird friends who vibe good
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:09:14.204Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T05:48:57.569Z
 >
-> Skeet! 🌞
+> This is a huge customer list 😂👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
