@@ -192,6 +192,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T04:56:44.007Z
+>
+> Bluesky chose chaotic growth. Let's see how much we can load up this server
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T04:53:16.342Z
+>
+> Send me email if you want invite codes
+
+contact@shinyakato.dev
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T04:43:44.827Z
+>
+> @why.bsky.team chaotic so good
+
+---
+
 > C̶͚̃a̵̯͠s̸͌͜s̷̜̎ả̵̻n̵̥͑d̸̓ͅr̶̦̽a̵̛̠  @amorvincitomnia.bsky.social 2023-04-15T02:10:21.232Z
 >
 > cultivating mental whiplash for the sheer thrill of it
@@ -201,24 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:09:14.204Z
 >
 > Skeet! 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:01:40.137Z
->
-> ようこそ”空”へ.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:01:06.655Z
->
-> Nostr民によるJackの話題がタイムラインに出てこなくなったあたりブルスコも次のフェーズに移ったことを身に沁みて感じる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:36:25.425Z
->
-> インスタのストーリーは刹那.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,9 +249,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Sharp telescopic views of NGC 3628 show a puffy galactic disk divided by dark dust lanes. Of course, this portrait of the magnificent, edge-on spiral galaxy puts some astronomers in mind of its popular moniker, the Hamburger Galaxy. It also reveals a small galaxy nearby (below), likely a satellite of NGC 3628, and a very faint but extensive tidal tail. The drawn out tail stretches for about 300,000 light-years, even beyond the left edge of the frame. NGC 3628 shares its neighborhood in the local universe with two other large spirals M65 and M66 in a grouping otherwise known as the Leo Triplet. Gravitational interactions with its cosmic neighbors are likely responsible for creating the tidal tail, as well as the extended flare and warp of this spiral's disk. The tantalizing island universe itself is about 100,000 light-years across and 35 million light-years away in the northern springtime constellation Leo.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/NGC3628LRGBCDK1000+24March2023Small1024.jpg)
-> &copy; Mike Selby
+> A composite of images captured about a week apart from mid August 2022 through late March 2023, this series traces the retrograde motion of ruddy-colored Mars. Progressing from lower right to upper left Mars makes a Z-shaped path as it wanders past the Pleiades and Hyades star clusters, through the constellation Taurus in planet Earth's night sky. Seen about every two years, Mars doesn't actually reverse the direction of its orbit to trace out the Z-shape though. Instead, the apparent backwards or retrograde motion with respect to the background stars is a reflection of the orbital motion of Earth itself. Retrograde motion can be seen each time Earth overtakes and laps planets orbiting farther from the Sun, the Earth moving more rapidly through its own relatively close-in orbit.  High in northern hemisphere skies the Red Planet was opposite the Sun and at its closest and brightest on December 8, near the center of the frame. Seen close to Mars, a popular visitor to the inner Solar System, comet ZTF (C/2022 E3), was also captured on two dates, February 10 and February 16.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/Ma2022-3_1024.jpg)
+> &copy; Tunc Tezel
 
 ---
 <!-- APOD:END -->
