@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T13:08:24.129Z
+>
+> You're welcome ;)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-15T12:49:57.299Z
 >
 > @yui.bsky.social user -f
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-15T10:36:25.330Z
 >
 > And they lose cultures
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T10:35:08.524Z
->
-> これはやはりJay姐さんの策略…
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
