@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T15:58:45.576Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T22:59:16.531Z
 >
-> You just need to type “@yui.bsky.social /card” :)
+> おはスコ〜🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T15:53:30.445Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T22:55:45.264Z
 >
-> 👍👍👍
+> おはスコ〜！🌞🌞🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T15:47:34.686Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T22:54:37.866Z
 >
-> lol
+> おはスコ〜🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T15:47:15.901Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T22:53:11.307Z
 >
-> It’s Japanese language but he explained very well! Please read it with translation and let me know if you still have a question 😁
-
-https://bsky.app/profile/nikolat.bsky.social/post/3jt44q4sko42a
+> Cheers!😁🍻
 
 ---
 
-> Shino3（しのさん） @shino3.bsky.social 2023-04-15T15:26:29.069Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T22:52:37.468Z
 >
-> 約40分あります。
+> This picture is so impressive 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
