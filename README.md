@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T17:43:46.424Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T23:54:55.188Z
 >
-> GN! 🤝
+> That’s okay, welcome to Japanese community 😁✌️
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T17:43:29.735Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T23:54:09.973Z
 >
-> Buona notte! 🤝
+> It’s possible if you want 🍻🍻🍻
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T17:40:28.270Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T23:52:57.218Z
 >
-> Good night! ✌️
+> おはスコ〜🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T17:40:10.154Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T23:52:17.896Z
 >
-> GN! 😁
+> There are many candidates such as “skoot” and “skeet” and so on
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T17:39:54.065Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-14T23:50:55.155Z
 >
-> Yes this is highly anticipated!
+> おはスコ〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
