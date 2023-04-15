@@ -192,6 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Unofficial APOD BOT @apod.shinyakato.dev 2023-04-15T14:07:26.144Z
+>
+> When Z is for Mars - ©Tunc Tezel
+
+HD: https://apod.nasa.gov/apod/image/2304/Ma2022-3.jpg
+
+Please read the following thread for an explanation of this image! 👇
+
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T14:43:36.711Z
+>
+> This is a BOT that can be used for a variety of purposes. This command simply returns the very first post on your Bluesky :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T14:24:17.367Z
+>
+> Hello Bluesky friends,
+
+Are you interested in universe?
+
+I have created a BOT that uses the NASA API to post APOD (Astronomy Picture of the Day) to Bluesky Social. If you follow this BOT, it will post an APOD every day at 10:00 and 22:00 JST :)
+
+👉 @apod.shinyakato.dev
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-15T13:08:24.129Z
 >
 > You're welcome ;)
@@ -201,24 +230,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-15T12:49:57.299Z
 >
 > @yui.bsky.social user -f
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T11:28:06.875Z
->
-> So cozy place 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T11:21:56.076Z
->
-> So cool
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T10:36:25.330Z
->
-> And they lose cultures
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
