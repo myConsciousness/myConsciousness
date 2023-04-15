@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:25:20.532Z
+> C̶͚̃a̵̯͠s̸͌͜s̷̜̎ả̵̻n̵̥͑d̸̓ͅr̶̦̽a̵̛̠  @amorvincitomnia.bsky.social 2023-04-15T02:10:21.232Z
 >
-> 🤝🤝🤝
+> cultivating mental whiplash for the sheer thrill of it
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:24:14.820Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:09:14.204Z
 >
-> So cozy day! 🌞
+> Skeet! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:23:22.563Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:01:40.137Z
 >
-> Almost 2k
+> ようこそ”空”へ.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:15:30.277Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T02:01:06.655Z
 >
-> Good night, professor! 👍
+> Nostr民によるJackの話題がタイムラインに出てこなくなったあたりブルスコも次のフェーズに移ったことを身に沁みて感じる
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:13:02.305Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T01:36:25.425Z
 >
-> 🍻🍻🍻
+> インスタのストーリーは刹那.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
