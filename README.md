@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:20:16.538Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:56:34.030Z
 >
-> ブルスコへようこそ🌞
+> You’re welcome, let me know if you have questions, I’ll support! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:18:13.560Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:49:10.516Z
 >
-> I want to hang cool art on my walls too!
+> At least now all APIs in Bluesky require authentication, and there is no API equivalent to Twitter's searchRecent or searchAll endpoints 🤔
+
+If you want to get all the posts, you need to follow all the accounts in the server like I do :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T00:56:45.649Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:41:16.180Z
 >
-> Sometimes I want this desk!
+> Hi, do you mean posts in Bluesky?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T00:50:44.485Z
+> Chelsea Manning @xychelsea.tv 2023-04-15T22:50:38.288Z
 >
-> I will always strive to ;)
+> it is astounding just how purely driven by a focus on engagement and tailoring posts to algorithms the online space has become — metrics drive all discourse
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T00:41:46.151Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:29:06.264Z
 >
-> Yes very cozy! 😎
+> He is in nostr 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
