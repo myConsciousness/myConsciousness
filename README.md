@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:56:52.129Z
+>
+> Thx! 😎
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:54:41.570Z
+>
+> Hello new Bluesky friends, have a nice day 😁🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:46:30.542Z
+>
+> The problem with Twitter Forum was that there was too much distance between developers in Twitter and outsiders
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:28:17.820Z
+>
+> What was great about the Twitter Forum in my experience was that users were empowered according to their trust level. Even if they were not Twitter staff, they could do more if they contributed to the community, creating a natural environment for developers to help each other out.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:38:16.086Z
 >
 > Although if we can complete it on GitHub Discussions, that would be fine :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:36:46.411Z
->
-> That’s okay, we’re developers 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:33:03.269Z
->
-> Yep! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:32:45.758Z
->
-> How the labels will be managed is the question for me. I would like the labels to function like tags, but I don't want to make the labels in the atproto repository chaotic 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:27:59.337Z
->
-> Slack and Discord are to be avoided. Because these tools are not used by all developers and cannot be reached by searching the Internet. Discourse is a good choice for this option, as is Twitter Forum :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
