@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T06:13:18.253Z
+>
+> So cozy weekend!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:56:34.030Z
 >
 > You’re welcome, let me know if you have questions, I’ll support! 👍
@@ -215,12 +221,6 @@ If you want to get all the posts, you need to follow all the accounts in the ser
 > Chelsea Manning @xychelsea.tv 2023-04-15T22:50:38.288Z
 >
 > it is astounding just how purely driven by a focus on engagement and tailoring posts to algorithms the online space has become — metrics drive all discourse
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:29:06.264Z
->
-> He is in nostr 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
