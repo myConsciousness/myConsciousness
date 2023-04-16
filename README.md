@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T23:37:29.665Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:20:16.538Z
 >
-> グモモスコ！🌞
+> ブルスコへようこそ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T23:32:07.042Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:18:13.560Z
 >
-> Please enjoy 😁
+> I want to hang cool art on my walls too!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T23:27:20.107Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T00:56:45.649Z
 >
-> lmao
+> Sometimes I want this desk!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-15T23:14:03.620Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T00:50:44.485Z
 >
-> おはスコ！🌞
+> I will always strive to ;)
 
 ---
 
-> Whyrusleeping @why.bsky.team 2023-04-15T18:19:20.964Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T00:41:46.151Z
 >
-> Alright, it's caturday. Post them cat pics.
+> Yes very cozy! 😎
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
