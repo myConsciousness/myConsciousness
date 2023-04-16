@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:56:52.129Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:00:01.409Z
 >
-> Thx! 😎
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:54:41.570Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:57:45.419Z
 >
-> Hello new Bluesky friends, have a nice day 😁🤝
+> This is the way 🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:46:30.542Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:54:45.566Z
 >
-> The problem with Twitter Forum was that there was too much distance between developers in Twitter and outsiders
+> Time for the Japanese to attack Bluesky's server
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T13:28:17.820Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:45:40.403Z
 >
-> What was great about the Twitter Forum in my experience was that users were empowered according to their trust level. Even if they were not Twitter staff, they could do more if they contributed to the community, creating a natural environment for developers to help each other out.
+> 空間が狭いとエコーチェンバーにもなりがちでスカイ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:38:16.086Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:43:57.383Z
 >
-> Although if we can complete it on GitHub Discussions, that would be fine :)
+> It's great to see people coming to Bluesky from different platforms
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
