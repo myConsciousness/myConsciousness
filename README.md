@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:55:43.403Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:38:16.086Z
 >
-> I believe it can already be implemented by applying Bluesky's Lexicon and UI. I just don't know if this should be an atproto unofficial service or not.
+> Although if we can complete it on GitHub Discussions, that would be fine :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:52:56.325Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:36:46.411Z
 >
-> While not a high priority, I feel there needs to be a developer's Forum on AT Protocol and Bluesky. This should be like a Twitter Forum, but built on the AT Protocol.
+> That’s okay, we’re developers 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:47:30.278Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:33:03.269Z
 >
-> Success!
+> Yep! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:45:50.026Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:32:45.758Z
 >
-> If DevRels can share with developers how to use the right tools, libraries, APIs, etc., development in the community will accelerate exponentially
+> How the labels will be managed is the question for me. I would like the labels to function like tags, but I don't want to make the labels in the atproto repository chaotic 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:38:45.660Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T12:27:59.337Z
 >
-> This is the way.
+> Slack and Discord are to be avoided. Because these tools are not used by all developers and cannot be reached by searching the Internet. Discourse is a good choice for this option, as is Twitter Forum :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
