@@ -192,33 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:50:10.700Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:59:35.632Z
 >
-> Nice Flight
+> Yay, you did it! 🎉
 
 ---
 
-> George @postr.at 2023-04-12T09:48:37.511Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:47:33.396Z
 >
-> A Bluesky meetup is called a Flight.
+> I understand why and it’s my bad, I forgot to release the latest to pub.dev!
+
+Now I released v0.1.0, so please upgrade and try it again! 👍
+
+https://pub.dev/packages/bluesky_cli
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:46:07.693Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:38:39.991Z
 >
-> GN! 🤝
+> Wow it worked a few weeks ago, but maybe some features changed 😲 I also try and call you back asap! 
+
+And thank you again, glad my tool was helpful 😎
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:40:24.033Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:34:02.818Z
 >
-> Muito obrigado 😎
+> This great, I wish many DevRel to be active in AT Protocol and Bluesky! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:39:02.720Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:32:19.685Z
 >
-> lmao
+> 💯💯💯
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
