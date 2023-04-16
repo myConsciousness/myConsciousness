@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:00:01.409Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:50:10.700Z
 >
-> @yui.bsky.social /card
+> Nice Flight
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:57:45.419Z
+> George @postr.at 2023-04-12T09:48:37.511Z
 >
-> This is the way 🤙
+> A Bluesky meetup is called a Flight.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:54:45.566Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:46:07.693Z
 >
-> Time for the Japanese to attack Bluesky's server
+> GN! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:45:40.403Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:40:24.033Z
 >
-> 空間が狭いとエコーチェンバーにもなりがちでスカイ
+> Muito obrigado 😎
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T14:43:57.383Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T15:39:02.720Z
 >
-> It's great to see people coming to Bluesky from different platforms
+> lmao
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
