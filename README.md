@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T06:13:18.253Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:55:43.403Z
 >
-> So cozy weekend!
+> I believe it can already be implemented by applying Bluesky's Lexicon and UI. I just don't know if this should be an atproto unofficial service or not.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:56:34.030Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:52:56.325Z
 >
-> You’re welcome, let me know if you have questions, I’ll support! 👍
+> While not a high priority, I feel there needs to be a developer's Forum on AT Protocol and Bluesky. This should be like a Twitter Forum, but built on the AT Protocol.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:49:10.516Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:47:30.278Z
 >
-> At least now all APIs in Bluesky require authentication, and there is no API equivalent to Twitter's searchRecent or searchAll endpoints 🤔
-
-If you want to get all the posts, you need to follow all the accounts in the server like I do :)
+> Success!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T01:41:16.180Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:45:50.026Z
 >
-> Hi, do you mean posts in Bluesky?
+> If DevRels can share with developers how to use the right tools, libraries, APIs, etc., development in the community will accelerate exponentially
 
 ---
 
-> Chelsea Manning @xychelsea.tv 2023-04-15T22:50:38.288Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T11:38:45.660Z
 >
-> it is astounding just how purely driven by a focus on engagement and tailoring posts to algorithms the online space has become — metrics drive all discourse
+> This is the way.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
