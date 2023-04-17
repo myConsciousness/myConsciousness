@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:00:44.863Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:41:45.351Z
 >
-> ﾌﾟﾙﾌﾟﾙ
+> Good night Kim 😁👋
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:00:05.346Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:27:43.879Z
 >
-> @yui.bsky.social /card
+> おやすみ〜😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T14:58:09.128Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:24:46.724Z
 >
-> Hi Mark!
-
-Yes, I too fear the echo chamber phenomenon :) I guess a space constructed of mutes and blocks is cozy, but when it continues, our sensibilities become fixed, and for better or worse, our in-group mindset is exacerbated!
-
-It's very good to join different groups, even if someone denies us 🤝
+> Good night! 😎🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T14:37:49.451Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:24:18.866Z
 >
-> Bom dia 🌞
+> 加藤です！呼び方は自由です、おやすみなさい😁👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T14:34:37.759Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:14:24.269Z
 >
-> はやい
+> GN Bluesky friends, I hope you all have a wonderful day! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
