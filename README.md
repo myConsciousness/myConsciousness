@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:54:10.866Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:00:00.796Z
 >
-> B
+> 30分ごとに未フォローアカウントをちょめちょめするやつです🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:49:32.555Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:55:45.897Z
 >
-> Perhaps they have very good ears and the sound of the motor scares them a little! Also my dog probably don't understand this mysterious fountain yet 😂
+> Hint: https://github.com/myConsciousness/bluesky-follow-bot/blob/main/bin/bluesky_follow_bot.dart
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:44:34.046Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:53:33.180Z
 >
-> And I hope he can use it 😂
+> 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:36:14.585Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:52:51.300Z
 >
-> A dog afraid of the new water machine
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:28:29.859Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:50:50.972Z
 >
-> 本当に手動でやってるなら本物のスカ廃はかれらですね（遠目）
+> 諸行無常の響きあり.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
