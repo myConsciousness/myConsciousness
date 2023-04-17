@@ -192,35 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:55:22.864Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:00:44.863Z
 >
-> It’s interesting question! I just say “I don’t care” because I just have no chance to check that amazing contents! I cannot check all the contents but also I don't feel the need to check all content at the same time. I’m content if I can see the content in front of me, just like in the real world :)
+> ﾌﾟﾙﾌﾟﾙ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:46:29.496Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T15:00:05.346Z
 >
-> Of course there are such people! But I’m a psycho in a way, and I’m curious about them as well. Tbh I don't care about the attack through the screen. I just care why they had to be so aggressive.
-
-But this depends on the person. I guess people will have a quieter life if they mute such people 😅👍
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:33:02.168Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T14:58:09.128Z
 >
-> 🤝🤝🤝
+> Hi Mark!
+
+Yes, I too fear the echo chamber phenomenon :) I guess a space constructed of mutes and blocks is cozy, but when it continues, our sensibilities become fixed, and for better or worse, our in-group mindset is exacerbated!
+
+It's very good to join different groups, even if someone denies us 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:32:47.828Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T14:37:49.451Z
 >
-> lol I hope Bluesky's server will not run out of storage with your block list 😁🤝
+> Bom dia 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:30:30.921Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T14:34:37.759Z
 >
-> Haha, okay this is just my style, and your method is sometimes useful too! Everyone has a different way of thinking and mute or block may sometimes help to keep one's life at peace
+> はやい
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
