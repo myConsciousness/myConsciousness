@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T08:58:57.684Z
+>
+> Glad to see you
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T08:45:34.634Z
+>
+> Good morning 🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T08:27:28.065Z
+>
+> Bom dia 🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T08:08:06.156Z
+>
+> 🫡
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:35:36.565Z
 >
 > Nice blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:27:47.914Z
->
-> 結構機械的に抽出したIDらしいので、その名残ですかね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:25:07.116Z
->
-> ここに予約済み（取得不可）のID一覧が定義されてます
-
-https://github.com/bluesky-social/atproto/blob/main/packages/identifier/src/reserved.ts
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:16:14.144Z
->
-> 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:14:25.632Z
->
-> "Act now rather than think too much" 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
