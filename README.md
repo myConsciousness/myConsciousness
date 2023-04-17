@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:02:35.214Z
+>
+> It’s maybe Japanese feature, but I remember I grew up in an area with a large Brazilian immigrant population in Japan! They are very hardworking and have contributed to the development of Japan 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-17T11:55:22.736Z
 >
 > 🤝
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-17T10:17:47.330Z
 >
 > ブルスコへようこそ🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T09:59:18.290Z
->
-> ブルスコへようこそ！🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
