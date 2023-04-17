@@ -192,42 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T01:26:56.234Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:14:08.535Z
 >
-> Honda offers a great product! 🤝
+> こんスコ〜🌞
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-16T16:58:46.251Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:13:55.085Z
 >
-> Devs: here’s what we’re doing for your password sharing problem
-
-The real solution is an OAuth style thing but the bois are busy shipping federation and you need something now
-
-We’re going to make an App Passwords tool. This will be a way to create revokable additional passwords on your account
+> おはスコ〜🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T01:17:19.578Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:07:26.612Z
 >
-> I’m relieved this bot is working well
+> Nice heaven🌞
 
 ---
 
-> Unofficial APOD BOT @apod.shinyakato.dev 2023-04-17T00:56:08.145Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:06:41.756Z
 >
-> M2-9: Wings of a Butterfly Nebula
-
-HD: https://apod.nasa.gov/apod/image/2304/M2D9_HubbleSchmidt_985.jpg
-
-Please read the following thread for an explanation of this image! 👇
-
+> 🤝🤝🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T01:01:11.885Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:03:34.816Z
 >
-> How cute they are! 😁👍
+> Of course but I have rights to talk about him ;)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
