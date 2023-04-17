@@ -192,39 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:59:35.632Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:54:57.360Z
 >
-> Yay, you did it! 🎉
+> He will not have the respect of others in his eyes. He has a clear vision in his mind and will use any means to that end
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:47:33.396Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:52:14.744Z
 >
-> I understand why and it’s my bad, I forgot to release the latest to pub.dev!
-
-Now I released v0.1.0, so please upgrade and try it again! 👍
-
-https://pub.dev/packages/bluesky_cli
+> That is true :) But I’m also an investor, and investing in future value is difficult. If he put money into a business and that business was successful, it was probably because he had some visionary vision for the business. The same goes for acquisitions: no matter how rich he is, his money is finite
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:38:39.991Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:41:29.038Z
 >
-> Wow it worked a few weeks ago, but maybe some features changed 😲 I also try and call you back asap! 
-
-And thank you again, glad my tool was helpful 😎
+> But it's true that he made a lot of decisions and led the business. Even if I were born in the same circumstances as he was, it would be difficult for me to achieve the same results as he did. This is the miracle of his madness and ambition.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:34:02.818Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:35:12.881Z
 >
-> This great, I wish many DevRel to be active in AT Protocol and Bluesky! 🤝
+> I’m just curious why not? 👀 He has been involved in many successful businesses and has invested in some very interesting ventures
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T22:32:19.685Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:32:13.892Z
 >
-> 💯💯💯
+> 彼の中では明確なビジョンがあって、その目的のためなら手段を問わない感じでスカイ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
