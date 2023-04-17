@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:00:01.550Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:35:36.565Z
 >
-> haha alright, this conversation is a secret between us ;)
+> Nice blue
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:57:46.391Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:27:47.914Z
 >
-> Wow I have to use ChatGPT! 👀
+> 結構機械的に抽出したIDらしいので、その名残ですかね〜
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:55:57.572Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:25:07.116Z
 >
-> I hope it worked well 😉
+> ここに予約済み（取得不可）のID一覧が定義されてます
+
+https://github.com/bluesky-social/atproto/blob/main/packages/identifier/src/reserved.ts
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:54:55.228Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:16:14.144Z
 >
-> Think big, start small, learn fast
+> 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:42:21.818Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:14:25.632Z
 >
-> Awesome! 👀
+> "Act now rather than think too much" 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
