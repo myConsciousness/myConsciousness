@@ -192,33 +192,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:00:00.796Z
+> bryan newbold @bnewbold.net 2023-04-17T04:43:28.898Z
 >
-> 30分ごとに未フォローアカウントをちょめちょめするやつです🌞
+> periodic reminders (until we make these clearer):
+"likes" are public here;
+mutes and account email are not-public but your PDS can see;
+alt-text exists in post schema, but not yet in clients;
+links and mentions can be "gotchas" for now;
+posts and follow graph are public
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:55:45.897Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:55:32.309Z
 >
-> Hint: https://github.com/myConsciousness/bluesky-follow-bot/blob/main/bin/bluesky_follow_bot.dart
+> If the AT Protocol becomes widespread in the future, the number of users could be global, as is the case with the Internet. But of course, this is just a potential, and we don't know what will happen yet. We have continue to watch this big movement:)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:53:33.180Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:40:59.629Z
 >
-> 🌞🤝
+> But I’m very looking forward to see that :)))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:52:51.300Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:40:01.225Z
 >
-> 
+> Yes I agree, I feel it’s difficult to manage them in GitHub Discussions according to my experience 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T03:50:50.972Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:36:57.358Z
 >
-> 諸行無常の響きあり.
+> I don’t know about them, my post simply assumes that when we use the Bluesky’s API 🤷
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,9 +252,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Are stars better appreciated for their art after they die?  Actually, stars usually create their most artistic displays as they die.  In the case of low-mass stars like our Sun and M2-9 pictured here, the stars transform themselves from normal stars to white dwarfs by casting off their outer gaseous envelopes.  The expended gas frequently forms an impressive display called a planetary nebula that fades gradually over thousands of years.  M2-9, a butterfly planetary nebula 2100 light-years away shown in representative colors, has wings that tell a strange but incomplete tale.  In the center, two stars orbit inside a gaseous disk 10 times the orbit of Pluto.  The expelled envelope of the dying star breaks out from the disk creating the bipolar appearance.  Much remains unknown about the physical processes that cause and shape planetary nebulae.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/M2D9_HubbleSchmidt_985.jpg)
-
+> What's that red ring in the sky? Lightning. The most commonly seen type of lightning involves flashes of bright white light between clouds. Over the past 50 years, though, other types of upper-atmospheric lightning have been confirmed, including red sprites and blue jets. Less well known and harder to photograph is a different type of upper atmospheric lightning known as ELVES. ELVES are thought to be created when an electromagnetic pulse shoots upward from charged clouds and impacts the ionosphere, causing nitrogen molecules to glow.  The red ELVES ring pictured had a radius of about 350 km and was captured in late March about 100 kilometers above Ancona, Italy. Years of experience and ultra-fast photography were used to capture this ELVES -- which lasted only about 0.001 second.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/Elves_Binotto_1080.jpg)
+> &copy; Valter Binotto
 
 ---
 <!-- APOD:END -->
