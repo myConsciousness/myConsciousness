@@ -192,38 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> bryan newbold @bnewbold.net 2023-04-17T04:43:28.898Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T06:00:01.550Z
 >
-> periodic reminders (until we make these clearer):
-"likes" are public here;
-mutes and account email are not-public but your PDS can see;
-alt-text exists in post schema, but not yet in clients;
-links and mentions can be "gotchas" for now;
-posts and follow graph are public
+> haha alright, this conversation is a secret between us ;)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:55:32.309Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:57:46.391Z
 >
-> If the AT Protocol becomes widespread in the future, the number of users could be global, as is the case with the Internet. But of course, this is just a potential, and we don't know what will happen yet. We have continue to watch this big movement:)
+> Wow I have to use ChatGPT! 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:40:59.629Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:55:57.572Z
 >
-> But I’m very looking forward to see that :)))))
+> I hope it worked well 😉
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:40:01.225Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:54:55.228Z
 >
-> Yes I agree, I feel it’s difficult to manage them in GitHub Discussions according to my experience 🤔
+> Think big, start small, learn fast
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T04:36:57.358Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T05:42:21.818Z
 >
-> I don’t know about them, my post simply assumes that when we use the Bluesky’s API 🤷
+> Awesome! 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
