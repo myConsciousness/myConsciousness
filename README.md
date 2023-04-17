@@ -192,33 +192,42 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:54:57.360Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T01:26:56.234Z
 >
-> He will not have the respect of others in his eyes. He has a clear vision in his mind and will use any means to that end
+> Honda offers a great product! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:52:14.744Z
+> Paul Frazee✌️ @pfrazee.com 2023-04-16T16:58:46.251Z
 >
-> That is true :) But I’m also an investor, and investing in future value is difficult. If he put money into a business and that business was successful, it was probably because he had some visionary vision for the business. The same goes for acquisitions: no matter how rich he is, his money is finite
+> Devs: here’s what we’re doing for your password sharing problem
+
+The real solution is an OAuth style thing but the bois are busy shipping federation and you need something now
+
+We’re going to make an App Passwords tool. This will be a way to create revokable additional passwords on your account
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:41:29.038Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T01:17:19.578Z
 >
-> But it's true that he made a lot of decisions and led the business. Even if I were born in the same circumstances as he was, it would be difficult for me to achieve the same results as he did. This is the miracle of his madness and ambition.
+> I’m relieved this bot is working well
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:35:12.881Z
+> Unofficial APOD BOT @apod.shinyakato.dev 2023-04-17T00:56:08.145Z
 >
-> I’m just curious why not? 👀 He has been involved in many successful businesses and has invested in some very interesting ventures
+> M2-9: Wings of a Butterfly Nebula
+
+HD: https://apod.nasa.gov/apod/image/2304/M2D9_HubbleSchmidt_985.jpg
+
+Please read the following thread for an explanation of this image! 👇
+
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-16T23:32:13.892Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T01:01:11.885Z
 >
-> 彼の中では明確なビジョンがあって、その目的のためなら手段を問わない感じでスカイ
+> How cute they are! 😁👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
