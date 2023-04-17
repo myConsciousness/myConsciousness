@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:02:35.214Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:55:22.864Z
 >
-> It’s maybe Japanese feature, but I remember I grew up in an area with a large Brazilian immigrant population in Japan! They are very hardworking and have contributed to the development of Japan 👍
+> It’s interesting question! I just say “I don’t care” because I just have no chance to check that amazing contents! I cannot check all the contents but also I don't feel the need to check all content at the same time. I’m content if I can see the content in front of me, just like in the real world :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T11:55:22.736Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:46:29.496Z
 >
-> 🤝
+> Of course there are such people! But I’m a psycho in a way, and I’m curious about them as well. Tbh I don't care about the attack through the screen. I just care why they had to be so aggressive.
+
+But this depends on the person. I guess people will have a quieter life if they mute such people 😅👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T10:20:31.848Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:33:02.168Z
 >
-> ブルスコへようこそ🌞🤝
+> 🤝🤝🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T10:19:06.956Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:32:47.828Z
 >
-> ブルスコへようこそ🌞🤝
+> lol I hope Bluesky's server will not run out of storage with your block list 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T10:17:47.330Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T13:30:30.921Z
 >
-> ブルスコへようこそ🌞🤝
+> Haha, okay this is just my style, and your method is sometimes useful too! Everyone has a different way of thinking and mute or block may sometimes help to keep one's life at peace
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
