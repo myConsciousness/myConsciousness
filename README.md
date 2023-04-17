@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T11:55:22.736Z
+>
+> 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-17T10:20:31.848Z
 >
 > ブルスコへようこそ🌞🤝
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-17T09:59:18.290Z
 >
 > ブルスコへようこそ！🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T09:44:11.099Z
->
-> I see, I just thought it’s about search endpoints like Twitter😅🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
