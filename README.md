@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:14:08.535Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:54:10.866Z
 >
-> こんスコ〜🌞
+> B
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:13:55.085Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:49:32.555Z
 >
-> おはスコ〜🌞
+> Perhaps they have very good ears and the sound of the motor scares them a little! Also my dog probably don't understand this mysterious fountain yet 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:07:26.612Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:44:34.046Z
 >
-> Nice heaven🌞
+> And I hope he can use it 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:06:41.756Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:36:14.585Z
 >
-> 🤝🤝🤝
+> A dog afraid of the new water machine
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:03:34.816Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T02:28:29.859Z
 >
-> Of course but I have rights to talk about him ;)
+> 本当に手動でやってるなら本物のスカ廃はかれらですね（遠目）
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
