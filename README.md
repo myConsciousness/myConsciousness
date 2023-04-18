@@ -192,43 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:18:35.483Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:56:48.472Z
 >
-> haha it’s not so bad, we need to create alt when we create BOTs for example:)
+> I tried stems.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:17:15.788Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:51:08.993Z
 >
-> Yes you can, but please invite people as possible 😁
+> I’m interested in stems.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:12:51.488Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:50:11.234Z
 >
-> @poll.blue Do you hold multiple accounts in Bluesky?
+> These things are also interesting to think! 👍
 
-A - YES
-B - No
+I felt, perhaps people create alt accounts for different environments, but it’s interesting that even new accounts converge on similar environments over time :)
 
 ---
 
-> Unofficial APOD BOT @apod.shinyakato.dev 2023-04-18T00:56:00.605Z
+> Zach Brown @brown.bsky.social 2023-04-18T01:36:55.882Z
 >
-> ELVES Lightning over Italy - ©Valter Binotto
-
-HD: https://apod.nasa.gov/apod/image/2304/Elves_Binotto_2000.jpg
-
-Please read the following thread for an explanation of this image! 👇
-
+> working on stems.social with @rithvik.bsky.social -- it's a bsky server that supports handshake domains!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T00:58:48.325Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:40:16.070Z
 >
-> I first wanted to see what topics were being discussed throughout Bluesky by creating my own global timeline :)
+> Not yet but I’m preparing! I already opening my packages for AT Protocol and Bluesky, I’ll use them anyway :)
 
-Next I’m in the process of trying to see if I can get statistics from this data with the current provided API!
+https://github.com/myConsciousness/atproto.dart
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
