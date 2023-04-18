@@ -192,33 +192,43 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T23:52:43.674Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:18:35.483Z
 >
-> おはでスカイ！😎
+> haha it’s not so bad, we need to create alt when we create BOTs for example:)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T23:52:10.080Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:17:15.788Z
 >
-> おはスコ！🌞
+> Yes you can, but please invite people as possible 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T23:51:35.466Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:12:51.488Z
 >
-> おはスコフィールド🌞🤝
+> @poll.blue Do you hold multiple accounts in Bluesky?
+
+A - YES
+B - No
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T23:50:58.500Z
+> Unofficial APOD BOT @apod.shinyakato.dev 2023-04-18T00:56:00.605Z
 >
-> Good job! 😁🤝
+> ELVES Lightning over Italy - ©Valter Binotto
+
+HD: https://apod.nasa.gov/apod/image/2304/Elves_Binotto_2000.jpg
+
+Please read the following thread for an explanation of this image! 👇
+
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-17T23:49:29.008Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T00:58:48.325Z
 >
-> おはスコ〜🌞🤝
+> I first wanted to see what topics were being discussed throughout Bluesky by creating my own global timeline :)
+
+Next I’m in the process of trying to see if I can get statistics from this data with the current provided API!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
