@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T08:47:48.058Z
+>
+> こうした流れになれば、ATプロトコル（および関連技術）エンジニアの需要が高まってくるかもしれないね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T08:24:34.925Z
+>
+> 企業はどこかのPDSでアカウントを作るよりも自分たちのドメインでPDSを立てて運営してほしい
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T08:00:19.887Z
 >
 > ありがとうございます！🤝
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:54:43.386Z
 >
 > 今はBlueskyライクなPDSしかないですけど、これにまったく別物のサービスを提供するPDSが加わるとATプロトコルの本領発揮という気がしますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:48:45.399Z
->
-> PDSをシームレスに移動できるの結構面白いね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:04:40.141Z
->
-> Of course it's not mine lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
