@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:19:11.914Z
+>
+> こちら自然状態.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:03:27.258Z
+>
+> 🌞🌞🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T10:50:04.624Z
 >
 > 🤝🤝🤝
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T10:03:29.474Z
 >
 > We were born like this 😎
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T10:02:18.633Z
->
-> 私が思うに明確にスパムに該当するのは、特定の人物のポストにリプライをしまくったり、Likeしまくったりして相手の本来あるべき通知の機能を妨害すること。あと代表的なのは、定型文を短時間でポストしすぎたりすること
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T09:50:45.745Z
->
-> なにを「スパム」とするかはかなり難しい問題
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
