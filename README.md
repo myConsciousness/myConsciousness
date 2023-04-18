@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T04:30:21.793Z
+>
+> No 24k is not a special number, I feel it's 30k if there is a next milestone 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T03:35:34.790Z
 >
 > Great job! 🤝
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Zach Brown @brown.bsky.social 2023-04-18T03:07:51.887Z
 >
 > Lotta requests right now, I think we need to scale up our server. Hold tight!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T03:02:10.756Z
->
-> また日本人がやってしまったのか...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What's that red ring in the sky? Lightning. The most commonly seen type of lightning involves flashes of bright white light between clouds. Over the past 50 years, though, other types of upper-atmospheric lightning have been confirmed, including red sprites and blue jets. Less well known and harder to photograph is a different type of upper atmospheric lightning known as ELVES. ELVES are thought to be created when an electromagnetic pulse shoots upward from charged clouds and impacts the ionosphere, causing nitrogen molecules to glow.  The red ELVES ring pictured had a radius of about 350 km and was captured in late March about 100 kilometers above Ancona, Italy. Years of experience and ultra-fast photography were used to capture this ELVES -- which lasted only about 0.001 second.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/Elves_Binotto_1080.jpg)
-> &copy; Valter Binotto
+> Would you like to see a total eclipse of the Sun?  If so, do any friends or relatives live near the path of next April's eclipse?  If yes again, then you might want to arrange a well-timed visit. Next April 8, the path of a total solar eclipse will cross North America from western Mexico to eastern Canada, entering the USA in southern Texas and exiting in northern Maine.  All of North America will experience the least a partial solar eclipse.  Featured here is a map of the path of totality.  Many people who have seen a total solar eclipse tell stories about it for the rest of their lives.  As a warmup, an annular solar eclipse will be visible later this year -- in mid-October.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/EclipseMap_nasa_1080.jpg)
+
 
 ---
 <!-- APOD:END -->
