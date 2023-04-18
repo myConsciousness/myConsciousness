@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T06:56:13.903Z
+>
+> Programmer
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T06:54:21.198Z
+>
+> Yo. みんなブルスコしてるかい？
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T06:15:21.840Z
+>
+> おそらくまだ誰も試したことなさそうですが私もこれがすごく気になってます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T05:34:09.517Z
 >
 > Well I guess this will be a very fun coding experience 😂 But first I will send a PR to the existing package to see if it's something that can be fixed!
@@ -203,24 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Apparently Dart does not yet have a package that can decode CBOR correctly. The following package unfortunately did not work, then you have to create your own.
 
 https://pub.dev/packages/cbor
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T05:12:10.869Z
->
-> おはようございます！🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T04:30:21.793Z
->
-> No 24k is not a special number, I feel it's 30k if there is a next milestone 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T03:35:34.790Z
->
-> Great job! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
