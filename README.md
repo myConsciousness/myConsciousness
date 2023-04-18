@@ -192,37 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:56:48.472Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T02:46:10.212Z
 >
-> I tried stems.social
+> It's time for some guys to prepare the 24k anniversary images
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:51:08.993Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T02:40:29.110Z
 >
-> I’m interested in stems.social
+> ツールやライブラリでしたらこちらにリストアップされてます
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:50:11.234Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T02:37:26.136Z
 >
-> These things are also interesting to think! 👍
-
-I felt, perhaps people create alt accounts for different environments, but it’s interesting that even new accounts converge on similar environments over time :)
+> I guess it’s not implemented yet
 
 ---
 
-> Zach Brown @brown.bsky.social 2023-04-18T01:36:55.882Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T02:33:55.873Z
 >
-> working on stems.social with @rithvik.bsky.social -- it's a bsky server that supports handshake domains!
+> stems-social-op2s6th
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T01:40:16.070Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T02:33:02.147Z
 >
-> Not yet but I’m preparing! I already opening my packages for AT Protocol and Bluesky, I’ll use them anyway :)
-
-https://github.com/myConsciousness/atproto.dart
+> lol Domain management companies do not lose their jobs
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
