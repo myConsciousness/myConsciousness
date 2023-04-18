@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T13:34:11.689Z
+>
+> BOTでこうしたことをやってるのであればスパムで間違いないですね。しかもかなり悪質な部類だと感じます 🤷‍♂️
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:59:45.322Z
 >
 > How happy we would be if we were in a world where the fourth option was the majority 😬
@@ -218,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:19:11.914Z
 >
 > こちら自然状態.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:03:27.258Z
->
-> 🌞🌞🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
