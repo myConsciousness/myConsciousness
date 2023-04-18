@@ -192,38 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T13:34:11.689Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T18:23:58.649Z
 >
-> BOTでこうしたことをやってるのであればスパムで間違いないですね。しかもかなり悪質な部類だと感じます 🤷‍♂️
+> Thx I will! 😋
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:59:45.322Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T18:23:35.911Z
 >
-> How happy we would be if we were in a world where the fourth option was the majority 😬
+> 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:48:56.095Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T18:22:59.026Z
 >
-> @poll.blue What if you have a quarrel with someone on SNS?
+> Alps Kamikochi
 
-1 - Mute
-2 - Block
-3 - Report
-4 - Just say “have a nice day” and leave for a while
+https://www.kamikochi.or.jp
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:28:41.820Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T18:19:52.363Z
 >
-> ファンクラブとして十分需要がありそうですね〜
+> 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:19:11.914Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T18:19:18.998Z
 >
-> こちら自然状態.
+> You too 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
