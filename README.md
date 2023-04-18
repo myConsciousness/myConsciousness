@@ -192,6 +192,29 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:59:45.322Z
+>
+> How happy we would be if we were in a world where the fourth option was the majority 😬
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:48:56.095Z
+>
+> @poll.blue What if you have a quarrel with someone on SNS?
+
+1 - Mute
+2 - Block
+3 - Report
+4 - Just say “have a nice day” and leave for a while
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T12:28:41.820Z
+>
+> ファンクラブとして十分需要がありそうですね〜
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:19:11.914Z
 >
 > こちら自然状態.
@@ -201,24 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T11:03:27.258Z
 >
 > 🌞🌞🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T10:50:04.624Z
->
-> 🤝🤝🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T10:43:00.688Z
->
-> 最近Twitterを見てないですけど商材屋とかの類ですかね？リプライや引用リプライなどで無視できない形で宣伝してくるのであればスパムにあたる可能性はありますが、本当にそれが必要な場合もあるのでケースバイケースですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T10:03:29.474Z
->
-> We were born like this 😎
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
