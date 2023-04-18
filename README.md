@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T06:56:13.903Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T08:00:19.887Z
 >
-> Programmer
+> ありがとうございます！🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T06:54:21.198Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:59:11.934Z
 >
-> Yo. みんなブルスコしてるかい？
+> It cannot happen, because that ex-designer will also steal the code from somewhere else at first 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T06:15:21.840Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:54:43.386Z
 >
-> おそらくまだ誰も試したことなさそうですが私もこれがすごく気になってます
+> 今はBlueskyライクなPDSしかないですけど、これにまったく別物のサービスを提供するPDSが加わるとATプロトコルの本領発揮という気がしますね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T05:34:09.517Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:48:45.399Z
 >
-> Well I guess this will be a very fun coding experience 😂 But first I will send a PR to the existing package to see if it's something that can be fixed!
+> PDSをシームレスに移動できるの結構面白いね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T05:20:06.913Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T07:04:40.141Z
 >
-> Apparently Dart does not yet have a package that can decode CBOR correctly. The following package unfortunately did not work, then you have to create your own.
-
-https://pub.dev/packages/cbor
+> Of course it's not mine lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
