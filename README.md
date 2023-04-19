@@ -192,39 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:00:03.096Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:58:23.139Z
 >
-> @yui.bsky.social /card
+> This is a mellow music, but singer is so powerful and moving!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:59:15.795Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:54:43.473Z
 >
-> I used to listen to Eminem when I was a student. This is one of my favorites! I also liked Eminem - Beautiful:
-
-https://www.youtube.com/watch?v=lgT1AidzRWM
+> No I did not, are these singers or performers? 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:57:13.837Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:52:46.972Z
 >
-> Wow BAD OMENS! I know them I also like to listen! 🤝
+> This is the first time I heard this song, and I felt it was a masterpiece just from the intro! It has a kind of cyberpunk feel to it :)))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:55:40.919Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:47:33.285Z
 >
-> Is this Circular Contemporary Music? I like Steve Reich's music, and I feel that it has something in common!
+> This music so beautiful! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:51:04.986Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:43:13.129Z
 >
-> Let's share our favorite music, any genres are welcome! You can set any link you like, just reply to this post! 🕺
-
-Tears For Fears - Everybody Wants To Rule The World
-
-https://www.youtube.com/watch?v=aGCdLKXNF3w
+> 🤘🤘🤘
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
