@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:34:36.307Z
+>
+> This is the way.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:32:58.337Z
+>
+> ブルスコ🤙
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:29:31.524Z
+>
+> Yo. みんなブルスコしてるかい？
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T08:25:28.236Z
 >
 > All clear!
@@ -203,28 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Lexicon見る感じだと単純なStringしか指定できないので難しそうです
 
 https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/actor/profile.json
-
----
-
-> IPFS @ipfs.tech 2023-04-18T18:47:30.203Z
->
-> Big shout out to IPFS Thing 2023 attendees, presenters, scholars, volunteers, and contributors! It's been great seeing the implementers community together in one place. 💙
-
-What's been your favorite part so far?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:58:06.144Z
->
-> @globalcitizen.bsky.social @carpeidiom.bsky.social 
-
-Thank you for your detailed explanation! I'm not yet familiar with the culture of this community, but I will follow this 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:12:02.000Z
->
-> This looks very interesting! Is this a hashtag-based activity? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
