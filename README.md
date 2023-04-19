@@ -192,6 +192,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T07:35:28.845Z
+>
+> Lexicon見る感じだと単純なStringしか指定できないので難しそうです
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/actor/profile.json
+
+---
+
+> IPFS @ipfs.tech 2023-04-18T18:47:30.203Z
+>
+> Big shout out to IPFS Thing 2023 attendees, presenters, scholars, volunteers, and contributors! It's been great seeing the implementers community together in one place. 💙
+
+What's been your favorite part so far?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:58:06.144Z
 >
 > @globalcitizen.bsky.social @carpeidiom.bsky.social 
@@ -209,20 +225,6 @@ Thank you for your detailed explanation! I'm not yet familiar with the culture o
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:05:56.259Z
 >
 > There has never been a happier moment for an open source developer 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:04:33.218Z
->
-> Is this a language and culture learning community?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:56:35.433Z
->
-> API wrapper and related packages for Dart/Flutter :)
-
-https://github.com/myConsciousness/atproto.dart
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
