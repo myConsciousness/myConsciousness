@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:58:23.139Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T16:14:02.307Z
 >
-> This is a mellow music, but singer is so powerful and moving!
+> Okay then maybe you need to wait for a while, or some settings are conflicting or something 🤔 Anyway I think you set correct information!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:54:43.473Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T16:07:38.020Z
 >
-> No I did not, are these singers or performers? 🤔
+> Good night Kim! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:52:46.972Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T16:06:59.072Z
 >
-> This is the first time I heard this song, and I felt it was a masterpiece just from the intro! It has a kind of cyberpunk feel to it :)))))
+> ありがとうリッチさん！😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:47:33.285Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T16:05:29.455Z
 >
-> This music so beautiful! 🤝
+> I didn't know about them, thanks for sharing! 🙏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:43:13.129Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T16:03:19.733Z
 >
-> 🤘🤘🤘
+> Good night Bluesky friends, I hope you all have a wonderful day! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
