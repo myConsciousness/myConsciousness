@@ -192,6 +192,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T12:20:42.404Z
+>
+> どうもリッチさん！
+
+It’s “Are you doing?” if I translate literally, but I feel “Are you enjoying?” is more suitable for this phrase :^)
+
+よかったら使ってみてください！😁👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T11:35:32.716Z
 >
 > Bom dia!
@@ -213,12 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:32:58.337Z
 >
 > ブルスコ🤙
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:29:31.524Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
