@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T13:48:11.948Z
+>
+> GM! 👋
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T13:39:00.069Z
+>
+> Okay, and have you ever edit DNS settings of your domain? You need to add custom record as TXT with your DID :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T13:24:38.701Z
+>
+> Hi! You can change your handle to custom domain, of course! Do you already own your domain? :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T12:20:42.404Z
 >
 > どうもリッチさん！
@@ -205,24 +223,6 @@ It’s “Are you doing?” if I translate literally, but I feel “Are you enjo
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T11:35:32.716Z
 >
 > Bom dia!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T11:05:03.892Z
->
-> モルッスァー！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:34:36.307Z
->
-> This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:32:58.337Z
->
-> ブルスコ🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
