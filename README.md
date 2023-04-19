@@ -192,35 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:58:06.144Z
+>
+> @globalcitizen.bsky.social @carpeidiom.bsky.social 
+
+Thank you for your detailed explanation! I'm not yet familiar with the culture of this community, but I will follow this 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:12:02.000Z
+>
+> This looks very interesting! Is this a hashtag-based activity? 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:05:56.259Z
+>
+> There has never been a happier moment for an open source developer 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T06:04:33.218Z
+>
+> Is this a language and culture learning community?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:56:35.433Z
 >
 > API wrapper and related packages for Dart/Flutter :)
 
 https://github.com/myConsciousness/atproto.dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:31:36.066Z
->
-> Welcome! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:28:42.922Z
->
-> Hi there, I'm super good! I'm writing code today as always 😆
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:24:02.097Z
->
-> It's very interesting! But many people came here because they don't like the ads, so there may still be a backlash now 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:21:21.126Z
->
-> lol Let's think how to reach your goal with Bluesky Social
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
