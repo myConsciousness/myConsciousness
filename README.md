@@ -192,37 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T13:48:11.948Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T15:00:03.096Z
 >
-> GM! 👋
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T13:39:00.069Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:59:15.795Z
 >
-> Okay, and have you ever edit DNS settings of your domain? You need to add custom record as TXT with your DID :)
+> I used to listen to Eminem when I was a student. This is one of my favorites! I also liked Eminem - Beautiful:
+
+https://www.youtube.com/watch?v=lgT1AidzRWM
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T13:24:38.701Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:57:13.837Z
 >
-> Hi! You can change your handle to custom domain, of course! Do you already own your domain? :)
+> Wow BAD OMENS! I know them I also like to listen! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T12:20:42.404Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:55:40.919Z
 >
-> どうもリッチさん！
-
-It’s “Are you doing?” if I translate literally, but I feel “Are you enjoying?” is more suitable for this phrase :^)
-
-よかったら使ってみてください！😁👍
+> Is this Circular Contemporary Music? I like Steve Reich's music, and I feel that it has something in common!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T11:35:32.716Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T14:51:04.986Z
 >
-> Bom dia!
+> Let's share our favorite music, any genres are welcome! You can set any link you like, just reply to this post! 🕺
+
+Tears For Fears - Everybody Wants To Rule The World
+
+https://www.youtube.com/watch?v=aGCdLKXNF3w
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
