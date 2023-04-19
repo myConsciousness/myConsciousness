@@ -192,39 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:00:10.764Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:56:35.433Z
 >
-> GN!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T04:55:39.734Z
->
-> It's also possible to build funny BOTs like @apod.shinyakato.dev with these packages. You can check this source code in my repository :)
-
-https://github.com/myConsciousness/bluesky-apod-bot
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T04:53:02.453Z
->
-> Are there any Dart/Flutter developers here? I'm developing a library and CLI tool wrapping the AT Protocol and Bluesky's API that can be used with Dart/Flutter :) Check following link if you're trying to build apps with Dart and Flutter! 
+> API wrapper and related packages for Dart/Flutter :)
 
 https://github.com/myConsciousness/atproto.dart
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-19T04:03:32.606Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:31:36.066Z
 >
-> Btw RE notifications there’s some bad news — to fix the performance I probably have to do the “20+” style thing 😭
-
-If it helps I’ll explain why:
+> Welcome! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T04:38:21.799Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:28:42.922Z
 >
-> vibes
+> Hi there, I'm super good! I'm writing code today as always 😆
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:24:02.097Z
+>
+> It's very interesting! But many people came here because they don't like the ads, so there may still be a backlash now 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T05:21:21.126Z
+>
+> lol Let's think how to reach your goal with Bluesky Social
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
