@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T02:49:26.656Z
+>
+> Best luck! 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T00:59:16.010Z
 >
 > おはスコ〜！🤝
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-18T23:54:31.095Z
 >
 > GM! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T23:54:06.415Z
->
-> おはスココ〜！🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
