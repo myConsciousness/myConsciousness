@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T02:49:26.656Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T03:57:44.866Z
 >
-> Best luck! 👍
+> I look at the timeline objectively and observe with great interest the fact that many people want to block others
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T00:59:16.010Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T03:55:38.729Z
 >
-> おはスコ〜！🤝
+> Yes I think so. It's just very interesting that there are people who want to block others so much.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T00:17:42.319Z
+> jay @jubbish.bsky.social 2023-04-18T19:59:04.083Z
 >
-> GM ブルスコ！ Thanks😁🤝
+> “Out of Bounds”
+
+taken in a single shot in the Yucatán. no photoshop, no AI, 100% single photograph 
+
+🍂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T00:04:45.303Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T03:41:16.291Z
 >
-> Hi! How are you doing? 😁
+> Excellent, let's keep seeking the light 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-18T23:54:31.095Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T03:37:38.659Z
 >
-> GM! 😁🤝
+> Nice expression, what do the dead leaves represent?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
