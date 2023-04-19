@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T11:35:32.716Z
+>
+> Bom dia!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T11:05:03.892Z
+>
+> モルッスァー！
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:34:36.307Z
 >
 > This is the way.
@@ -207,20 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-19T10:29:31.524Z
 >
 > Yo. みんなブルスコしてるかい？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T08:25:28.236Z
->
-> All clear!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T07:35:28.845Z
->
-> Lexicon見る感じだと単純なStringしか指定できないので難しそうです
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/actor/profile.json
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
