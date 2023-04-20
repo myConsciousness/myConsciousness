@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T07:47:57.268Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:39:07.156Z
 >
-> ようこそ🌞🤝
+> 大手がBlueskyに遊びに来た際にはカスタムドメインを自分たちの満足できる形で設定できる前に、自分の公式サイトやもともとある公式SNSアカウントで本人証明するのがベストだと思う
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T07:17:43.740Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:27:41.730Z
 >
-> 🌞🤝
+> 今日はユーザーが急増したからカードバトルサポートセンターが忙しくなりそう
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T07:11:06.523Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:23:11.988Z
 >
-> Thx! 🙏
+> Yo. みんなブルスコしてるかい？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:58:13.705Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:20:20.671Z
 >
-> lol I haven't seen this name in a long time
+> ですね、アプリ再起動で直るので、アプリの状態管理の実装がまだサーバー移動のケースに対応できてないのかもしれません
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:45:09.504Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:11:40.141Z
 >
-> You’re welcome! 🤝
+> PDSを移動してるとアプリにキャッシュが残るのかPDSごとのアカウント情報が混ざってカオスになる
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
