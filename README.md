@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:00:01.817Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:47:44.825Z
 >
-> @yui.bsky.social /card ai
+> 😁🤝🤝🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:59:07.895Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:36:17.478Z
 >
-> Time to test the server's endurance
+> いいですね！Let’s join in Japanese community 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:34:14.677Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:34:00.455Z
 >
-> おやスコ！🌚
+> GN! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:14:34.416Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:33:49.325Z
 >
-> The official repository contains core development members of the AT protocol as well as Bluesky. They will surely answer your questions in a satisfactory manner! :)
+> おやスコ！😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:08:25.148Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:33:15.679Z
 >
-> GM!
+> GN! 🌚
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
