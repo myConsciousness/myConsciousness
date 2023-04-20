@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:48:15.484Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:34:39.068Z
 >
-> So nice smile! 😎
+> This will increase the safety of users of our applications 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:39:21.147Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:31:32.690Z
 >
-> リッチさん、おはスコ！🌞
+> hehe they are very good at getting our attention ;)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:38:49.802Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:29:49.850Z
 >
-> 🌞🤝🤝🤝
+> So cute eyes :)))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:37:35.337Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:14:19.933Z
 >
-> It’s time for dog 🐩
+> It reminded me of Disney's 101 Doggies :))))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:24:54.925Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:02:24.224Z
 >
-> サードパーティアプリケーションにも早く組み込まれるといいですね〜
+> So cute 👀 👀 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
