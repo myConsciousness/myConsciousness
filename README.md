@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T22:58:08.719Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:59:38.261Z
 >
-> Good morning ブルスコ🤙
+> Thanks, He's a 10 month old baby 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T22:56:23.431Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:57:07.115Z
 >
-> Welcome to Bluesky! 🤝
+> Fill with dogs photo 🐩
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T22:54:13.815Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:46:31.819Z
 >
-> おはスコ〜！🌞
+> Good morning! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T22:49:17.352Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:25:10.357Z
 >
-> I’m glad to hear! 😁🤝
+> ありがとう、おはようございます！🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T16:14:02.307Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:24:35.849Z
 >
-> Okay then maybe you need to wait for a while, or some settings are conflicting or something 🤔 Anyway I think you set correct information!
+> You’re welcome ;)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
