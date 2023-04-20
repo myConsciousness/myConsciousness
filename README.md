@@ -192,40 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Jay 🦋 @jay.bsky.team 2023-04-19T22:42:25.353Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:54:21.046Z
 >
-> We're hiring a Go dev! If you have experience with large-scale systems and are excited to make decentralized social go fast and scale up, we want to talk!
-
-https://blueskyweb.xyz/join/go-developer
+> Welcome, it’s very nice art! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T01:11:49.580Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:42:23.626Z
 >
-> GN! 🌚
+> Best luck! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T01:11:31.149Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:36:26.968Z
 >
-> GM! 🌞
+> We need scale up!
 
 ---
 
-> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-20T00:55:59.083Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:34:07.159Z
 >
-> Auroral Storm over Lapland - ©Juan Carlos Casado
-
-HD: https://apod.nasa.gov/apod/image/2304/AuroraSnow_Casado_3000.jpg
-
-Please read the following thread for an explanation of this image! 👇
-
+> 🔥🔥🔥
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T00:38:00.774Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:30:44.434Z
 >
-> Toby has a rare coat color 👀
+> I feel Bluesky's server heating up again with the surge in users
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
