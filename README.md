@@ -192,33 +192,41 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:59:11.674Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:58:13.705Z
 >
-> Just enjoy, welcome! 🤝
+> lol I haven't seen this name in a long time
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:51:00.891Z
->
-> It seems it depends on account, but please wait for a while!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:44:16.097Z
->
-> Hi there, welcome! 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:17:41.066Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:45:09.504Z
 >
 > You’re welcome! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:16:32.445Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:41:02.002Z
 >
-> Hi there! You will receive an invitation code every 2 weeks from account registration. But, you may get them in exceptional cases, so just enjoy Bluesky for a while! :)
+> It’s from NASA open APIs 🪐Copyrights and images to be displayed can also be fetched from following API! :)
+
+https://api.nasa.gov
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:34:32.344Z
+>
+> For newcomers,
+
+I maintain an unofficial APOD (Astronomy Picture of the Day) BOT!
+
+If you would like to add spectacular space images and descriptions to your timeline, follow the following account :)
+
+This account will post a new APOD at 10:00 JST and repost at 22:00 JST 🪐
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T06:21:30.729Z
+>
+> The number of Japanese language posts may be the best in Bluesky if limited to a specific time
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
