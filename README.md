@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:38:19.271Z
+>
+> おやスコ〜🌚
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:32:24.092Z
+>
+> HEAVEN
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:18:59.873Z
+>
+> hehe thx! This is a purebred poodle 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:17:35.523Z
+>
+> I guess Bluesky's icon is still under consideration and what kind of icon it will be in the future has not been decided yet, but yes I would prefer a simpler design that allows for icons that fit a variety of themes :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:34:39.068Z
 >
 > This will increase the safety of users of our applications 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:31:32.690Z
->
-> hehe they are very good at getting our attention ;)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:29:49.850Z
->
-> So cute eyes :)))))
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:14:19.933Z
->
-> It reminded me of Disney's 101 Doggies :))))))
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:02:24.224Z
->
-> So cute 👀 👀 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
