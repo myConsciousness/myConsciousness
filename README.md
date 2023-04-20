@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:59:32.789Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:48:15.484Z
 >
-> Yes this will allow for safer development! 😄
+> So nice smile! 😎
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:34:57.652Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:39:21.147Z
 >
-> 今疎通テストしたけど既にcom.atproto.server.createAppPasswordはプロトコルに反映されてるぞ！
+> リッチさん、おはスコ！🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:26:43.885Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:38:49.802Z
 >
-> Thx Kim, it's very useful! 👍
+> 🌞🤝🤝🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:22:11.466Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:37:35.337Z
 >
-> 追加されたLexiconの疎通テストはまだしてないけど、さすがにプロトコルにデプロイはまだかな
+> It’s time for dog 🐩
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:19:02.369Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T11:24:54.925Z
 >
-> descriptionとoutputのcom.atproto.server.createAppPassword#appPasswordを見る感じだとそんな気がしますね
+> サードパーティアプリケーションにも早く組み込まれるといいですね〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
