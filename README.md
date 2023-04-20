@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:54:21.046Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:15:45.396Z
 >
-> Welcome, it’s very nice art! 🤝
+> Twitter specs are mostly ported from third parties!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:42:23.626Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:13:05.760Z
 >
-> Best luck! 👍
+> I’m almost out of stock, but okay please invite your friend! Send me email:
+
+contact@shinyakato.dev
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:36:26.968Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:10:38.386Z
 >
-> We need scale up!
+> I’m relieved everyone used the invitation code correctly!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:34:07.159Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:08:15.168Z
 >
-> 🔥🔥🔥
+> Yes official app for Android has been released! :)
+
+https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US&fbclid=PAAabN3W46JVG0C5_tzl7nRRR28hCrxubpboOtGnpRtwXEF25whrjCGdV9uSw
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T02:30:44.434Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:07:01.892Z
 >
-> I feel Bluesky's server heating up again with the surge in users
+> I did nothing and they are a given!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
