@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T09:15:58.759Z
+>
+> I don't have any level of expertise in the universe to study, but I'm genuinely attracted to the universe as an entity :) It's a mystery that something exists in this universe that we cannot actually see, it's beautiful anyway 🪐
+
+---
+
+> Brent Peters 🌏 The Digital Global Citizen @globalcitizen.bsky.social 2023-04-20T08:00:00.326Z
+>
+> Ladies and Gentleman
+
+The Bluesky essential starter kit!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:39:07.156Z
 >
 > 大手がBlueskyに遊びに来た際にはカスタムドメインを自分たちの満足できる形で設定できる前に、自分の公式サイトやもともとある公式SNSアカウントで本人証明するのがベストだと思う
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:23:11.988Z
 >
 > Yo. みんなブルスコしてるかい？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:20:20.671Z
->
-> ですね、アプリ再起動で直るので、アプリの状態管理の実装がまだサーバー移動のケースに対応できてないのかもしれません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:11:40.141Z
->
-> PDSを移動してるとアプリにキャッシュが残るのかPDSごとのアカウント情報が混ざってカオスになる
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
