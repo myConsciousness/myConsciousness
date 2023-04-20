@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T09:15:58.759Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:59:32.789Z
 >
-> I don't have any level of expertise in the universe to study, but I'm genuinely attracted to the universe as an entity :) It's a mystery that something exists in this universe that we cannot actually see, it's beautiful anyway 🪐
+> Yes this will allow for safer development! 😄
 
 ---
 
-> Brent Peters 🌏 The Digital Global Citizen @globalcitizen.bsky.social 2023-04-20T08:00:00.326Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:34:57.652Z
 >
-> Ladies and Gentleman
-
-The Bluesky essential starter kit!
+> 今疎通テストしたけど既にcom.atproto.server.createAppPasswordはプロトコルに反映されてるぞ！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:39:07.156Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:26:43.885Z
 >
-> 大手がBlueskyに遊びに来た際にはカスタムドメインを自分たちの満足できる形で設定できる前に、自分の公式サイトやもともとある公式SNSアカウントで本人証明するのがベストだと思う
+> Thx Kim, it's very useful! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:27:41.730Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:22:11.466Z
 >
-> 今日はユーザーが急増したからカードバトルサポートセンターが忙しくなりそう
+> 追加されたLexiconの疎通テストはまだしてないけど、さすがにプロトコルにデプロイはまだかな
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T08:23:11.988Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T10:19:02.369Z
 >
-> Yo. みんなブルスコしてるかい？
+> descriptionとoutputのcom.atproto.server.createAppPassword#appPasswordを見る感じだとそんな気がしますね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
