@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:38:19.271Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T15:00:01.817Z
 >
-> おやスコ〜🌚
+> @yui.bsky.social /card ai
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:32:24.092Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:59:07.895Z
 >
-> HEAVEN
+> Time to test the server's endurance
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:18:59.873Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:34:14.677Z
 >
-> hehe thx! This is a purebred poodle 😁
+> おやスコ！🌚
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T13:17:35.523Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:14:34.416Z
 >
-> I guess Bluesky's icon is still under consideration and what kind of icon it will be in the future has not been decided yet, but yes I would prefer a simpler design that allows for icons that fit a variety of themes :)
+> The official repository contains core development members of the AT protocol as well as Bluesky. They will surely answer your questions in a satisfactory manner! :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T12:34:39.068Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T14:08:25.148Z
 >
-> This will increase the safety of users of our applications 👍
+> GM!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
