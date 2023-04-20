@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:15:45.396Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:59:11.674Z
 >
-> Twitter specs are mostly ported from third parties!
+> Just enjoy, welcome! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:13:05.760Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:51:00.891Z
 >
-> I’m almost out of stock, but okay please invite your friend! Send me email:
-
-contact@shinyakato.dev
+> It seems it depends on account, but please wait for a while!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:10:38.386Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:44:16.097Z
 >
-> I’m relieved everyone used the invitation code correctly!
+> Hi there, welcome! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:08:15.168Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:17:41.066Z
 >
-> Yes official app for Android has been released! :)
-
-https://play.google.com/store/apps/details?id=xyz.blueskyweb.app&hl=en_US&fbclid=PAAabN3W46JVG0C5_tzl7nRRR28hCrxubpboOtGnpRtwXEF25whrjCGdV9uSw
+> You’re welcome! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T03:07:01.892Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T04:16:32.445Z
 >
-> I did nothing and they are a given!
+> Hi there! You will receive an invitation code every 2 weeks from account registration. But, you may get them in exceptional cases, so just enjoy Bluesky for a while! :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -251,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> On some nights the sky is the best show in town.  On this night, auroras ruled the sky, and the geomagnetic storm that created this colorful sky show originated from an increasingly active Sun. Surprisingly, since the approaching solar CME the day before had missed the Earth, it was not expected that this storm would create auroras. In the foreground, two happily surprised aurora hunters contemplate the amazing and rapidly changing sky. Regardless of forecasts, though, auroras were reported in the night skies of Earth not only in the far north, but as far south as New Mexico, USA.  As captured in a wide-angle image above Saariselkä in northern Finnish Lapland, a bright aurora was visible with an unusually high degree of detail, range of colors, and breadth across the sky.  The vivid yellow, green, red and purple auroral colors are caused by oxygen and nitrogen atoms high in Earth's atmosphere reacting to incoming electrons.    Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library
-> ![APOD](https://apod.nasa.gov/apod/image/2304/AuroraSnow_Casado_1080.jpg)
-> &copy; Juan Carlos Casado
+> Spanning light-years, this suggestive shape known as the Seahorse Nebula appears in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, obscuring clouds are part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful stars of Cepheus add to this pretty, galactic skyscape.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/Barnard-150_LRGB_HIGH-RES1024.jpg)
+> &copy; Jeff Herman
 
 ---
 <!-- APOD:END -->
