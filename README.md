@@ -192,33 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:55:26.476Z
+>
+> Yes, ブルスコ！( ‘ω’ 三 ‘ω’ 三 ‘ω’ )
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:53:30.792Z
+>
+> たくさん呼んでください😁👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:33:02.299Z
+>
+> 🌞🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:30:44.790Z
+>
+> できます！
+
+https://staging.bsky.app
+https://klearsky.pages.dev/#/home
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:09:36.062Z
 >
 > lol Space travel is ongoing! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T01:54:31.092Z
->
-> リッチさん、おはスコ！🌞🤙
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T01:53:41.811Z
->
-> The automatic posting of APOD was delayed today because the image retrieved from the NASA API were too large, so I had to hastily add a process to automatically compress them. Now it works! 🪐
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:55:42.975Z
->
-> Thx! 🙏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:55:20.350Z
->
-> You're welcome! I like hot music like you guys! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
