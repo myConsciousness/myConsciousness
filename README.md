@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T08:55:24.865Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:58:10.797Z
 >
-> 誰とは言いません（意味深）
+> Is this a Discord feature? This code is only valid for 1 week :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T08:52:34.306Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:32:39.343Z
 >
-> 下手に反応して証拠消されるのが嫌だから私は基本的に泳がせ捜査
+> 🌞🌞🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T08:48:35.607Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:27:18.109Z
 >
-> 名前を呼んではいけないあの人
+> This is the way.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T07:29:19.640Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:26:40.056Z
 >
-> GN!
+> Yo. みんなブルスコしてるかい？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T07:00:03.742Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:25:37.408Z
 >
-> たぶんBLOBをアップロードする時のContent-Typeが違うかもしれません
+> AT Protocol and Bluesky will be starter kits for trendy girls
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
