@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:55:51.177Z
+>
+> Hi you’re setting your domain as your user name, but you should set it as your handle :) You can change from “Settings”, “Change my handle” and “I have my own handle” :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:54:09.882Z
+>
+> You may need 8 likes to be hot 👀
+
+https://github.com/bluesky-social/atproto/pull/862/files
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:48:45.286Z
+>
+> I have never seen “Verified Organi…” 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:37:28.136Z
+>
+> From “Settings”, “Change my handle”,  and “I have my own domain” :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:58:37.493Z
 >
 > Hi from Japan 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:54:22.210Z
->
-> Oh Swifties!!!! 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:53:32.965Z
->
-> It’s time for revolution! 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:52:19.165Z
->
-> lol bluesky has optimized for her 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:45:13.219Z
->
-> He’s in Nostr, not here
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
