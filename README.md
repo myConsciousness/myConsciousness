@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T22:51:12.152Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T23:55:06.616Z
+>
+> I'm not very expert on React Native, but from the looks of this message, I guess it's a recursive 😆
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T23:45:10.759Z
+>
+> This activity was worth doing!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T23:44:17.445Z
+>
+> lol I may have done it a few times 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T23:37:42.218Z
 >
 > おはスコ〜🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T22:51:02.034Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T23:36:31.965Z
 >
-> おはスコ！🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T22:50:19.232Z
->
-> おはスコ〜🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T22:42:51.325Z
->
-> Welcome! 🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-20T22:13:07.176Z
->
-> 🤙
+> Thread limits?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
