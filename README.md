@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T05:59:34.817Z
+>
+> Whyさんに頼みましょう（提案）
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T05:45:49.141Z
+>
+> Hi @aliceisjustplaying.bsky.social ,
+
+Are you managing Bluesky API Touchers on Discord? I would like to open a Dart/Flutter space on this server, so please confirm when you have time. I have already mentioned you on Discord and it is the same content as this post :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:53:17.815Z
 >
 > lol what 😂
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:43:03.766Z
 >
 > Is this like meme in Brazil?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:38:30.320Z
->
-> I have seen several accounts using Taylor Swift's profile picture today. I wonder how many she has on Bluesky? 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:27:10.885Z
->
-> 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
