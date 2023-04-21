@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:38:59.496Z
+>
+> Haha well said😁🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:13:10.842Z
+>
+> 🤝🤝🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:12:59.436Z
+>
+> It’s not so difficult if you know how to do, but yes people need to something how to set it up. Maybe I’ll create something if there is no one created:)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:10:46.077Z
+>
+> Of course if you set sub domain! 😁👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:50:29.711Z
 >
 > Need an English article on how to set up a custom domain in Bluesky on Medium or some other platforms? Or has someone already written one?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:47:52.028Z
->
-> Please check her guide also!
-
-https://staging.bsky.app/profile/hilarybaumann.com/post/3jtuaqi3hk72e
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:44:08.860Z
->
-> Her guide is useful for English speakers!
-
-https://staging.bsky.app/profile/hilarybaumann.com/post/3jtuaqi3hk72e
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:33:40.072Z
->
-> Did you set your DID as TXT record with the name "_atproto"?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:31:56.777Z
->
-> Yes like this, terrible case at all 🤷
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
