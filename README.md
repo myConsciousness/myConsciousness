@@ -192,33 +192,45 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:38:59.496Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
 >
-> Haha well said😁🤝
+> For newcomers,
+
+Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
+
+There is also a list of third-party clients, so even if you are not a developer, check it out!
+
+Welcome🤝
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:13:10.842Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:45:17.622Z
 >
-> 🤝🤝🤝
+> Mi Mark!
+
+Use this link! :)
+
+https://bsky.app/profile/shinyakato.dev/post/3jtuoig7ek522
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:12:59.436Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:32:00.692Z
 >
-> It’s not so difficult if you know how to do, but yes people need to something how to set it up. Maybe I’ll create something if there is no one created:)
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T12:10:46.077Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:30:35.645Z
 >
-> Of course if you set sub domain! 😁👍
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:50:29.711Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:30:23.016Z
 >
-> Need an English article on how to set up a custom domain in Bluesky on Medium or some other platforms? Or has someone already written one?
+> I’m home 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
