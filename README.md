@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:58:10.797Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:00:30.397Z
 >
-> Is this a Discord feature? This code is only valid for 1 week :)
+> 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:32:39.343Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:59:16.320Z
 >
-> 🌞🌞🌞🤝
+> Yes this is a pretty big problem. Japanese community has already been victimized by identity theft through this hack!
+
+If you are concerned, I recommend you create an alt account. For example I'm protecting my handle (@shinyakato.bsky.social) when I come to this server as an alt account :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:27:18.109Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:53:50.404Z
 >
-> This is the way.
+> Indeed! But even if a domain uses a name that is confusingly similar to a prominent individual or corporation, people should first make it a practice to search for that domain. 
+
+And I guess it would be even better if the protocol or something could further verify the legitimacy of the domain :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:26:40.056Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:49:11.298Z
 >
-> Yo. みんなブルスコしてるかい？
+> Any provider is acceptable! If you want an easy way to get a domain, Google Domains is fine :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T09:25:37.408Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:47:51.328Z
 >
-> AT Protocol and Bluesky will be starter kits for trendy girls
+> The way to proving user identity by using DNS is really clever, it's awesome
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
