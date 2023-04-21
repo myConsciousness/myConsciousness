@@ -192,37 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:00:30.397Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:50:29.711Z
 >
-> 🤝
+> Need an English article on how to set up a custom domain in Bluesky on Medium or some other platforms? Or has someone already written one?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:59:16.320Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:47:52.028Z
 >
-> Yes this is a pretty big problem. Japanese community has already been victimized by identity theft through this hack!
+> Please check her guide also!
 
-If you are concerned, I recommend you create an alt account. For example I'm protecting my handle (@shinyakato.bsky.social) when I come to this server as an alt account :)
+https://staging.bsky.app/profile/hilarybaumann.com/post/3jtuaqi3hk72e
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:53:50.404Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:44:08.860Z
 >
-> Indeed! But even if a domain uses a name that is confusingly similar to a prominent individual or corporation, people should first make it a practice to search for that domain. 
+> Her guide is useful for English speakers!
 
-And I guess it would be even better if the protocol or something could further verify the legitimacy of the domain :)
+https://staging.bsky.app/profile/hilarybaumann.com/post/3jtuaqi3hk72e
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:49:11.298Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:33:40.072Z
 >
-> Any provider is acceptable! If you want an easy way to get a domain, Google Domains is fine :)
+> Did you set your DID as TXT record with the name "_atproto"?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T10:47:51.328Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T11:31:56.777Z
 >
-> The way to proving user identity by using DNS is really clever, it's awesome
+> Yes like this, terrible case at all 🤷
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
