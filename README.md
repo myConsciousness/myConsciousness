@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:48:08.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:53:17.815Z
 >
-> You’re welcome! Maybe you can find more from following link :)
-
-https://github.com/bluesky-social/atproto-ecosystem
+> lol what 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:47:05.880Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:45:06.981Z
 >
-> While in Japanese Edo period
+> ah I understand! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:34:42.097Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:43:03.766Z
 >
-> And third party!
-
-https://klearsky.pages.dev/
+> Is this like meme in Brazil?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:23:12.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:38:30.320Z
 >
-> vibes! 🤙
+> I have seen several accounts using Taylor Swift's profile picture today. I wonder how many she has on Bluesky? 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:06:13.654Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:27:10.885Z
 >
-> stems.social のアカウントも消えてるんですよね
+> 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -251,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Spanning light-years, this suggestive shape known as the Seahorse Nebula appears in silhouette against a rich, luminous background of stars. Seen toward the royal northern constellation of Cepheus, the dusty, obscuring clouds are part of a Milky Way molecular cloud some 1,200 light-years distant. It is also listed as Barnard 150 (B150), one of 182 dark markings of the sky cataloged in the early 20th century by astronomer E. E. Barnard. Packs of low mass stars are forming within, but their collapsing cores are only visible at long infrared wavelengths. Still, the colorful stars of Cepheus add to this pretty, galactic skyscape.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/Barnard-150_LRGB_HIGH-RES1024.jpg)
-> &copy; Jeff Herman
+> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. A mere 62 seconds of totality could be seen though, when the dark central lunar shadow just grazed the North West Cape, a peninsula in western Australia. From top to bottom these panels capture the beginning, middle, and end of that fleeting total eclipse phase. At start and finish, solar prominences and beads of sunlight stream past the lunar limb. At mid-eclipse the central frame reveals the sight only easily visible during totality and most treasured by eclipse chasers, the magnificent corona of the active Sun. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324h1024.jpg)
+> &copy; Gwenaël Blanck
 
 ---
 <!-- APOD:END -->
