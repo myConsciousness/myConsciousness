@@ -192,45 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:58:37.493Z
 >
-> For newcomers,
-
-Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
-
-There is also a list of third-party clients, so even if you are not a developer, check it out!
-
-Welcome🤝
-
-https://github.com/bluesky-social/atproto-ecosystem
+> Hi from Japan 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:45:17.622Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:54:22.210Z
 >
-> Mi Mark!
-
-Use this link! :)
-
-https://bsky.app/profile/shinyakato.dev/post/3jtuoig7ek522
+> Oh Swifties!!!! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:32:00.692Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:53:32.965Z
 >
-> @yui.bsky.social /card -b
+> It’s time for revolution! 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:30:35.645Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:52:19.165Z
 >
-> @yui.bsky.social /card
+> lol bluesky has optimized for her 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T15:30:23.016Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:45:13.219Z
 >
-> I’m home 🌞
+> He’s in Nostr, not here
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
