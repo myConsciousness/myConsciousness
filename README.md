@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:09:36.062Z
+>
+> lol Space travel is ongoing! 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T01:54:31.092Z
+>
+> リッチさん、おはスコ！🌞🤙
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T01:53:41.811Z
+>
+> The automatic posting of APOD was delayed today because the image retrieved from the NASA API were too large, so I had to hastily add a process to automatically compress them. Now it works! 🪐
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:55:42.975Z
 >
 > Thx! 🙏
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:55:20.350Z
 >
 > You're welcome! I like hot music like you guys! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:50:45.216Z
->
-> meme Paul!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:49:09.922Z
->
-> Today I'm working on a large number of scripts that we developed and just waiting for them to finish successfully in front of the console. Frankly, I have so free time at this time, but it's only at times like this that I'm unable to concentrate on productive work
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T00:25:46.576Z
->
-> Hi I’m great, I’m just dealing with my tasks! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
