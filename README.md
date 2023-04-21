@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T08:55:24.865Z
+>
+> 誰とは言いません（意味深）
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T08:52:34.306Z
+>
+> 下手に反応して証拠消されるのが嫌だから私は基本的に泳がせ捜査
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T08:48:35.607Z
+>
+> 名前を呼んではいけないあの人
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T07:29:19.640Z
 >
 > GN!
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-21T07:00:03.742Z
 >
 > たぶんBLOBをアップロードする時のContent-Typeが違うかもしれません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:50:24.666Z
->
-> Nice movement
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:23:51.064Z
->
-> I can see your custom handle now! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:23:14.170Z
->
-> Then go back to "Change my handle" on Bluesky, and enter your domain like "@Soniablanco.es" and let's verify DNS record!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
