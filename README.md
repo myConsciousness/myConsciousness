@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T05:59:34.817Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T07:00:03.742Z
 >
-> Whyさんに頼みましょう（提案）
+> たぶんBLOBをアップロードする時のContent-Typeが違うかもしれません
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T05:45:49.141Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:50:24.666Z
 >
-> Hi @aliceisjustplaying.bsky.social ,
-
-Are you managing Bluesky API Touchers on Discord? I would like to open a Dart/Flutter space on this server, so please confirm when you have time. I have already mentioned you on Discord and it is the same content as this post :)
+> Nice movement
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:53:17.815Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:23:51.064Z
 >
-> lol what 😂
+> I can see your custom handle now! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:45:06.981Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:23:14.170Z
 >
-> ah I understand! 😁
+> Then go back to "Change my handle" on Bluesky, and enter your domain like "@Soniablanco.es" and let's verify DNS record!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T04:43:03.766Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T06:20:56.766Z
 >
-> Is this like meme in Brazil?
+> Perfect! Please set "_atproto" to redirigir, and set your DID like "did=did:plc:iijrtk7ocored6zuziwmqq3c" to valor :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
