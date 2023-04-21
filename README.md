@@ -192,36 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:55:26.476Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:48:08.879Z
 >
-> Yes, ブルスコ！( ‘ω’ 三 ‘ω’ 三 ‘ω’ )
+> You’re welcome! Maybe you can find more from following link :)
+
+https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:53:30.792Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:47:05.880Z
 >
-> たくさん呼んでください😁👍
+> While in Japanese Edo period
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:33:02.299Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:34:42.097Z
 >
-> 🌞🤝
+> And third party!
+
+https://klearsky.pages.dev/
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:30:44.790Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:23:12.505Z
 >
-> できます！
-
-https://staging.bsky.app
-https://klearsky.pages.dev/#/home
+> vibes! 🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T02:09:36.062Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T03:06:13.654Z
 >
-> lol Space travel is ongoing! 🤝
+> stems.social のアカウントも消えてるんですよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
