@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:55:51.177Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:59:13.111Z
 >
-> Hi you’re setting your domain as your user name, but you should set it as your handle :) You can change from “Settings”, “Change my handle” and “I have my own handle” :)
+> Yourself :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:54:09.882Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:53:41.593Z
 >
-> You may need 8 likes to be hot 👀
-
-https://github.com/bluesky-social/atproto/pull/862/files
+> This viewpoint is a tip for photographing trees artistically :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:48:45.286Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:39:49.152Z
 >
-> I have never seen “Verified Organi…” 👀
+> おはスコ！🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T21:37:28.136Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:24:14.722Z
 >
-> From “Settings”, “Change my handle”,  and “I have my own domain” :)
+> Now there are many Morgan’s selfies on What’s hot 😂👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T16:58:37.493Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:15:18.961Z
 >
-> Hi from Japan 😁🤝
+> I just hope you’re fine! 😂🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
