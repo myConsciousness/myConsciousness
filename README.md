@@ -192,33 +192,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:57:19.579Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T10:40:24.660Z
 >
-> 😎😎😎😎😎 🤝
+> Yes! You can easily use it with following package
+
+https://pub.dev/packages/web_socket_channel
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:48:17.789Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T10:37:15.234Z
 >
-> Look at devs...
+> ですね。Dartの既存パッケージの場合はこの構造のCBORのデコードに対応していないらしくてまったく使えませんでした・・・
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:46:39.581Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T10:30:45.176Z
 >
-> I understand, anyway I think it's right way to analyze!
+> せめてCBORのデコードをちゃんとサポートしてるパッケージのある言語でないとなかなか厳しいですね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:45:40.084Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T10:28:38.423Z
 >
-> https://www.youtube.com/watch?v=qjuEXKwnkLE
+> Yes unfortunately. There is a package for CBOR, but it didn't work, and the author is not responsible for this error. Maybe we need to create something new package 🤔 
+
+https://github.com/shamblett/cbor/issues/53
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:40:43.116Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T10:19:51.635Z
 >
-> Lucky you! lol
+> Yes! You can use with "wss://bsky.social/xrpc/com.atproto.sync.subscribeRepos" :)
+
+But, the response is in CBOR format, so you need to make sure that your language has the means to decode data in this format! I have tried several in Dart and they all gave me errors :~/
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
