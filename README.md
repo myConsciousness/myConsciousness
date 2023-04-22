@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:00:00.564Z
+>
+> @yui.bsky.social /card
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T14:52:23.976Z
+>
+> It's about time for the Japanese to dominate What's hot
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:25:05.391Z
 >
 > Hi good morning there! 👋
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:15:34.000Z
 >
 > There is in Japan 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:14:47.915Z
->
-> 大丈夫です、ただ楽しみましょう🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T12:57:37.572Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
