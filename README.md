@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:00:00.564Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:46:13.551Z
 >
-> @yui.bsky.social /card
+> It's a difficult time zone issue😂🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T14:52:23.976Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:44:18.536Z
 >
-> It's about time for the Japanese to dominate What's hot
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:25:05.391Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:42:18.092Z
 >
-> Hi good morning there! 👋
+> Thx😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:23:56.370Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:42:03.359Z
 >
-> Sorry I completely missed to check a reply! I’m glad you could set your custom domain anyway 😁🤝
+> リッチさん、おやスコ〜！🌚🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:15:34.000Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T15:41:36.504Z
 >
-> There is in Japan 😂
+> It’s so easy to find Japanese source in Twitter lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
