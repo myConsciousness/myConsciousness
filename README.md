@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:55:16.583Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T07:58:24.273Z
 >
-> That’s great idea, I will even display them in frames 😂🤝
+> Good morning!😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:32:09.634Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T07:57:46.065Z
 >
-> I always throw fliers away, but I don't want to think about all the wasted paper and ink 😂
+> Okay, chaotic good
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:28:52.579Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T07:54:41.688Z
 >
-> lol I sometimes blown by the flyers I receive!  😂🤙
+> Thx, I cut his hair myself and this is my favorite style 😄
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:25:25.129Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T07:16:44.670Z
 >
-> You cooked? 👀
+> lol it’s possible!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:22:49.478Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T07:10:43.377Z
 >
-> Hi 👋
+> I think the UK is in the right way! 99.9% of these flyers go to the trash without being read 😅
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
