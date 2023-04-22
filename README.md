@@ -192,41 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:25:05.391Z
+>
+> Hi good morning there! 👋
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:23:56.370Z
+>
+> Sorry I completely missed to check a reply! I’m glad you could set your custom domain anyway 😁🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:15:34.000Z
+>
+> There is in Japan 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T13:14:47.915Z
+>
+> 大丈夫です、ただ楽しみましょう🌞🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-22T12:57:37.572Z
 >
 > Yo. みんなブルスコしてるかい？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
->
-> For newcomers,
-
-Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
-
-There is also a list of third-party clients, so even if you are not a developer, check it out!
-
-Welcome🤝
-
-https://github.com/bluesky-social/atproto-ecosystem
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T11:54:28.083Z
->
-> Yea if you want, and I will first clean up my current tasks and then implement this codec! :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T11:33:57.902Z
->
-> But this is the only Stream API provided, we have to use it anyway!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T11:32:05.583Z
->
-> I guess it’s normal lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
