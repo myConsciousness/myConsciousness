@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:59:13.111Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:59:52.857Z
 >
-> Yourself :)
+> Good evening there! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:53:41.593Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:54:33.094Z
 >
-> This viewpoint is a tip for photographing trees artistically :^)
+> 😎🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:39:49.152Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:49:12.601Z
 >
-> おはスコ！🌞
+> Some features of Twitter are optimized to maximize profits not for users. Bluesky should take a different path using Twitter just as a reference :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:24:14.722Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:45:39.097Z
 >
-> Now there are many Morgan’s selfies on What’s hot 😂👍
+> Maybe, but I doubt that's a good thing 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T22:15:18.961Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:43:47.886Z
 >
-> I just hope you’re fine! 😂🤝
+> Yes it’s per 2 weeks basically, but maybe you can get a surprise if you do good activities in Bluesky :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,7 +247,7 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. A mere 62 seconds of totality could be seen though, when the dark central lunar shadow just grazed the North West Cape, a peninsula in western Australia. From top to bottom these panels capture the beginning, middle, and end of that fleeting total eclipse phase. At start and finish, solar prominences and beads of sunlight stream past the lunar limb. At mid-eclipse the central frame reveals the sight only easily visible during totality and most treasured by eclipse chasers, the magnificent corona of the active Sun. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.
+> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. A mere 62 seconds of totality could be seen though, when the dark central lunar shadow just grazed the North West Cape, a peninsula in western Australia. From top to bottom these panels capture the beginning, middle, and end of that fleeting total eclipse phase. At start and finish, solar prominences and beads of sunlight stream past the lunar limb. At mid-eclipse the central frame reveals the sight only easily visible during totality and most treasured by eclipse chasers, the magnificent corona of the active Sun. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.   Total Solar Eclipse of 2023 April Gallery: Notable Submissions to APOD
 > ![APOD](https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324h1024.jpg)
 > &copy; Gwenaël Blanck
 
