@@ -192,40 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:39:05.699Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:57:11.449Z
 >
-> Follow this BOT if you need APOD images everyday 😁👍
+> This is the heaven 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:32:26.728Z
+> Paulinho Frazee✌️ @pfrazee.com 2023-04-22T02:16:07.314Z
 >
-> I was going to post from this BOT 😂
+> 📢 FYI - folks asking me for invites, I get it, it's really cool you want them! Love yall!
 
-https://bsky.app/profile/apod.shinyakato.dev/post/3jtweszvjof25
+But from here on out, if you ask for invites as replies to my posts, there's a good chance you're going to get labeled for spam. I don't mind the notifications but you're ruining the threads for everyone else.
 
 ---
 
-> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-22T01:28:47.692Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:51:27.432Z
 >
-> Solar Eclipse from Western Australia - ©Gwenaël Blanck
-
-HD: https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324.jpg
-
-Please read the following thread for an explanation of this image! 👇
-
+> It’s time for dog 🐩🐩🐩
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:28:58.312Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:39:42.747Z
 >
-> I missed an account to test 😂
+> Nice guide, and you have many codes 😆
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:13:36.711Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:36:38.865Z
 >
-> おはスコ〜🌞🤙
+> I’m not in a dev team but a contributor, so you should contact to team!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
