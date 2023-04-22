@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:56:30.291Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:55:16.583Z
 >
-> おやスコ！🤝
+> That’s great idea, I will even display them in frames 😂🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:52:37.240Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:32:09.634Z
 >
-> ヴィブラフォンとマリンバが忙しい曲ですね
+> I always throw fliers away, but I don't want to think about all the wasted paper and ink 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:39:15.821Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:28:52.579Z
 >
-> It looks cozy evening :)
+> lol I sometimes blown by the flyers I receive!  😂🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:37:36.938Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:25:25.129Z
 >
-> 合ってます！
+> You cooked? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:34:21.631Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T06:22:49.478Z
 >
-> Accounts that don’t currently have their own domain set up always contain the possibility of a fake. But well, you can also prove your identity in your own way, as you did!
+> Hi 👋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
