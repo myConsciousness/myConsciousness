@@ -192,33 +192,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:59:52.857Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:40.978Z
 >
-> Good evening there! 😁
+> April Gallery: Notable Submissions to APOD
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:54:33.094Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:40.125Z
 >
-> 😎🤝
+> only easily visible during totality and most treasured by eclipse chasers, the magnificent corona of the active Sun. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.   Total Solar Eclipse of 2023
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:49:12.601Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:39.300Z
 >
-> Some features of Twitter are optimized to maximize profits not for users. Bluesky should take a different path using Twitter just as a reference :)
+> North West Cape, a peninsula in western Australia. From top to bottom these panels capture the beginning, middle, and end of that fleeting total eclipse phase. At start and finish, solar prominences and beads of sunlight stream past the lunar limb. At mid-eclipse the central frame reveals the sight
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:45:39.097Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:38.351Z
 >
-> Maybe, but I doubt that's a good thing 🤔
+> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. A mere 62 seconds of totality could be seen though, when the dark central lunar shadow just grazed the
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-21T23:43:47.886Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:37.492Z
 >
-> Yes it’s per 2 weeks basically, but maybe you can get a surprise if you do good activities in Bluesky :)
+> Solar Eclipse from Western Australia - ©Gwenaël Blanck
+
+HD: https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324.jpg
+
+Please read the following thread for an explanation of this image! 👇
+
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
