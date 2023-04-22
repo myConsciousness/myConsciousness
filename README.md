@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T08:45:33.429Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:57:19.579Z
 >
-> @markos.dev Are there any Dart/Flutter developers you know who are interested in Bluesky? 🤔
+> 😎😎😎😎😎 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T08:43:40.054Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:48:17.789Z
 >
-> I'd really like to invite more Dart/Flutter developers, but unfortunately they are still too preoccupied with trying out how beautiful and quirky UIs can be created with Flutter
+> Look at devs...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T08:37:49.535Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:46:39.581Z
 >
-> contact@shinyakato.dev
+> I understand, anyway I think it's right way to analyze!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T08:32:52.021Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:45:40.084Z
 >
-> If you are a new user, you will need to wait about 2 weeks :)
+> https://www.youtube.com/watch?v=qjuEXKwnkLE
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T08:27:14.881Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T09:40:43.116Z
 >
-> contact@shinyakato.dev
+> Lucky you! lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
