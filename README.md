@@ -192,31 +192,21 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:40.978Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:39:05.699Z
 >
-> April Gallery: Notable Submissions to APOD
+> Follow this BOT if you need APOD images everyday 😁👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:40.125Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:32:26.728Z
 >
-> only easily visible during totality and most treasured by eclipse chasers, the magnificent corona of the active Sun. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.   Total Solar Eclipse of 2023
+> I was going to post from this BOT 😂
+
+https://bsky.app/profile/apod.shinyakato.dev/post/3jtweszvjof25
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:39.300Z
->
-> North West Cape, a peninsula in western Australia. From top to bottom these panels capture the beginning, middle, and end of that fleeting total eclipse phase. At start and finish, solar prominences and beads of sunlight stream past the lunar limb. At mid-eclipse the central frame reveals the sight
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:38.351Z
->
-> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. A mere 62 seconds of totality could be seen though, when the dark central lunar shadow just grazed the
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:25:37.492Z
+> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-22T01:28:47.692Z
 >
 > Solar Eclipse from Western Australia - ©Gwenaël Blanck
 
@@ -224,6 +214,18 @@ HD: https://apod.nasa.gov/apod/image/2304/PSX_20230420_140324.jpg
 
 Please read the following thread for an explanation of this image! 👇
 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:28:58.312Z
+>
+> I missed an account to test 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T01:13:36.711Z
+>
+> おはスコ〜🌞🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
