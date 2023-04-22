@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T04:02:58.131Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:56:30.291Z
 >
-> The release of the app was quick and excellent. I’m glued to the App Store for the first time in my life
+> おやスコ！🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:57:11.449Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:52:37.240Z
 >
-> This is the heaven 😁🤝
+> ヴィブラフォンとマリンバが忙しい曲ですね
 
 ---
 
-> Paulinho Frazee✌️ @pfrazee.com 2023-04-22T02:16:07.314Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:39:15.821Z
 >
-> 📢 FYI - folks asking me for invites, I get it, it's really cool you want them! Love yall!
-
-But from here on out, if you ask for invites as replies to my posts, there's a good chance you're going to get labeled for spam. I don't mind the notifications but you're ruining the threads for everyone else.
+> It looks cozy evening :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:51:27.432Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:37:36.938Z
 >
-> It’s time for dog 🐩🐩🐩
+> 合ってます！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T03:39:42.747Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T05:34:21.631Z
 >
-> Nice guide, and you have many codes 😆
+> Accounts that don’t currently have their own domain set up always contain the possibility of a fake. But well, you can also prove your identity in your own way, as you did!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
