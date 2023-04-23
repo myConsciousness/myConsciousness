@@ -192,40 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T08:40:30.145Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T11:55:47.293Z
 >
-> Under a wonderful blue sky 🐩
+> My Bluesky timeline right now is more like Instagram than Twitter
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T05:41:36.820Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T11:53:46.993Z
 >
-> If it’s about tools and libraries, following repo :)
-
-https://github.com/bluesky-social/atproto-ecosystem
+> Mixed? 👀
 
 ---
 
-> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-23T00:55:56.888Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T11:48:24.534Z
 >
-> NGC 1333: Stellar Nursery in Perseus
-
-HD: https://apod.nasa.gov/apod/image/2304/NGC1333HST33rd.png
-
-Please read the following thread for an explanation of this image! 👇
-
+> おやスコ！🌚
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T00:13:32.904Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T11:43:14.989Z
 >
-> おはようございます！ 🤝
+> It’s maya 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T23:51:12.698Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T11:40:28.032Z
 >
-> lol so easy to hack 😂
+> GM! 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
