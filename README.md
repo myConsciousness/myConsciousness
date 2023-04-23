@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:00:31.111Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:57:01.455Z
 >
-> Welcome to Bluesky 🫡🤝
+> Haha so do I 😆 There is a lot of interesting content in the warned post too. It would be a shame to filter them completely out of sight!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:00:01.518Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:50:30.069Z
 >
-> I would dare to see content with warnings if I had these options, I’m very curious
+> I would love to post dog videos :))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T12:49:02.151Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:46:10.472Z
 >
-> Is it Shiba? 🤔
+> I love art! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T12:46:29.050Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:45:49.304Z
 >
-> I like to look at pictures and drawings so the current timeline is just fine! And it’s easy to create hate with just text
+> Already ;)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T12:41:53.251Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:24:38.572Z
 >
-> Well said!
+> You’re welcome 🫂🫂🫂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
