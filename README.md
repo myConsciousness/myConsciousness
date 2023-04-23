@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T05:41:36.820Z
+>
+> If it’s about tools and libraries, following repo :)
+
+https://github.com/bluesky-social/atproto-ecosystem
+
+---
+
 > Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-23T00:55:56.888Z
 >
 > NGC 1333: Stellar Nursery in Perseus
@@ -218,12 +226,6 @@ Please read the following thread for an explanation of this image! 👇
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-22T23:37:45.687Z
 >
 > おはスコ！🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-22T23:36:07.981Z
->
-> リッチさん、おはスコ！🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
