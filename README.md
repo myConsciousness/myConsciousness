@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:57:01.455Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T14:41:54.842Z
 >
-> Haha so do I 😆 There is a lot of interesting content in the warned post too. It would be a shame to filter them completely out of sight!
+> GN! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:50:30.069Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T14:41:00.643Z
 >
-> I would love to post dog videos :))))
+> GN! 🌚🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:46:10.472Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T14:39:38.965Z
 >
-> I love art! 🤝
+> Good night Bluesky friends, I hope you all have a wonderful day! 👋
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:45:49.304Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T14:19:27.938Z
 >
-> Already ;)
+> 🤝🤝🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T13:24:38.572Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-23T14:19:06.264Z
 >
-> You’re welcome 🫂🫂🫂
+> An interesting fact about Twitter is that I already don't have a token to use the Twitter API nor am I willing to pay for it, but the library I developed is still on their list
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
