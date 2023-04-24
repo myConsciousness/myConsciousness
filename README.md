@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:59:59.965Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T15:58:22.379Z
 >
-> @yui.bsky.social /card
+> lmao
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:58:30.926Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T15:55:53.402Z
 >
-> Hola amigo 🫂
+> Well said!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:56:07.659Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T15:52:41.004Z
 >
-> About time for the Japanese to gather
+> Or at least someone with a large, active audience on that platform :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:51:33.787Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T15:50:34.776Z
 >
-> What Morgan lol
+> Hey there! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:50:40.428Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T15:42:58.871Z
 >
-> 🤝🤝🤝
+> Simple question and curiosity: the probability that someone who was an influencer on other social networking sites can come to Bluesky and become an influencer again
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
