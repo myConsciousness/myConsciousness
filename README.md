@@ -2,7 +2,7 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 11st most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 1**: I'm currently [the 9th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
 🤖 **Fun fact 2**: I'm currently rated as [the 9th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:44:05.744Z
+>
+> 🔥🔥🔥
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:41:22.714Z
+>
+> 🌞🤙🤙🤙
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:39:27.638Z
+>
+> おはスコ〜🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:04:19.153Z
+>
+> beep beep beep, I’m handling my mailbox, wait for a while 🤖
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:00:05.871Z
 >
 > 必要でしたら使ってください👍
 
 https://pub.dev/packages/bluesky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:40:27.565Z
->
-> 🤝🤝🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:35:51.184Z
->
-> You did it!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:24:44.759Z
->
-> @meliplantitas.bsky.social Hi sweetie, you finally arrived here 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:23:13.741Z
->
-> Yes, I left Twitter, I’m already living here haha
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
