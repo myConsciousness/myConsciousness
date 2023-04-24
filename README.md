@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T09:31:34.439Z
+>
+> Hi Jake, thanks for your response! I was going to ask you about this thing 😆 Anyway it’s very interesting to see the system gradually improve 😁👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:54:31.314Z
 >
 > Maybe! Let's wait for someone to hit the "update" button :))))
@@ -213,14 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:41:30.275Z
 >
 > Dart and Flutter packages! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:34:58.115Z
->
-> As previously shared by @jay.bsky.team, the operational status of Bluesky Social is visualized at the following site :)
-
-https://status.bsky.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
