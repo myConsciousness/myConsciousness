@@ -192,33 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T12:45:10.432Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:38:34.476Z
 >
-> 
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T09:31:34.439Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:38:04.781Z
 >
-> Hi Jake, thanks for your response! I was going to ask you about this thing 😆 Anyway it’s very interesting to see the system gradually improve 😁👍
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:54:31.314Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:16:57.722Z
 >
-> Maybe! Let's wait for someone to hit the "update" button :))))
+> @poll.blue Remember this poll service?
+
+A - YES
+B - NO
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:52:46.249Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:14:24.724Z
 >
-> I'm not Bluesky dev, but I want it too! @chercher.ai has already somewhat tried some statistics :)
+> Nice tag :))))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:45:13.275Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:11:56.047Z
 >
-> Yes! But so far this site does not seem to record it.There may have been a time lag in the reflection, or it may have been a failure that cannot be tracked on this site 🤔
+> Blueskyへようこそ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
