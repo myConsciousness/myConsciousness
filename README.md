@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T01:24:46.080Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:08:42.734Z
 >
-> So welcome 🤝
+> Developers are treasure on platform!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T01:24:14.030Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:06:06.095Z
 >
-> Hi Luke! This is what you need, and I already prepared some Dart packages!
-
-https://github.com/bluesky-social/atproto-ecosystem
+> @khalidwar.bsky.social Flutter dev! I’m glad to see you again in Bluesky! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T01:18:45.246Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:03:12.899Z
 >
-> It’s very interesting:))))
+> Hi! Glad to see you! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T01:14:45.293Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:02:22.795Z
 >
-> Of course professor! 🤝
+> lol yes! 😂
 
 ---
 
-> Paul Frazee✌️ @pfrazee.com 2023-04-23T16:55:57.005Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T02:02:04.422Z
 >
-> cool cool cool cool cool
+> Thx! 😎
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
