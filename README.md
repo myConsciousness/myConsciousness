@@ -192,6 +192,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:00:51.886Z
+>
+> Mission complete.
+All clear.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T07:51:51.612Z
+>
+> 悪気はない
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T06:22:13.581Z
 >
 > “例のあの人”の影響力、すさまじいですね🌞
@@ -207,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:41:21.345Z
 >
 > Do you mean official apps like "staging.bsky.social"?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:39:31.441Z
->
-> Slightly off-topic, but this image is the most intuitive to understand I have ever seen
-
----
-
-> Jay 🦋 @jay.bsky.team 2023-04-24T05:01:30.566Z
->
-> hey anil! there’s no blockchain. there’s a user recovery key for accounts, user data is stored in merkle trees, and this is hosted on servers. as if your social data were hosted in a git repo you could transfer from github to gitlab (between hosts)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
