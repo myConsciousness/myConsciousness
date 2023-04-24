@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T12:45:10.432Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T09:31:34.439Z
 >
 > Hi Jake, thanks for your response! I was going to ask you about this thing 😆 Anyway it’s very interesting to see the system gradually improve 😁👍
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:45:13.275Z
 >
 > Yes! But so far this site does not seem to record it.There may have been a time lag in the reflection, or it may have been a failure that cannot be tracked on this site 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:41:30.275Z
->
-> Dart and Flutter packages! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
