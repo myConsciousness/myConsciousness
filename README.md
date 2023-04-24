@@ -192,34 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:00:51.886Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:54:31.314Z
 >
-> Mission complete.
-All clear.
+> Maybe! Let's wait for someone to hit the "update" button :))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T07:51:51.612Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:52:46.249Z
 >
-> 悪気はない
+> I'm not Bluesky dev, but I want it too! @chercher.ai has already somewhat tried some statistics :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T06:22:13.581Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:45:13.275Z
 >
-> “例のあの人”の影響力、すさまじいですね🌞
+> Yes! But so far this site does not seem to record it.There may have been a time lag in the reflection, or it may have been a failure that cannot be tracked on this site 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T06:00:55.901Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:41:30.275Z
 >
-> Waiting for the build of a huge program module to complete
+> Dart and Flutter packages! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:41:21.345Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T08:34:58.115Z
 >
-> Do you mean official apps like "staging.bsky.social"?
+> As previously shared by @jay.bsky.team, the operational status of Bluesky Social is visualized at the following site :)
+
+https://status.bsky.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
