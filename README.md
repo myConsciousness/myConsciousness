@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T04:06:48.363Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:41:21.345Z
 >
-> And where AT Protocol is most powerful is when you set up a domain that you own in your handle. This ensures that you are always unique and identifiable on any service on the AT Protocol.
+> Do you mean official apps like "staging.bsky.social"?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T04:03:34.271Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:39:31.441Z
 >
-> Bluesky Social is basically a demonstration app for AT Protocol. Bluesky is an app built on top of AT Protocol, but it's possible to build completely different services on AT Protocol than Bluesky. (For example, services like Instagram or TikTok).
+> Slightly off-topic, but this image is the most intuitive to understand I have ever seen
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:44:05.744Z
+> Jay 🦋 @jay.bsky.team 2023-04-24T05:01:30.566Z
 >
-> 🔥🔥🔥
+> hey anil! there’s no blockchain. there’s a user recovery key for accounts, user data is stored in merkle trees, and this is hosted on servers. as if your social data were hosted in a git repo you could transfer from github to gitlab (between hosts)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:41:22.714Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:31:55.673Z
 >
-> 🌞🤙🤙🤙
+> He is a master @nighthaven.bsky.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T03:39:27.638Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T05:30:48.996Z
 >
-> おはスコ〜🌞
+> vibes! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
