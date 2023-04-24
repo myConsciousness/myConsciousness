@@ -192,36 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:38:34.476Z
->
-> @yui.bsky.social /card -b
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:38:04.781Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:59:59.965Z
 >
 > @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:16:57.722Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:58:30.926Z
 >
-> @poll.blue Remember this poll service?
-
-A - YES
-B - NO
+> Hola amigo 🫂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:14:24.724Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:56:07.659Z
 >
-> Nice tag :))))))
+> About time for the Japanese to gather
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T13:11:56.047Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:51:33.787Z
 >
-> Blueskyへようこそ🌞
+> What Morgan lol
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T14:50:40.428Z
+>
+> 🤝🤝🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
