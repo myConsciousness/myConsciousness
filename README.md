@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T12:51:47.247Z
+>
+> 今北産業ですけど、結論から言うとカスタムドメインを設定したままDNSのレコードを消してアカウントは有効で、mentionなどの機能も問題なく使えます！ただ、カスタムドメインを検証した際にDIDを覚えているようで、カスタムドメインが重複したアカウントを作ろうとすると次のエラーになります
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T04:53:30.253Z
 >
 > Dogs really like to ride in a car 😁
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:14:08.968Z
 >
 > I love Bowie so much 😎
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:42:31.149Z
->
-> Nice Skoot! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
