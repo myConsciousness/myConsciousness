@@ -192,33 +192,45 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
+>
+> For newcomers,
+
+Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
+
+There is also a list of third-party clients, so even if you are not a developer, check it out!
+
+Welcome🤝
+
+https://github.com/bluesky-social/atproto-ecosystem
+
+---
+
+> Paul Frazee?✌️ @pfrazee.com 2023-04-25T15:41:50.414Z
+>
+> 📢 1.22 update
+
+- Alt text can now be up to 1000 characters
+- Dark mode now darker for you OLED fans
+- More performance improvements and bugfixes, especially for android but on all platforms as well
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T15:08:20.440Z
+>
+> lol you play too! 😏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T15:02:15.513Z
+>
+> @yui.bsky.social /card -b
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T15:00:13.971Z
 >
 > @yui.bsky.social /card ai
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:16:51.585Z
->
-> lol do not underestimate devs technical capabilities :^)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:13:19.133Z
->
-> GM!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:09:47.382Z
->
-> Development speed accelerates exponentially as the number of users increases!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:06:00.554Z
->
-> Look at his/her efforts!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
