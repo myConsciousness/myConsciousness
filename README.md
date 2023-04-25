@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T23:56:55.051Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:14:08.968Z
 >
-> Skoots!
+> I love Bowie so much 😎
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T23:56:29.948Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:42:31.149Z
 >
-> It’s time for dog 🌞🐩
+> Nice Skoot! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T23:39:57.168Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:36:56.372Z
 >
-> skoots
+> Yes Brusco 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T23:34:26.070Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:24:55.940Z
 >
-> I saw a moment the next Taylor Swift is created lol
+> You’re super popular
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-24T23:20:58.922Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:18:14.977Z
 >
-> Yep!
+> And there is a third party
 
-https://play.google.com/store/apps/details?id=xyz.blueskyweb.app
+https://klearsky.pages.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
