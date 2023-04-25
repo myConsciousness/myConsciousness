@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T22:56:48.352Z
+>
+> This is the way.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T22:48:56.433Z
+>
+> Thank you for all your great work! 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T22:35:42.149Z
+>
+> Flutter Dev! Welcome! 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:19:16.660Z
 >
 > Thx! 😁
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:17:58.756Z
 >
 > Good night Bluesky friends, I hope you all have a wonderful day! 👋
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:12:54.579Z
->
-> But I use right hand to tap 🥺
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:12:10.137Z
->
-> Look at this amigos, it’s a magical word!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:11:00.192Z
->
-> 👀👀👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
