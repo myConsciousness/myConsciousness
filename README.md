@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:53:27.113Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T15:00:13.971Z
 >
-> 200 OK
+> @yui.bsky.social /card ai
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:53:08.827Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:16:51.585Z
 >
-> Ah I see, this is the official package! 😄👍
+> lol do not underestimate devs technical capabilities :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:48:14.859Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:13:19.133Z
 >
-> Kim you already implemented this endpoint? 👀
+> GM!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:45:28.221Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:09:47.382Z
 >
-> Yes, I was very curious as to why this endpoint had not been there before!
+> Development speed accelerates exponentially as the number of users increases!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:42:24.977Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T14:06:00.554Z
 >
-> Dear Devs, it appears that a new Lexicon has been merged into the main branch! We can retrieve specific posts by specifying the AT URI in this endpoint :)
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getPosts.json
+> Look at his/her efforts!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
