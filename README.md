@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T12:51:47.247Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:53:27.113Z
 >
-> 今北産業ですけど、結論から言うとカスタムドメインを設定したままDNSのレコードを消してアカウントは有効で、mentionなどの機能も問題なく使えます！ただ、カスタムドメインを検証した際にDIDを覚えているようで、カスタムドメインが重複したアカウントを作ろうとすると次のエラーになります
+> 200 OK
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T04:53:30.253Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:53:08.827Z
 >
-> Dogs really like to ride in a car 😁
+> Ah I see, this is the official package! 😄👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:52:04.334Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:48:14.859Z
 >
-> He knew the truth
+> Kim you already implemented this endpoint? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:36:50.577Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:45:28.221Z
 >
-> Let’s report to support@bsky.app :))))
+> Yes, I was very curious as to why this endpoint had not been there before!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:14:08.968Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T13:42:24.977Z
 >
-> I love Bowie so much 😎
+> Dear Devs, it appears that a new Lexicon has been merged into the main branch! We can retrieve specific posts by specifying the AT URI in this endpoint :)
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getPosts.json
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
