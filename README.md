@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:52:04.334Z
+>
+> He knew the truth
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:36:50.577Z
+>
+> Let’s report to support@bsky.app :))))
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T01:14:08.968Z
 >
 > I love Bowie so much 😎
@@ -207,20 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:36:56.372Z
 >
 > Yes Brusco 🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:24:55.940Z
->
-> You’re super popular
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T00:18:14.977Z
->
-> And there is a third party
-
-https://klearsky.pages.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
