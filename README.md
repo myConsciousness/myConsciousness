@@ -192,35 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:00:20.087Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:51:40.189Z
 >
-> ツールやライブラリの一覧はここにあります！
+> It's likely that this problem exists in languages where "package" (or "namespace") are not strictly built in. There are several different packages that can do the same thing, and considerable time may be required to sort through those things 🤷
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:42:04.976Z
+>
+> 日本人開発者向けのDiscordチャネルを作ってもらいました。これは日本語OKな空間で、以下の招待リンクから参加できます
+
+https://discord.gg/V6v9R6sj
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:28:12.900Z
+>
+> Yes :)
 
 https://github.com/bluesky-social/atproto-ecosystem
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T09:59:19.681Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:27:39.216Z
 >
-> "Do not reinvent the wheel" lol
+> It's good to drink it slowly in a cozy space 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T09:52:24.093Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:13:51.178Z
 >
-> The identifying name for publishing Dart packages should at least have been the “publisher/package”, see this tragedy on pub.dev 🤷
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T09:25:18.283Z
->
-> Good job! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T08:44:02.009Z
->
-> お疲れ様です🫡
+> GM! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
