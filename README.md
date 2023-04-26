@@ -192,6 +192,17 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-26T00:55:47.909Z
+>
+> Northern Lights over Southern Europe - ©Lorenzo Cordero
+
+HD: https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_5472.jpg
+
+Please read the following thread for an explanation of this image! 👇
+
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:25:16.631Z
 >
 > Agreed! Twitter became what it is today is from many third parties. The act of abandoning third parties is tantamount to abandoning their engine of growth
@@ -213,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:13:23.577Z
 >
 > Yep! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:07:02.759Z
->
-> Hi Mark! Yes, they are playing. They keep the free plan open, but do not intend to let us use the free plan from the start. They blatantly kicked out various third parties!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
