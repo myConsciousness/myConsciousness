@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:00:55.075Z
+>
+> Welcome to the past
+
+---
+
 > Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-26T00:55:47.909Z
 >
 > Northern Lights over Southern Europe - ©Lorenzo Cordero
@@ -218,12 +224,6 @@ Please read the following thread for an explanation of this image! 👇
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:16:11.934Z
 >
 > I guess it's Japanese company, SocialDog! I heard they have managed to work things out through discussion, but what they are doing is close to scam 🤷‍♂️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:13:23.577Z
->
-> Yep! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
