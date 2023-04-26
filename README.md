@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T05:39:00.130Z
+>
+> I feel it’s useful when we use Bluesky from mobile app
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T05:02:29.244Z
+>
+> You're welcome! 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:59:11.476Z
 >
 > @pfrazee.com It seems, when using the recently added `app.bsky.feed.getPosts` in the official app, the parameter AT URI seems to exceed the limit 🤔
@@ -211,18 +223,6 @@ https://github.com/myConsciousness/atproto.dart
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:51:52.713Z
 >
 > It’s so cool! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:18:32.564Z
->
-> Hahaha nice time travel!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:07:19.576Z
->
-> Yay Flutter dev! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
