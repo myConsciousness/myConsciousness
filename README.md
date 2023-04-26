@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:58:26.375Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:25:16.631Z
 >
-> And their API is overpriced for what it can do!
+> Agreed! Twitter became what it is today is from many third parties. The act of abandoning third parties is tantamount to abandoning their engine of growth
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:54:22.431Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:19:54.262Z
 >
-> lol developer!
+> Well said!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:53:32.508Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:16:11.934Z
 >
-> This culture of free development is the biggest thing Twitter has lost
+> I guess it's Japanese company, SocialDog! I heard they have managed to work things out through discussion, but what they are doing is close to scam 🤷‍♂️
 
 ---
 
-> Paul Frazee!✌️ @pfrazee.com 2023-04-25T23:41:02.321Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:13:23.577Z
 >
-> my reaction to every bug report
+> Yep! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:45:33.388Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:07:02.759Z
 >
-> lmao
+> Hi Mark! Yes, they are playing. They keep the free plan open, but do not intend to let us use the free plan from the start. They blatantly kicked out various third parties!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
