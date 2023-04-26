@@ -198,7 +198,7 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 
 ---
 
-> Paul Frazee!✌️ @pfrazee.com 2023-04-26T13:43:11.647Z
+> Paul Frazee (little rat guy on jabba's tail)✌️ @pfrazee.com 2023-04-26T13:43:11.647Z
 >
 > 📢 1.23 update!
 
