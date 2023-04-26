@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T11:16:49.940Z
+>
+> You already can try them easily! :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:51:40.189Z
 >
 > It's likely that this problem exists in languages where "package" (or "namespace") are not strictly built in. There are several different packages that can do the same thing, and considerable time may be required to sort through those things 🤷
@@ -217,12 +223,6 @@ https://github.com/bluesky-social/atproto-ecosystem
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:27:39.216Z
 >
 > It's good to drink it slowly in a cozy space 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:13:51.178Z
->
-> GM! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
