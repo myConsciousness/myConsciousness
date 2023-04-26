@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T10:00:20.087Z
+>
+> ツールやライブラリの一覧はここにあります！
+
+https://github.com/bluesky-social/atproto-ecosystem
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T09:59:19.681Z
+>
+> "Do not reinvent the wheel" lol
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T09:52:24.093Z
+>
+> The identifying name for publishing Dart packages should at least have been the “publisher/package”, see this tragedy on pub.dev 🤷
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T09:25:18.283Z
+>
+> Good job! 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T08:44:02.009Z
 >
 > お疲れ様です🫡
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T08:02:35.308Z
->
-> ブレントさん、日本人を超えています！ 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:57:06.987Z
->
-> ブ、ブレントさん？！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:52:20.209Z
->
-> ありがとう！🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:51:38.679Z
->
-> Cheers! 🍻
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
