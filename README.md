@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T22:56:48.352Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:58:26.375Z
 >
-> This is the way.
+> And their API is overpriced for what it can do!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T22:48:56.433Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:54:22.431Z
 >
-> Thank you for all your great work! 👍
+> lol developer!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T22:35:42.149Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:53:32.508Z
 >
-> Flutter Dev! Welcome! 🤝
+> This culture of free development is the biggest thing Twitter has lost
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:19:16.660Z
+> Paul Frazee!✌️ @pfrazee.com 2023-04-25T23:41:02.321Z
 >
-> Thx! 😁
+> my reaction to every bug report
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T16:17:58.756Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-25T23:45:33.388Z
 >
-> Good night Bluesky friends, I hope you all have a wonderful day! 👋
+> lmao
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
