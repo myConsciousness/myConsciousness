@@ -192,38 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:00:55.075Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:59:11.476Z
 >
-> Welcome to the past
+> @pfrazee.com It seems, when using the recently added `app.bsky.feed.getPosts` in the official app, the parameter AT URI seems to exceed the limit 🤔
 
 ---
 
-> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-04-26T00:55:47.909Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:52:49.312Z
 >
-> Northern Lights over Southern Europe - ©Lorenzo Cordero
+> You too! 😁🤝
 
-HD: https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_5472.jpg
+Please check my package too if you need to use APIs!
 
-Please read the following thread for an explanation of this image! 👇
-
+https://github.com/myConsciousness/atproto.dart
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:25:16.631Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:51:52.713Z
 >
-> Agreed! Twitter became what it is today is from many third parties. The act of abandoning third parties is tantamount to abandoning their engine of growth
+> It’s so cool! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:19:54.262Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:18:32.564Z
 >
-> Well said!
+> Hahaha nice time travel!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T00:16:11.934Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T04:07:19.576Z
 >
-> I guess it's Japanese company, SocialDog! I heard they have managed to work things out through discussion, but what they are doing is close to scam 🤷‍♂️
+> Yay Flutter dev! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -252,9 +251,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Did you see an aurora over the past two nights? Many people who don't live in Earth's far north did.  Reports of aurora came in not only from northern locales in the USA as Alaska, but as far south as Texas and Arizona. A huge auroral oval extended over Europe and Asia, too. Pictured, an impressively red aurora was captured last night near the town of Cáceres in central Spain. Auroras were also reported in parts of southern Spain. The auroras resulted from a strong Coronal Mass Event (CME) that occurred on the Sun a few days ago. Particles from the CME crossed the inner Solar System before colliding with the Earth's magnetosphere.  From there, electrons and protons spiraled down the Earth's northern magnetic field lines and collided with oxygen and nitrogen in Earth's atmosphere, causing picturesque auroral glows. Our unusually active Sun may provide future opportunities to see the northern lights in southern skies.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/NlightsSeurope_Cordero_960.jpg)
-> &copy; Lorenzo Cordero
+> Was this a lucky shot? Although many amazing photographs are taken by someone who just happened to be in the right place at the right time, this image took skill and careful planning. First was the angular scale: if you shoot too close to the famous Arc de Triomphe in  Paris, France, the full moon will appear too small.  Conversely, if you shoot from too far away, the moon will appear  too large and not fit inside the Arc. Second is timing: the Moon only appears centered inside the Arc for small periods of time -- from this distance less than a minute. Other planned features include lighting, relative brightness, height, capturing a good foreground, and digital processing.  And yes, there is some luck involved -- for example, the sky must be clear. This time, the planning was successful, bringing two of humanity's most famous icons photographically together for all to enjoy.   Today's adventure link: Click "Paris" (above)
+> ![APOD](https://apod.nasa.gov/apod/image/2304/MoonArc_zanarello_960.jpg)
+> &copy; Stefano Zanarello
 
 ---
 <!-- APOD:END -->
