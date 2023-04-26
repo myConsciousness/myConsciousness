@@ -192,41 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T06:49:42.142Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:57:06.987Z
 >
-> You're survived lol
+> ブ、ブレントさん？！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T06:46:20.047Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:52:20.209Z
 >
-> Only you 👀
+> ありがとう！🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:51:38.679Z
 >
-> For newcomers,
-
-Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
-
-There is also a list of third-party clients, so even if you are not a developer, check it out!
-
-Welcome🤝
-
-https://github.com/bluesky-social/atproto-ecosystem
+> Cheers! 🍻
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T06:42:48.187Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:50:48.875Z
 >
-> Not enough Taylor Swift in my timeline amigos
+> This is the way. 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T05:39:00.130Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:48:04.716Z
 >
-> I feel it’s useful when we use Bluesky from mobile app
+> This is the way.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
