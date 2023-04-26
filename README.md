@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T08:44:02.009Z
+>
+> お疲れ様です🫡
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T08:02:35.308Z
+>
+> ブレントさん、日本人を超えています！ 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:57:06.987Z
 >
 > ブ、ブレントさん？！
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:51:38.679Z
 >
 > Cheers! 🍻
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:50:48.875Z
->
-> This is the way. 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T07:48:04.716Z
->
-> This is the way.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
