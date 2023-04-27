@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T05:46:10.029Z
+>
+> и ты уже использовал?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T05:42:50.091Z
+>
+> У тебя скоро будет! 😁👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T05:38:15.775Z
+>
+> Неееет, теперь у меня нет)))))
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T05:33:55.420Z
+>
+> Привет, впервые увидел русский язык на Bluesky :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T04:31:17.872Z
 >
 > 大丈夫です、十分伝わります！👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T04:06:44.331Z
->
-> Yes it is! Maybe it’s because I used it everyday haha
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T03:57:24.375Z
->
-> We even don’t know why, it’s like Satoshi Nakamoto of Bitcoin
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:58:40.110Z
->
-> おはスコ！🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:34:26.782Z
->
-> THE 東京というサイバーパンクな感じがしていいですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
