@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T22:53:59.144Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T00:00:13.568Z
 >
-> おはスコ！🌞🐩
+> Of course, he just did bad things on Twitter 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T22:53:45.443Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T23:53:23.477Z
 >
-> おはスコ〜🌞
+> Maybe there is a hint here
+
+https://github.com/bluesky-social/atproto/blob/main/packages/pds/src/app-view/api/app/bsky/unspecced.ts
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T22:53:05.574Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T23:42:51.837Z
 >
-> おはスコ〜🌞
+> I know what a great job you did on Twitter. I have read many times the documentation you have researched and created for Twitter and Twitter API. I’m confident this will be great 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T22:46:51.826Z
+> Igor Brigadir @igorbrigadir.bsky.social 2023-04-26T23:35:46.101Z
 >
-> Welcome! 🤝
+> Just like the repo dissecting the Twitter Algo when it dropped, me and @vickiboykis.com are gonna examine and dispel the recommender systems behind Bluesky! 
+
+https://github.com/igorbrigadir/awesome-bluesky-algo
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T22:46:05.020Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T23:28:23.800Z
 >
-> 🤙
+> I guess he just should establish PDSs for Tesla and SpaceX, it’s the way he survive 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
