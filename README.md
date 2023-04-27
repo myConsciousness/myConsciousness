@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:57:43.001Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T15:00:54.428Z
 >
-> 今試してみましたが私の場合は大丈夫でした
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:51:44.234Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T15:00:00.347Z
 >
-> Best luck! 😄🤝
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:47:11.445Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T14:56:01.943Z
 >
-> Oh I see lol It’s a Go implementation of atproto services, so you can easily use some atproto features in Go 😁
-
-https://github.com/bluesky-social/indigo
+> GM Vishal 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:44:22.930Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T14:42:03.408Z
 >
-> Maybe are you going to try indigo with Golang? :)
+> I have been working from home for over 3 years, and I can’t go back to my old lives 😅
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:12:04.570Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T14:36:05.160Z
 >
-> You are a man of your word 😂
+> Me when I have to go to office for the first time in a while
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
