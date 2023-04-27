@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T00:00:13.568Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:11:55.941Z
 >
-> Of course, he just did bad things on Twitter 😂
+> おはようございます🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T23:53:23.477Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:11:44.123Z
 >
-> Maybe there is a hint here
-
-https://github.com/bluesky-social/atproto/blob/main/packages/pds/src/app-view/api/app/bsky/unspecced.ts
+> Like this
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T23:42:51.837Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:01:43.630Z
 >
-> I know what a great job you did on Twitter. I have read many times the documentation you have researched and created for Twitter and Twitter API. I’m confident this will be great 👍
+> lol
 
 ---
 
-> Igor Brigadir @igorbrigadir.bsky.social 2023-04-26T23:35:46.101Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T01:58:29.764Z
 >
-> Just like the repo dissecting the Twitter Algo when it dropped, me and @vickiboykis.com are gonna examine and dispel the recommender systems behind Bluesky! 
-
-https://github.com/igorbrigadir/awesome-bluesky-algo
+> Long time no see this screen :)))))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-26T23:28:23.800Z
+> Rose 🌹 @rose.bsky.team 2023-04-26T18:40:01.894Z
 >
-> I guess he just should establish PDSs for Tesla and SpaceX, it’s the way he survive 😂
+> There have been requests for a less technical explanation of federation, why Bluesky, why decentralization, etc. As the one non-dev on the team, I hear you! Please like this post to give me sense of urgency and desire for a more general explainer 🦋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
