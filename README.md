@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T12:12:01.641Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:57:43.001Z
 >
-> haha thx, it's the highest compliment ;)
+> 今試してみましたが私の場合は大丈夫でした
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T11:05:00.361Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:51:44.234Z
 >
-> Third party service :)
-
-https://bsky.jazco.dev
+> Best luck! 😄🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:46:19.543Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:47:11.445Z
 >
-> I joined, thanks! 🤝
+> Oh I see lol It’s a Go implementation of atproto services, so you can easily use some atproto features in Go 😁
+
+https://github.com/bluesky-social/indigo
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:40:34.742Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:44:22.930Z
 >
-> Wow, is it still in private? 👀
+> Maybe are you going to try indigo with Golang? :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:39:21.343Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T13:12:04.570Z
 >
-> I'm very happy to see so many Japanese projects! 😎
+> You are a man of your word 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
