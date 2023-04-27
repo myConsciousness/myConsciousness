@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T03:57:24.375Z
+>
+> We even don’t know why, it’s like Satoshi Nakamoto of Bitcoin
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:58:40.110Z
 >
 > おはスコ！🌞🤝
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:11:55.941Z
 >
 > おはようございます🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:11:44.123Z
->
-> Like this
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
