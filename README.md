@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:58:40.110Z
+>
+> おはスコ！🌞🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:34:26.782Z
+>
+> THE 東京というサイバーパンクな感じがしていいですね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:23:36.326Z
+>
+> ありがとうございます！🌞🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:11:55.941Z
 >
 > おはようございます🌞
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:11:44.123Z
 >
 > Like this
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T02:01:43.630Z
->
-> lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T01:58:29.764Z
->
-> Long time no see this screen :)))))
-
----
-
-> Rose 🌹 @rose.bsky.team 2023-04-26T18:40:01.894Z
->
-> There have been requests for a less technical explanation of federation, why Bluesky, why decentralization, etc. As the one non-dev on the team, I hear you! Please like this post to give me sense of urgency and desire for a more general explainer 🦋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
