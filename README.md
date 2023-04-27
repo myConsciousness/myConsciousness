@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T11:05:00.361Z
+>
+> Third party service :)
+
+https://bsky.jazco.dev
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:46:19.543Z
 >
 > I joined, thanks! 🤝
@@ -216,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 
 https://klearsky.pages.dev
 https://ucho-ten.net
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:30:00.033Z
->
-> Alliance 🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
