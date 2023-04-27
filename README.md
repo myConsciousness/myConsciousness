@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T12:12:01.641Z
+>
+> haha thx, it's the highest compliment ;)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T11:05:00.361Z
 >
 > Third party service :)
@@ -215,15 +221,6 @@ https://bsky.jazco.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:39:21.343Z
 >
 > I'm very happy to see so many Japanese projects! 😎
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T10:34:31.264Z
->
-> Did you know? There are cool third party web clients for Bluesky:
-
-https://klearsky.pages.dev
-https://ucho-ten.net
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
