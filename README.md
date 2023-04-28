@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T06:58:33.798Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:59:30.990Z
 >
-> Noooo, this is Bluesky devs task, let's report to @pfrazee.com !
+> 3060 🌞🤝
 
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T06:55:07.824Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:57:48.282Z
 >
-> lol You are also part of us 👍
+> I could not find the post, but someone must have classified the type of cluster!
 
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T06:45:57.771Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:57:05.931Z
 >
-> He did not make the development work only for his subordinates because he was the manager of the project, but he himself actually touched the buggy software, made suggestions for improvement, and actually wrote the fixes.
+> Third party service :)
+
+https://bsky.jazco.dev
 
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T06:45:38.821Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:56:53.875Z
 >
-> One programmer I admire is David Cutler, who led the development of Windows NT at Microsoft. I don't punch holes in my office like he did, but I like his "eat dog food" style.
+> Third party service :)
+
+https://bsky.jazco.dev
 
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T06:34:26.813Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:50:55.556Z
 >
-> You are so lucky. I haven't seen this bug yet.
+> I’m universe 🪐
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
