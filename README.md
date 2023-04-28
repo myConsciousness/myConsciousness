@@ -192,33 +192,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T02:40:57.937Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T04:43:20.920Z
 >
-> True story
+> NFT Art
 
 ---
 
-> Taylor Lorenz @taylorlorenz.bsky.social 2023-04-27T06:52:00.614Z
+> Paul Frazee @pfrazee.com 2023-04-27T14:35:50.353Z
 >
-> 
+> @dholms.xyz protocol
+@divy.zone protocol
+@why.bsky.team protocol
+@bnewbold.bsky.team protocol
+@ansh.bsky.team app
+@renahlee.com app
+@jakegold.us ops
+@emily.bsky.team devrel
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T01:56:03.611Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T04:31:27.474Z
 >
-> 👀👀👀
+> No way we're very famous, of course 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:58:14.478Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T04:26:04.734Z
 >
-> I trusted your wallet
+> What?! Forgive me for being so rude 😂🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:52:47.010Z
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T04:22:57.635Z
 >
-> Sometimes the web browser's what's hot doesn't show anything. Reloading the page fixes it, but there are probably some bugs 🤔
+> I REMEMBER YOU DANIEL 😂🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,8 +254,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> The Tarantula Nebula, also known as 30 Doradus, is more than a thousand light-years in diameter, a giant star forming region within nearby satellite galaxy the Large Magellanic Cloud. About 160 thousand light-years away, it's the largest, most violent star forming region known in the whole Local Group of galaxies. The cosmic arachnid is near the center of this spectacular image taken during the flight of SuperBIT (Super Pressure Balloon Imaging Telescope), NASA's balloon-borne 0.5 meter telescope now floating near the edge of space. Within the well-studied Tarantula (NGC 2070), intense radiation, stellar winds and supernova shocks from the central young cluster of massive stars, cataloged as R136, energize the nebular glow and shape the spidery filaments. Around the Tarantula are other star forming regions with young star clusters, filaments, and blown-out bubble-shaped clouds. SuperBIT's wide field of view spans over 2 degrees or 4 full moons in the southern constellation Dorado.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/SuperBIT_tarantula_1024.png)
+> Like a ship plowing through cosmic seas, runaway star Alpha Camelopardalis has produced this graceful arcing bow wave or bow shock. The massive supergiant star moves at over 60 kilometers per second through space, compressing the interstellar material in its path. At the center of this nearly 6 degree wide view, Alpha Cam is about 25-30 times as massive as the Sun, 5 times hotter (30,000 kelvins), and over 500,000 times brighter. About 4,000 light-years away in the long-necked constellation Camelopardalis, the star also produces a strong stellar wind. Alpha Cam's bow shock stands off about 10 light-years from the star itself. What set this star in motion? Astronomers have long thought that Alpha Cam was flung out of a nearby cluster of young hot stars due to gravitational interactions with other cluster members or perhaps by the supernova explosion of a massive companion star.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/AlphaCamelopardis_s1024.png)
 
 
 ---
