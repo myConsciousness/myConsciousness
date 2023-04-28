@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:57:03.584Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:58:14.478Z
 >
-> 🌞🤝
+> I trusted your wallet
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:33:14.056Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:52:47.010Z
 >
-> Hi good night in Brazil! 👋😁
+> Sometimes the web browser's what's hot doesn't show anything. Reloading the page fixes it, but there are probably some bugs 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:32:16.153Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:50:41.471Z
 >
-> And APIs are more!
+> レインボーカラーの人たちがBlueskyに期待するなにかがあるのかもしれないですね 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:31:37.743Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:48:48.188Z
 >
-> Let’s invite to Nostr 😂
+> Welcome to Japanese community 😂🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:19:26.129Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:47:10.263Z
 >
-> Of course! 👍
+> This is a memeized word among the Japanese community, and many people use it simply because the word sounds funny! 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
