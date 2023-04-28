@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> 🖤 envy 🖤 @envy.bsky.social 2023-04-27T01:47:33.606Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:57:03.584Z
 >
-> 😔😔😔
+> 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T22:40:16.494Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:33:14.056Z
 >
-> おはスコ〜🌞
+> Hi good night in Brazil! 👋😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T22:39:42.275Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:32:16.153Z
 >
-> GM! 😁
+> And APIs are more!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T22:39:33.652Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:31:37.743Z
 >
-> GM! I have landed to this new planet 🌞
+> Let’s invite to Nostr 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T22:37:30.966Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-27T23:19:26.129Z
 >
-> Good morning ブルスコ🤙
+> Of course! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
