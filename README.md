@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T01:56:03.611Z
+>
+> 👀👀👀
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:58:14.478Z
 >
 > I trusted your wallet
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:48:48.188Z
 >
 > Welcome to Japanese community 😂🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:47:10.263Z
->
-> This is a memeized word among the Japanese community, and many people use it simply because the word sounds funny! 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
