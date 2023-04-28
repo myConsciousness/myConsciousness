@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T02:40:57.937Z
+>
+> True story
+
+---
+
+> Taylor Lorenz @taylorlorenz.bsky.social 2023-04-27T06:52:00.614Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-28T01:56:03.611Z
 >
 > 👀👀👀
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:52:47.010Z
 >
 > Sometimes the web browser's what's hot doesn't show anything. Reloading the page fixes it, but there are probably some bugs 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:50:41.471Z
->
-> レインボーカラーの人たちがBlueskyに期待するなにかがあるのかもしれないですね 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T00:48:48.188Z
->
-> Welcome to Japanese community 😂🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
