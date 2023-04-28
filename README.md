@@ -192,7 +192,21 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:47:45.644Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T22:49:54.562Z
+>
+> Great job! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T22:37:46.537Z
+>
+> Blocks feature is coming 
+
+https://github.com/bluesky-social/atproto/pull/922/files
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:47:45.644Z
 >
 > Just access :)
 
@@ -200,13 +214,13 @@ https://bsky.jazco.dev
 
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:47:12.253Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:47:12.253Z
 >
 > I can't find you in this universe 😭
 
 ---
 
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:41:45.964Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:41:45.964Z
 >
 > 簡単にやるならcom.atproto.repo.describeRepoが使えると思います。
 
@@ -215,18 +229,6 @@ https://github.com/bluesky-social/atproto/blob/main/lexicons/com/atproto/repo/de
 または plc.directory に問い合わせることでもできます
 
 https://plc.directory/did:plc:ma37ez4i3gmwkvwpytsqeepp
-
----
-
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:11:49.421Z
->
-> Yes I also felt it's weird lol
-
----
-
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:59:30.990Z
->
-> 3060 🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
