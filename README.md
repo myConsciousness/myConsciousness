@@ -192,37 +192,41 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:47:45.644Z
+>
+> Just access :)
+
+https://bsky.jazco.dev
+
+---
+
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:47:12.253Z
+>
+> I can't find you in this universe 😭
+
+---
+
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:41:45.964Z
+>
+> 簡単にやるならcom.atproto.repo.describeRepoが使えると思います。
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/com/atproto/repo/describeRepo.json
+
+または plc.directory に問い合わせることでもできます
+
+https://plc.directory/did:plc:ma37ez4i3gmwkvwpytsqeepp
+
+---
+
+> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T08:11:49.421Z
+>
+> Yes I also felt it's weird lol
+
+---
+
 > Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:59:30.990Z
 >
 > 3060 🌞🤝
-
----
-
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:57:48.282Z
->
-> I could not find the post, but someone must have classified the type of cluster!
-
----
-
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:57:05.931Z
->
-> Third party service :)
-
-https://bsky.jazco.dev
-
----
-
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:56:53.875Z
->
-> Third party service :)
-
-https://bsky.jazco.dev
-
----
-
-> Shinya Kato (Silicon Valley Insider) 🤯 @shinyakato.dev 2023-04-28T07:50:55.556Z
->
-> I’m universe 🪐
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
