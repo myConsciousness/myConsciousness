@@ -192,6 +192,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:00:22.040Z
+>
+> It started when official app started using this endpoint. 
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getPosts.json
+
+I would expect that perhaps the invited users are mixed in with the normal notifications and the list at the time of the request is more than 25.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:48:09.200Z
 >
 > Very curious 🤔
@@ -213,12 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:28:13.871Z
 >
 > After extended! I guess there is a notification, but the official app implementation has failed to retrieve them and they are still not showing up 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:20:19.276Z
->
-> 𝑩𝑰𝑮 𝑳𝑶𝑽𝑬______
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
