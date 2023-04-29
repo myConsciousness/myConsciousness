@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
+>
+> For newcomers,
+
+Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
+
+There is also a list of third-party clients, so even if you are not a developer, check it out!
+
+Welcome🤝
+
+https://github.com/bluesky-social/atproto-ecosystem
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:09:31.109Z
 >
 > lol I have been at Bluesky since early this March and at some point my follow list cursor broke maybe because I was doing too much testing with the API. 
@@ -221,12 +235,6 @@ I would expect that perhaps the invited users are mixed in with the normal notif
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:48:09.200Z
 >
 > Very curious 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:42:09.958Z
->
-> And have you invited anyone? 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
