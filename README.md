@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T23:27:30.797Z
+>
+> This tutorial is what people needed!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-28T22:49:54.562Z
 >
 > Great job! 😁
@@ -217,18 +223,6 @@ https://bsky.jazco.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:47:12.253Z
 >
 > I can't find you in this universe 😭
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:41:45.964Z
->
-> 簡単にやるならcom.atproto.repo.describeRepoが使えると思います。
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/com/atproto/repo/describeRepo.json
-
-または plc.directory に問い合わせることでもできます
-
-https://plc.directory/did:plc:ma37ez4i3gmwkvwpytsqeepp
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
