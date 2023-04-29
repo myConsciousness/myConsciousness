@@ -192,37 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T23:27:30.797Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:26:08.631Z
 >
-> This tutorial is what people needed!
+> @jack.bsky.social 🫂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T22:49:54.562Z
+> jack @jack.bsky.social 2023-04-29T00:29:34.090Z
 >
-> Great job! 😁
+> Ultimately this protocol has no CEO. If it does, it fails. Jay and team are building something to enable everyone to own this. If the people don’t own it, it failed.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T22:37:46.537Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T00:50:47.195Z
 >
-> Blocks feature is coming 
-
-https://github.com/bluesky-social/atproto/pull/922/files
+> Lmao
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:47:45.644Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T00:48:45.976Z
 >
-> Just access :)
-
-https://bsky.jazco.dev
+> What? “Skeet”?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-28T08:47:12.253Z
+> Kalhan @kalhan.bsky.social 2023-04-28T23:58:59.267Z
 >
-> I can't find you in this universe 😭
+> I wrote about Bluesky for NBC News!  
+
+Also, TY @jordanuhl.com for chatting w/ me today! https://www.nbcnews.com/tech/tech-news/bluesky-social-twitter-rival-jack-dorsey-what-to-know-rcna81972
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
