@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:41:59.160Z
+>
+> ₍₍ (ง ˘ω˘ )ว ⁾⁾
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:40:47.765Z
+>
+> ₍₍ ᕕ( •̀ㅂ•́)ᕗ⁾⁾ ブルスコ ₍₍ ◝(•̀ㅂ•́)◟ ⁾⁾
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:39:29.444Z
+>
+> This is the way! 🌞🌞🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:27:21.812Z
+>
+> 私もindigoがatproto上でどう使われていくのかすごく気になってます！
+
+実際にどう計画されているかはわかりませんが、注目すべきなのはindigoの中にBig World実装に必要なCrawling Indexerと思われるソースが含まれている点ですね。実際にGoプログラマの募集要項を読むと、このCrawling Indexerの実装が主なミッションに見えます。
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:55:21.018Z
 >
 > This is the way 🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:52:19.020Z
->
-> This is the way 🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:48:05.385Z
->
-> This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:47:46.251Z
->
-> This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:45:14.556Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
