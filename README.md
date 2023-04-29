@@ -192,6 +192,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:09:31.109Z
+>
+> lol I have been at Bluesky since early this March and at some point my follow list cursor broke maybe because I was doing too much testing with the API. 
+
+Duplicates must be removed on the client side like following third party:
+
+https://klearsky.pages.dev
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:03:59.616Z
+>
+> Followers screen?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:00:22.040Z
 >
 > It started when official app started using this endpoint. 
@@ -211,18 +227,6 @@ I would expect that perhaps the invited users are mixed in with the normal notif
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:42:09.958Z
 >
 > And have you invited anyone? 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:34:55.796Z
->
-> Yes exactly! And what is interesting is that this error occurs regularly. I think that the polling is picking up notifications that are left without being able to press "dismiss".
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:28:13.871Z
->
-> After extended! I guess there is a notification, but the official app implementation has failed to retrieve them and they are still not showing up 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
