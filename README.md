@@ -192,49 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:59:32.637Z
 >
-> For newcomers,
-
-Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
-
-There is also a list of third-party clients, so even if you are not a developer, check it out!
-
-Welcome🤝
-
-https://github.com/bluesky-social/atproto-ecosystem
+> He is a legend. RIP
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:09:31.109Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:58:26.261Z
 >
-> lol I have been at Bluesky since early this March and at some point my follow list cursor broke maybe because I was doing too much testing with the API. 
-
-Duplicates must be removed on the client side like following third party:
-
-https://klearsky.pages.dev
+> Hangover, we repeat mistakes
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:03:59.616Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:52:16.836Z
 >
-> Followers screen?
+> Interesting 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T14:00:22.040Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:43:26.219Z
 >
-> It started when official app started using this endpoint. 
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getPosts.json
-
-I would expect that perhaps the invited users are mixed in with the normal notifications and the list at the time of the request is more than 25.
+> GM! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:48:09.200Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:43:18.525Z
 >
-> Very curious 🤔
+> Is this Italian? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
