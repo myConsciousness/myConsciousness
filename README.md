@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:41:59.160Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:48:09.200Z
 >
-> ₍₍ (ง ˘ω˘ )ว ⁾⁾
+> Very curious 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:40:47.765Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:42:09.958Z
 >
-> ₍₍ ᕕ( •̀ㅂ•́)ᕗ⁾⁾ ブルスコ ₍₍ ◝(•̀ㅂ•́)◟ ⁾⁾
+> And have you invited anyone? 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:39:29.444Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:34:55.796Z
 >
-> This is the way! 🌞🌞🌞
+> Yes exactly! And what is interesting is that this error occurs regularly. I think that the polling is picking up notifications that are left without being able to press "dismiss".
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T11:27:21.812Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:28:13.871Z
 >
-> 私もindigoがatproto上でどう使われていくのかすごく気になってます！
-
-実際にどう計画されているかはわかりませんが、注目すべきなのはindigoの中にBig World実装に必要なCrawling Indexerと思われるソースが含まれている点ですね。実際にGoプログラマの募集要項を読むと、このCrawling Indexerの実装が主なミッションに見えます。
+> After extended! I guess there is a notification, but the official app implementation has failed to retrieve them and they are still not showing up 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:55:21.018Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T12:20:19.276Z
 >
-> This is the way 🌞🤝
+> 𝑩𝑰𝑮 𝑳𝑶𝑽𝑬______
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
