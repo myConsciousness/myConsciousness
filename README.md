@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:33:53.528Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:55:21.018Z
 >
-> Who’s next?!
+> This is the way 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:32:11.959Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:52:19.020Z
 >
-> danieeeeeeel
+> This is the way 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:26:08.631Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:48:05.385Z
 >
-> @jack.bsky.social 🫂
+> This is the way.
 
 ---
 
-> jack @jack.bsky.social 2023-04-29T00:29:34.090Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:47:46.251Z
 >
-> Ultimately this protocol has no CEO. If it does, it fails. Jay and team are building something to enable everyone to own this. If the people don’t own it, it failed.
+> This is the way.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T00:50:47.195Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T10:45:14.556Z
 >
-> Lmao
+> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
