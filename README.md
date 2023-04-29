@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:33:53.528Z
+>
+> Who’s next?!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:32:11.959Z
+>
+> danieeeeeeel
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T01:26:08.631Z
 >
 > @jack.bsky.social 🫂
@@ -207,20 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-29T00:50:47.195Z
 >
 > Lmao
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T00:48:45.976Z
->
-> What? “Skeet”?
-
----
-
-> Kalhan @kalhan.bsky.social 2023-04-28T23:58:59.267Z
->
-> I wrote about Bluesky for NBC News!  
-
-Also, TY @jordanuhl.com for chatting w/ me today! https://www.nbcnews.com/tech/tech-news/bluesky-social-twitter-rival-jack-dorsey-what-to-know-rcna81972
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
