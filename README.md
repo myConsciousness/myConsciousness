@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> C. P. Moore @christopherpmoore.xyz 2023-04-30T06:26:07.202Z
+>
+> Had a great time at the Seattle meetup! Even got a chance to chat with @rose.bsky.team and @jay.bsky.team!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:42:30.113Z
 >
 > Thx, yes he is! 😆
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T03:23:25.157Z
 >
 > A treasure trove! 🐩
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T01:48:46.265Z
->
-> He is a super legend. The ideology of the time did not allow him to live as a hero.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
