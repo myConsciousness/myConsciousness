@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> C. P. Moore @christopherpmoore.xyz 2023-04-30T06:26:07.202Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:48:13.450Z
 >
-> Had a great time at the Seattle meetup! Even got a chance to chat with @rose.bsky.team and @jay.bsky.team!
+> Let’s learn in Duolingo 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:42:30.113Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:45:46.592Z
 >
-> Thx, yes he is! 😆
+> Welcome to Japanese community, your immigration application has been approved 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:41:58.146Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:42:58.459Z
 >
-> Thx! 😁
+> It’s chaos here 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:41:45.236Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:38:29.236Z
 >
-> Thx 😁🤝
+> 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T03:23:25.157Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:37:18.615Z
 >
-> A treasure trove! 🐩
+> I bless the rains down in AFRICAAAAAAAA
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
