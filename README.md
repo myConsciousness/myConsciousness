@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:59:36.797Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T01:17:30.395Z
 >
-> Awesome, so unique! 👍
+> This is the female boss in the office
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:58:36.956Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:27:39.863Z
 >
-> Do you like a black color lipstick? 👀
+> あとはおそらくMeetup 主催者の @amir.blue ですね！元Twitterスタッフでオライリーで本も出してる有名人です
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:53:41.215Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:22:54.029Z
 >
-> Already cooked 😏
+> 実際に参加していた @xychelsea.tv がおすすめです！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:48:09.366Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:19:15.465Z
 >
-> おはスコ！🌞🤝
+> ただつい先日米国Austin でもTokyo Meetupみたいなのが開催されて、米国テック界のインフルエンサーも参加されたみたいなのでAT Protocol の野望は着実に正しく広がり始めてます！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:40:46.866Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:14:27.169Z
 >
-> Exactly! Bluesky is only a demo app of the AT Protocol. There is a strong possibility that Bluesky will remain as a Twitter-like service, but the important thing is that a variety of services different from Bluesky can be built on the AT Protocol. This is what we need to focus :)
+> 単純にイーロンマスクが嫌いだからここに集まってる人が多い印象です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
