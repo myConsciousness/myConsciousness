@@ -192,6 +192,29 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T13:15:38.073Z
+>
+> またなにかあればどこでもいいので聞いてください！😄
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T13:06:44.138Z
+>
+> 質問ありがとうございます🙏
+
+削除の場合はミュート以外はすべて`com.atproto.repo.deleteRecord`で可能です。例えば私のパッケージだと以下のような感じで削除ができます！
+
+final likedRecord = await bluesky.feeds.createLike(
+ cid: 'xxxx',
+ uri: bsky.AtUri.parse('at://xxxxx'),
+ );
+
+await bluesky.repositories.deleteRecord(
+ uri: likedRecord.data.uri,
+ );
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:55:50.071Z
 >
 > What happened to you 👀
@@ -207,18 +230,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:40:17.218Z
 >
 > I did it! I have already fallen into this trap twice 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:39:00.479Z
->
-> I marvel at people's creativity when I see the clever use of facets of app.bsky.feed.post. This is a kind of intelligence test.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:26:11.021Z
->
-> It’s a cool post
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
