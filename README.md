@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T01:48:46.265Z
+>
+> He is a super legend. The ideology of the time did not allow him to live as a hero.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T01:17:30.395Z
 >
 > This is the female boss in the office
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:19:15.465Z
 >
 > ただつい先日米国Austin でもTokyo Meetupみたいなのが開催されて、米国テック界のインフルエンサーも参加されたみたいなのでAT Protocol の野望は着実に正しく広がり始めてます！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:14:27.169Z
->
-> 単純にイーロンマスクが嫌いだからここに集まってる人が多い印象です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
