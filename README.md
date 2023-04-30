@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:00:01.173Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:10:33.250Z
 >
-> @yui.bsky.social /card
+> Sure 😏🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:56:27.300Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:09:54.958Z
 >
-> Author said it uses MyMemory API :)
+> リッチさん、ありがとう！🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:37:57.055Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:09:17.972Z
 >
-> Klearsky, a third-party Web client for Bluesky, has begun providing a pilot and limited timeline auto-translation feature
-
-https://klearsky.pages.dev
+> Thx! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:05:32.039Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:08:56.201Z
 >
-> どういたしまして😁🤝
+> おやスコでスカイ！🌚
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:03:47.896Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:08:14.961Z
 >
-> You can track with this tool :) Our activity on the AT Protocol is to some extent recorded in plc.directory, so we can use this log information to track it :)
-
-https://github.com/ShinoharaTa/bsky-invite-checker
+> GN Phil! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
