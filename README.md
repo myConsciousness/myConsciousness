@@ -192,44 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T13:15:38.073Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T15:00:01.173Z
 >
-> またなにかあればどこでもいいので聞いてください！😄
+> @yui.bsky.social /card
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T13:06:44.138Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:56:27.300Z
 >
-> 質問ありがとうございます🙏
-
-削除の場合はミュート以外はすべて`com.atproto.repo.deleteRecord`で可能です。例えば私のパッケージだと以下のような感じで削除ができます！
-
-final likedRecord = await bluesky.feeds.createLike(
- cid: 'xxxx',
- uri: bsky.AtUri.parse('at://xxxxx'),
- );
-
-await bluesky.repositories.deleteRecord(
- uri: likedRecord.data.uri,
- );
+> Author said it uses MyMemory API :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:55:50.071Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:37:57.055Z
 >
-> What happened to you 👀
+> Klearsky, a third-party Web client for Bluesky, has begun providing a pilot and limited timeline auto-translation feature
+
+https://klearsky.pages.dev
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:44:51.489Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:05:32.039Z
 >
-> Frankly I don't like these cloud services. I don't feel comfortable if the tools I use for development are not in my local, even when I’m offline 😅
+> どういたしまして😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:40:17.218Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T14:03:47.896Z
 >
-> I did it! I have already fallen into this trap twice 😂
+> You can track with this tool :) Our activity on the AT Protocol is to some extent recorded in plc.directory, so we can use this log information to track it :)
+
+https://github.com/ShinoharaTa/bsky-invite-checker
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
