@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:59:32.637Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:59:36.797Z
 >
-> He is a legend. RIP
+> Awesome, so unique! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:58:26.261Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:58:36.956Z
 >
-> Hangover, we repeat mistakes
+> Do you like a black color lipstick? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:52:16.836Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:53:41.215Z
 >
-> Interesting 👀
+> Already cooked 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:43:26.219Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:48:09.366Z
 >
-> GM! 🌞
+> おはスコ！🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T22:43:18.525Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-29T23:40:46.866Z
 >
-> Is this Italian? 👀
+> Exactly! Bluesky is only a demo app of the AT Protocol. There is a strong possibility that Bluesky will remain as a Twitter-like service, but the important thing is that a variety of services different from Bluesky can be built on the AT Protocol. This is what we need to focus :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
