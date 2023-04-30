@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:42:30.113Z
+>
+> Thx, yes he is! 😆
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:41:58.146Z
+>
+> Thx! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T04:41:45.236Z
+>
+> Thx 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T03:23:25.157Z
 >
 > A treasure trove! 🐩
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-04-30T01:48:46.265Z
 >
 > He is a super legend. The ideology of the time did not allow him to live as a hero.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T01:17:30.395Z
->
-> This is the female boss in the office
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:27:39.863Z
->
-> あとはおそらくMeetup 主催者の @amir.blue ですね！元Twitterスタッフでオライリーで本も出してる有名人です
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T00:22:54.029Z
->
-> 実際に参加していた @xychelsea.tv がおすすめです！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,8 +247,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Along a narrow path that mostly avoided landfall, the shadow of the New Moon raced across planet Earth's southern hemisphere on April 20 to create a rare annular-total or hybrid solar eclipse. From the Indian Ocean off the coast of western Australia, ship-borne eclipse chasers were able to witness 62 seconds of totality though while anchored near the centerline of the total eclipse track. This ship-borne image of the eclipse captures the active Sun's magnificent outer atmosphere or solar corona streaming into space. A composite of 11 exposures ranging from 1/2000 to 1/2 second, it records an extended range of brightness to follow details of the corona not quite visible to the eye during the total eclipse phase. Of course eclipses tend to come in pairs. On May 5, the next Full Moon will just miss the dark inner part of Earth's shadow in a penumbral lunar eclipse.   Total Solar Eclipse of 2023 April Gallery: Notable Submissions to APOD
-> ![APOD](https://apod.nasa.gov/apod/image/2304/TSE2023-Comp48-2a1024.jpg)
+> Although its colors may be subtle, Saturn's moon Helene is an enigma in any light. The moon was imaged in unprecedented detail in 2012 as the robotic Cassini spacecraft orbiting Saturn swooped to within a single Earth diameter of the diminutive moon. Although conventional craters and hills appear, the above image also shows terrain that appears unusually smooth and streaked. Planetary astronomers are inspecting these detailed images of Helene to glean clues about the origin and evolution of the 30-km across floating iceberg. Helene is also unusual because it circles Saturn just ahead of the large moon Dione, making it one of only four known Saturnian moons to occupy a gravitational well known as a stable Lagrange point.
+> ![APOD](https://apod.nasa.gov/apod/image/2304/helene2_cassini_1024.jpg)
 
 
 ---
