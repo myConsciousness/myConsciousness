@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T11:03:32.621Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:55:50.071Z
 >
-> You did it リッチさん🌞🤝
+> What happened to you 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:48:13.450Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:44:51.489Z
 >
-> Let’s learn in Duolingo 😁
+> Frankly I don't like these cloud services. I don't feel comfortable if the tools I use for development are not in my local, even when I’m offline 😅
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:45:46.592Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:40:17.218Z
 >
-> Welcome to Japanese community, your immigration application has been approved 🌞🤝
+> I did it! I have already fallen into this trap twice 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:42:58.459Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:39:00.479Z
 >
-> It’s chaos here 😏
+> I marvel at people's creativity when I see the clever use of facets of app.bsky.feed.post. This is a kind of intelligence test.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T10:38:29.236Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-04-30T12:26:11.021Z
 >
-> 🌞🤝
+> It’s a cool post
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
