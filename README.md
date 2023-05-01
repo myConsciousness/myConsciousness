@@ -2,8 +2,8 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
-🤖 **Fun fact 1**: I'm currently [the 9th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
-🤖 **Fun fact 2**: I'm currently rated as [the 9th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
+🤖 **Fun fact 1**: I'm currently [the N/A most active GitHub committer in Japan](https://commits.top/japan.html).</br>
+🤖 **Fun fact 2**: I'm currently rated as [the N/A most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
 
 <!-- MY-RANK-IN-GITHUB:END -->
@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T13:13:13.167Z
+>
+> There are many places to visit in this area of Nagano Prefecture! It’s not so popular, but it’s one of the best tourist spot in Japan 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T13:09:23.527Z
+>
+> 🥷🥷🥷
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T13:07:49.442Z
+>
+> Very welcome! 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-01T10:31:37.776Z
 >
 > This is great, you’re very welcome if you need 😁🤝
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-01T10:29:45.385Z
 >
 > Let’s clean our mind in the nature 😌
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T10:27:23.633Z
->
-> This is a very beautiful place. There is a road called “Venus Line”, I recommend you to try this if you visit this place 😌
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T10:24:47.696Z
->
-> She was a so lucky person 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T10:23:48.872Z
->
-> Yes it’s very 😌
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
