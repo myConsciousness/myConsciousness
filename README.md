@@ -247,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Although its colors may be subtle, Saturn's moon Helene is an enigma in any light. The moon was imaged in unprecedented detail in 2012 as the robotic Cassini spacecraft orbiting Saturn swooped to within a single Earth diameter of the diminutive moon. Although conventional craters and hills appear, the above image also shows terrain that appears unusually smooth and streaked. Planetary astronomers are inspecting these detailed images of Helene to glean clues about the origin and evolution of the 30-km across floating iceberg. Helene is also unusual because it circles Saturn just ahead of the large moon Dione, making it one of only four known Saturnian moons to occupy a gravitational well known as a stable Lagrange point.
-> ![APOD](https://apod.nasa.gov/apod/image/2304/helene2_cassini_1024.jpg)
-
+> The Great Carina Nebula is home to strange stars and iconic nebulas. Named for its home constellation, the huge star-forming region is larger and brighter than the Great Orion Nebula but less well known because it is so far south -- and because so much of humanity lives so far north.  The featured image shows in great detail the northernmost part of the Carina Nebula. On the bottom left is the Gabriela Mistral Nebula consisting of an emission nebula of glowing gas (IC 2599) surrounding the small open cluster of stars (NGC 3324). Above the image center is the larger star cluster NGC 3293, while to its right is the emission nebula Loden 153.  The most famous occupant of the Carina Nebula, however, is not shown. Off the image to the lower right is the bright, erratic, and doomed star known as Eta Carinae -- a star once one of the brightest stars in the sky and now predicted to explode in a supernova sometime in the next few million years.
+> ![APOD](https://apod.nasa.gov/apod/image/2305/CarNorth_Taylor_960.jpg)
+> &copy; Carlos Taylor
 
 ---
 <!-- APOD:END -->
