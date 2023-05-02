@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T08:43:13.111Z
+>
+> Because this is for the protection of the pristine environment, I guess :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T03:30:04.080Z
 >
 > Grasslands and blue sky as far as the eye can see
@@ -215,12 +221,6 @@ https://ja.m.wikipedia.org/wiki/八島ヶ原湿原
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-01T20:08:59.092Z
 >
 > おはようございます🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T20:07:44.336Z
->
-> Dawn
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
