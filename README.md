@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:00:15.203Z
+>
+> @yui.bsky.social /card -b
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:59:57.406Z
 >
 > It’s difficult to translate it to English, but a similar expression in English is "Are you enjoying Bluesky?” 😁
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:54:18.015Z
 >
 > I can feel the vibe ₍₍ (ง ˘ω˘ )ว ⁾⁾
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:45:40.701Z
->
-> ♪*₍₍ (˘³˘ง)ง⁾⁾♫* (ง ˙ω˙)ว ⁾⁾♪(˘³˘ง)ง ⁾⁾.¸¸♪
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
