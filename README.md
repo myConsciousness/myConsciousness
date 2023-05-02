@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:59:00.614Z
+>
+> Yep! We are implicitly controlled by big tech algos
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:50:25.338Z
+>
+> I just noticed that several emails that came to me were automatically classified as spam. This was not my doing; Google's algo did it 🥲
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:07:53.860Z
+>
+> @yui.bsky.social /card
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:00:15.203Z
 >
 > @yui.bsky.social /card -b
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:59:57.406Z
 >
 > It’s difficult to translate it to English, but a similar expression in English is "Are you enjoying Bluesky?” 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:58:16.073Z
->
-> Yo リッチさん！超元気です、ありがとう😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:56:00.707Z
->
-> Are you from 2077? 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:54:18.015Z
->
-> I can feel the vibe ₍₍ (ง ˘ω˘ )ว ⁾⁾
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
