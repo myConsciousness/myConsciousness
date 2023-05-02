@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T08:43:13.111Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:59:57.406Z
 >
-> Because this is for the protection of the pristine environment, I guess :)
+> It’s difficult to translate it to English, but a similar expression in English is "Are you enjoying Bluesky?” 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T03:30:04.080Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:58:16.073Z
 >
-> Grasslands and blue sky as far as the eye can see
-
-https://ja.m.wikipedia.org/wiki/八島ヶ原湿原
+> Yo リッチさん！超元気です、ありがとう😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T20:09:53.196Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:56:00.707Z
 >
-> Thx! 🐩🐩🐩
+> Are you from 2077? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T20:09:33.864Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:54:18.015Z
 >
-> Yes he’s my buddy 😁
+> I can feel the vibe ₍₍ (ง ˘ω˘ )ว ⁾⁾
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-01T20:08:59.092Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:45:40.701Z
 >
-> おはようございます🌞
+> ♪*₍₍ (˘³˘ง)ง⁾⁾♫* (ง ˙ω˙)ว ⁾⁾♪(˘³˘ง)ง ⁾⁾.¸¸♪
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
