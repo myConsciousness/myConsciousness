@@ -192,6 +192,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T04:50:48.123Z
+>
+> I guess it’s super cozy 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T04:49:47.766Z
+>
+> 3 gods 😁
+
+https://en.m.wikipedia.org/wiki/Ōyamatsumi
+https://en.m.wikipedia.org/wiki/Takeminakata
+https://simple.m.wikipedia.org/wiki/Yasakatome
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:39:58.510Z
 >
 > I guess the Japanese community has a density of posts, but it appears small because the primary language is Japanese 🤔
@@ -207,18 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:25:56.258Z
 >
 > Very welcome! 🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:25:14.183Z
->
-> Very welcome! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:24:57.792Z
->
-> Vibes!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,9 +251,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Why are there so many flat rocks on Mars? Some views of plains and hills on Mars show many rocks that are unusually flat when compared to rocks on Earth. One reason for this is a process that is common to both Mars and Earth: erosion. The carbon-dioxide wind on Mars can act like sandpaper when it blows around gritty Martian sand. This sand can create differential erosion, smoothing over some rocks, while wearing down the tops of other long-exposed stones.  The featured image capturing several hills covered with flat-topped rocks was taken last month by NASA's  Curiosity Rover on Mars. This robotic rover has now been rolling across Mars for ten years and has helped uncover many details of the wet and windy past of Earth's planetary neighbor.  After taking this and other images, Curiosity carefully navigated stones and slippery sand to climb up Marker Band Valley.
-> ![APOD](https://apod.nasa.gov/apod/image/2305/FlatMars_CuriosityThompson_1080.jpg)
-> &copy; NASAJPL-CaltechMSSSNeville Thompson
+> Galaxies are fascinating. In galaxies, gravity alone holds together massive collections of stars, dust, interstellar gas, stellar remnants and dark matter.  Pictured is NGC 5128, better known as Centaurus A.  Cen A is the fifth brightest galaxy on the sky and is located at a distance of about 12 million light years from Earth. The warped shape of Cen A is the result of a merger between an elliptical and a spiral galaxy.  Its active galactic nucleus harbors a supermassive black hole that is about 55 million times more massive than our Sun.  This central black hole ejects a fast  jet visible in both radio and X-ray light. Filaments of the jet are visible in red in the upper left.  New observations by the Event Horizon Telescope have revealed a brightening of the jet only towards its edges -- but for reasons that are currently unknown and an active topic of research.   At NASA it's: Black Hole Week
+> ![APOD](https://apod.nasa.gov/apod/image/2305/NGC5128_Lorenzi_960.jpg)
+> &copy; Marco LorenziNatalia LewandowskaSUNY Oswego
 
 ---
 <!-- APOD:END -->
