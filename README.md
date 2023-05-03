@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T13:16:43.544Z
+>
+> Welcome to dog world! 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-03T09:47:34.304Z
 >
 > So cozy day! 🐩
@@ -217,12 +223,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 https://en.m.wikipedia.org/wiki/Ōyamatsumi
 https://en.m.wikipedia.org/wiki/Takeminakata
 https://simple.m.wikipedia.org/wiki/Yasakatome
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:39:58.510Z
->
-> I guess the Japanese community has a density of posts, but it appears small because the primary language is Japanese 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
