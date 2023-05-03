@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T15:53:21.729Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T16:33:10.497Z
 >
-> Да людей в ВКонтакте - нам стоит пригласить)))
+> おやスコ！🌚🌚🌚
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T15:40:48.497Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T16:29:08.227Z
 >
-> GM! 🌞
+> おやスコ〜！🌚
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T15:38:48.867Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T16:28:47.421Z
 >
-> I added Russian to the language settings of What's hot because I can also read and write a little, but I've only seen Cyrillic on Bluesky a few times to begin with
+> Thx! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T15:33:53.817Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T16:28:37.745Z
 >
-> Because it’s “What’s HOT”
+> おやスコ！🌚🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T15:32:48.654Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T16:20:15.624Z
 >
-> But it’s named as “What’s HOT”
+> Thank you so much! 🙏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
