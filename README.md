@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T13:16:43.544Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T15:00:01.199Z
 >
-> Welcome to dog world! 😁🤝
+> @yui.bsky.social /card -b
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T09:47:34.304Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T14:56:39.394Z
 >
-> So cozy day! 🐩
+> Brazil still seems to be getting preferential treatment in Bluesky… 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T09:37:16.936Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T14:55:03.570Z
 >
-> Except Bluesky API Touchers? 🤔
+> I don’t yet in Japan 🥲
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T04:50:48.123Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T14:53:39.536Z
 >
-> I guess it’s super cozy 🤝
+> Waiting for the latest build to be available in the App Store
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T04:49:47.766Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T14:50:33.607Z
 >
-> 3 gods 😁
-
-https://en.m.wikipedia.org/wiki/Ōyamatsumi
-https://en.m.wikipedia.org/wiki/Takeminakata
-https://simple.m.wikipedia.org/wiki/Yasakatome
+> Great work! 🎉
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
