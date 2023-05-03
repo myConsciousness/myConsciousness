@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T23:55:32.032Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T01:24:21.244Z
 >
-> It's just chaos like Tesla stock 😏
+> Done 😭
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T23:31:57.318Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T01:16:03.440Z
 >
-> Sure, the sage of Omaha have always proven that :)
+> おはスコ！🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T23:15:07.908Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T01:15:44.041Z
 >
-> Do you know where the best place to learn that pessimism is more easily and dynamically propagated than optimism? Stock Markets.
+> Thx, and good night there 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:59:00.614Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T00:47:49.479Z
 >
-> Yep! We are implicitly controlled by big tech algos
+> ありがとうございます！🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:50:25.338Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T00:47:30.387Z
 >
-> I just noticed that several emails that came to me were automatically classified as spam. This was not my doing; Google's algo did it 🥲
+> おはスコフィールド！🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
