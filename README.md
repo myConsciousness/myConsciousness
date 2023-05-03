@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T23:55:32.032Z
+>
+> It's just chaos like Tesla stock 😏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T23:31:57.318Z
+>
+> Sure, the sage of Omaha have always proven that :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T23:15:07.908Z
+>
+> Do you know where the best place to learn that pessimism is more easily and dynamically propagated than optimism? Stock Markets.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:59:00.614Z
 >
 > Yep! We are implicitly controlled by big tech algos
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:50:25.338Z
 >
 > I just noticed that several emails that came to me were automatically classified as spam. This was not my doing; Google's algo did it 🥲
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:07:53.860Z
->
-> @yui.bsky.social /card
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T11:00:15.203Z
->
-> @yui.bsky.social /card -b
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-02T09:59:57.406Z
->
-> It’s difficult to translate it to English, but a similar expression in English is "Are you enjoying Bluesky?” 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
