@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T09:47:34.304Z
+>
+> So cozy day! 🐩
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T09:37:16.936Z
+>
+> Except Bluesky API Touchers? 🤔
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-03T04:50:48.123Z
 >
 > I guess it’s super cozy 🤝
@@ -211,18 +223,6 @@ https://simple.m.wikipedia.org/wiki/Yasakatome
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:39:58.510Z
 >
 > I guess the Japanese community has a density of posts, but it appears small because the primary language is Japanese 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:31:54.877Z
->
-> Let’s go back to OG cluster 🥲
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-03T02:25:56.258Z
->
-> Very welcome! 🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
