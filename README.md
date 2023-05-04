@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T12:51:14.410Z
+>
+> 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T12:37:40.321Z
+>
+> I love their service too 👀🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T12:34:08.072Z
+>
+> Yes it’s so amazing view 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-04T11:43:59.913Z
 >
 > So close to clouds 👀
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-04T11:37:28.817Z
 >
 > Glad to see @microsoft.com here, I might make an additional investment in Microsoft
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T02:55:56.618Z
->
-> I will be releasing a package as early as this weekend that will allow you to use AT Protocol's Stream API easily in Dart/Flutter. Now I see a better solution for decoding the CBOR format data returned from the ATP server :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T02:25:39.599Z
->
-> リッチさん、やっほー！😎
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T01:53:56.362Z
->
-> Thx you too! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
