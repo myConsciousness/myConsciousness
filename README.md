@@ -192,37 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T15:55:12.343Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T16:20:05.690Z
 >
-> Released the latest build of ATP API and BSKY API wrappers available for Dart/Flutter. This release adds support for the Stream API subscribeRepos. All hard work is encapsulated and all you need to be aware of is choosing the appropriate methods and object props :)
-
-https://pub.dev/packages/bluesky
+> Of course! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T12:01:49.368Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T16:19:31.632Z
 >
-> You need to login at first, you need to try it 👍
+> GN! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:33:14.046Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T16:19:08.389Z
 >
-> You tried to login with following method?
-
-await agent.login({identifier: 'alice@mail.com', password: 'hunter2'})
+> Have a nice day! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:07:56.011Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T16:17:28.652Z
 >
-> That’s okay! btw what kind of error you got? 👀
+> Thx! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:05:56.564Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T16:17:15.787Z
 >
-> Today's sunset was the best I've seen all year 🌞
+> Thx, good night! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
