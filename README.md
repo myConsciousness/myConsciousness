@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T10:46:55.867Z
+>
+> 共有ありがとうございます！頂いたAT URIでこちらでも動作確認をしてみます🙏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T10:45:17.318Z
+>
+> I have never used official wrapper, but you just need to replace it with “https://bsky.social” if you just need to access to “this” server :)
+
+---
+
 > Why @why.bsky.team 2023-05-05T04:58:08.135Z
 >
 > Okay well i can try, heres me and my boy @jim.bsky.social
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Col @col.bsky.social 2023-05-04T03:28:37.330Z
 >
 > me and my buddy @rose.bsky.team
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T04:40:53.164Z
->
-> I send you if you want 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T04:35:54.226Z
->
-> In honor of Bluesky's 60k users, the team has released Paul's treasured photos 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
