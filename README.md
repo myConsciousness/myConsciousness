@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T15:55:12.343Z
+>
+> Released the latest build of ATP API and BSKY API wrappers available for Dart/Flutter. This release adds support for the Stream API subscribeRepos. All hard work is encapsulated and all you need to be aware of is choosing the appropriate methods and object props :)
+
+https://pub.dev/packages/bluesky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-05T12:01:49.368Z
 >
 > You need to login at first, you need to try it 👍
@@ -215,12 +223,6 @@ await agent.login({identifier: 'alice@mail.com', password: 'hunter2'})
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:05:56.564Z
 >
 > Today's sunset was the best I've seen all year 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:03:08.987Z
->
-> I was wondering if Bluesky would become like Twitter as the number of users grows. But I can see Bluesky is not just a copy of Twitter; it has already begun to form its own culture, it’s very great 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
