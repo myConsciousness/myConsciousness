@@ -192,41 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-04-19T23:21:42.682Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T01:06:14.462Z
 >
-> For newcomers,
-
-Tools and libraries are already listed in the following repository for easy use of the AT Protocol and Bluesky's API :)
-
-There is also a list of third-party clients, so even if you are not a developer, check it out!
-
-Welcome🤝
-
-https://github.com/bluesky-social/atproto-ecosystem
+> Good morning, I slept great thx 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T23:40:59.862Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T01:05:31.278Z
 >
-> It’s time
+> Good morning 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T23:35:45.606Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T00:58:13.579Z
 >
-> Domain name cannot be incorrect on the AT Protocol because of the DNS mechanism :)
+> GM alice 😎🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T12:51:14.410Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T00:57:40.503Z
 >
-> 
+> Goooood morning 😎
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-04T12:37:40.321Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T00:57:30.469Z
 >
-> I love their service too 👀🤝
+> GM! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
