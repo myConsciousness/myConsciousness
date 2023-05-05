@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T01:47:41.522Z
+> Why @why.bsky.team 2023-05-05T04:58:08.135Z
 >
-> Hi professor! Of course no problem, I will send him an email invitation right away! :)
+> Okay well i can try, heres me and my boy @jim.bsky.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T01:30:46.475Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T04:47:44.593Z
 >
-> リッチさん、おはスコ！🌞🤝
+> Bluesky is a hilarious Instagram pretending to be Twitter
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T01:06:14.462Z
+> Col @col.bsky.social 2023-05-04T03:28:37.330Z
 >
-> Good morning, I slept great thx 😁🤝
+> me and my buddy @rose.bsky.team
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T01:05:31.278Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T04:40:53.164Z
 >
-> Good morning 😁🤝
+> I send you if you want 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T00:58:13.579Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T04:35:54.226Z
 >
-> GM alice 😎🤝
+> In honor of Bluesky's 60k users, the team has released Paul's treasured photos 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,8 +247,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Bright elliptical galaxy Messier 87 (M87) is home to the supermassive black hole captured in 2017 by planet Earth's Event Horizon Telescope in the first ever image of a black hole. Giant of the Virgo galaxy cluster about 55 million light-years away, M87 is the large galaxy rendered in blue hues in this infrared image from the Spitzer Space telescope.  Though M87 appears mostly featureless and cloud-like, the Spitzer image does record details of relativistic jets blasting from the galaxy's central region. Shown in the inset at top right, the jets themselves span thousands of light-years. The brighter jet seen on the right is approaching and close to our line of sight. Opposite, the shock created by the otherwise unseen receding jet lights up a fainter arc of material. Inset at bottom right, the historic black hole image is shown in context, at the center of giant galaxy and relativistic jets. Completely unresolved in the Spitzer image, the supermassive black hole surrounded by infalling material is the source of enormous energy driving the relativistic jets from the center of active galaxy M87. The Event Horizon Telescope image of M87 has now been enhanced to reveal a sharper view of the famous supermassive black hole.   At NASA: Black Hole Week
-> ![APOD](https://apod.nasa.gov/apod/image/2305/pia23122c-16_1067.jpg)
+> Shackleton crater lies at the lunar south pole. Peaks along the 21 kilometer diameter are in sunlight, but Shackleton's floor is in dark permanent shadow. Still, this image of the shadowed rim wall and floor of Shackleton crater was captured from NASA's ShadowCam, an instrument on board the Korea Pathfinder Lunar Orbiter (KPLO) launched in August 2022. About 200 times more sensitive than, for example, the Lunar Reconnaissance Orbiter's Narrow Angle Camera, ShadowCam was designed image the permanently shadowed regions of the lunar surface. Avoiding direct sunlight, those regions are expected to be reservoirs of water-ice and other volatiles deposited by ancient cometary impacts and useful to future Moon missions. Of course, the permanently shadowed regions are still illuminated by reflections of sunlight from nearby lunar terrain. In this stunningly detailed ShadowCam image, an arrow marks the track made by a single boulder rolling down Shackleton crater's wall. The image scale is indicated at the bottom of the frame.
+> ![APOD](https://apod.nasa.gov/apod/image/2305/shackleton_arrow.png)
 
 
 ---
