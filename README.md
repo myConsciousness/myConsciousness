@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:33:14.046Z
+>
+> You tried to login with following method?
+
+await agent.login({identifier: 'alice@mail.com', password: 'hunter2'})
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:07:56.011Z
+>
+> That’s okay! btw what kind of error you got? 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:05:56.564Z
+>
+> Today's sunset was the best I've seen all year 🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T11:03:08.987Z
+>
+> I was wondering if Bluesky would become like Twitter as the number of users grows. But I can see Bluesky is not just a copy of Twitter; it has already begun to form its own culture, it’s very great 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-05T10:46:55.867Z
 >
 > 共有ありがとうございます！頂いたAT URIでこちらでも動作確認をしてみます🙏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T10:45:17.318Z
->
-> I have never used official wrapper, but you just need to replace it with “https://bsky.social” if you just need to access to “this” server :)
-
----
-
-> Why @why.bsky.team 2023-05-05T04:58:08.135Z
->
-> Okay well i can try, heres me and my boy @jim.bsky.social
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T04:47:44.593Z
->
-> Bluesky is a hilarious Instagram pretending to be Twitter
-
----
-
-> Col @col.bsky.social 2023-05-04T03:28:37.330Z
->
-> me and my buddy @rose.bsky.team
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
