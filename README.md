@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T06:38:00.993Z
+>
+> Добро пожаловать @zezic.ru )))
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-06T04:34:36.184Z
 >
 > まだ開発途中の部分がありますが使っていただきありがとうございます！Flutter製アプリが増えてきて嬉しいです 🙏
@@ -220,16 +226,6 @@ https://drive.google.com/file/d/1UIjftb8LLRvLcTHzcukOga1iSlylIvD8/view?usp=share
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-06T01:16:23.365Z
 >
 > I’m already preparing funny gifs
-
----
-
-> Maile @maile.bsky.social 2023-05-04T18:24:34.083Z
->
-> 🤣 The reporter at NPR that recently received the “you suck” email from Elon had it framed. 🏆 
-
-This is high key something I would do. 🤣 
-
-Source: @april.social
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
