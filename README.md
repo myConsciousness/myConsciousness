@@ -192,6 +192,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T08:49:51.941Z
+>
+> 承知しました！
+
+createPostのレスポンスからReplyRefを作るケースばかりを考えていましたが、たしかにPostオブジェクトからReplyRefを作るのは少し難しいですね。Postオブジェクトから直接StrongRefを返すようなGetterを作ってもいいような気がしてきました。
+
+フィードバックありがとうございます！🙏
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-06T06:38:00.993Z
 >
 > Добро пожаловать @zezic.ru )))
@@ -220,12 +230,6 @@ https://drive.google.com/file/d/1UIjftb8LLRvLcTHzcukOga1iSlylIvD8/view?usp=share
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-06T01:25:07.883Z
 >
 > 💃🕺
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T01:16:23.365Z
->
-> I’m already preparing funny gifs
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
