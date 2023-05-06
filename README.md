@@ -192,33 +192,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T23:55:44.540Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T01:25:07.883Z
 >
-> Social networking becomes weird when it starts to prioritize algorithmic numbers over actual human interests and activities. I believe that the essence of social networking is natural interaction with people, and I feel that is part of the idealistic vision that Jack was trying to create.
+> 💃🕺
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T23:44:31.641Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T01:16:23.365Z
 >
-> From the other side of the world: good night! 😁🤝
+> I’m already preparing funny gifs
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T23:43:51.003Z
+> Maile @maile.bsky.social 2023-05-04T18:24:34.083Z
 >
-> Thx, good night in Brazil! 😁
+> 🤣 The reporter at NPR that recently received the “you suck” email from Elon had it framed. 🏆 
+
+This is high key something I would do. 🤣 
+
+Source: @april.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T23:37:36.214Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T00:52:45.450Z
 >
-> Good morning ブルスコ🤙
+> Good morning! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-05T23:33:47.003Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-06T00:52:13.756Z
 >
-> Government officials and management (or experienced) of well-known companies or organizations would need credible label. If this works, you can have some confidence that they are real, even if the user has no knowledge of DNS or the domain used is not a well-known one!
+> 🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
