@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T15:15:50.123Z
+>
+> Already time to sleep, but I’m waiting for this livestream… :)
+
+https://www.youtube.com/live/D6FBGfrXazw?feature=share
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T15:10:34.681Z
+>
+> GM ブルスコ！🌞🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:24:15.299Z
 >
 > Just access to https://staging.bsky.app :)
@@ -210,18 +224,6 @@ https://ucho-ten.net
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:19:30.851Z
 >
 > Responsive Web Design: one of the main reasons I don't prefer to implement screens... Implementing and testing responsive screens is really painstaking work, best luck! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:05:10.068Z
->
-> Just in case cc: @pfrazee.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:01:45.785Z
->
-> Maybe React is determining the UI from the screen width, and if this UI is correct, Route may not be working on different platforms 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
