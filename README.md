@@ -192,35 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T13:50:11.784Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:24:15.299Z
 >
-> I have been using the official web app in full screen, but I noticed that if I make the browser smaller, I get the mobile UI. But the profile button in the drawer is not working, has this been before?
+> Just access to https://staging.bsky.app :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T03:31:38.791Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:20:16.417Z
 >
-> Oh no sorry, I thought you might be too from South America 😂 I’m living in Japan, we are neighbors on an island in the Pacific Ocean 😁🤝
+> And there are third parties!
+
+https://klearsky.pages.dev
+https://ucho-ten.net
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T03:24:49.998Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:19:30.851Z
 >
-> I'm sure I'll have trouble sleeping tonight!
+> Responsive Web Design: one of the main reasons I don't prefer to implement screens... Implementing and testing responsive screens is really painstaking work, best luck! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T03:12:37.078Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:05:10.068Z
 >
-> The livestream of the year!
+> Just in case cc: @pfrazee.com
 
 ---
 
-> Paul Frazee, blesser of hellthreads @pfrazee.com 2023-05-07T03:08:03.957Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:01:45.785Z
 >
-> It’s finally happening! I’m going to livestream some Bluesky development starting at 11AM CT tomorrow (Sunday). Join us!
-
-https://www.youtube.com/live/D6FBGfrXazw?feature=share
+> Maybe React is determining the UI from the screen width, and if this UI is correct, Route may not be working on different platforms 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
