@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T13:50:11.784Z
+>
+> I have been using the official web app in full screen, but I noticed that if I make the browser smaller, I get the mobile UI. But the profile button in the drawer is not working, has this been before?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-07T03:31:38.791Z
 >
 > Oh no sorry, I thought you might be too from South America 😂 I’m living in Japan, we are neighbors on an island in the Pacific Ocean 😁🤝
@@ -215,12 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > It’s finally happening! I’m going to livestream some Bluesky development starting at 11AM CT tomorrow (Sunday). Join us!
 
 https://www.youtube.com/live/D6FBGfrXazw?feature=share
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T01:26:57.352Z
->
-> Good morning, from the other side of the world 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
