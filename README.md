@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:59:43.927Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:54:52.460Z
 >
-> 𝑩𝑰𝑮 𝑳𝑶𝑽𝑬______
+> Thx! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:32:02.877Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:33:19.200Z
 >
-> Interesting, I guess it’s somewhat different from my package, but the design seems similar 🌞
+> This brand image is what I created for my package 👀
+
+https://github.com/myConsciousness/atproto.dart
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:28:40.157Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:31:55.357Z
 >
-> It can also be easily integrated with the bluesky package. If you wish to use it together with the bluesky package, please refer to the following usage instructions.
+> 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:26:28.224Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:29:37.608Z
 >
-> This package can extract all entities such as handles and links contained in text with indices. Indices is an index counted as a byte string and can be used as is for ByteSlice in the Bluesky API.
+> Yo. みんなブルスコしてるかい？
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:26:11.381Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:23:36.035Z
 >
-> Isn't it difficult to correctly set up mentions and links in the text you post using facet in the Bluesky API? I have released a Dart/Flutter challenging package to solve this: “bluesky_text”.
-
-https://pub.dev/packages/bluesky_text
+> Please try it! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
