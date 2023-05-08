@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T04:45:35.562Z
+>
+> We need more bars
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-07T23:47:20.069Z
 >
 > It was a very interesting although I fell asleep in the middle of it! (late at night in Japan) 👍
@@ -215,15 +221,6 @@ https://www.youtube.com/live/D6FBGfrXazw?feature=share
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:24:15.299Z
 >
 > Just access to https://staging.bsky.app :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:20:16.417Z
->
-> And there are third parties!
-
-https://klearsky.pages.dev
-https://ucho-ten.net
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -252,8 +249,8 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Will our Sun look like this one day?  The Helix Nebula is one of brightest and closest examples of a planetary nebula, a gas cloud created at the end of the life of a Sun-like star. The outer gasses of the star expelled into space appear from our vantage point as if we are looking down a helix. The remnant central stellar core, destined to become a white dwarf star, glows in light so energetic it causes the previously expelled gas to fluoresce. The Helix Nebula, given a technical designation of NGC 7293, lies about 700 light-years away towards the constellation of the Water Bearer (Aquarius) and spans about 2.5 light-years. The featured picture was taken with the Canada-France-Hawaii Telescope (CFHT) located atop a dormant volcano in Hawaii, USA. A close-up of the inner edge of the Helix Nebula shows complex gas knots of unknown origin.
-> ![APOD](https://apod.nasa.gov/apod/image/2305/Helix2_CFHT_960.jpg)
+> If not perfect, then this spiral galaxy is at least one of the most photogenic. An island universe containing billions of stars and situated about 40 million light-years away toward the constellation of the Dolphinfish (Dorado), NGC 1566 presents a gorgeous face-on view. Classified as a grand design spiral, NGC 1566 shows two prominent and graceful spiral arms that are traced by bright blue star clusters and dark cosmic dust lanes. Numerous Hubble Space Telescope images of NGC 1566 have been taken to study star formation, supernovas, and the spiral's unusually active center. Some of these images, stored online in the Hubble Legacy Archive, were freely downloaded, combined, and digitally processed by an industrious amateur to create the featured image. NGC 1566's flaring center makes the spiral one of the closest and brightest Seyfert galaxies, likely housing a central supermassive black hole wreaking havoc on surrounding stars and gas.   Almost Hyperspace: Random APOD Generator
+> ![APOD](https://apod.nasa.gov/apod/image/2305/NGC1566_HubbleOdenthal_960.jpg)
 
 
 ---
