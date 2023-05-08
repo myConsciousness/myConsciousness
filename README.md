@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:54:52.460Z
->
-> Thx! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:33:19.200Z
->
-> This brand image is what I created for my package 👀
-
-https://github.com/myConsciousness/atproto.dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:31:55.357Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:59:12.396Z
 >
 > 🌞🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:29:37.608Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:37:14.754Z
 >
-> Yo. みんなブルスコしてるかい？
+> ✌️
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T11:23:36.035Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:36:58.221Z
 >
-> Please try it! 😁🤝
+> Yes this is a very weird collection
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:33:09.633Z
+>
+> lmao
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:27:28.822Z
+>
+> We’re hot
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
