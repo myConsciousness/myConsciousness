@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T13:50:16.568Z
+>
+> Nice Kafka
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T13:07:13.469Z
+>
+> The process of creating "facets" could be simpler. I would add a feature that returns the JSON of the "facet" directly from the BlueskyText or Entity object.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:59:12.396Z
 >
 > 🌞🤝
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:36:58.221Z
 >
 > Yes this is a very weird collection
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:33:09.633Z
->
-> lmao
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:27:28.822Z
->
-> We’re hot
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
