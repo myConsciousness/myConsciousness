@@ -192,6 +192,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Emily @emily.bsky.team 2023-05-08T22:48:26.011Z
+>
+> check out the new Community section on our @atproto.com site! ✨
+
+includes:
+- a quick start guide with sample lines of code 
+- a page to showcase community projects 
+- community groups to help you get connected with the atproto dev community
+
+https://atproto.com/community
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T14:13:44.592Z
 >
 > おやスコ🌚
@@ -213,12 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:59:12.396Z
 >
 > 🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:37:14.754Z
->
-> ✌️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
