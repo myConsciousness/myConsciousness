@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T09:43:24.170Z
+>
+> Yes it may require an obsession with a particular subject. The subject is painting, programming, and various other things, but without this obsession it would not take us to even higher place.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T09:39:30.098Z
+>
+> What do you think it takes to accomplish something? I think it's insanity.
+
+For the greatest success, we sometimes need to take daring risks and be willing to do things that may seem insane to others. Although it's just a madman if it goes too far.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T06:42:36.864Z
 >
 > It's interesting to see it's called "Resident Evil" abroad 👀
@@ -207,20 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T04:45:35.562Z
 >
 > We need more bars
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T23:47:20.069Z
->
-> It was a very interesting although I fell asleep in the middle of it! (late at night in Japan) 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T15:15:50.123Z
->
-> Already time to sleep, but I’m waiting for this livestream… :)
-
-https://www.youtube.com/live/D6FBGfrXazw?feature=share
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
