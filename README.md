@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T06:42:36.864Z
+>
+> It's interesting to see it's called "Resident Evil" abroad 👀
+
+---
+
+> Paul Frazee (as seen on TV) @pfrazee.com 2023-05-08T06:30:29.603Z
+>
+> I was asked to share my pretentious paper so here it is, you have been warned it’s very pretentious and this is post edits https://github.com/pfrazee/infocivics
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T04:45:35.562Z
 >
 > We need more bars
@@ -209,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Already time to sleep, but I’m waiting for this livestream… :)
 
 https://www.youtube.com/live/D6FBGfrXazw?feature=share
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T15:10:34.681Z
->
-> GM ブルスコ！🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:24:15.299Z
->
-> Just access to https://staging.bsky.app :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
