@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T14:13:44.592Z
+>
+> おやスコ🌚
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T13:50:16.568Z
 >
 > Nice Kafka
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:37:14.754Z
 >
 > ✌️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:36:58.221Z
->
-> Yes this is a very weird collection
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
