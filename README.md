@@ -192,35 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T09:43:24.170Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:59:43.927Z
 >
-> Yes it may require an obsession with a particular subject. The subject is painting, programming, and various other things, but without this obsession it would not take us to even higher place.
+> 𝑩𝑰𝑮 𝑳𝑶𝑽𝑬______
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T09:39:30.098Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:32:02.877Z
 >
-> What do you think it takes to accomplish something? I think it's insanity.
-
-For the greatest success, we sometimes need to take daring risks and be willing to do things that may seem insane to others. Although it's just a madman if it goes too far.
+> Interesting, I guess it’s somewhat different from my package, but the design seems similar 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T06:42:36.864Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:28:40.157Z
 >
-> It's interesting to see it's called "Resident Evil" abroad 👀
+> It can also be easily integrated with the bluesky package. If you wish to use it together with the bluesky package, please refer to the following usage instructions.
 
 ---
 
-> Paul Frazee (as seen on TV) @pfrazee.com 2023-05-08T06:30:29.603Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:26:28.224Z
 >
-> I was asked to share my pretentious paper so here it is, you have been warned it’s very pretentious and this is post edits https://github.com/pfrazee/infocivics
+> This package can extract all entities such as handles and links contained in text with indices. Indices is an index counted as a byte string and can be used as is for ByteSlice in the Bluesky API.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T04:45:35.562Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T10:26:11.381Z
 >
-> We need more bars
+> Isn't it difficult to correctly set up mentions and links in the text you post using facet in the Bluesky API? I have released a Dart/Flutter challenging package to solve this: “bluesky_text”.
+
+https://pub.dev/packages/bluesky_text
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
