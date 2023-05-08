@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T23:47:20.069Z
+>
+> It was a very interesting although I fell asleep in the middle of it! (late at night in Japan) 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-07T15:15:50.123Z
 >
 > Already time to sleep, but I’m waiting for this livestream… :)
@@ -218,12 +224,6 @@ https://www.youtube.com/live/D6FBGfrXazw?feature=share
 
 https://klearsky.pages.dev
 https://ucho-ten.net
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-07T14:19:30.851Z
->
-> Responsive Web Design: one of the main reasons I don't prefer to implement screens... Implementing and testing responsive screens is really painstaking work, best luck! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
