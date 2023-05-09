@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:33:41.264Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:50:08.311Z
 >
-> This is based on labels you got :)
+> おはスコ！🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:31:37.981Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:49:54.182Z
 >
-> Great work! Are there any requirements when adding bots to the list? 👀
+> 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:23:41.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:49:31.256Z
 >
-> Firesky アクセスしてみたら404になってましたね
+> This is the way! 🌞🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:18:10.310Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:49:19.259Z
 >
-> underwear, strip underwear, and nudity photos will be handled as NSFW on What’s hot. Also replies will no longer be served, and won't show up if the post being quoted is NSFW
-
-https://github.com/bluesky-social/atproto/pull/1002
+> GM 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:06:28.228Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:49:09.333Z
 >
-> おはスコ🌞
+> おはスコでスカイ！🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
