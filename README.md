@@ -192,40 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Emily @emily.bsky.team 2023-05-08T22:48:26.011Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:33:41.264Z
 >
-> check out the new Community section on our @atproto.com site! ✨
-
-includes:
-- a quick start guide with sample lines of code 
-- a page to showcase community projects 
-- community groups to help you get connected with the atproto dev community
-
-https://atproto.com/community
+> This is based on labels you got :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T14:13:44.592Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:31:37.981Z
 >
-> おやスコ🌚
+> Great work! Are there any requirements when adding bots to the list? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T13:50:16.568Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:23:41.879Z
 >
-> Nice Kafka
+> Firesky アクセスしてみたら404になってましたね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T13:07:13.469Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:18:10.310Z
 >
-> The process of creating "facets" could be simpler. I would add a feature that returns the JSON of the "facet" directly from the BlueskyText or Entity object.
+> underwear, strip underwear, and nudity photos will be handled as NSFW on What’s hot. Also replies will no longer be served, and won't show up if the post being quoted is NSFW
+
+https://github.com/bluesky-social/atproto/pull/1002
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T12:59:12.396Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-08T23:06:28.228Z
 >
-> 🌞🤝
+> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
