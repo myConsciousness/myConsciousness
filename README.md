@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T10:48:35.995Z
+>
+> I have released the latest build of the Bluesky package for Dart/Flutter :) Now it supports “labels” fields.
+
+https://pub.dev/packages/bluesky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:50:08.311Z
 >
 > おはスコ！🌞
@@ -213,12 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:49:19.259Z
 >
 > GM 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T00:49:09.333Z
->
-> おはスコでスカイ！🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
