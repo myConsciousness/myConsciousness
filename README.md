@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T14:19:17.322Z
+>
+> I’m maintaining these third parties :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T14:11:17.054Z
+>
+> I have released the latest build of the “bluesky_text” package for Dart/Flutter :) This release supports automatic generation of facets from entities, very productive 🌞
+
+https://pub.dev/packages/bluesky_text
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-09T12:54:48.619Z
 >
 > Please try it 😁
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-09T12:06:16.741Z
 >
 > I'm already unable to even commit 😭
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T11:58:40.957Z
->
-> The GitHub server seems to be quite sluggish lately. It has been rare for me to see 500 errors on GitHub, but I have already seen it 10 times in the last few months. And this is still occurring.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T11:29:12.404Z
->
-> Andy!!! 🤝 I have thought about inviting you here many times, but I could not find your contact information... I'm very glad to see you here! 😊
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
