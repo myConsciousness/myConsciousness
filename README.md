@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T07:50:42.430Z
+>
+> Hi Christian, welcome! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-09T14:19:17.322Z
 >
 > I’m maintaining these third parties :)
@@ -215,12 +221,6 @@ https://pub.dev/packages/bluesky_text
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-09T12:54:31.390Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T12:06:16.741Z
->
-> I'm already unable to even commit 😭
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
