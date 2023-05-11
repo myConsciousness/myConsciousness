@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T12:36:05.417Z
+>
+> Agreed :) My guess is that not many products developed for the first time since Elon became CEO. I feel the reason they are able to release them so quickly is because they either had such secret projects in the past or already had prototypes.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T12:31:03.312Z
+>
+> At least here we don't have a completely private space like DM yet. But yes E2EE is essential for secure communication, this is not fully implemented even in Mastodon! I heard Bluesky's dev will soon implement DM, so let's hope for the best :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:14:08.315Z
 >
 > He is a genius
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:05:25.534Z
 >
 > From what I have heard, they are going to release some interesting features tied to Twitter Blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T07:28:31.593Z
->
-> LEGEND 😢
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T07:22:58.153Z
->
-> It's sad that monetization will always be a barrier to healthy service development
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
