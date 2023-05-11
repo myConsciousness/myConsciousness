@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:14:08.315Z
+>
+> He is a genius
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:12:13.072Z
+>
+> This is both his strength and his risk at the same time 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:05:25.534Z
+>
+> From what I have heard, they are going to release some interesting features tied to Twitter Blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T07:28:31.593Z
 >
 > LEGEND 😢
@@ -201,24 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T07:22:58.153Z
 >
 > It's sad that monetization will always be a barrier to healthy service development
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T07:13:58.268Z
->
-> And unfortunately the Twitter API is too restrictive for DM features. Third parties also could not develop well using the API.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T06:56:39.760Z
->
-> It's very interesting that Elon is going to enhance the DM feature of birdapp. I have long felt that Twitter DMs have a lot of potential, and at the same time I wondered very much why they have never actively developed DM before
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T06:35:06.477Z
->
-> ブルスコ組
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
