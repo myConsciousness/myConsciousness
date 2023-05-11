@@ -192,33 +192,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T12:36:05.417Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T13:55:45.595Z
 >
-> Agreed :) My guess is that not many products developed for the first time since Elon became CEO. I feel the reason they are able to release them so quickly is because they either had such secret projects in the past or already had prototypes.
+> It's the fate of the interns lol
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T12:31:03.312Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T13:52:02.933Z
 >
-> At least here we don't have a completely private space like DM yet. But yes E2EE is essential for secure communication, this is not fully implemented even in Mastodon! I heard Bluesky's dev will soon implement DM, so let's hope for the best :)
+> I've been so engrossed in AT Protocol for the past few months that I haven't followed the Dart/Flutter topics, but it seems that Dart3 has recently become Stable. Are there any interesting additional specs? I have confirmed the Union type has not been added as a language spec.
+
+https://dart.dev
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:14:08.315Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T13:46:59.117Z
 >
-> He is a genius
+> It’s down when I have to push something 😮‍💨
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:12:13.072Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T13:44:13.337Z
 >
-> This is both his strength and his risk at the same time 🤔
+> Is GitHub's server under tremendous attack from Anonymous these days? Or did a newcomer incorporate a terrible bug?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T08:05:25.534Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T13:40:33.988Z
 >
-> From what I have heard, they are going to release some interesting features tied to Twitter Blue
+> I see you everyday lately
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
