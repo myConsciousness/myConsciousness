@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T02:56:34.324Z
+>
+> I released the latest build of bluesky package for Dart/Flutter :) Thanks to a delightful Discord friend, I learned of a user who has created a “hashtag” facet type, so I added the case of “unknown” to the Union type provided in this package. Okay now who wants to implement it in your Flutter app? 😏
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T01:10:03.530Z
 >
 > Apple needs to announce the M3 MacBook PRO soon. The battery life of my M1 MacBook PRO is almost dying, and the battery runs low while charging sometimes when I code
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:34:01.849Z
 >
 > Interesting 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:10:57.489Z
->
-> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
