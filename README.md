@@ -192,31 +192,31 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:00:18.009Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T01:10:03.530Z
 >
-> I love trust level system
+> Apple needs to announce the M3 MacBook PRO soon. The battery life of my M1 MacBook PRO is almost dying, and the battery runs low while charging sometimes when I code
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:56:44.597Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T01:00:15.976Z
 >
-> I guess this service uses CAR data from com.atproto.sync.subscribeRepos, but the easiest way to check newcomers is suggestions on search screen :)
+> 更科そばが美味しいです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:54:37.301Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:41:14.146Z
 >
-> Manually you can check with search and suggestions, it shows people you’re not following yet
+> Speech Interpretation and Recognition Interfaceですね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:47:59.854Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:34:01.849Z
 >
-> おはスコ！🌞
+> Interesting 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:47:27.293Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:10:57.489Z
 >
 > おはスコ🌞
 
