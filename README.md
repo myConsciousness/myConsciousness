@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T02:56:34.324Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T06:56:39.760Z
 >
-> I released the latest build of bluesky package for Dart/Flutter :) Thanks to a delightful Discord friend, I learned of a user who has created a “hashtag” facet type, so I added the case of “unknown” to the Union type provided in this package. Okay now who wants to implement it in your Flutter app? 😏
+> It's very interesting that Elon is going to enhance the DM feature of birdapp. I have long felt that Twitter DMs have a lot of potential, and at the same time I wondered very much why they have never actively developed DM before
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T01:10:03.530Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T06:35:06.477Z
 >
-> Apple needs to announce the M3 MacBook PRO soon. The battery life of my M1 MacBook PRO is almost dying, and the battery runs low while charging sometimes when I code
+> ブルスコ組
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T01:00:15.976Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T06:32:40.762Z
 >
-> 更科そばが美味しいです
+> Poootter…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:41:14.146Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T06:06:00.581Z
 >
-> Speech Interpretation and Recognition Interfaceですね
+> ワイさんから始まって（もしかしてVishal？）、ワイさんの一声で終わるのは結構面白いと思いました
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:34:01.849Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T04:59:54.798Z
 >
-> Interesting 👀
+> I also like the movie of this game
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -247,9 +247,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> For ten years the stargazer dreamed of taking a picture like this. The dreamer knew that the White Desert National Park in Egypt's Western Desert is a picturesque place hosting numerous chalk formations sculpted into surreal structures by a sandy wind. The dreamer knew that the sky above could be impressively dark on a clear moonless night, showing highlights such as the central band of our Milky Way Galaxy in impressive color and detail. So the dreamer invited an even more experienced astrophotographer to spend three weeks together in the desert and plan the composite images that needed to be taken and processed to create the dream image.  Over three days in mid-March, the base images were taken, all with the same camera and from the same location.  The impressive result is featured here, with the dreamer -- proudly wearing a traditional Bedouin galabyia -- pictured in the foreground.
-> ![APOD](https://apod.nasa.gov/apod/image/2305/DesertSky_Abdelwahab_960.jpg)
-> &copy; Amr Abdulwahab
+> Fomalhaut is a bright star, a 25 light-year voyage from planet Earth in the direction of the constellation Piscis Austrinus. Astronomers first noticed Fomalhaut's excess infrared emission in the 1980s. Space and ground-based telescopes have since identified the infrared emission's source as a disk of dusty debris surrounding the hot, young star related to the ongoing formation of a planetary system.  But this sharp infrared image from the James Webb Space Telescope's MIRI camera reveals details of Fomalhaut's debris disk never before seen, including a large dust cloud in the outer ring that is possible evidence for colliding bodies, and an inner dust disk and gap likely shaped and maintained by embedded but unseen planets. An image scale bar in au or astronomical units, the average Earth-Sun distance, appears at the lower left. Fomalhaut's outer circumstellar dust ring lies at about twice the distance of our own Solar System's Kuiper Belt of small icy bodies and debris beyond the orbit of Neptune.
+> ![APOD](https://apod.nasa.gov/apod/image/2305/STSCI_FomalhautDisk1024.png)
+
 
 ---
 <!-- APOD:END -->
