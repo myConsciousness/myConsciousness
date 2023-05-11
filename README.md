@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T07:50:42.430Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T00:00:18.009Z
 >
-> Hi Christian, welcome! 😁
+> I love trust level system
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T14:19:17.322Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:56:44.597Z
 >
-> I’m maintaining these third parties :)
+> I guess this service uses CAR data from com.atproto.sync.subscribeRepos, but the easiest way to check newcomers is suggestions on search screen :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T14:11:17.054Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:54:37.301Z
 >
-> I have released the latest build of the “bluesky_text” package for Dart/Flutter :) This release supports automatic generation of facets from entities, very productive 🌞
-
-https://pub.dev/packages/bluesky_text
+> Manually you can check with search and suggestions, it shows people you’re not following yet
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T12:54:48.619Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:47:59.854Z
 >
-> Please try it 😁
+> おはスコ！🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-09T12:54:31.390Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-10T23:47:27.293Z
 >
-> 
+> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -251,7 +249,7 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
 
 > For ten years the stargazer dreamed of taking a picture like this. The dreamer knew that the White Desert National Park in Egypt's Western Desert is a picturesque place hosting numerous chalk formations sculpted into surreal structures by a sandy wind. The dreamer knew that the sky above could be impressively dark on a clear moonless night, showing highlights such as the central band of our Milky Way Galaxy in impressive color and detail. So the dreamer invited an even more experienced astrophotographer to spend three weeks together in the desert and plan the composite images that needed to be taken and processed to create the dream image.  Over three days in mid-March, the base images were taken, all with the same camera and from the same location.  The impressive result is featured here, with the dreamer -- proudly wearing a traditional Bedouin galabyia -- pictured in the foreground.
 > ![APOD](https://apod.nasa.gov/apod/image/2305/DesertSky_Abdelwahab_960.jpg)
-> &copy; Amr Abdelwahab
+> &copy; Amr Abdulwahab
 
 ---
 <!-- APOD:END -->
