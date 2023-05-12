@@ -192,6 +192,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T22:59:42.310Z
+>
+> おはスコ🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T22:51:01.904Z
+>
+> I stopped to count, more than 100
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T22:46:17.754Z
+>
+> I predict that a fake will soon appear that bridges his Tweet to Bluesky lol
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-12T12:10:19.028Z
 >
 > Many new lexicons arrived, I’m so excited to try them 👀
@@ -203,26 +221,6 @@ https://github.com/myConsciousness/atproto.dart/pull/363/files
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-12T04:46:14.885Z
 >
 > 是非使ってみてください！🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T03:30:42.800Z
->
-> おはスコ🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T03:24:17.224Z
->
-> Do you know a service that runs on GitHub called “All Contributors”? With this service, in addition to users who actually created PRs, you can neatly list in the README the people who found bugs, created peripheral services, etc :)
-
-https://allcontributors.org
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:50:26.769Z
->
-> So sad story 🥲
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
