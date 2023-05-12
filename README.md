@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T01:59:56.033Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:50:26.769Z
 >
-> Klearskyが試験的にリアルタイム翻訳機能を実装していますね
-
-https://klearsky.pages.dev
+> So sad story 🥲
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T14:34:20.230Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:49:25.765Z
 >
-> おやスコ🌚
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T14:07:09.467Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:44:27.375Z
 >
-> おやスコ🌚
+> Are you from Hyrule?!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T14:05:30.603Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:43:13.637Z
 >
-> This is the result of trying the new automatic format for the first time with Dart3. The format is now ridiculously difficult to read. Thank you Google.
+> 私もその辺にいます🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T14:01:15.740Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:41:56.587Z
 >
-> YOLO!
+> During Livestream I was very curious about this icon and section 🪬
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
