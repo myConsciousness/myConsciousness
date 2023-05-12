@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T01:59:56.033Z
+>
+> Klearskyが試験的にリアルタイム翻訳機能を実装していますね
+
+https://klearsky.pages.dev
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T14:34:20.230Z
 >
 > おやスコ🌚
@@ -213,12 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-11T14:01:15.740Z
 >
 > YOLO!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-11T13:55:45.595Z
->
-> It's the fate of the interns lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
