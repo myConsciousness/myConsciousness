@@ -192,6 +192,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T03:30:42.800Z
+>
+> おはスコ🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T03:24:17.224Z
+>
+> Do you know a service that runs on GitHub called “All Contributors”? With this service, in addition to users who actually created PRs, you can neatly list in the README the people who found bugs, created peripheral services, etc :)
+
+https://allcontributors.org
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:50:26.769Z
 >
 > So sad story 🥲
@@ -207,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:44:27.375Z
 >
 > Are you from Hyrule?!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:43:13.637Z
->
-> 私もその辺にいます🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:41:56.587Z
->
-> During Livestream I was very curious about this icon and section 🪬
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
