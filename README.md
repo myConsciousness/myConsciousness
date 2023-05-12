@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T12:10:19.028Z
+>
+> Many new lexicons arrived, I’m so excited to try them 👀
+
+https://github.com/myConsciousness/atproto.dart/pull/363/files
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-12T04:46:14.885Z
 >
 > 是非使ってみてください！🤝
@@ -215,12 +223,6 @@ https://allcontributors.org
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:50:26.769Z
 >
 > So sad story 🥲
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T02:49:25.765Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
