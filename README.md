@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T11:41:05.359Z
+>
+> 胸熱展開
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:51:14.160Z
 >
 > たぶんまだ完璧ではないですけど、私自身このパッケージ無しではfacetを設定できなくなりそうです 😂 ありがとうございます！🙏
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:37:20.941Z
 >
 > 需要があればいけます！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:30:11.637Z
->
-> うっかりしてました🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
