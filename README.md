@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T00:00:02.545Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:13:59.001Z
 >
-> Let’s play something! 😁🤝
+> I'm beginning to see this as beautiful. This is art
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:59:25.893Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:06:51.640Z
 >
-> We sacrifice our coding time!
+> I thought I was seeing an illusion when I saw the JSON output to the console, but this is real lol
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:56:03.412Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:04:28.765Z
 >
-> I know, I was a very serious gamer before 😁🤝
+> In some ways this is great test data lol
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:55:28.287Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:02:01.531Z
 >
-> Yes I thought so! I feel these are series like Ocarina of Time and Mask of Mujra 😅
+> Look at this result of hellthread
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:50:33.587Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T00:13:13.175Z
 >
-> I have to buy a Nintendo Switch!
+> おはスコ！🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
