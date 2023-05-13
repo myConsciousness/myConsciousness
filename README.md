@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T02:56:13.790Z
+>
+> But he said he would join remotely if this shows no sign of being resolved. If this is true, they may already have a scenario in place
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T02:52:15.927Z
+>
+> Does President Biden's participation in the Hiroshima G7 summit next week mean that the US debt ceiling issue has already been resolved with the Republicans?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:27:40.665Z
 >
 > Too many to count 😂
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:06:51.640Z
 >
 > I thought I was seeing an illusion when I saw the JSON output to the console, but this is real lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:04:28.765Z
->
-> In some ways this is great test data lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:02:01.531Z
->
-> Look at this result of hellthread
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
