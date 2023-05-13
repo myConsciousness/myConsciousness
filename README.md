@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T02:56:13.790Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T04:00:08.082Z
 >
-> But he said he would join remotely if this shows no sign of being resolved. If this is true, they may already have a scenario in place
+> Welcome 😂🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T02:52:15.927Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:58:37.768Z
 >
-> Does President Biden's participation in the Hiroshima G7 summit next week mean that the US debt ceiling issue has already been resolved with the Republicans?
+> Is this the way?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:27:40.665Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:55:33.784Z
 >
-> Too many to count 😂
+> If Android could AirDrop 😭
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:13:59.001Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:54:23.843Z
 >
-> I'm beginning to see this as beautiful. This is art
+> On iOS it seems to be fixed as hide 🥲
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T01:06:51.640Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:40:31.841Z
 >
-> I thought I was seeing an illusion when I saw the JSON output to the console, but this is real lol
+> Goodbye some people 👋🥲
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
