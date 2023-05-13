@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T22:59:42.310Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T00:00:02.545Z
 >
-> おはスコ🌞
+> Let’s play something! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T22:51:01.904Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:59:25.893Z
 >
-> I stopped to count, more than 100
+> We sacrifice our coding time!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T22:46:17.754Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:56:03.412Z
 >
-> I predict that a fake will soon appear that bridges his Tweet to Bluesky lol
+> I know, I was a very serious gamer before 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T12:10:19.028Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:55:28.287Z
 >
-> Many new lexicons arrived, I’m so excited to try them 👀
-
-https://github.com/myConsciousness/atproto.dart/pull/363/files
+> Yes I thought so! I feel these are series like Ocarina of Time and Mask of Mujra 😅
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T04:46:14.885Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-12T23:50:33.587Z
 >
-> 是非使ってみてください！🤝
+> I have to buy a Nintendo Switch!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
