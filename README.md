@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T04:18:02.082Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:51:14.160Z
 >
-> I guess they use thehive.ai to classify contents :)
+> たぶんまだ完璧ではないですけど、私自身このパッケージ無しではfacetを設定できなくなりそうです 😂 ありがとうございます！🙏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T04:00:08.082Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:45:24.479Z
 >
-> Welcome 😂🤝
+> 1回あたりの作業数分でフルリモート可の超ホワイト職
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:58:37.768Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:38:43.821Z
 >
-> Is this the way?
+> よかったです！😂🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:55:33.784Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:37:20.941Z
 >
-> If Android could AirDrop 😭
+> 需要があればいけます！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T03:54:23.843Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:30:11.637Z
 >
-> On iOS it seems to be fixed as hide 🥲
+> うっかりしてました🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
