@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T11:36:14.635Z
+>
+> 🎉🎉🎉
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:53:05.255Z
 >
 > For example, I have observed several attempts to create informal record fields and create new features based on this common promise among third parties. So, they should be made easily extensible so that developers can easily test their pilot studies.
@@ -213,12 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:23:20.318Z
 >
 > おはスコ！🌞🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T11:41:05.359Z
->
-> 胸熱展開
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
