@@ -192,6 +192,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T14:45:52.511Z
+>
+> bluesky-post, which allows users to post to Bluesky from GitHub Actions, now supports image uploads :) It has also been modified to automatically extract handle and url in the text and set the link appropriately 🎉
+
+https://github.com/marketplace/actions/send-bluesky-post
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-14T11:36:14.635Z
 >
 > 🎉🎉🎉
@@ -213,12 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:26:22.098Z
 >
 > Nice 🍣
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:23:20.318Z
->
-> おはスコ！🌞🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
