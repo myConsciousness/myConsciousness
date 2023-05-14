@@ -192,33 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:53:05.255Z
+>
+> For example, I have observed several attempts to create informal record fields and create new features based on this common promise among third parties. So, they should be made easily extensible so that developers can easily test their pilot studies.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:51:09.077Z
+>
+> The difficulty with the AT Protocol and Bluesky API wrappers is that due to the flexibility of the Record, it's not possible to meet the needs of developers by creating only entity objects that wrap only the fields provided by the official Lexicon.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:26:22.098Z
+>
+> Nice 🍣
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:23:20.318Z
+>
+> おはスコ！🌞🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-13T11:41:05.359Z
 >
 > 胸熱展開
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:51:14.160Z
->
-> たぶんまだ完璧ではないですけど、私自身このパッケージ無しではfacetを設定できなくなりそうです 😂 ありがとうございます！🙏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:45:24.479Z
->
-> 1回あたりの作業数分でフルリモート可の超ホワイト職
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:38:43.821Z
->
-> よかったです！😂🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-13T10:37:20.941Z
->
-> 需要があればいけます！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
