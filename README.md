@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T17:18:51.631Z
+>
+> Yay! 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-14T14:45:52.511Z
 >
 > bluesky-post, which allows users to post to Bluesky from GitHub Actions, now supports image uploads :) It has also been modified to automatically extract handle and url in the text and set the link appropriately 🎉
@@ -215,12 +221,6 @@ https://github.com/marketplace/actions/send-bluesky-post
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:51:09.077Z
 >
 > The difficulty with the AT Protocol and Bluesky API wrappers is that due to the flexibility of the Record, it's not possible to meet the needs of developers by creating only entity objects that wrap only the fields provided by the official Lexicon.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:26:22.098Z
->
-> Nice 🍣
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
