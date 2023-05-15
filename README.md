@@ -192,35 +192,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T17:18:51.631Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T01:23:30.374Z
 >
-> Yay! 😁🤝
+> Yo 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T14:45:52.511Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T01:10:56.394Z
 >
-> bluesky-post, which allows users to post to Bluesky from GitHub Actions, now supports image uploads :) It has also been modified to automatically extract handle and url in the text and set the link appropriately 🎉
-
-https://github.com/marketplace/actions/send-bluesky-post
+> おはスコ！🌞🍄
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T11:36:14.635Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T00:31:08.226Z
 >
-> 🎉🎉🎉
+> This is the way
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:53:05.255Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T00:23:41.284Z
 >
-> For example, I have observed several attempts to create informal record fields and create new features based on this common promise among third parties. So, they should be made easily extensible so that developers can easily test their pilot studies.
+> おはスコ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-14T00:51:09.077Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T00:20:39.576Z
 >
-> The difficulty with the AT Protocol and Bluesky API wrappers is that due to the flexibility of the Record, it's not possible to meet the needs of developers by creating only entity objects that wrap only the fields provided by the official Lexicon.
+> Hi there, good morning! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
