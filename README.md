@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T22:56:59.595Z
+>
+> おはスコでスカイ🌞
+
+---
+
 > Starry Night @starrynight.bsky.social 2023-05-15T14:18:38.635Z
 >
 > This app wouldn't be possible without the amazing Dart/Flutter package by @shinyakato.dev. Thanks gazillion for the fantastic work!
@@ -215,12 +221,6 @@ https://pub.dev/packages/bluesky
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-15T01:23:30.374Z
 >
 > Yo 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T01:10:56.394Z
->
-> おはスコ！🌞🍄
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
