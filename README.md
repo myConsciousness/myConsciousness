@@ -250,9 +250,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> From afar, the whole thing looks like an eagle.  A closer look at the Eagle Nebula, however, shows the bright region is actually a window into the center of a larger dark shell of dust.  Through this window, a brightly-lit workshop appears where a whole open cluster of stars is being formed.  In this cavity, tall pillars and round globules of dark dust and cold molecular gas remain where stars are still forming.  Already visible are several young bright blue stars whose light and winds are burning away and pushing back the remaining filaments and walls of gas and dust.  The Eagle emission nebula, tagged M16, lies about 6500 light years away, spans about 20 light-years, and is visible with binoculars toward the constellation of the Serpent (Serpens).  This picture involved long and deep exposures and combined three specific emitted colors emitted by sulfur (colored as yellow), hydrogen (red), and oxygen (blue).
-> ![APOD](https://apod.nasa.gov/apod/image/2305/EagleDeep_Lacroce_1080.jpg)
-> &copy; Gianni Lacroce
+> Most photographs don't adequately portray the magnificence of the Sun's corona. Seeing the corona first-hand during a total solar eclipse is unparalleled.  The human eye can adapt to see coronal features and extent that average cameras usually cannot. Welcome, however, to the digital age.  The featured image digitally combined short and long exposures taken in Exmouth, Australia that were processed to highlight faint and extended features in the corona during the total solar eclipse that occurred in April of 2023.  Clearly visible are intricate layers and glowing caustics of an ever changing mixture of hot gas and magnetic fields in the Sun's corona.  Looping prominences appear bright pink just past the Sun's edge.  Images taken seconds before and after the total eclipse show glimpses of the background Sun known as Baily's Beads and diamond ring effect.  The next total solar eclipse will cross North America in April of 2024.   Total Solar Eclipse of 2023 April Gallery: Notable Submissions to APOD
+> ![APOD](https://apod.nasa.gov/apod/image/2305/BigCorona2023_Wittich_960.jpg)
+> &copy; Reinhold Wittich
 
 ---
 <!-- APOD:END -->
