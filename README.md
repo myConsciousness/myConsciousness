@@ -192,6 +192,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T06:23:23.788Z
+>
+> おはスコ🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-16T03:40:52.230Z
 >
 > Yay! 🎉
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-16T01:45:35.313Z
 >
 > Best luck! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T01:43:44.449Z
->
-> Official web client in my browser was seemingly fixed with an error screen, but I fixed it by reloading the URL back to root. Relieved!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
