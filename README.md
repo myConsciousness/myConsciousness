@@ -192,6 +192,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Amir Shevat @amir.blue 2023-05-16T00:51:25.736Z
+>
+> Raising a glass with @pfrazee.com - to Bluesky🦋to building a product that people love, to an awesome community, and to you all 💙🍸
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T00:01:09.943Z
+>
+> This is the way 🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:26:50.045Z
 >
 > Throwback Saturday
@@ -207,18 +219,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:22:31.593Z
 >
 > Thx, you too! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:20:12.524Z
->
-> Let’s try 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:19:34.222Z
->
-> Nice hat
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
