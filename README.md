@@ -192,33 +192,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Amir Shevat @amir.blue 2023-05-16T00:51:25.736Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T02:11:53.510Z
 >
-> Raising a glass with @pfrazee.com - to Bluesky🦋to building a product that people love, to an awesome community, and to you all 💙🍸
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T00:01:09.943Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T02:02:34.188Z
 >
-> This is the way 🌞
+> What I broke in Bluesky:
+
+1. Cursors (following, followers, etc...)
+2. Mute lists 🆕
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:26:50.045Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T01:45:35.313Z
 >
-> Throwback Saturday
+> Best luck! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:22:54.494Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T01:43:44.449Z
 >
-> Exactly! 😂🤝
+> Official web client in my browser was seemingly fixed with an error screen, but I fixed it by reloading the URL back to root. Relieved!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-15T23:22:31.593Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T01:37:12.162Z
 >
-> Thx, you too! 😁🤝
+> cc: @pfrazee.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
