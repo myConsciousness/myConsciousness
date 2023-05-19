@@ -193,36 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T06:23:23.788Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T14:51:58.188Z
 >
-> おはスコ🌞
+> Let's try! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T03:40:52.230Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T14:11:21.344Z
 >
-> Yay! 🎉
+> #SkyBridge is also a great Dart project. I have not seen many server-side implementations using Dart Frog and I'm very excited about its future development :)
+
+https://github.com/videah/SkyBridge
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T02:11:53.510Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:56:27.048Z
 >
->
+> I use several third parties developed by people by using my packages and I feel that I have more to learn. This is a wonderful emergent effect. The #SkyFeed hashtag was particularly surprising :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T02:02:34.188Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:50:59.244Z
 >
-> What I broke in Bluesky:
-
-1. Cursors (following, followers, etc...)
-2. Mute lists 🆕
+> It's almost 23:00 in Japan! We're almost sleeping 😪
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-16T01:45:35.313Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:46:07.910Z
 >
-> Best luck! 🤝
+> Good morning Col! 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -251,9 +250,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Most photographs don't adequately portray the magnificence of the Sun's corona. Seeing the corona first-hand during a total solar eclipse is unparalleled.  The human eye can adapt to see coronal features and extent that average cameras usually cannot. Welcome, however, to the digital age.  The featured image digitally combined short and long exposures taken in Exmouth, Australia that were processed to highlight faint and extended features in the corona during the total solar eclipse that occurred in April of 2023.  Clearly visible are intricate layers and glowing caustics of an ever changing mixture of hot gas and magnetic fields in the Sun's corona.  Looping prominences appear bright pink just past the Sun's edge.  Images taken seconds before and after the total eclipse show glimpses of the background Sun known as Baily's Beads and diamond ring effect.  The next total solar eclipse will cross North America in April of 2024.   Total Solar Eclipse of 2023 April Gallery: Notable Submissions to APOD
-> ![APOD](https://apod.nasa.gov/apod/image/2305/BigCorona2023_Wittich_960.jpg)
-> &copy; Reinhold Wittich
+> Made with narrowband filters, this cosmic snapshot covers a field of view about the size of the full Moon within the boundaries of the constellation Cygnus. It highlights the bright edge of a ring-like nebula traced by the glow of ionized sulfur, hydrogen, and oxygen gas. Embedded in the region's interstellar clouds of gas and dust, the complex, glowing arcs are sections of bubbles or shells of material swept up by the wind from Wolf-Rayet star WR 134, brightest star near the center of the frame. Distance estimates put WR 134 about 6,000 light-years away, making the frame over 50 light-years across. Shedding their outer envelopes in powerful stellar winds, massive Wolf-Rayet stars have burned through their nuclear fuel at a prodigious rate and end this final phase of massive star evolution in a spectacular supernova explosion. The stellar winds and final supernovae enrich the interstellar material with heavy elements to be incorporated in future generations of stars.
+> ![APOD](https://apod.nasa.gov/apod/image/2305/WR134SHO_1024.jpg)
+> &copy; Craig Stocks
 
 ---
 <!-- APOD:END -->
