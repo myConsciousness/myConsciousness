@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T03:23:18.056Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T12:46:32.606Z
 >
-> I’m also very curious
+> 🌞🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T14:51:58.188Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T12:46:21.625Z
 >
-> Let's try! 🤝
+> I like your t-shirt of hunter hunter btw
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T14:11:21.344Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T12:44:41.338Z
 >
-> #SkyBridge is also a great Dart project. I have not seen many server-side implementations using Dart Frog and I'm very excited about its future development :)
-
-https://github.com/videah/SkyBridge
+> He unfollowed too much at a moment
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:56:27.048Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T12:43:16.396Z
 >
-> I use several third parties developed by people by using my packages and I feel that I have more to learn. This is a wonderful emergent effect. The #SkyFeed hashtag was particularly surprising :)
+> Are you from art school? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:50:59.244Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T12:42:07.360Z
 >
-> It's almost 23:00 in Japan! We're almost sleeping 😪
+> Vibes, simply vibes 🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
