@@ -2,10 +2,11 @@
 
 <!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->
 
+<!--
 🤖 **Fun fact 1**: I'm currently [the 8th most active GitHub committer in Japan](https://commits.top/japan.html).</br>
 🤖 **Fun fact 2**: I'm currently rated as [the 9th most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).
-
+-->
 <!-- MY-RANK-IN-GITHUB:END -->
 
 If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Bluesky Social](https://staging.bsky.app/profile/shinyakato.dev).
@@ -206,7 +207,7 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-16T02:11:53.510Z
 >
-> 
+>
 
 ---
 
