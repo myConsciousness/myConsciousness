@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T22:58:06.770Z
+>
+> Nice consensus
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T22:48:05.241Z
+>
+> Hi :) It represents the Union type of updates. Now there are 5 types in this output, so you need to handle response with ‘t’ field.
+
+https://github.com/bluesky-social/atproto/blob/8059e07d8a48cebf245f0a8506ce7246d0668c42/lexicons/com/atproto/sync/subscribeRepos.json#L19
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-19T17:33:39.644Z
 >
 > Nice party size 😏
@@ -208,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-19T16:59:41.641Z
 >
 > Thanks and well said! The root of all evil is numbers (like followings & followers). If we could hide numbers from other people's profiles, most problems would be solved. And I feel, it’s up to the individual to decide how many people he/she is interested in following and should not be restricted :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T16:49:35.101Z
->
-> It was very easy, happy Friday! 😁🍻
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T16:48:54.305Z
->
-> I’m always with you all in Bluesky 😁🤝 Well, there are very few fatal spam accounts as far as I can see. Most of them were simply enjoying the growth of the community. But somehow there are people in the world who just want to block people for whatever reason, we can’t help it 🤷‍♂️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
