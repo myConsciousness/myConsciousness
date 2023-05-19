@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T03:23:18.056Z
+>
+> I’m also very curious
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-18T14:51:58.188Z
 >
 > Let's try! 🤝
@@ -216,12 +222,6 @@ https://github.com/videah/SkyBridge
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:50:59.244Z
 >
 > It's almost 23:00 in Japan! We're almost sleeping 😪
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-18T13:46:07.910Z
->
-> Good morning Col! 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
