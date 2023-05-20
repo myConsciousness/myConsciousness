@@ -193,37 +193,42 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:51:26.638Z
+>
+> The effects of global warming are more severe under the sea than on the ground
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:48:19.342Z
+>
+> Congrats! 🎉🎉🎉
+
+---
+
+> Nick † Wright @nickwrightdata.bsky.social 2023-05-20T12:44:05.038Z
+>
+> I finally--FINALLY--got the min-code Bluesky Firehose working in Python.
+
+Much thanks to these wonderful people for their help--and anyone else I annoyingly forgot to mention!
+
+@shinyakato.dev
+@m3ta.uk
+@righto.com 
+@pfrazee.com
+
+Now to move on to the trend analysis phase of this project...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:09:18.097Z
+>
+> 私の中ではKlearskyがNo.1 Webクライアントです🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:29:27.143Z
 >
 > This is the way! 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:28:47.732Z
->
-> 前々からですけど、ところどころ状態管理の実装が甘い感じがしますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:26:17.743Z
->
-> Zennに記事を投稿しました。This article is in Japanese only, but I will  write in English too :)
-
-GitHub ActionsからBluesky Socialへ簡単にポストする｜加藤 真也 
-
-https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T02:46:20.938Z
->
-> ちなみに私のGitHubアカウント名がmyConsciousnessなのは脳神経科学での意識研究に夢中になってた頃に作ったからで、特に深い意味はありません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T02:15:07.211Z
->
-> 神話も今では国ごとに物語が違いますけど、名前が違うだけで別聖典の同じ神を指していたりと古の時代には共通の原典があったと考えると胸熱ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
