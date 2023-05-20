@@ -193,6 +193,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:29:27.143Z
+>
+> This is the way! 🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:28:47.732Z
+>
+> 前々からですけど、ところどころ状態管理の実装が甘い感じがしますね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:26:17.743Z
+>
+> Zennに記事を投稿しました。This article is in Japanese only, but I will  write in English too :)
+
+GitHub ActionsからBluesky Socialへ簡単にポストする｜加藤 真也 
+
+https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-20T02:46:20.938Z
 >
 > ちなみに私のGitHubアカウント名がmyConsciousnessなのは脳神経科学での意識研究に夢中になってた頃に作ったからで、特に深い意味はありません
@@ -204,24 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 神話も今では国ごとに物語が違いますけど、名前が違うだけで別聖典の同じ神を指していたりと古の時代には共通の原典があったと考えると胸熱ですね
 
 ---
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T02:03:25.376Z
->
-> いろいろな自然言語に触れてると言語が違っても単語や文法に共通点があったりして面白いんだよね。学術的には比較言語学の研究分野で、言語から異なる国や民族の歴史や文化の親縁性が見えてくる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:50:43.487Z
->
-> 慣れない間は発音が間違ってたり単語の意味がわからなくてもいいので、長すぎない文章を繰り返し声に出して読むことが重要ですね。その文章を辞書などを見なくても読みながら内容を理解できて情景をイメージできたら次の文章に移るみたいな感じです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:34:25.630Z
->
-> Welcome to the new world! 😁🤝
-
----
 <!-- MY-BSKY_TIMELINE:END -->
 
 </details>
@@ -230,11 +234,11 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
+- 🖌 [GitHub ActionsからBluesky Socialへ簡単にポストする](https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions) (2023-05-20)
 - 💙 [bluesky_cliでコマンドラインから簡単にBluesky SocialのAPIを叩く](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-cli) (2023-04-04)
 - 💙 [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
 - 💙 [分散型SNSの大本命「Bluesky」をさっそく試してみた](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-social) (2023-03-07)
 - 📙 [【Dart/Flutter】httpパッケージを使ってMultipart形式のリクエストを送る](https://zenn.dev/kato_shinya/articles/how-to-send-multipart-request-with-dart) (2023-02-28)
-- 🤔 [公開した自作OSSを有名にしたいすべてのOSS開発者が実践すべきこと](https://zenn.dev/kato_shinya/articles/why-your-packages-are-not-popular) (2022-11-13)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
