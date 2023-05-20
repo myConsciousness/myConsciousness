@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T22:58:06.770Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:52:53.972Z
 >
-> Nice consensus
+> We need to wait for more details :)
+
+https://www.bloomberg.com/news/articles/2023-05-19/instagram-readies-twitter-competitor-for-summer-release?in_source=embedded-checkout-banner
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T22:48:05.241Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:51:12.893Z
 >
-> Hi :) It represents the Union type of updates. Now there are 5 types in this output, so you need to handle response with ‘t’ field.
-
-https://github.com/bluesky-social/atproto/blob/8059e07d8a48cebf245f0a8506ce7246d0668c42/lexicons/com/atproto/sync/subscribeRepos.json#L19
+> おはスコ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T17:33:39.644Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:49:34.449Z
 >
-> Nice party size 😏
+> Sleeping
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T17:20:29.232Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:43:42.509Z
 >
-> When I’m in a meeting listening to my boss talk
+> Bluesky Max
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T16:59:41.641Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:29:03.293Z
 >
-> Thanks and well said! The root of all evil is numbers (like followings & followers). If we could hide numbers from other people's profiles, most problems would be solved. And I feel, it’s up to the individual to decide how many people he/she is interested in following and should not be restricted :)
+> atproto is just not an option because it’s still a “WIP”. I have no doubt that atproto will take a large share of the market in the future once it becomes stable.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
