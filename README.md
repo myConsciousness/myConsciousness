@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:52:53.972Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:23:56.305Z
 >
-> We need to wait for more details :)
-
-https://www.bloomberg.com/news/articles/2023-05-19/instagram-readies-twitter-competitor-for-summer-release?in_source=embedded-checkout-banner
+> Then this is what you’re looking for 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:51:12.893Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:22:26.436Z
 >
-> おはスコ🌞
+> スラングやmemeはその言語圏の文化をある程度知らないとわからなかったりしますね。ネイティブの人とコミュニケーションしていく中で、「あれってこういう意味だったのか」みたいなのは結構あります
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:49:34.449Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:18:20.123Z
 >
-> Sleeping
+> Are you using official mobile/web app? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:43:42.509Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:16:03.230Z
 >
-> Bluesky Max
+> lol precisamos de muito tempo
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-19T23:29:03.293Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:08:42.440Z
 >
-> atproto is just not an option because it’s still a “WIP”. I have no doubt that atproto will take a large share of the market in the future once it becomes stable.
+> 私は英語以外だとちょっとした日常的な会話くらいならあと5ヶ国語は翻訳なしで理解できるんだけど、外国語は頭の中で変に日本語に変換しないで理解するのが上達のコツだと思う。あと文法や活用は印欧語だとだいたい似てるから勘
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
