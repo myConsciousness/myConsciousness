@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T02:03:25.376Z
+>
+> いろいろな自然言語に触れてると言語が違っても単語や文法に共通点があったりして面白いんだよね。学術的には比較言語学の研究分野で、言語から異なる国や民族の歴史や文化の親縁性が見えてくる
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:50:43.487Z
+>
+> 慣れない間は発音が間違ってたり単語の意味がわからなくてもいいので、長すぎない文章を繰り返し声に出して読むことが重要ですね。その文章を辞書などを見なくても読みながら内容を理解できて情景をイメージできたら次の文章に移るみたいな感じです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:34:25.630Z
+>
+> Welcome to the new world! 😁🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:32:32.275Z
+>
+> どの言語でも”I like/have/want (+ to) ~”みたいな人になにかを伝える時に必須のフレーズを覚えてしまうと、あとはいかに名詞を知ってるかのゲームになりますね。あとは慣れてきた段階で接続詞とかで言葉を繋げられるようになると表現の幅が広がります
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:23:56.305Z
 >
 > Then this is what you’re looking for 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:22:26.436Z
->
-> スラングやmemeはその言語圏の文化をある程度知らないとわからなかったりしますね。ネイティブの人とコミュニケーションしていく中で、「あれってこういう意味だったのか」みたいなのは結構あります
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:18:20.123Z
->
-> Are you using official mobile/web app? 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:16:03.230Z
->
-> lol precisamos de muito tempo
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T01:08:42.440Z
->
-> 私は英語以外だとちょっとした日常的な会話くらいならあと5ヶ国語は翻訳なしで理解できるんだけど、外国語は頭の中で変に日本語に変換しないで理解するのが上達のコツだと思う。あと文法や活用は印欧語だとだいたい似てるから勘
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
