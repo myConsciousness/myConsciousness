@@ -193,6 +193,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:59:34.376Z
+>
+> I’ll try new endpoints of feed generator tomorrow 
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getFeedSkeleton.json
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:56:01.148Z
+>
+> replyRef in app.bsky.feed.defs was changed to union
+
+https://github.com/bluesky-social/atproto/blob/8059e07d8a48cebf245f0a8506ce7246d0668c42/lexicons/app/bsky/feed/defs.json#L53
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:49:03.147Z
+>
+> So many new lexicons arrived
+
+https://github.com/myConsciousness/atproto.dart/pull/423/files
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:51:26.638Z
 >
 > The effects of global warming are more severe under the sea than on the ground
@@ -202,33 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:48:19.342Z
 >
 > Congrats! 🎉🎉🎉
-
----
-
-> Nick † Wright @nickwrightdata.bsky.social 2023-05-20T12:44:05.038Z
->
-> I finally--FINALLY--got the min-code Bluesky Firehose working in Python.
-
-Much thanks to these wonderful people for their help--and anyone else I annoyingly forgot to mention!
-
-@shinyakato.dev
-@m3ta.uk
-@righto.com 
-@pfrazee.com
-
-Now to move on to the trend analysis phase of this project...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:09:18.097Z
->
-> 私の中ではKlearskyがNo.1 Webクライアントです🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T11:29:27.143Z
->
-> This is the way! 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
