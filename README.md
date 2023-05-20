@@ -193,39 +193,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:34:46.297Z
+>
+> Very curious about savedFeedsPref 
+
+https://github.com/bluesky-social/atproto/blob/8059e07d8a48cebf245f0a8506ce7246d0668c42/lexicons/app/bsky/actor/defs.json#L116
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:24:52.366Z
+>
+> Yes! It will be difficult to follow their updates unless you have automatic daily extraction of Lexicon diffs, as I do 🫠
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:10:42.206Z
+>
+> I have been implementing new AT Protocol and Bluesky endpoints in my packages every day recently. Isn't that an amazing dev speed?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:08:01.107Z
+>
+> Thanks for guide!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:59:34.376Z
 >
 > I’ll try new endpoints of feed generator tomorrow 
 
 https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getFeedSkeleton.json
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:56:01.148Z
->
-> replyRef in app.bsky.feed.defs was changed to union
-
-https://github.com/bluesky-social/atproto/blob/8059e07d8a48cebf245f0a8506ce7246d0668c42/lexicons/app/bsky/feed/defs.json#L53
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:49:03.147Z
->
-> So many new lexicons arrived
-
-https://github.com/myConsciousness/atproto.dart/pull/423/files
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:51:26.638Z
->
-> The effects of global warming are more severe under the sea than on the ground
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T12:48:19.342Z
->
-> Congrats! 🎉🎉🎉
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
