@@ -250,9 +250,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. What kind of life could thrive in a deep, dark, subsurface ocean? Consider planet Earth's own extreme shrimp.
-> ![APOD](https://apod.nasa.gov/apod/image/2305/PIA19048europa1024.jpg)
-
+> Is this an alien?  Probably not, but of all the animals on Earth, the tardigrade might be the best candidate. That's because tardigrades are known to be able to go for decades without food or water, to survive temperatures from near absolute zero to well above the boiling point of water, to survive pressures from near zero to well above that on ocean floors, and to survive direct exposure to dangerous radiations.  The far-ranging survivability of these extremophiles was tested in 2011 outside an orbiting space shuttle. Tardigrades are so durable partly because they can repair their own DNA and reduce their body water content to a few percent. Some of these miniature water-bears almost became  extraterrestrials in 2011 when they were launched toward to the Martian moon Phobos, and again in 2021 when they were launched toward Earth's own moon, but the former launch failed, and the latter landing crashed. Tardigrades are more common than humans across most of the Earth. Pictured here in a color-enhanced electron micrograph, a millimeter-long tardigrade crawls on moss.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)
+> ![APOD](https://apod.nasa.gov/apod/image/2305/tardigrade_eyeofscience_960.jpg)
+> &copy; Science Source Images
 
 ---
 <!-- APOD:END -->
