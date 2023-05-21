@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T05:36:09.646Z
+>
+> Very good day for a walk
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T05:21:21.269Z
+>
+> Thx! My packages are designed to be easy and safe to use even if you’re not familiar with Dart :) If you’re considering to develop BOTs or cross-platform apps with Dart/Flutter, then this is suitable choice! Also I can support 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T02:09:31.475Z
 >
 > I have released the latest build of the Bluesky package for Dart/Flutter :) The official Lexicon “app.bsky.feed.defs#replyRef” has been changed to union, so I have also changed the Reply object field in this package to union.
@@ -210,18 +222,6 @@ https://pub.dev/packages/bluesky
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T01:23:30.125Z
 >
 > Care must be taken when implementing Union in app.bsky.feed.defs#replyRef in your app. Post data to which this Lexicon change has been applied has a type field set like "app.bsky.feed.defs#postView", but Post data before the change was applied does not have a type field set
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:48:02.105Z
->
-> I was very curious about this new feature
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:46:04.999Z
->
-> Good morning there! 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
