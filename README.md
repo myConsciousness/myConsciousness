@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T02:09:31.475Z
+>
+> I have released the latest build of the Bluesky package for Dart/Flutter :) The official Lexicon “app.bsky.feed.defs#replyRef” has been changed to union, so I have also changed the Reply object field in this package to union.
+
+https://pub.dev/packages/bluesky
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T01:29:34.075Z
+>
+> I forgot how to use birdapp, goal
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T01:23:30.125Z
 >
 > Care must be taken when implementing Union in app.bsky.feed.defs#replyRef in your app. Post data to which this Lexicon change has been applied has a type field set like "app.bsky.feed.defs#postView", but Post data before the change was applied does not have a type field set
@@ -208,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:46:04.999Z
 >
 > Good morning there! 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:33:03.910Z
->
-> おはスコでスカイ！🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:32:17.800Z
->
-> Yes, I first thought this was a feature like pinned Tweet in birdapp, but then I realized the parameter type is an array and realized it was a whole new feature
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
