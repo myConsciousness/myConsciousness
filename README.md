@@ -193,37 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:34:46.297Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T01:23:30.125Z
 >
-> Very curious about savedFeedsPref 
-
-https://github.com/bluesky-social/atproto/blob/8059e07d8a48cebf245f0a8506ce7246d0668c42/lexicons/app/bsky/actor/defs.json#L116
+> Care must be taken when implementing Union in app.bsky.feed.defs#replyRef in your app. Post data to which this Lexicon change has been applied has a type field set like "app.bsky.feed.defs#postView", but Post data before the change was applied does not have a type field set
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:24:52.366Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:48:02.105Z
 >
-> Yes! It will be difficult to follow their updates unless you have automatic daily extraction of Lexicon diffs, as I do 🫠
+> I was very curious about this new feature
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:10:42.206Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:46:04.999Z
 >
-> I have been implementing new AT Protocol and Bluesky endpoints in my packages every day recently. Isn't that an amazing dev speed?
+> Good morning there! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T16:08:01.107Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:33:03.910Z
 >
-> Thanks for guide!
+> おはスコでスカイ！🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-20T15:59:34.376Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T00:32:17.800Z
 >
-> I’ll try new endpoints of feed generator tomorrow 
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/app/bsky/feed/getFeedSkeleton.json
+> Yes, I first thought this was a feature like pinned Tweet in birdapp, but then I realized the parameter type is an array and realized it was a whole new feature
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
