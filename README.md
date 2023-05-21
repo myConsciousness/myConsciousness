@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T21:40:12.062Z
+>
+> On the contrary, there is no reason why you should not if you’re interested in people, not just numbers
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T13:46:59.247Z
 >
 > YES WE ARE
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T11:42:06.327Z
 >
 > Thx! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T11:41:57.227Z
->
-> He loves to run in this place 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
