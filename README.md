@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T05:36:09.646Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T10:59:55.191Z
 >
-> Very good day for a walk
+> This is our Hyrule! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T05:21:21.269Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T10:57:52.711Z
 >
-> Thx! My packages are designed to be easy and safe to use even if you’re not familiar with Dart :) If you’re considering to develop BOTs or cross-platform apps with Dart/Flutter, then this is suitable choice! Also I can support 😁
+> Yea it is! 🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T02:09:31.475Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T10:52:51.641Z
 >
-> I have released the latest build of the Bluesky package for Dart/Flutter :) The official Lexicon “app.bsky.feed.defs#replyRef” has been changed to union, so I have also changed the Reply object field in this package to union.
-
-https://pub.dev/packages/bluesky
+> Good day
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T01:29:34.075Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T10:28:08.861Z
 >
-> I forgot how to use birdapp, goal
+> He is preparing 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T01:23:30.125Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T10:27:12.948Z
 >
-> Care must be taken when implementing Union in app.bsky.feed.defs#replyRef in your app. Post data to which this Lexicon change has been applied has a type field set like "app.bsky.feed.defs#postView", but Post data before the change was applied does not have a type field set
+> I hope he/she had a sweet dream 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
