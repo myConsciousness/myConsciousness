@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T12:55:01.410Z
+>
+> I would like to create a list for “Silicon Valley Insiders”, it will be my favorite algo
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T11:42:06.327Z
 >
 > Thx! 😁
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-21T11:41:15.753Z
 >
 > Bom dia! 🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T10:59:55.191Z
->
-> This is our Hyrule! 🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
