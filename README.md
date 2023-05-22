@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T11:08:57.744Z
+>
+> Thanks, I’m going to try to implement it in my package too! 😎
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-22T09:00:08.339Z
 >
 > Hi there!
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:47:51.225Z
 >
 > #SkyFeed seems to have implemented custom feed first
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:46:18.453Z
->
-> I will release the latest build of bluesky, a Dart/Flutter package with custom Feed support as early as tonight.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
