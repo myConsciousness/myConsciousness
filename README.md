@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T15:30:05.207Z
+>
+> Oops, the red frame in the Preference image seems to have shifted🥲 “savedFeeds” field has been added 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T15:20:47.180Z
+>
+> I have released the latest build of the bluesky package for Dart/Flutter :) This release supports new many endpoints for feed service, and making it easy to use custom feeds in your app 🚀
+
+https://pub.dev/packages/bluesky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-22T12:06:40.743Z
 >
 > You try custom feed in skyfeed.app
@@ -208,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-22T09:00:08.339Z
 >
 > Hi there!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:59:49.440Z
->
-> May need to implement CAR Reader in Dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:55:42.640Z
->
-> This is my first post from #SkyFeed
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
