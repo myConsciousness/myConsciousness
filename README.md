@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T23:47:26.531Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T09:00:08.339Z
 >
-> No, the border of Aichi and Nagano 😄
+> Hi there!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T23:46:41.300Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:59:49.440Z
 >
-> Hi Mike! Thx and please try them, my packages will surely help you in your application development! 🤝
+> May need to implement CAR Reader in Dart
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T21:40:12.062Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:55:42.640Z
 >
-> On the contrary, there is no reason why you should not if you’re interested in people, not just numbers
+> This is my first post from #SkyFeed
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T13:46:59.247Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:47:51.225Z
 >
-> YES WE ARE
+> #SkyFeed seems to have implemented custom feed first
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-21T13:17:25.485Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T08:46:18.453Z
 >
-> btw this is an old meme
+> I will release the latest build of bluesky, a Dart/Flutter package with custom Feed support as early as tonight.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
