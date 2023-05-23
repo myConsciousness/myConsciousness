@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T12:51:05.022Z
+>
+> What is this? Art?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T12:05:10.691Z
+>
+> 久しぶりにTwitter使うとUI操作時の快適さはやはり段違いだな
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:58:47.389Z
 >
 > Twitterで「bluesky 招待コード」で検索するとブルスコメンバー集結してるの草
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:36:08.099Z
 >
 > I’m sure! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:34:35.110Z
->
-> This is great! Do not make Bluesky a birdapp, that place is hell on earth 🫠
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:30:25.722Z
->
-> Searching on birdapp, it seems that there are more people giving away Bluesky invitation codes than people wanting them
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
