@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T06:59:58.012Z
+>
+> 個人情報保護の難しさは国ごとに保護対象が違うことで、自分の国で最良の対策が他の厳しい国だとアウトというのがあるから大変よ
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T06:54:05.675Z
+>
+> GDPRほどの厳しさはないので、日本基準でいくと穴にはまります
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T06:52:46.934Z
+>
+> ただEUのGDPRほど保護対象が厳しくない部分もありますね。日本の改正個人情報保護法だとIPアドレスや電話番号はあつかいがやや曖昧です
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T06:31:31.774Z
+>
+> 主要先進国向けにちょっとしたアプリを出す時にはEUのGDPR対応と米国のCOPPA対応が必須なのよね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-22T23:23:31.365Z
 >
 > And I was hospitalized once 🥹
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T23:15:56.848Z
->
-> They love the lawn
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T23:09:37.039Z
->
-> I haven't tried it yet, but as far as PDS and API specs go, video and audio media should already be uploadable. Assuming uploading is possible, we just need to fetch it and client to display it :) Perhaps a third party could implement it first if it’s not a high priority in the official
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T15:30:05.207Z
->
-> Oops, the red frame in the Preference image seems to have shifted🥲 “savedFeeds” field has been added 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T15:20:47.180Z
->
-> I have released the latest build of the bluesky package for Dart/Flutter :) This release supports new many endpoints for feed service, and making it easy to use custom feeds in your app 🚀
-
-https://pub.dev/packages/bluesky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
