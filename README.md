@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T23:23:31.365Z
+>
+> And I was hospitalized once 🥹
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T23:15:56.848Z
+>
+> They love the lawn
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T23:09:37.039Z
+>
+> I haven't tried it yet, but as far as PDS and API specs go, video and audio media should already be uploadable. Assuming uploading is possible, we just need to fetch it and client to display it :) Perhaps a third party could implement it first if it’s not a high priority in the official
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-22T15:30:05.207Z
 >
 > Oops, the red frame in the Preference image seems to have shifted🥲 “savedFeeds” field has been added 😂
@@ -204,24 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have released the latest build of the bluesky package for Dart/Flutter :) This release supports new many endpoints for feed service, and making it easy to use custom feeds in your app 🚀
 
 https://pub.dev/packages/bluesky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T12:06:40.743Z
->
-> You try custom feed in skyfeed.app
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T11:08:57.744Z
->
-> Thanks, I’m going to try to implement it in my package too! 😎
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-22T09:00:08.339Z
->
-> Hi there!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -250,7 +250,7 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> A nearby star has exploded and humanity's telescopes are turning to monitor it.  The supernova, dubbed SN 2023ifx, was discovered by Japanese astronomer Koichi Itagaki three days ago and subsequently located on automated images from the Zwicky Transient Facility two days earlier.  SN 2023ifx occurred in the photogenic Pinwheel Galaxy M101, which, being only about 21 million light years away, makes it the closest supernova seen in the past five years, the second closest in the past 10 years, and the second supernova found in M101 in the past 15 years.  Rapid follow up observations already indicate that SN 2023ifx is a Type II supernova, an explosion that occurs after a massive star runs out of nuclear fuel and collapses.  The featured image shows home spiral galaxy two days ago with the supernova highlighted, while the roll-over image shows the same galaxy a month before. SN 2023ifx will likely brighten and remain visible to telescopes for months.  Studying such a close and young Type II supernova may yield new clues about massive stars and how they explode.
+> A nearby star has exploded and humanity's telescopes are turning to monitor it.  The supernova, dubbed SN 2023ixf, was discovered by Japanese astronomer Koichi Itagaki three days ago and subsequently located on automated images from the Zwicky Transient Facility two days earlier.  SN 2023ixf occurred in the photogenic Pinwheel Galaxy M101, which, being only about 21 million light years away, makes it the closest supernova seen in the past five years, the second closest in the past 10 years, and the second supernova found in M101 in the past 15 years.  Rapid follow up observations already indicate that SN 2023ixf is a Type II supernova, an explosion that occurs after a massive star runs out of nuclear fuel and collapses.  The featured image shows home spiral galaxy two days ago with the supernova highlighted, while the roll-over image shows the same galaxy a month before. SN 2023ixf will likely brighten and remain visible to telescopes for months.  Studying such a close and young Type II supernova may yield new clues about massive stars and how they explode.
 > ![APOD](https://apod.nasa.gov/apod/image/2305/M101Sn_Stocks_after_960.jpg)
 > &copy; Craig Stocks
 
