@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> IPFS @ipfs.tech 2023-05-23T13:17:42.095Z
+>
+> Now that IPFS Thing is over, we are 100% focused on IPFS Camp 2023...  but we need the community’s help in selecting a location! ✈️🌴🏕️ 
+
+Share your thoughts with us here:
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T13:58:10.976Z
 >
 > That’s great! I’m going to try this what kind of thing I can build :)
@@ -214,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:58:47.389Z
 >
 > Twitterで「bluesky 招待コード」で検索するとブルスコメンバー集結してるの草
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:37:58.623Z
->
-> I’ll invite Chinese Flutter devs
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
