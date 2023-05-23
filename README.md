@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T09:57:17.025Z
+>
+> This is a trivial post on privacy protection 🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T09:46:15.112Z
+>
+> Has anyone ever created a Chrome extension in Flutter? I think it's a fairly minor field.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:33:17.663Z
 >
 > Departure? 👀
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:26:50.372Z
 >
 > BOT: "I'm your father"
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:24:35.976Z
->
-> It's rather strange that thet haven't tried it before, it's so full of possibilities
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:21:29.308Z
->
-> ChatGPTのようなAIがリアルタイムで事象を学習して応用できるようになると、いくつかの段階を飛び越えて人間の専門家を超えることは有り得そうです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
