@@ -193,35 +193,47 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> IPFS @ipfs.tech 2023-05-23T13:17:42.095Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:59:18.602Z
 >
-> Now that IPFS Thing is over, we are 100% focused on IPFS Camp 2023...  but we need the community’s help in selecting a location! ✈️🌴🏕️ 
-
-Share your thoughts with us here:
+> It's been a while since I watched Blade Runner, but I was deeply moved by the fact that the time setting is 2019
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T13:58:10.976Z
+> Jesse J. Anderson • ADHD Writer @adhdjesse.com 2023-05-23T20:54:20.446Z
 >
-> That’s great! I’m going to try this what kind of thing I can build :)
+> New version of SkyLink out!
+Discover Bluesky profiles as you browse the web.
+
+Lot of updates, including:
+
+• now uses bsky.app domain
+
+• much improved security/privacy
+(thx @sanitybit.com)
+
+• support for https domain handles
+(thx @alice.bsky.sh)
+
+👉 Chrome: skylinkchrome.com 
+👉 Firefox: skylinkff.com
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T12:51:05.022Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:13:32.544Z
 >
-> What is this? Art?
+> And well I found my generator records for testing purposes lol
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T12:05:10.691Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:05:55.220Z
 >
-> 久しぶりにTwitter使うとUI操作時の快適さはやはり段違いだな
+> And yes, it’s Flutter!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:58:47.389Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:04:48.878Z
 >
-> Twitterで「bluesky 招待コード」で検索するとブルスコメンバー集結してるの草
+> #SkyFeed may be the most advanced client
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
