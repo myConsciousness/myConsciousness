@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T13:58:10.976Z
+>
+> That’s great! I’m going to try this what kind of thing I can build :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T12:51:05.022Z
 >
 > What is this? Art?
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:37:58.623Z
 >
 > I’ll invite Chinese Flutter devs
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:36:08.099Z
->
-> I’m sure! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
