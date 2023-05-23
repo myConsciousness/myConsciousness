@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T07:47:28.954Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:33:17.663Z
 >
-> AT ProtocolにおけるOAuthがプロトコルに組み込まれるのか、それともbskyのような各サービスごとの実装になるのか少し気になってる
+> Departure? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T07:41:22.434Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:32:04.173Z
 >
-> Does the red color represent a decrease?
+> The U.S. debt ceiling issue is already an annual festive event, but this is one of the strongest negotiating cards for the opposition party in the House
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T07:31:52.285Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:26:50.372Z
 >
-> 独自のPDSが出てきた際にやらかす運営者が出てくるような気もしています
+> BOT: "I'm your father"
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T07:25:02.497Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:24:35.976Z
 >
-> なにか問題があった際に運営側も困るので、発信者情報をいきなり物理削除は選択肢としてない気がしますね
+> It's rather strange that thet haven't tried it before, it's so full of possibilities
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T07:17:21.473Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:21:29.308Z
 >
-> 欧州貴族の懐ですかね…
+> ChatGPTのようなAIがリアルタイムで事象を学習して応用できるようになると、いくつかの段階を飛び越えて人間の専門家を超えることは有り得そうです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
