@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T09:57:17.025Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:58:47.389Z
 >
-> This is a trivial post on privacy protection 🌞
+> Twitterで「bluesky 招待コード」で検索するとブルスコメンバー集結してるの草
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T09:46:15.112Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:37:58.623Z
 >
-> Has anyone ever created a Chrome extension in Flutter? I think it's a fairly minor field.
+> I’ll invite Chinese Flutter devs
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:33:17.663Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:36:08.099Z
 >
-> Departure? 👀
+> I’m sure! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:32:04.173Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:34:35.110Z
 >
-> The U.S. debt ceiling issue is already an annual festive event, but this is one of the strongest negotiating cards for the opposition party in the House
+> This is great! Do not make Bluesky a birdapp, that place is hell on earth 🫠
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T08:26:50.372Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T11:30:25.722Z
 >
-> BOT: "I'm your father"
+> Searching on birdapp, it seems that there are more people giving away Bluesky invitation codes than people wanting them
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
