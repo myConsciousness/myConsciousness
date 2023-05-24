@@ -193,47 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T12:38:02.101Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:59:46.669Z
 >
-> 会社員の頃仕事帰りに上司たちに連れられてよく歌舞伎町に行ってたけど、なにをしたのかガルバっぽい店から引っ張り出されて複数人に蹴られてる客を見た時にこの世の地獄を見た気がした
+> I've invited some GitHub staff, so fingers crossed that they'll make the Bluesky icon on GitHub's social links look cool
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T01:06:56.350Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:37:46.868Z
 >
-> @vqv.app
+> It's black magic of Google
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:59:18.602Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:36:53.844Z
 >
-> It's been a while since I watched Blade Runner, but I was deeply moved by the fact that the time setting is 2019
+> You did a good job of expressing the parts I could not verbalize, thx! 🤝
 
 ---
 
-> Jesse J. Anderson • ADHD Writer @adhdjesse.com 2023-05-23T20:54:20.446Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:26:58.444Z
 >
-> New version of SkyLink out!
-Discover Bluesky profiles as you browse the web.
-
-Lot of updates, including:
-
-• now uses bsky.app domain
-
-• much improved security/privacy
-(thx @sanitybit.com)
-
-• support for https domain handles
-(thx @alice.bsky.sh)
-
-👉 Chrome: skylinkchrome.com 
-👉 Firefox: skylinkff.com
+> The SEO issue with Flutter is indeed true 🤔  But since the developer is Google, it's hard to imagine that they would leave their strong point as a problem. Hopefully they have some solutions!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:13:32.544Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:22:56.496Z
 >
-> And well I found my generator records for testing purposes lol
+> Flutter will still have room for performance optimization, fingers crossed that Google's wizardry will fix everything at compile time
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
