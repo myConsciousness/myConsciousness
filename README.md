@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T12:38:02.101Z
+>
+> 会社員の頃仕事帰りに上司たちに連れられてよく歌舞伎町に行ってたけど、なにをしたのかガルバっぽい店から引っ張り出されて複数人に蹴られてる客を見た時にこの世の地獄を見た気がした
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-24T01:06:56.350Z
 >
 > @vqv.app
@@ -228,12 +234,6 @@ Lot of updates, including:
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:13:32.544Z
 >
 > And well I found my generator records for testing purposes lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:05:55.220Z
->
-> And yes, it’s Flutter!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
