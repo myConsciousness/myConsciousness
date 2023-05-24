@@ -262,9 +262,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Big storms are different on Jupiter. On Earth, huge hurricanes and colossal cyclones are centered on regions of low pressure, but on Jupiter, it is the high-pressure, anti-cyclone storms that are the largest. On Earth, large storms can last weeks, but on Jupiter they can last years. On Earth, large storms can be as large as a country, but on Jupiter, large storms can be as large as planet Earth. Both types of storms are known to exhibit lightning. The featured image of Jupiter's clouds was composed from images and data captured by the robotic Juno spacecraft as it swooped close to the massive planet in August 2020.  A swirling white oval is visible nearby, while numerous smaller cloud swirls extend into the distance.  On Jupiter, light-colored clouds are usually higher up than dark clouds. Despite their differences, studying storm clouds on distant Jupiter provides insights into storms and other weather patterns on familiar Earth.     Surf the Universe: Random APOD Generator
-> ![APOD](https://apod.nasa.gov/apod/image/2305/JupiterSwirls_JunoGill_960.jpg)
-
+> Sometimes we witness the Moon moving directly in front of -- called occulting -- one of the planets in our Solar System. Earlier this month that planet was Jupiter.  Captured here was the moment when Jupiter re-appeared from behind the surface of our Moon. The Moon was in its third quarter, two days before the dark New Moon. Now, our Moon is continuously half lit by the Sun, but when in its third quarter, relatively little of that half can be seen from the Earth. Pictured, the Moon itself was aligned behind the famous Lick Observatory in California, USA, on the summit of Mount Hamilton. Coincidentally, Lick enabled the discovery of a moon of Jupiter: Amalthea, the last visually detected moon of Jupiter after Galileo's observations.   Gallery: Moon Occults Jupiter in 2023 May: Notable Submissions to APOD
+> ![APOD](https://apod.nasa.gov/apod/image/2305/MoonJupiter_Whitacre_960.jpg)
+> &copy; Rick WhitacreNatalia LewandowskaSUNY Oswego
 
 ---
 <!-- APOD:END -->
