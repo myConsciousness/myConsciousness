@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:18:21.948Z
+>
+> A way for programmers to take a break: write another program
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:16:47.435Z
+>
+> As my package development is getting more and more settled, I have started to create a collection of sample code for my packages to take a break. There are not many samples yet, but I plan to add more and more :)
+
+https://github.com/myConsciousness/atproto.dart/tree/main/examples
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:07:24.045Z
+>
+> It's atproto but I like this brand
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:02:50.087Z
+>
+> Oh no wonder people are suspicious of this handle lol
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:59:46.669Z
 >
 > I've invited some GitHub staff, so fingers crossed that they'll make the Bluesky icon on GitHub's social links look cool
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:37:46.868Z
->
-> It's black magic of Google
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:36:53.844Z
->
-> You did a good job of expressing the parts I could not verbalize, thx! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:26:58.444Z
->
-> The SEO issue with Flutter is indeed true 🤔  But since the developer is Google, it's hard to imagine that they would leave their strong point as a problem. Hopefully they have some solutions!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:22:56.496Z
->
-> Flutter will still have room for performance optimization, fingers crossed that Google's wizardry will fix everything at compile time
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
