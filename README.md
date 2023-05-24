@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T01:06:56.350Z
+>
+> @vqv.app
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:59:18.602Z
 >
 > It's been a while since I watched Blade Runner, but I was deeply moved by the fact that the time setting is 2019
@@ -228,12 +234,6 @@ Lot of updates, including:
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:05:55.220Z
 >
 > And yes, it’s Flutter!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-23T22:04:48.878Z
->
-> #SkyFeed may be the most advanced client
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
