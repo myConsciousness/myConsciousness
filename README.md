@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:18:21.948Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:29:30.863Z
 >
-> A way for programmers to take a break: write another program
+> Yes, I know! But they are relatively very close geographically, and when it comes to Mexico, they are also close to US, although there is a wall. There are many Mexican immigrants in US, but it's interesting that the invitation code was not passed to their relatives 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:16:47.435Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:20:35.422Z
 >
-> As my package development is getting more and more settled, I have started to create a collection of sample code for my packages to take a break. There are not many samples yet, but I plan to add more and more :)
-
-https://github.com/myConsciousness/atproto.dart/tree/main/examples
+> Yes agreed! Also it's interesting that Brazil formed a super cluster early on, but the invitation code did not propagate to Mexico and other countries in the immediate neighborhood, which is a large Spanish-speaking country. Perhaps they were afraid of the Mexican mafia.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:07:24.045Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:13:12.261Z
 >
-> It's atproto but I like this brand
+> Companies favored by royalty flourish. This is the way of the world 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T14:02:50.087Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:11:05.003Z
 >
-> Oh no wonder people are suspicious of this handle lol
+> In fact, I have received several emails from Chinese devs who are active in Nostr! At least they are interested in Bluesky 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T13:59:46.669Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:09:41.109Z
 >
-> I've invited some GitHub staff, so fingers crossed that they'll make the Bluesky icon on GitHub's social links look cool
+> Do Saudis like these social networking sites? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
