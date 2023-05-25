@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-25T09:55:11.428Z
+>
+> 手段は様々ですが思い切って物理的に離れることで精神が安定することはよく聞く話ですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-24T23:47:12.830Z
 >
 > So, if the previous domain owner continues to have that expired domain handle on AT Protocol, the new domain owner cannot be set up here. I don't know much more than this, but the domain may need to be validated on a regular basis 🤔
@@ -218,12 +224,6 @@ It runs on Chrome Stable and Firefox Nightly - the latter with experimental flag
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:29:30.863Z
 >
 > Yes, I know! But they are relatively very close geographically, and when it comes to Mexico, they are also close to US, although there is a wall. There are many Mexican immigrants in US, but it's interesting that the invitation code was not passed to their relatives 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:20:35.422Z
->
-> Yes agreed! Also it's interesting that Brazil formed a super cluster early on, but the invitation code did not propagate to Mexico and other countries in the immediate neighborhood, which is a large Spanish-speaking country. Perhaps they were afraid of the Mexican mafia.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
