@@ -193,6 +193,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T23:47:12.830Z
+>
+> So, if the previous domain owner continues to have that expired domain handle on AT Protocol, the new domain owner cannot be set up here. I don't know much more than this, but the domain may need to be validated on a regular basis 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T23:43:25.171Z
+>
+> I experimented with this a few months ago and it works as a handle on AT Protocol even if the domain expires with the domain set up. However, if you try to set up that domain from a new account in this state, it fails
+
+---
+
+> Vijay Menon @vsmenon.bsky.social 2023-05-24T15:27:35.076Z
+>
+> Really exciting about this work!  The Dart code is now compiling to Wasm (with GC extensions). 
+
+Can try a sample here: https://flutterweb-wasm.web.app/#/
+
+It runs on Chrome Stable and Firefox Nightly - the latter with experimental flags flipped.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:29:30.863Z
 >
 > Yes, I know! But they are relatively very close geographically, and when it comes to Mexico, they are also close to US, although there is a wall. There are many Mexican immigrants in US, but it's interesting that the invitation code was not passed to their relatives 🤔
@@ -202,24 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:20:35.422Z
 >
 > Yes agreed! Also it's interesting that Brazil formed a super cluster early on, but the invitation code did not propagate to Mexico and other countries in the immediate neighborhood, which is a large Spanish-speaking country. Perhaps they were afraid of the Mexican mafia.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:13:12.261Z
->
-> Companies favored by royalty flourish. This is the way of the world 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:11:05.003Z
->
-> In fact, I have received several emails from Chinese devs who are active in Nostr! At least they are interested in Bluesky 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-24T15:09:41.109Z
->
-> Do Saudis like these social networking sites? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
