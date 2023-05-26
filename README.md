@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T02:54:50.398Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:24:37.485Z
 >
-> Twitterルール云々で利用停止になったみたいです
+> I’m waiting for you on this street
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:58:42.337Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:20:02.135Z
 >
-> This is the way 🌞
+> Haha indeed lol
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:13:09.440Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:13:31.620Z
 >
-> This is the way.
+> Basically he is living in Nostr, but sometimes he travels
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:08:04.502Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:11:55.342Z
 >
-> GM! 🌞🌞🌞
+> This is where I post from
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:02:59.458Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:09:52.403Z
 >
-> おはスコ！🌞
+> 過去最大の時価総額の増加らしいですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
