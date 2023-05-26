@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T16:57:49.712Z
+>
+> ほぼ全てにマヨネーズが乗ってるので一回で食べ切るのがけっこう大変です
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T16:49:40.660Z
+>
+> And there is always mayonnaise in this country's cuisine. Sushi is no exception
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T16:48:25.245Z
+>
+> btw these are pictures from when I was in Pskov, Russia before Covid-18. This small town is about 5 hours drive from St. Petersburg, near the border with Estonia and Latvia. There was nothing advanced, but it was interesting to see many relics.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:24:37.485Z
 >
 > I’m waiting for you on this street
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:20:02.135Z
 >
 > Haha indeed lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:13:31.620Z
->
-> Basically he is living in Nostr, but sometimes he travels
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:11:55.342Z
->
-> This is where I post from
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:09:52.403Z
->
-> 過去最大の時価総額の増加らしいですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
