@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T02:54:50.398Z
+>
+> Twitterルール云々で利用停止になったみたいです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:58:42.337Z
 >
 > This is the way 🌞
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:02:59.458Z
 >
 > おはスコ！🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T01:02:32.154Z
->
-> ₍₍ ᕕ( •̀ㅂ•́)ᕗ⁾⁾ ブルスコ ₍₍ ◝(•̀ㅂ•́)◟ ⁾⁾
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
