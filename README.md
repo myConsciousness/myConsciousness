@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T16:57:49.712Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:36:03.841Z
 >
-> ほぼ全てにマヨネーズが乗ってるので一回で食べ切るのがけっこう大変です
+> It’s awesome! 🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T16:49:40.660Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:35:26.351Z
 >
-> And there is always mayonnaise in this country's cuisine. Sushi is no exception
+> @redsolver.net Can you use the Flutter logo or Dash as the avatar for this feed? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T16:48:25.245Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:32:45.763Z
 >
-> btw these are pictures from when I was in Pskov, Russia before Covid-18. This small town is about 5 hours drive from St. Petersburg, near the border with Estonia and Latvia. There was nothing advanced, but it was interesting to see many relics.
+> Maybe we need to set an avatar 🤔
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:24:37.485Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:23:02.045Z
 >
-> I’m waiting for you on this street
+> Okay done is better than perfect, they will improve it!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T03:20:02.135Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:17:56.891Z
 >
-> Haha indeed lol
+> I tried some generators created by #SkyFeed
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
