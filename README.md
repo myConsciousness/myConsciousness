@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T23:56:55.869Z
+>
+> This boi likes to go up the stairs of my house, but can't go down
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:36:03.841Z
 >
 > It’s awesome! 🤝
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:23:02.045Z
 >
 > Okay done is better than perfect, they will improve it!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:17:56.891Z
->
-> I tried some generators created by #SkyFeed
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
