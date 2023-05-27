@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T02:26:13.937Z
+>
+> Have a nice chicken! 🍗
+
+---
+
+> daniel 🫠 @dholms.xyz 2023-05-27T01:10:04.182Z
+>
+> Shippin new algos -> grillin chicken
+
+Happy Friday everybody
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T23:56:55.869Z
 >
 > This boi likes to go up the stairs of my house, but can't go down
@@ -208,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:35:26.351Z
 >
 > @redsolver.net Can you use the Flutter logo or Dash as the avatar for this feed? 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:32:45.763Z
->
-> Maybe we need to set an avatar 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-26T17:23:02.045Z
->
-> Okay done is better than perfect, they will improve it!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
