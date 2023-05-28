@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T06:42:55.980Z
+>
+> So this is the date the first payment was made?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T06:33:16.248Z
+>
+> Melting
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:42:10.890Z
 >
 > 
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:35:57.490Z
 >
 > 人間が物事の良し悪しを考えるのは無駄だって仏陀先生が言ってた
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T01:41:03.215Z
->
-> Have a nice tea!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T01:05:46.167Z
->
-> They are republicans, they’ll do anything 😏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
