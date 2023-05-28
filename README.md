@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T14:12:12.712Z
+>
+> サポートと言う名の介護で自分の作業時間がみるみる溶けていくのが悲しいです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T07:13:47.437Z
 >
 > I like noisy electronic music, but sometimes I go back to classical
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:42:10.890Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:40:19.966Z
->
-> 煩悩からの解放、解脱が必要です🧘
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
