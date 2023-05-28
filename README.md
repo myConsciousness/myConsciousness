@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T07:13:47.437Z
+>
+> I like noisy electronic music, but sometimes I go back to classical
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T06:42:55.980Z
 >
 > So this is the date the first payment was made?
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:40:19.966Z
 >
 > 煩悩からの解放、解脱が必要です🧘
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:35:57.490Z
->
-> 人間が物事の良し悪しを考えるのは無駄だって仏陀先生が言ってた
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
