@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T23:21:52.491Z
+>
+> おはスコ🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T23:06:52.780Z
+>
+> おはスコ🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T23:06:20.312Z
+>
+> おはスコ🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-27T08:54:24.340Z
 >
 > Nice heart!
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-27T08:53:35.466Z
 >
 > Could you already found a favorite one? :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T08:45:46.146Z
->
-> Yes he is 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T08:39:24.750Z
->
-> Haha perfectly same lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-27T08:28:50.589Z
->
-> Nice blue sky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
