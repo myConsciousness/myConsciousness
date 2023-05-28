@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:42:10.890Z
+>
+> 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:40:19.966Z
+>
+> 煩悩からの解放、解脱が必要です🧘
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T02:35:57.490Z
+>
+> 人間が物事の良し悪しを考えるのは無駄だって仏陀先生が言ってた
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T01:41:03.215Z
 >
 > Have a nice tea!
@@ -202,26 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T01:05:46.167Z
 >
 > They are republicans, they’ll do anything 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T01:01:43.380Z
->
-> Oh no it’s 5/29… 🫡
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T00:55:29.340Z
->
-> Prepare. The stock market is a complete bull on Monday.
-
-https://www.cnbc.com/amp/2023/05/27/white-house-and-republicans-reach-a-tentative-deal-to-avoid-us-default.html
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T00:19:58.426Z
->
-> My favorite book is Machiavelli's Monarchy. Although this book is quite old, it’s packed with the essence of organizational management that is still relevant today.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
