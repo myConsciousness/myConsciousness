@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T05:01:00.672Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:52:35.681Z
 >
-> Nice bass guitar
+> Wow that’s great! I have also modified your code a bit to fit the structure of the package. I plan to push it by this weekend or so! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T04:58:45.895Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:47:19.862Z
 >
-> It’s perfect, こんにちは！😁🤝
+> I remember a book that was popular a few years ago called "Automate the Boring Stuff with Python". And now I guess “Automate the Boring Stuff with ChatGPT" will be published in the near future
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T14:12:12.712Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:33:30.123Z
 >
-> サポートと言う名の介護で自分の作業時間がみるみる溶けていくのが悲しいです
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T07:13:47.437Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:29:24.720Z
 >
-> I like noisy electronic music, but sometimes I go back to classical
+> The next release of my package will include some improvements regarding the Firehose API. Thanks to @redsolver.net we will be able to decode Car blocks in Dart and provide a more responsive service. Also some new endpoints will be supported :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T06:42:55.980Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:24:09.531Z
 >
-> So this is the date the first payment was made?
+> I don't have much free time these days because of my tasks, but I follow the development in atproto every day and I’m always strongly motivated to improve my packages
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
