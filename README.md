@@ -193,33 +193,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:52:35.681Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:24:37.046Z
 >
-> Wow that’s great! I have also modified your code a bit to fit the structure of the package. I plan to push it by this weekend or so! 😁🤝
+> おやスコ🌚
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:47:19.862Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:19:48.167Z
 >
-> I remember a book that was popular a few years ago called "Automate the Boring Stuff with Python". And now I guess “Automate the Boring Stuff with ChatGPT" will be published in the near future
+> I always respect your great works! 😁🤝
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:33:30.123Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:07:26.525Z
 >
-> 
+> Very interesting 
+
+Estimating ChatGPT’s electricity consumption
+
+https://towardsdatascience.com/chatgpts-electricity-consumption-7873483feac4
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:29:24.720Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:05:17.149Z
 >
-> The next release of my package will include some improvements regarding the Firehose API. Thanks to @redsolver.net we will be able to decode Car blocks in Dart and provide a more responsive service. Also some new endpoints will be supported :)
+> AI will eat up all the electricity on the planet
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T14:24:09.531Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:02:50.413Z
 >
-> I don't have much free time these days because of my tasks, but I follow the development in atproto every day and I’m always strongly motivated to improve my packages
+> Assuming that ChatGPT can learn and apply all the world's events in real time, what would its electricity bill be?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
