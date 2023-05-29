@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T05:01:00.672Z
+>
+> Nice bass guitar
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-29T04:58:45.895Z
 >
 > It’s perfect, こんにちは！😁🤝
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-28T06:42:55.980Z
 >
 > So this is the date the first payment was made?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-28T06:33:16.248Z
->
-> Melting
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
