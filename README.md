@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T22:45:56.849Z
+>
+> Solution:
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T22:44:37.421Z
+>
+> When the Chinese join the users, the numbers will be astronomical just like Bitcoin 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T22:41:15.328Z
+>
+> I’m expecting to nuclear fusion power
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:24:37.046Z
 >
 > おやスコ🌚
@@ -202,28 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:19:48.167Z
 >
 > I always respect your great works! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:07:26.525Z
->
-> Very interesting 
-
-Estimating ChatGPT’s electricity consumption
-
-https://towardsdatascience.com/chatgpts-electricity-consumption-7873483feac4
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:05:17.149Z
->
-> AI will eat up all the electricity on the planet
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:02:50.413Z
->
-> Assuming that ChatGPT can learn and apply all the world's events in real time, what would its electricity bill be?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
