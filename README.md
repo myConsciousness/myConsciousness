@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T03:47:36.519Z
+>
+> こんスコ🌞
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T03:32:02.663Z
+>
+> 😁🤝
+
+---
+
 > Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-05-30T01:54:50.882Z
 >
 > Milky Way over a Turquoise Wonderland - ©Petr HorálekInstitute of Physics in Opava
@@ -213,18 +225,6 @@ Please read the following thread for an explanation of this image! 👇
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:50:40.539Z
 >
 > 新しいシステムを導入する際にはシステムを既存の業務に合わせるのではなくて、システムが効率的に動くように業務を再編する必要もあるんですけど日本はそこが弱い印象ですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:17:26.429Z
->
-> 青い銀行の悲劇が再び…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:11:22.539Z
->
-> 日本のマイナンバーがフィンランドの個人識別番号と比較されてた頃があったけど、フィンランドは個人識別番号を確実かつ安全に運用するための環境作りを1960年頃から始めてるので土台がまったく違うのよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
