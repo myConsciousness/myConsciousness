@@ -253,9 +253,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> What glows there?  The answer depends: sea or sky? In the sea, the unusual blue glow is bioluminescence. Specifically, the glimmer arises from Noctiluca scintillans, single-celled plankton stimulated by the lapping waves. The plankton use their glow to startle and illuminate predators.  This mid-February display on an island in the Maldives was so intense that the astrophotographer described it as a turquoise wonderland. In the sky, by contrast, are the more familiar glows of stars and nebulas. The white band rising from the artificially-illuminated green plants is created by billions of stars in the central disk of our Milky Way Galaxy.  Also visible in the sky is the star cluster Omega Centauri, toward the left, and the famous Southern Cross asterism in the center. Red-glowing nebulas include the bright Carina Nebula, just right of center, and the expansive Gum Nebula on the upper right.
-> ![APOD](https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg)
-> &copy; Petr HorálekInstitute of Physics in Opava
+> Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulae on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.
+> ![APOD](https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_960.jpg)
+> &copy; Patrick A. Cosgrove
 
 ---
 <!-- APOD:END -->
