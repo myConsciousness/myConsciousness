@@ -193,6 +193,17 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-05-30T01:54:50.882Z
+>
+> Milky Way over a Turquoise Wonderland - ©Petr HorálekInstitute of Physics in Opava
+
+HD: https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg
+
+Please read the following thread for an explanation of this image! 👇
+
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-30T01:18:31.371Z
 >
 > 以前はあったと思いますが、おそらくTwitter APIの主要機能が有料になってから実装はほぼ不可能になった感じですかね
@@ -214,12 +225,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:11:22.539Z
 >
 > 日本のマイナンバーがフィンランドの個人識別番号と比較されてた頃があったけど、フィンランドは個人識別番号を確実かつ安全に運用するための環境作りを1960年頃から始めてるので土台がまったく違うのよね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:01:04.355Z
->
-> マイナンバーと健康保険証はコンウェイの法則の罠に陥っているようで第三者として観察する分には面白い
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
