@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T22:45:56.849Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T01:18:31.371Z
 >
-> Solution:
+> 以前はあったと思いますが、おそらくTwitter APIの主要機能が有料になってから実装はほぼ不可能になった感じですかね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T22:44:37.421Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:50:40.539Z
 >
-> When the Chinese join the users, the numbers will be astronomical just like Bitcoin 🤔
+> 新しいシステムを導入する際にはシステムを既存の業務に合わせるのではなくて、システムが効率的に動くように業務を再編する必要もあるんですけど日本はそこが弱い印象ですね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T22:41:15.328Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:17:26.429Z
 >
-> I’m expecting to nuclear fusion power
+> 青い銀行の悲劇が再び…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:24:37.046Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:11:22.539Z
 >
-> おやスコ🌚
+> 日本のマイナンバーがフィンランドの個人識別番号と比較されてた頃があったけど、フィンランドは個人識別番号を確実かつ安全に運用するための環境作りを1960年頃から始めてるので土台がまったく違うのよね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-29T15:19:48.167Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:01:04.355Z
 >
-> I always respect your great works! 😁🤝
+> マイナンバーと健康保険証はコンウェイの法則の罠に陥っているようで第三者として観察する分には面白い
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
