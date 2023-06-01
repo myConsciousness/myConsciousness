@@ -193,38 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T03:47:36.519Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-01T03:54:52.121Z
 >
-> こんスコ🌞
+> I hope we can watch it in Bluesky in the future 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T03:32:02.663Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-01T00:19:47.851Z
 >
-> 😁🤝
+> この画面一つでデジタル庁の苦労が垣間見えました…
 
 ---
 
-> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-05-30T01:54:50.882Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-01T00:04:01.551Z
 >
-> Milky Way over a Turquoise Wonderland - ©Petr HorálekInstitute of Physics in Opava
-
-HD: https://apod.nasa.gov/apod/image/2305/SeaBlueSky_Horalek_960.jpg
-
-Please read the following thread for an explanation of this image! 👇
-
+> 順番待ちを体験できるアプリ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T01:18:31.371Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-31T23:53:40.656Z
 >
-> 以前はあったと思いますが、おそらくTwitter APIの主要機能が有料になってから実装はほぼ不可能になった感じですかね
+> haha we know 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-30T00:50:40.539Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-05-31T23:00:19.079Z
 >
-> 新しいシステムを導入する際にはシステムを既存の業務に合わせるのではなくて、システムが効率的に動くように業務を再編する必要もあるんですけど日本はそこが弱い印象ですね
+> lol long time no see it but this is an interesting cursor bug. It appears that the database paging cursor is broken, and some third-party clients have built in countermeasures to prevent this from happening, but not official app 🥹
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -253,9 +248,9 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulae on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.
-> ![APOD](https://apod.nasa.gov/apod/image/2305/M27_Cosgrove_960.jpg)
-> &copy; Patrick A. Cosgrove
+> Massive stars in our Milky Way Galaxy live spectacular lives.  Collapsing from vast cosmic clouds, their nuclear furnaces ignite and create heavy elements in their cores. After a few million years, the enriched material is blasted back into interstellar space where star formation can begin anew. The expanding debris cloud known as Cassiopeia A is an example of this final phase of the stellar life cycle. Light from the explosion which created this supernova remnant would have been first seen in planet Earth's sky about 350 years ago, although it took that light about 11,000 years to reach us. This false-color image, composed of X-ray and optical image data from the Chandra X-ray Observatory and Hubble Space Telescope, shows the still hot filaments and knots in the remnant. It spans about 30 light-years at the estimated distance of Cassiopeia A. High-energy X-ray emission from specific elements has been color coded, silicon in red, sulfur in yellow, calcium in green and iron in purple, to help astronomers explore the recycling of our galaxy's star stuff. Still expanding, the outer blast wave is seen in blue hues. The bright speck near the center is a neutron star, the incredibly dense, collapsed remains of the massive stellar core.
+> ![APOD](https://apod.nasa.gov/apod/image/2306/Chandrafirstlight_0_1024.jpg)
+
 
 ---
 <!-- APOD:END -->
