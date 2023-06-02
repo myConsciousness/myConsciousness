@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> SkyFeed App @skyfeed.app 2023-06-01T18:37:57.027Z
+>
+> SkyFeed v0.4.8 published now, fixes the bug where some feeds don't load if they include a null label. Thanks to @shinyakato.dev for the quick fix in the `bluesky` Dart library!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-01T03:54:52.121Z
 >
 > I hope we can watch it in Bluesky in the future 😏
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-05-31T23:53:40.656Z
 >
 > haha we know 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-05-31T23:00:19.079Z
->
-> lol long time no see it but this is an interesting cursor bug. It appears that the database paging cursor is broken, and some third-party clients have built in countermeasures to prevent this from happening, but not official app 🥹
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
