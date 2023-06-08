@@ -193,33 +193,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-03T23:18:37.730Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-08T03:26:54.339Z
 >
-> おはスコ🌞
+> blobのrefは文字列ではなくCIDを値に持つオブジェクトです
+
+https://github.com/myConsciousness/atproto.dart/blob/d4d10e9bda5a766e8dbb03f24717fa4cd1b0f62f/packages/bluesky/test/src/feeds/data/find_home_timeline.json#L66
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-03T00:55:33.604Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-08T03:24:32.020Z
 >
-> おはスコ🌞
+> blobの構造が違う気がします
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-03T00:55:15.070Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-06T23:20:18.798Z
 >
-> おはスコ🌞
+> Good morning!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-03T00:32:28.826Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-06T13:28:53.915Z
 >
-> This is the way!
+> I wrote an article showing how to easily use Bluesky's Firehose API using the `bluesky` package for Dart/Flutter. There are also some sample codes :)
+
+https://dev.to/shinyakato/easily-use-firehose-api-on-bluesky-social-with-dart-and-flutter-mdk
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-03T00:32:21.534Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-06T10:48:04.704Z
 >
-> This is the way.
+> dev.to or medium.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -248,9 +252,10 @@ This content is fetched by [nasa](https://github.com/myConsciousness/nasa-api).
   <!-- APOD:START - Do not remove or modify this section -->
 ---
 
-> Wouldn't it be fun to color in the universe?  If you think so, please accept this famous astronomical illustration as a preliminary substitute.  You, your friends, your parents or children, can print it out or even color it digitally.  While coloring, you might be interested to know that even though this illustration has appeared in numerous places over the past 100 years, the actual artist remains unknown.  Furthermore, the work has no accepted name -- can you think of a good one?  The illustration, first appearing in a book by Camille Flammarion in 1888, is frequently used to show that humanity's present concepts are susceptible to being supplanted by greater truths.
-> ![APOD](https://apod.nasa.gov/apod/image/2306/BeyondEarth_Unknown_960.jpg)
-
+> Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Seen on the left the cosmic elephant's trunk, also known as vdB 142, is over 20 light-years long. This detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. This rendition spans a 1 degree wide field of view though, about the angular size of 2 full moons. Of course the dark shapes below and to the right of the outstretched Elephant's Trunk, are known to some as The Caravan.
+> ![APOD](https://apod.nasa.gov/apod/image/2306/ic1396ASI294large_1030.jpg)
+> &copy; Steve
+Cannistra
 
 ---
 <!-- APOD:END -->
