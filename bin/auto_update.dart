@@ -26,7 +26,7 @@ const _apodSectionEnd = '<!-- APOD:END -->';
 Future<void> main(List<String> arguments) async {
   // await _updateGitHubRanking();
   await _updateBlueskyTimeline();
-  await _updateAPOD();
+  // await _updateAPOD();
   await _updateZennArticles();
 }
 
