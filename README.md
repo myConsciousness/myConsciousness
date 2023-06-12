@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T12:10:24.985Z
+>
+> This is T2
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T12:04:51.372Z
+>
+> The status code returned from NASA's API server has been 503 for the past week or so, has NASA been taken over by aliens?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-11T09:04:53.505Z
 >
 > サードパーティですけど skyfeed.app にはあります
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:21:11.376Z
 >
 > I see, it seems to act as a slight increase in human desire 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:10:34.573Z
->
-> Interesting, I have never seen marijuana in Japan even for medical use, but is the high state similar to being inoculated with alcohol? 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:03:08.220Z
->
-> What is this? Medicine? 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
