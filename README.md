@@ -193,37 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-08T03:26:54.339Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T09:04:53.505Z
 >
-> blobのrefは文字列ではなくCIDを値に持つオブジェクトです
-
-https://github.com/myConsciousness/atproto.dart/blob/d4d10e9bda5a766e8dbb03f24717fa4cd1b0f62f/packages/bluesky/test/src/feeds/data/find_home_timeline.json#L66
+> サードパーティですけど skyfeed.app にはあります
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-08T03:24:32.020Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T07:57:21.740Z
 >
-> blobの構造が違う気がします
+> 膝に矢を受けてしまってな…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-06T23:20:18.798Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:21:11.376Z
 >
-> Good morning!
+> I see, it seems to act as a slight increase in human desire 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-06T13:28:53.915Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:10:34.573Z
 >
-> I wrote an article showing how to easily use Bluesky's Firehose API using the `bluesky` package for Dart/Flutter. There are also some sample codes :)
-
-https://dev.to/shinyakato/easily-use-firehose-api-on-bluesky-social-with-dart-and-flutter-mdk
+> Interesting, I have never seen marijuana in Japan even for medical use, but is the high state similar to being inoculated with alcohol? 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-06T10:48:04.704Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:03:08.220Z
 >
-> dev.to or medium.com
+> What is this? Medicine? 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -234,11 +230,11 @@ https://dev.to/shinyakato/easily-use-firehose-api-on-bluesky-social-with-dart-an
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
+- 🏎️ [【Dart/Flutter】DartでBlueskyのFirehose APIを簡単に使用する](https://zenn.dev/kato_shinya/articles/lets-use-bluesky-firehose-api-with-dart) (2023-06-10)
 - 🖌 [GitHub ActionsからBluesky Socialへ簡単にポストする](https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions) (2023-05-20)
 - 💙 [bluesky_cliでコマンドラインから簡単にBluesky SocialのAPIを叩く](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-cli) (2023-04-04)
 - 💙 [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
 - 💙 [分散型SNSの大本命「Bluesky」をさっそく試してみた](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-social) (2023-03-07)
-- 📙 [【Dart/Flutter】httpパッケージを使ってMultipart形式のリクエストを送る](https://zenn.dev/kato_shinya/articles/how-to-send-multipart-request-with-dart) (2023-02-28)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
