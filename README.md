@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:57:23.472Z
+>
+> You can divine your fortune with ブルスコちゃん
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:55:08.131Z
+>
+> ブルスコちゃん fortune please
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:35:52.263Z
+>
+> 海外勢が注目し始めたブルスコちゃん
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:34:47.810Z
+>
+> ブルスコちゃんstatus
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-13T05:55:24.836Z
 >
 > Haha this is Japanese 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T23:13:13.312Z
->
-> You know, there are so many devs in Bluesky, we can build anything together :)
-
----
-
-> redsolver @redsolver.net 2023-06-12T23:05:41.371Z
->
-> Working on it! https://github.com/bluesky-social/atproto/issues/1196 The SkyFeed app will provide an experimental UI
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T23:08:02.523Z
->
-> Great work! I’m watching your activity, I’m very exciting to see new possibilities! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T22:58:08.119Z
->
-> AT Protocol will meet these specifications, but the challenge is building the UI and algorithms to deploy a service like Reddit. It will take time to figure this out
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
