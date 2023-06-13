@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T05:55:24.836Z
+>
+> Haha this is Japanese 😏
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-12T23:13:13.312Z
 >
 > You know, there are so many devs in Bluesky, we can build anything together :)
@@ -214,14 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-12T22:58:08.119Z
 >
 > AT Protocol will meet these specifications, but the challenge is building the UI and algorithms to deploy a service like Reddit. It will take time to figure this out
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T22:55:20.206Z
->
-> And this repository
-
-https://github.com/redsolver/atproto
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
