@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:32:43.494Z
+>
+> So wild!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:05:58.038Z
+>
+> Haha yes because I already tried it today 😏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:04:54.581Z
+>
+> You need to combine with commands, like “ブルスコちゃん fortune please” :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:57:23.472Z
 >
 > You can divine your fortune with ブルスコちゃん
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:55:08.131Z
 >
 > ブルスコちゃん fortune please
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:35:52.263Z
->
-> 海外勢が注目し始めたブルスコちゃん
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:34:47.810Z
->
-> ブルスコちゃんstatus
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T05:55:24.836Z
->
-> Haha this is Japanese 😏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
