@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T12:10:24.985Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T23:13:13.312Z
 >
-> This is T2
+> You know, there are so many devs in Bluesky, we can build anything together :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T12:04:51.372Z
+> redsolver @redsolver.net 2023-06-12T23:05:41.371Z
 >
-> The status code returned from NASA's API server has been 503 for the past week or so, has NASA been taken over by aliens?
+> Working on it! https://github.com/bluesky-social/atproto/issues/1196 The SkyFeed app will provide an experimental UI
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T09:04:53.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T23:08:02.523Z
 >
-> サードパーティですけど skyfeed.app にはあります
+> Great work! I’m watching your activity, I’m very exciting to see new possibilities! 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T07:57:21.740Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T22:58:08.119Z
 >
-> 膝に矢を受けてしまってな…
+> AT Protocol will meet these specifications, but the challenge is building the UI and algorithms to deploy a service like Reddit. It will take time to figure this out
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-11T02:21:11.376Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-12T22:55:20.206Z
 >
-> I see, it seems to act as a slight increase in human desire 👀
+> And this repository
+
+https://github.com/redsolver/atproto
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
