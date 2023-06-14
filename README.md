@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-14T09:48:34.906Z
+>
+> The latest builds of the packages `atproto` and `bluesky` for Dart/Flutter have been released :) This release adds support for many `com.atproto.sync.*` endpoints. There are also a few major improvements, please read the following migration document:
+
+https://pub.dev/packages/bluesky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:32:43.494Z
 >
 > So wild!
@@ -214,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:57:23.472Z
 >
 > You can divine your fortune with ブルスコちゃん
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T07:55:08.131Z
->
-> ブルスコちゃん fortune please
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
