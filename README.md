@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-14T13:39:45.996Z
+>
+> Haha he can try 😏
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-14T12:30:32.802Z
 >
 > Weed time for dog
@@ -216,12 +222,6 @@ https://pub.dev/packages/bluesky
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:05:58.038Z
 >
 > Haha yes because I already tried it today 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:04:54.581Z
->
-> You need to combine with commands, like “ブルスコちゃん fortune please” :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
