@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-15T01:11:21.190Z
+>
+> haha they apparently like these elongated shapes! And my dog always tries to hide it somewhere, but always fails and immediately takes it out and eats it lol
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-15T01:03:36.369Z
+>
+> Thanks for your guide, I check!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-15T00:57:34.352Z
+>
+> I wrote an article about some ways to post to Bluesky using `bluesky` and `bluesky_text`packages for Dart/Flutter :)
+
+https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-14T13:39:45.996Z
 >
 > Haha he can try 😏
@@ -202,26 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-14T12:30:32.802Z
 >
 > Weed time for dog
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-14T09:48:34.906Z
->
-> The latest builds of the packages `atproto` and `bluesky` for Dart/Flutter have been released :) This release adds support for many `com.atproto.sync.*` endpoints. There are also a few major improvements, please read the following migration document:
-
-https://pub.dev/packages/bluesky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:32:43.494Z
->
-> So wild!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-13T08:05:58.038Z
->
-> Haha yes because I already tried it today 😏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
