@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-17T04:25:56.171Z
+>
+> I sometimes feel that the best web development experience would be if we could use React with Dart
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-17T03:47:07.674Z
 >
 > This must be a hidden command of the game!
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I wrote an article about some ways to post to Bluesky using `bluesky` and `bluesky_text`packages for Dart/Flutter :)
 
 https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-14T13:39:45.996Z
->
-> Haha he can try 😏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
