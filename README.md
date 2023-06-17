@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-17T07:05:42.804Z
+>
+> 愛知県の茶臼山です！
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-17T06:47:56.930Z
 >
 > Dog Sky
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-15T01:11:21.190Z
 >
 > haha they apparently like these elongated shapes! And my dog always tries to hide it somewhere, but always fails and immediately takes it out and eats it lol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-15T01:03:36.369Z
->
-> Thanks for your guide, I check!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
