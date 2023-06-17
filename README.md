@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-17T06:47:56.930Z
+>
+> Dog Sky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-17T04:25:56.171Z
 >
 > I sometimes feel that the best web development experience would be if we could use React with Dart
@@ -214,14 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-15T01:03:36.369Z
 >
 > Thanks for your guide, I check!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-15T00:57:34.352Z
->
-> I wrote an article about some ways to post to Bluesky using `bluesky` and `bluesky_text`packages for Dart/Flutter :)
-
-https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
