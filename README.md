@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T11:30:03.857Z
+>
+> Thanks a lot! 🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T11:29:51.790Z
+>
+> Thanks, I hope it helps people! 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-20T10:47:53.754Z
 >
 > I have also created a page to showcase apps and services built using the atproto.dart package  in honor of the developers. If you try to build an app or service using atproto.dart packages, please let me know. Or you can create a pull request to add your works :)
@@ -216,23 +228,6 @@ https://atprotodart.com
 void main(String[] args){
     System.out.println("Flutter dev");
 }
-
----
-
-> Unofficial APOD BOT 🪐 @apod.shinyakato.dev 2023-06-20T01:54:11.559Z
->
-> The Busy Center of the Lagoon Nebula
-
-HD: https://apod.nasa.gov/apod/image/2306/LagoonCenter_HubblePobes_3979.jpg
-
-Please read the following thread for an explanation of this image! 👇
-
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-17T07:05:42.804Z
->
-> 愛知県の茶臼山です！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
