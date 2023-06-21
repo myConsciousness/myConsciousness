@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T09:20:14.495Z
+>
+> But maybe I should add utility like `isLiked` and `isNotLiked`
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T09:18:32.899Z
+>
+> I see! We can use `viewer` field as follows, you can check follow related states too in `viewer` :)
+
+final timeline = await bluesky.feeds.findTimeline();
+
+for (final feed in timeline.data.feed) {
+if (feed.post.viewer.like != null) {
+  //! This post is liked by you.
+ }
+}
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-21T07:49:24.331Z
 >
 > Hi! Have you ever used Dart? If so this article is what you’re looking for :) If not, you should install Dart at first!
@@ -212,18 +232,6 @@ https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutt
 > “langs” field in BCP 47 format :)))
 
 https://github.com/bluesky-social/atproto/pull/1219/files
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T11:30:03.857Z
->
-> Thanks a lot! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T11:29:51.790Z
->
-> Thanks, I hope it helps people! 😁🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
