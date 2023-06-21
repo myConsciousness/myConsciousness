@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T00:20:35.862Z
+>
+> “langs” field in BCP 47 format :)))
+
+https://github.com/bluesky-social/atproto/pull/1219/files
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-20T11:30:03.857Z
 >
 > Thanks a lot! 🤝
@@ -218,16 +226,6 @@ https://atprotodart.com/showcase
 > I have built the official website for atproto.dart, which develops AT Protocol and Bluesky packages for Dart/Flutter :) I built this with Docusaurus which is developed by Meta Platforms. Documentation and other information about atproto.dart will be consolidated on this site
 
 https://atprotodart.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T09:10:26.522Z
->
-> I heard that starting with Java 21, instead of saying public static void main blah blah blah, you can write like following. Java language developers must be fans of Dart.
-
-void main(String[] args){
-    System.out.println("Flutter dev");
-}
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
