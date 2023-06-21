@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T07:49:24.331Z
+>
+> Hi! Have you ever used Dart? If so this article is what you’re looking for :) If not, you should install Dart at first!
+
+https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T07:26:33.123Z
+>
+> We just should use Kotlin 😂
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-21T00:20:35.862Z
 >
 > “langs” field in BCP 47 format :)))
@@ -210,22 +224,6 @@ https://github.com/bluesky-social/atproto/pull/1219/files
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-20T11:29:51.790Z
 >
 > Thanks, I hope it helps people! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T10:47:53.754Z
->
-> I have also created a page to showcase apps and services built using the atproto.dart package  in honor of the developers. If you try to build an app or service using atproto.dart packages, please let me know. Or you can create a pull request to add your works :)
-
-https://atprotodart.com/showcase
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-20T10:47:04.507Z
->
-> I have built the official website for atproto.dart, which develops AT Protocol and Bluesky packages for Dart/Flutter :) I built this with Docusaurus which is developed by Meta Platforms. Documentation and other information about atproto.dart will be consolidated on this site
-
-https://atprotodart.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
