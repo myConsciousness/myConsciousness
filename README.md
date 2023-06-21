@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T22:02:26.014Z
+>
+> This price is quite challenging for Apple, and since it is an early model, there may be some hardware defects… I'll probably give it a few months after launch too, I'll leave the reviews to other wealthy people 😅
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-21T21:51:30.771Z
 >
 > Let’s create apps of future with visionOS SDK 😎
@@ -224,14 +230,6 @@ if (feed.post.viewer.like != null) {
   //! This post is liked by you.
  }
 }
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T07:49:24.331Z
->
-> Hi! Have you ever used Dart? If so this article is what you’re looking for :) If not, you should install Dart at first!
-
-https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
