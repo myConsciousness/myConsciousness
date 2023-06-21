@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T21:51:30.771Z
+>
+> Let’s create apps of future with visionOS SDK 😎
+
+https://developer.apple.com/visionos/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-21T12:08:01.446Z
 >
 > You’re welcome, let me know when you need help :)
@@ -224,12 +232,6 @@ if (feed.post.viewer.like != null) {
 > Hi! Have you ever used Dart? If so this article is what you’re looking for :) If not, you should install Dart at first!
 
 https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T07:26:33.123Z
->
-> We just should use Kotlin 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
