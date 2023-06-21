@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T12:08:01.446Z
+>
+> You’re welcome, let me know when you need help :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-21T09:20:14.495Z
 >
 > But maybe I should add utility like `isLiked` and `isNotLiked`
@@ -224,14 +230,6 @@ https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutt
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-21T07:26:33.123Z
 >
 > We just should use Kotlin 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T00:20:35.862Z
->
-> “langs” field in BCP 47 format :)))
-
-https://github.com/bluesky-social/atproto/pull/1219/files
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
