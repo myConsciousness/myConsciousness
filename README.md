@@ -193,43 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T22:02:26.014Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:59:38.532Z
 >
-> This price is quite challenging for Apple, and since it is an early model, there may be some hardware defects… I'll probably give it a few months after launch too, I'll leave the reviews to other wealthy people 😅
+> In fact, if the submersible is still somewhat functional, their despair at this moment is immeasurable. After all, they only have a few hours left to live
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T21:51:30.771Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:54:14.418Z
 >
-> Let’s create apps of future with visionOS SDK 😎
-
-https://developer.apple.com/visionos/
+> I just remembered this movie
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T12:08:01.446Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:50:47.301Z
 >
-> You’re welcome, let me know when you need help :)
+> This is a very unfortunate story, but I feel a kind of fate that a submarine with wealthy people on board is sinking at this very moment on the side of the Titanic
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T09:20:14.495Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:43:16.704Z
 >
-> But maybe I should add utility like `isLiked` and `isNotLiked`
+> Let’s trade with Bluesky invite code
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-21T09:18:32.899Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:39:10.720Z
 >
-> I see! We can use `viewer` field as follows, you can check follow related states too in `viewer` :)
-
-final timeline = await bluesky.feeds.findTimeline();
-
-for (final feed in timeline.data.feed) {
-if (feed.post.viewer.like != null) {
-  //! This post is liked by you.
- }
-}
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
