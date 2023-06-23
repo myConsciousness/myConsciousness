@@ -193,6 +193,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-23T22:51:06.208Z
+>
+> Let me know you need more help! 😁🤝
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-23T22:47:21.208Z
+>
+> Also, you can see following Dart code, this is what I developed and it shows how to schedule to post with images two times per day with cron and bluesky 😁
+
+https://github.com/myConsciousness/bluesky-apod-bot/blob/main/bin/bluesky_apod_bot.dart
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-23T22:45:07.670Z
+>
+> Hi! Do you mean scheduling? Then you can use cron package with bluesky sdk I developed! You can schedule Dart program in Cron format :)
+
+https://pub.dev/packages/cron
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-23T08:34:48.956Z
 >
 > When a business trip is suddenly scheduled on a day when you were supposed to work from home
@@ -202,24 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-23T08:31:02.036Z
 >
 > I think Google will of course support these platforms as well. They intend to make Flutter work on all platforms, seriously all :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:59:38.532Z
->
-> In fact, if the submersible is still somewhat functional, their despair at this moment is immeasurable. After all, they only have a few hours left to live
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:54:14.418Z
->
-> I just remembered this movie
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-22T03:50:47.301Z
->
-> This is a very unfortunate story, but I feel a kind of fate that a submarine with wealthy people on board is sinking at this very moment on the side of the Titanic
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
