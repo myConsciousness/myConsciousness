@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T15:17:38.179Z
+>
+> btw I remember the Russian countryside was very interesting. It was like the world of the game “Fallout”. The inside of the Soviet-style apartment building is like 50s and I felt like I have stepped back in time.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T15:00:07.989Z
 >
 > Many Russians seem to think that the Soviet era was the best. There were times in the early years of the Soviet Union when the country's power surpassed that of the United States. But it was very weird to see children playing around these objects.
@@ -223,12 +229,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 ],
 "createdAt": "2023-06-24T11:40:30.927377Z"
 },
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:40:31.490Z
->
-> This post is special. Now that we can set language tags to a post, I set the language code "not-a-lang-XX" to this post.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
