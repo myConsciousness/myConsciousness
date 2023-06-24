@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T15:00:07.989Z
+>
+> Many Russians seem to think that the Soviet era was the best. There were times in the early years of the Soviet Union when the country's power surpassed that of the United States. But it was very weird to see children playing around these objects.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T14:53:42.802Z
+>
+> If the Russian Revolution were to occur in the 21st century, would the statues of Lenin and the legacy of the last war be removed from the city? These are pictures I took during my past time in Russia, and there were relics of militarism all over the city.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:58:40.258Z
 >
 > "not-a-lang-XX" conforms to BCP47 standards. This is the first and last time that this language code will actually appear in the world tho!
@@ -217,18 +229,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:40:31.490Z
 >
 > This post is special. Now that we can set language tags to a post, I set the language code "not-a-lang-XX" to this post.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T10:18:12.705Z
->
-> Red sky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:44:25.306Z
->
-> 🫡
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
