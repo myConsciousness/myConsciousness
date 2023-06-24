@@ -193,6 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:58:40.258Z
+>
+> "not-a-lang-XX" conforms to BCP47 standards. This is the first and last time that this language code will actually appear in the world tho!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:42:19.511Z
+>
+> Woooooo
+
+"record": {
+ "text": "This post is special. Now that we can set language tags to a post, I set the language code \"not-a-lang-XX\" to this post.",
+"$type": "app.bsky.feed.post",
+"langs": [
+"not-a-lang-XX"
+],
+"createdAt": "2023-06-24T11:40:30.927377Z"
+},
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:40:31.490Z
+>
+> This post is special. Now that we can set language tags to a post, I set the language code "not-a-lang-XX" to this post.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T10:18:12.705Z
 >
 > Red sky
@@ -202,24 +229,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:44:25.306Z
 >
 > 🫡
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:34:29.648Z
->
-> lol it’s a new social networking service launched by tweeps who were fired from Twitter. But it has no buzz at all and will disappear in the near future, I guess
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:05:53.661Z
->
-> The problem with T2 is that it is nothing more than a second-timer to Twitter. No more, no less.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-23T23:36:36.281Z
->
-> It’s very cute
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
