@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T10:18:12.705Z
+>
+> Red sky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:44:25.306Z
 >
 > 🫡
@@ -214,16 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-23T23:36:36.281Z
 >
 > It’s very cute
-
----
-
-> SkyFeed App @skyfeed.app 2023-06-23T18:01:07.043Z
->
-> 🛠️ Introducing the SkyFeed Builder 🛠️
-
-Easily build powerful custom feeds using simple blocks and a full preview of the feed. When you're ready, you can publish the feed on your account for anyone to use, even in the official app!
-
-Available now on https://skyfeed.app/
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
