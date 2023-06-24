@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:44:25.306Z
+>
+> 🫡
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:34:29.648Z
+>
+> lol it’s a new social networking service launched by tweeps who were fired from Twitter. But it has no buzz at all and will disappear in the near future, I guess
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T00:05:53.661Z
+>
+> The problem with T2 is that it is nothing more than a second-timer to Twitter. No more, no less.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-23T23:36:36.281Z
 >
 > It’s very cute
@@ -206,28 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 Easily build powerful custom feeds using simple blocks and a full preview of the feed. When you're ready, you can publish the feed on your account for anyone to use, even in the official app!
 
 Available now on https://skyfeed.app/
-
----
-
-> Bluesky @bsky.app 2023-06-23T21:52:56.861Z
->
-> We believe that a public commons is important for social media. These proposals for moderation and safety tooling have been in the works for a while, and we’re excited to share them for community discussion and feedback with you now.
-
-https://blueskyweb.xyz/blog/6-23-2023-moderation-proposals
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-23T22:51:06.208Z
->
-> Let me know you need more help! 😁🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-23T22:47:21.208Z
->
-> Also, you can see following Dart code, this is what I developed and it shows how to schedule to post with images two times per day with cron and bluesky 😁
-
-https://github.com/myConsciousness/bluesky-apod-bot/blob/main/bin/bluesky_apod_bot.dart
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
