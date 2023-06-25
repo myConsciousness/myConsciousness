@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T11:31:51.056Z
+>
+> Flutter for Web has always been Flutter's problem child. And while resolving an Issue about Flutter for Web, I saw another new problem 😢
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-25T04:29:18.838Z
 >
 > Have a nice tea! 🍵
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-25T00:41:07.328Z
 >
 > Dog sky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T15:17:38.179Z
->
-> btw I remember the Russian countryside was very interesting. It was like the world of the game “Fallout”. The inside of the Soviet-style apartment building is like 50s and I felt like I have stepped back in time.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
