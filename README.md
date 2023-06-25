@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T13:42:14.705Z
+>
+> Why universal_io is not a Flutter Favorite in pub.dev? This package is very undervalued.
+
+https://pub.dev/packages/universal_io
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-25T11:31:51.056Z
 >
 > Flutter for Web has always been Flutter's problem child. And while resolving an Issue about Flutter for Web, I saw another new problem 😢
@@ -214,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-25T01:12:11.792Z
 >
 > Yes he is! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T00:41:07.328Z
->
-> Dog sky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
