@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T01:12:11.792Z
+>
+> Yes he is! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T00:41:07.328Z
+>
+> Dog sky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T15:17:38.179Z
 >
 > btw I remember the Russian countryside was very interesting. It was like the world of the game “Fallout”. The inside of the Soviet-style apartment building is like 50s and I felt like I have stepped back in time.
@@ -208,27 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-24T14:53:42.802Z
 >
 > If the Russian Revolution were to occur in the 21st century, would the statues of Lenin and the legacy of the last war be removed from the city? These are pictures I took during my past time in Russia, and there were relics of militarism all over the city.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:58:40.258Z
->
-> "not-a-lang-XX" conforms to BCP47 standards. This is the first and last time that this language code will actually appear in the world tho!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-24T11:42:19.511Z
->
-> Woooooo
-
-"record": {
- "text": "This post is special. Now that we can set language tags to a post, I set the language code \"not-a-lang-XX\" to this post.",
-"$type": "app.bsky.feed.post",
-"langs": [
-"not-a-lang-XX"
-],
-"createdAt": "2023-06-24T11:40:30.927377Z"
-},
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
