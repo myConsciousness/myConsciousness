@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T14:42:51.851Z
+>
+> Welcome to the maniac world 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T14:33:24.241Z
+>
+> He became a legend
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-26T13:06:48.392Z
 >
 > No it’s JavaScript spec. Rather, all IEEE754-compliant systems cannot guarantee the accuracy and are unsafe for values greater than 2^53 - 1
@@ -208,20 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:49:35.486Z
 >
 > If this pull request is not merged, I will implement a replacement process 🤷‍♂️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:38:38.188Z
->
-> This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:38:11.730Z
->
-> I have transferred all packages developed in atproto.dart to the publisher of atprotodart.com in pub.dev :
-
-https://pub.dev/publishers/atprotodart.com/packages
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
