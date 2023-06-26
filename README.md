@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:38:46.586Z
+>
+> Yay! I first thought it was old Iran, but I bet it was Turkey 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:32:32.481Z
+>
+> Turkey
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:22:16.999Z
+>
+> When you find any problems in open source, the best solution is to send an Issue or pull request to the developer. The open source developer may be completely unaware of that problem, and your appropriate action can make the world a better place.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:16:07.620Z
+>
+> PR was merged. Now my packages also will be 100% compatible with Flutter for Web :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-26T14:42:51.851Z
 >
 > Welcome to the maniac world 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T14:33:24.241Z
->
-> He became a legend
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T13:06:48.392Z
->
-> No it’s JavaScript spec. Rather, all IEEE754-compliant systems cannot guarantee the accuracy and are unsafe for values greater than 2^53 - 1
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T11:00:32.463Z
->
-> The problem with this package is quite maniacal: Dart's maximum value is 2^63 - 1, while JavaScript's maximum value is 2^53 - 1. Happy Flutter for Web day
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:49:35.486Z
->
-> If this pull request is not merged, I will implement a replacement process 🤷‍♂️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
