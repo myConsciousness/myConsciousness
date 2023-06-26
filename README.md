@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T13:06:48.392Z
+>
+> No it’s JavaScript spec. Rather, all IEEE754-compliant systems cannot guarantee the accuracy and are unsafe for values greater than 2^53 - 1
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-26T11:00:32.463Z
 >
 > The problem with this package is quite maniacal: Dart's maximum value is 2^63 - 1, while JavaScript's maximum value is 2^53 - 1. Happy Flutter for Web day
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have transferred all packages developed in atproto.dart to the publisher of atprotodart.com in pub.dev :
 
 https://pub.dev/publishers/atprotodart.com/packages
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:35:15.807Z
->
-> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
