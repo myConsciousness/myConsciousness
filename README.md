@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T13:42:14.705Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T11:00:32.463Z
 >
-> Why universal_io is not a Flutter Favorite in pub.dev? This package is very undervalued.
-
-https://pub.dev/packages/universal_io
+> The problem with this package is quite maniacal: Dart's maximum value is 2^63 - 1, while JavaScript's maximum value is 2^53 - 1. Happy Flutter for Web day
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T11:31:51.056Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:49:35.486Z
 >
-> Flutter for Web has always been Flutter's problem child. And while resolving an Issue about Flutter for Web, I saw another new problem 😢
+> If this pull request is not merged, I will implement a replacement process 🤷‍♂️
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T04:29:18.838Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:38:38.188Z
 >
-> Have a nice tea! 🍵
+> This is the way.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T02:08:02.574Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:38:11.730Z
 >
-> Thanks! 😄
+> I have transferred all packages developed in atproto.dart to the publisher of atprotodart.com in pub.dev :
+
+https://pub.dev/publishers/atprotodart.com/packages
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-25T01:12:11.792Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T10:35:15.807Z
 >
-> Yes he is! 😁
+> Yo. みんなブルスコしてるかい？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
