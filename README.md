@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T11:53:01.743Z
+>
+> Open source always wins and it’s irreversible
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T11:02:14.819Z
+>
+> The Dart development experience is, to put it mildly, excellent. I have been exposed to many languages and this is the best, easiest and safest to use
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T10:52:36.142Z
 >
 > @retr0-id.translate.goog Yes let’s start with Flutter
@@ -212,18 +224,6 @@ https://dart.dev/effective-dart
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:59:43.608Z
 >
 > Finally, I have added some useful utilities related to "viewer". Instead of having to look at the viewer to determine if an authenticated user has Liked/NotLiked a particular post, I have made it possible to look directly at the viewer from the Post and Actor objects. Thanks @dashu.bsky.social :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:56:46.132Z
->
-> Next, the input "langs" was added to the lexicon of "app.bsky.feed.post", so I implemented it in the bluesky package as well. You can specify well-formatted BCP 47 format language tags
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:55:58.941Z
->
-> First, as a major change, I have changed the way to upload blobs. Previously, we passed a File object to uploadBlob, but now we pass the bytes of the target data to be uploaded. This allows for platform-independent implementation! Thanks @redsolver.net :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
