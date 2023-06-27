@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T12:12:57.016Z
+>
+> Yes, ALWAYS
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T11:53:01.743Z
 >
 > Open source always wins and it’s irreversible
@@ -218,12 +224,6 @@ https://dart.dev/effective-dart
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T10:42:57.932Z
 >
 > Try it when you need! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:59:43.608Z
->
-> Finally, I have added some useful utilities related to "viewer". Instead of having to look at the viewer to determine if an authenticated user has Liked/NotLiked a particular post, I have made it possible to look directly at the viewer from the Post and Actor objects. Thanks @dashu.bsky.social :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
