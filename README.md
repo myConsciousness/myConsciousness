@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:59:43.608Z
+>
+> Finally, I have added some useful utilities related to "viewer". Instead of having to look at the viewer to determine if an authenticated user has Liked/NotLiked a particular post, I have made it possible to look directly at the viewer from the Post and Actor objects. Thanks @dashu.bsky.social :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:56:46.132Z
+>
+> Next, the input "langs" was added to the lexicon of "app.bsky.feed.post", so I implemented it in the bluesky package as well. You can specify well-formatted BCP 47 format language tags
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:55:58.941Z
+>
+> First, as a major change, I have changed the way to upload blobs. Previously, we passed a File object to uploadBlob, but now we pass the bytes of the target data to be uploaded. This allows for platform-independent implementation! Thanks @redsolver.net :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:53:27.857Z
+>
+> The latest builds of the atproto and bluesky packages for Dart/Flutter have been released! 🥳 This release fixes a bug related to Flutter for Web and allows the use of these packages on all platforms supported by Flutter! Also new features have also been added!
+
+https://pub.dev/packages/bluesky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:38:46.586Z
 >
 > Yay! I first thought it was old Iran, but I bet it was Turkey 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:32:32.481Z
->
-> Turkey
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:22:16.999Z
->
-> When you find any problems in open source, the best solution is to send an Issue or pull request to the developer. The open source developer may be completely unaware of that problem, and your appropriate action can make the world a better place.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:16:07.620Z
->
-> PR was merged. Now my packages also will be 100% compatible with Flutter for Web :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T14:42:51.851Z
->
-> Welcome to the maniac world 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
