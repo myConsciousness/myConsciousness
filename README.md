@@ -193,6 +193,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T10:52:36.142Z
+>
+> @retr0-id.translate.goog Yes let’s start with Flutter
+
+This is what you need to read at first:
+
+https://dart.dev/effective-dart
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T10:42:57.932Z
+>
+> Try it when you need! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:59:43.608Z
 >
 > Finally, I have added some useful utilities related to "viewer". Instead of having to look at the viewer to determine if an authenticated user has Liked/NotLiked a particular post, I have made it possible to look directly at the viewer from the Post and Actor objects. Thanks @dashu.bsky.social :)
@@ -208,20 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:55:58.941Z
 >
 > First, as a major change, I have changed the way to upload blobs. Previously, we passed a File object to uploadBlob, but now we pass the bytes of the target data to be uploaded. This allows for platform-independent implementation! Thanks @redsolver.net :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T09:53:27.857Z
->
-> The latest builds of the atproto and bluesky packages for Dart/Flutter have been released! 🥳 This release fixes a bug related to Flutter for Web and allows the use of these packages on all platforms supported by Flutter! Also new features have also been added!
-
-https://pub.dev/packages/bluesky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-26T21:38:46.586Z
->
-> Yay! I first thought it was old Iran, but I bet it was Turkey 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
