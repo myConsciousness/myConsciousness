@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T14:30:29.942Z
+>
+> lol you know it’s birdapp, they went out of their way to pour boiling water on the money tree that is called Twitter Blue and made a huge mistake. They have no sense of monetization
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T14:18:41.961Z
+>
+> Next GAFAM
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T14:14:11.312Z
+>
+> birdapp should add the feature to remove temporary functionality restrictions for an additional fee. It would be a record breaking surplus
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T12:12:57.016Z
 >
 > Yes, ALWAYS
@@ -202,28 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T11:53:01.743Z
 >
 > Open source always wins and it’s irreversible
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T11:02:14.819Z
->
-> The Dart development experience is, to put it mildly, excellent. I have been exposed to many languages and this is the best, easiest and safest to use
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T10:52:36.142Z
->
-> @retr0-id.translate.goog Yes let’s start with Flutter
-
-This is what you need to read at first:
-
-https://dart.dev/effective-dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T10:42:57.932Z
->
-> Try it when you need! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
