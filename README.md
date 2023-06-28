@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-28T00:15:33.154Z
+>
+> +1!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:18:12.992Z
 >
 > AT Protocolを使ってRedditみたいなサービスを作ろうとする動きもあるので、こちらのLexiconも見てみてください
@@ -216,12 +222,6 @@ https://github.com/redsolver/atproto
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:10:21.020Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:08:24.919Z
->
-> Twitter公式スペースでTwitter APIについて熱く語った結果がこれよ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
