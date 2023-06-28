@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T14:30:29.942Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:18:12.992Z
 >
-> lol you know it’s birdapp, they went out of their way to pour boiling water on the money tree that is called Twitter Blue and made a huge mistake. They have no sense of monetization
+> AT Protocolを使ってRedditみたいなサービスを作ろうとする動きもあるので、こちらのLexiconも見てみてください
+
+https://github.com/redsolver/atproto
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T14:18:41.961Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:14:52.224Z
 >
-> Next GAFAM
+> 私はもうそろそろ1年なので永久凍結ですね…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T14:14:11.312Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:11:33.505Z
 >
-> birdapp should add the feature to remove temporary functionality restrictions for an additional fee. It would be a record breaking surplus
+> This is the way ✌️
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T12:12:57.016Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:10:21.020Z
 >
-> Yes, ALWAYS
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T11:53:01.743Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:08:24.919Z
 >
-> Open source always wins and it’s irreversible
+> Twitter公式スペースでTwitter APIについて熱く語った結果がこれよ
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
