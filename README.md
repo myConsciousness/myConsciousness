@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-28T11:00:28.398Z
+>
+> It’s the best way to enjoy internet :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-28T10:51:54.544Z
+>
+> I don't stop people from paying $5000/mo to use the Twitter API, but this is only to buy the right to use a luxury API, and does not promise any developer-friendly API development, at all. I wouldn't be surprised if all endpoints of the Twitter API were suddenly removed tomorrow, they can do it
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-28T00:15:33.154Z
 >
 > +1!
@@ -210,18 +222,6 @@ https://github.com/redsolver/atproto
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:14:52.224Z
 >
 > 私はもうそろそろ1年なので永久凍結ですね…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:11:33.505Z
->
-> This is the way ✌️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:10:21.020Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
