@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-29T11:09:32.482Z
+>
+> I have created a repository that automatically crawls atproto PDS indexed in plc.directory and plc.bsky-sandbox.dev :)
+
+https://github.com/myConsciousness/pds-search/blob/main/README.md
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-28T11:22:33.255Z
 >
 > I look forward to seeing how they end up with a platform that cuts out the developers
@@ -214,14 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-28T00:15:33.154Z
 >
 > +1!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-27T23:18:12.992Z
->
-> AT Protocolを使ってRedditみたいなサービスを作ろうとする動きもあるので、こちらのLexiconも見てみてください
-
-https://github.com/redsolver/atproto
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
