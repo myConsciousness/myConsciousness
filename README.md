@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T11:11:53.920Z
+>
+> おはスコ🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-29T12:37:08.405Z
 >
 > Great work! 🤝 I’m also going to visualize these data with Flutter, but I guess it would be great if PDS provides some description and banners 🤔
@@ -216,12 +222,6 @@ https://github.com/myConsciousness/pds-search/blob/main/README.md
 > Shinya Kato 🤯 @shinyakato.dev 2023-06-28T11:00:28.398Z
 >
 > It’s the best way to enjoy internet :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-28T10:51:54.544Z
->
-> I don't stop people from paying $5000/mo to use the Twitter API, but this is only to buy the right to use a luxury API, and does not promise any developer-friendly API development, at all. I wouldn't be surprised if all endpoints of the Twitter API were suddenly removed tomorrow, they can do it
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
