@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T02:44:49.250Z
+>
+> DEC is the legend anyway
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-01T01:01:14.915Z
 >
 > 🏡💤
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > GM!
 
 It means Pura Vida 🤙
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:16:10.184Z
->
-> Challenge
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
