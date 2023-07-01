@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T11:11:53.920Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:54:51.337Z
 >
-> おはスコ🌞
+> These are two very contrasting accidents. One happened because they were too poor, and the other happened because they were too rich. And people's reactions to these accidents were also very interesting, but both are unfortunate and sad accidents anyway 🧐
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-29T12:37:08.405Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:50:19.853Z
 >
-> Great work! 🤝 I’m also going to visualize these data with Flutter, but I guess it would be great if PDS provides some description and banners 🤔
+> It must be delicious:)))
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-29T11:09:32.482Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:48:10.441Z
 >
-> I have created a repository that automatically crawls atproto PDS indexed in plc.directory and plc.bsky-sandbox.dev :)
-
-https://github.com/myConsciousness/pds-search/blob/main/README.md
+> Welcome @shana.spoiledcat.com ! I’m glad to see you here, follow people and enjoy! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-28T11:22:33.255Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:46:03.380Z
 >
-> I look forward to seeing how they end up with a platform that cuts out the developers
+> Nice scallions :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-28T11:00:28.398Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:42:58.894Z
 >
-> It’s the best way to enjoy internet :)
+> おはスコでスカイ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
