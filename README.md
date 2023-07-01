@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T08:36:15.233Z
+>
+> So technically, it would be possible to make all of this timeline public data without requiring auth :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T08:35:30.800Z
+>
+> Maybe this is just a spec of firesky.tv, or maybe it's the design philosophy of them. With Firehose API, you can retrieve almost any event that occurs in PDS without auth, and of course this includes posted images, embedded links, etc :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T08:21:26.777Z
+>
+> The AT Protocol already supports the Firehose API (com.atproto.sync.subscribeRepos) which does not require auth :) This is about an implementation in Dart/Flutter, but you may find my previous article useful! For example https://firesky.tv uses this Firehose API
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-01T02:44:49.250Z
 >
 > DEC is the legend anyway
@@ -202,26 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-01T01:01:14.915Z
 >
 > 🏡💤
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:32:45.716Z
->
-> Dog sky 🐩
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:27:18.369Z
->
-> Good night there! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:26:39.165Z
->
-> GM!
-
-It means Pura Vida 🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
