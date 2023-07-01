@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:54:51.337Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T01:01:14.915Z
 >
-> These are two very contrasting accidents. One happened because they were too poor, and the other happened because they were too rich. And people's reactions to these accidents were also very interesting, but both are unfortunate and sad accidents anyway 🧐
+> 🏡💤
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:50:19.853Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:32:45.716Z
 >
-> It must be delicious:)))
+> Dog sky 🐩
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:48:10.441Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:27:18.369Z
 >
-> Welcome @shana.spoiledcat.com ! I’m glad to see you here, follow people and enjoy! 😁
+> Good night there! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:46:03.380Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:26:39.165Z
 >
-> Nice scallions :)
+> GM!
+
+It means Pura Vida 🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-06-30T23:42:58.894Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T00:16:10.184Z
 >
-> おはスコでスカイ🌞
+> Challenge
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
