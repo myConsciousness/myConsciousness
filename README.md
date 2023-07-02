@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T13:46:38.830Z
+>
+> 夏になれば勝手に止まります！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T13:30:09.846Z
+>
+> Bird was already dead from last year. I hope it will go to heaven.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T13:27:58.417Z
+>
+> Ascension
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T12:38:35.784Z
 >
 > Beautiful
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T12:22:48.688Z
 >
 > He is on Nostr
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:29:53.790Z
->
-> 所属先を「自分で調べて自分で選択する」だけでも結構ハードル高いんですよね。説明するよりとりあえず一番でかいインスタンスに脳死で登録してもらって慣れてもらうのがよさそうです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:25:14.884Z
->
-> I have not seen your post recently 🥺
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:23:02.817Z
->
-> たまに彼とDiscordで連絡をとってますけど結構すごいことやってますね👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
