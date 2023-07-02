@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T13:46:38.830Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:30:24.695Z
 >
-> 夏になれば勝手に止まります！
+> gm gm! 🌞🤞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T13:30:09.846Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:26:05.667Z
 >
-> Bird was already dead from last year. I hope it will go to heaven.
+> My face when someone doesn't want to join bluesky
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T13:27:58.417Z
+> Zack Bornstein @zackbornstein.bsky.social 2023-07-02T18:24:08.084Z
 >
-> Ascension
+> can’t wait for this guy to put a microchip inside my skull
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T12:38:35.784Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:14:37.214Z
 >
-> Beautiful
+> Nice folks
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T12:22:48.688Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:13:11.713Z
 >
-> He is on Nostr
+> ブルスコちゃんstatus
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
