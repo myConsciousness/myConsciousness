@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T22:58:02.066Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:56:12.951Z
 >
-> There are no posts on birdapp to read in the first place. Our quality of life would be better with a limit of 50 tweets per day on birdapp, thanks Elon!
+> Welcome! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T08:36:15.233Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:39:29.855Z
 >
-> So technically, it would be possible to make all of this timeline public data without requiring auth :)
+> At least his goal is not to run birdapp for fun. He bought birdapp to create the super app he dreams of. And this super app is something that inherited a part of birdapp. For him, birdapp is just a stepping stone to create a super app.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T08:35:30.800Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:20:51.051Z
 >
-> Maybe this is just a spec of firesky.tv, or maybe it's the design philosophy of them. With Firehose API, you can retrieve almost any event that occurs in PDS without auth, and of course this includes posted images, embedded links, etc :)
+> As I have been saying since last year, Elon Musk is only interested in the huge data sets accumulated in birdapp. For him, the users are just extras that came with the birdapp when he bought it.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T08:21:26.777Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:14:55.051Z
 >
-> The AT Protocol already supports the Firehose API (com.atproto.sync.subscribeRepos) which does not require auth :) This is about an implementation in Dart/Flutter, but you may find my previous article useful! For example https://firesky.tv uses this Firehose API
+> birdapp is already worth less than half what it was when he bought it, but he created a movement beyond that!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T02:44:49.250Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:08:45.992Z
 >
-> DEC is the legend anyway
+> It was none other than Elon Musk who rapidly facilitated the expansion of the social networking community outside of birdapp
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
