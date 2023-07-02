@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:29:53.790Z
+>
+> 所属先を「自分で調べて自分で選択する」だけでも結構ハードル高いんですよね。説明するよりとりあえず一番でかいインスタンスに脳死で登録してもらって慣れてもらうのがよさそうです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:25:14.884Z
+>
+> I have not seen your post recently 🥺
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:23:02.817Z
+>
+> たまに彼とDiscordで連絡をとってますけど結構すごいことやってますね👀
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T08:08:42.443Z
 >
 > いい湯だった♨️
@@ -204,26 +222,6 @@ https://hiraya-himawarinoyu.com/yu.php
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T05:21:30.331Z
 >
 > Nice day for a walk
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T02:37:08.639Z
->
-> 一般的な人々の感覚からすると「分散とか連合ってなに？Twitterにはそんなのないけどなんのためにあるの？」だと思うから、MastodonやMisskeyでもアカウント数が多いインスタンスに人が集中するのは仕方ない気がする
-
----
-
-> videah θΔ @videah.net 2023-07-02T00:33:58.826Z
->
-> For new folk that enjoy using Ivory for Mastodon I have a project that lets you use it with Bluesky
-
-skybridge.fly.dev
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:35:25.467Z
->
-> This is the way.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
