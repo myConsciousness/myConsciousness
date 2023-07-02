@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T02:37:08.639Z
+>
+> 一般的な人々の感覚からすると「分散とか連合ってなに？Twitterにはそんなのないけどなんのためにあるの？」だと思うから、MastodonやMisskeyでもアカウント数が多いインスタンスに人が集中するのは仕方ない気がする
+
+---
+
 > videah θΔ @videah.net 2023-07-02T00:33:58.826Z
 >
 > For new folk that enjoy using Ivory for Mastodon I have a project that lets you use it with Bluesky
@@ -216,12 +222,6 @@ skybridge.fly.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:29:06.973Z
 >
 > We can choose better cages ;)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:21:54.372Z
->
-> Elon Musk is the savior to free users from the cage
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
