@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T08:08:42.443Z
+>
+> いい湯だった♨️
+
+https://hiraya-himawarinoyu.com/yu.php
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T05:21:30.331Z
 >
 > Nice day for a walk
@@ -216,12 +224,6 @@ skybridge.fly.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:35:25.467Z
 >
 > This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:31:20.460Z
->
-> Vibes 🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
