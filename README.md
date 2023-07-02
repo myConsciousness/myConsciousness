@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:56:12.951Z
+> videah θΔ @videah.net 2023-07-02T00:33:58.826Z
 >
-> Welcome! 😁
+> For new folk that enjoy using Ivory for Mastodon I have a project that lets you use it with Bluesky
+
+skybridge.fly.dev
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:39:29.855Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:35:25.467Z
 >
-> At least his goal is not to run birdapp for fun. He bought birdapp to create the super app he dreams of. And this super app is something that inherited a part of birdapp. For him, birdapp is just a stepping stone to create a super app.
+> This is the way.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:20:51.051Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:31:20.460Z
 >
-> As I have been saying since last year, Elon Musk is only interested in the huge data sets accumulated in birdapp. For him, the users are just extras that came with the birdapp when he bought it.
+> Vibes 🤙
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:14:55.051Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:29:06.973Z
 >
-> birdapp is already worth less than half what it was when he bought it, but he created a movement beyond that!
+> We can choose better cages ;)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-01T23:08:45.992Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T00:21:54.372Z
 >
-> It was none other than Elon Musk who rapidly facilitated the expansion of the social networking community outside of birdapp
+> Elon Musk is the savior to free users from the cage
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
