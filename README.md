@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T12:38:35.784Z
+>
+> Beautiful
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T12:22:48.688Z
+>
+> He is on Nostr
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:29:53.790Z
 >
 > 所属先を「自分で調べて自分で選択する」だけでも結構ハードル高いんですよね。説明するよりとりあえず一番でかいインスタンスに脳死で登録してもらって慣れてもらうのがよさそうです
@@ -208,20 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T11:23:02.817Z
 >
 > たまに彼とDiscordで連絡をとってますけど結構すごいことやってますね👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T08:08:42.443Z
->
-> いい湯だった♨️
-
-https://hiraya-himawarinoyu.com/yu.php
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T05:21:30.331Z
->
-> Nice day for a walk
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
