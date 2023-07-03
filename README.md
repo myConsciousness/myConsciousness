@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:56:50.648Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:58:01.710Z
 >
-> I noticed that the button to select images from the official web client does not respond at all 🤔
+> LG UltraWide? 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:55:11.991Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:52:15.122Z
 >
-> I can see your secret commands!
+> Thanks to this mouse my fingers are still healthy 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:50:49.721Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:42:35.482Z
 >
-> ブルスコちゃんstatus
+> This is where I code from
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:36:35.516Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:28:54.288Z
 >
-> Hi @apollotune.bsky.social , you arrived :)
+> For newcomers,
+
+The following official site list useful libraries/tools and third-party clients. Please take a look!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:30:24.695Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:24:00.092Z
 >
-> gm gm! 🌞🤞
+> It’s already possible, or maybe some people are already trying to build! :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
