@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:56:50.009Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:31:24.305Z
 >
-> Great, it's a privilege for native speakers to transcribe text with Siri!
+> It's just a clever!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:54:53.081Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:30:38.657Z
 >
-> lol I really want it in this place too!
+> All emoji language is cool I guess 😏
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:53:46.157Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:27:38.136Z
 >
-> I decided to turn a blind eye to the typo 😂
+> Please try them! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:51:57.079Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:18:00.638Z
 >
-> I see! I also can use autocorrect when typing from mobile, but I always type one character at a time because the feeling is a little different from Kanji conversion 😅
+> 気合い！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:47:55.086Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:15:34.213Z
 >
-> Welcome! 🤝
+> lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
