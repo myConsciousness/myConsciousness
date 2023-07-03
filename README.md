@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T14:21:40.877Z
+>
+> Haha I already watched their promotion even 100 times on YouTube 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T14:20:28.829Z
+>
+> I’m not very Python person for Bluesky, but I guess you can use it :)
+
+https://github.com/mnogu/chitose
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:31:24.305Z
 >
 > It's just a clever!
@@ -208,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:27:38.136Z
 >
 > Please try them! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:18:00.638Z
->
-> 気合い！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:15:34.213Z
->
-> lol
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
