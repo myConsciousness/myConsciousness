@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:43:32.879Z
+>
+> This is a very cozy setup! 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:42:49.379Z
+>
+> tbh I also mainly use my laptop lately 😂
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:40:01.788Z
+>
+> We need it next time 😏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:38:43.988Z
+>
+> 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:58:01.710Z
 >
 > LG UltraWide? 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:52:15.122Z
->
-> Thanks to this mouse my fingers are still healthy 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:42:35.482Z
->
-> This is where I code from
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:28:54.288Z
->
-> For newcomers,
-
-The following official site list useful libraries/tools and third-party clients. Please take a look!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:24:00.092Z
->
-> It’s already possible, or maybe some people are already trying to build! :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
