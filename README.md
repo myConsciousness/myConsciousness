@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:56:50.648Z
+>
+> I noticed that the button to select images from the official web client does not respond at all 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:55:11.991Z
+>
+> I can see your secret commands!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:50:49.721Z
+>
+> ブルスコちゃんstatus
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T04:36:35.516Z
+>
+> Hi @apollotune.bsky.social , you arrived :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:30:24.695Z
 >
 > gm gm! 🌞🤞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:26:05.667Z
->
-> My face when someone doesn't want to join bluesky
-
----
-
-> Zack Bornstein @zackbornstein.bsky.social 2023-07-02T18:24:08.084Z
->
-> can’t wait for this guy to put a microchip inside my skull
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:14:37.214Z
->
-> Nice folks
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-02T22:13:11.713Z
->
-> ブルスコちゃんstatus
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
