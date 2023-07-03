@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T22:57:24.985Z
+>
+> I was trying to think of an efficient way to give Bluesky's invitation codes to Instagram users. Thanks Meta
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T22:41:12.376Z
+>
+> Meta's Threads is probably more aware of AT Protocol and Bluesky than Twitter. It's obvious from their app icon
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-03T14:21:40.877Z
 >
 > Haha I already watched their promotion even 100 times on YouTube 😂
@@ -210,18 +222,6 @@ https://github.com/mnogu/chitose
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:31:24.305Z
 >
 > It's just a clever!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:30:38.657Z
->
-> All emoji language is cool I guess 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:27:38.136Z
->
-> Please try them! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
