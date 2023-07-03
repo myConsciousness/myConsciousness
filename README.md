@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:43:32.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:56:50.009Z
 >
-> This is a very cozy setup! 👍
+> Great, it's a privilege for native speakers to transcribe text with Siri!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:42:49.379Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:54:53.081Z
 >
-> tbh I also mainly use my laptop lately 😂
+> lol I really want it in this place too!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:40:01.788Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:53:46.157Z
 >
-> We need it next time 😏
+> I decided to turn a blind eye to the typo 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T06:38:43.988Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:51:57.079Z
 >
-> 🤝
+> I see! I also can use autocorrect when typing from mobile, but I always type one character at a time because the feeling is a little different from Kanji conversion 😅
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T05:58:01.710Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T07:47:55.086Z
 >
-> LG UltraWide? 😏
+> Welcome! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
