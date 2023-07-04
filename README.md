@@ -193,6 +193,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:46:45.523Z
+>
+> I also had to implement CID, so you can check my code if you need more details :)
+
+https://github.com/myConsciousness/atproto.dart/blob/main/packages/multiformats/lib/src/cid.dart
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:45:28.067Z
+>
+> 0x01 means it's CID v1
+0x55 means it's DAG-PB
+(Also 0x71 means it's DAG-CBOR)
+0x12 means it's SHA256 converted
+0x20 means hash length
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:42:45.198Z
+>
+> CID v1 is used in AT Protocol, so it basically starts with [1, 113, 18, 32] or [0x01, 0x55, 0x12, 0x20] for DAG-PB spec, or [1, 85, 18, 32] or [0x01, 0x71, 0x12, 0x20] for DAG-CBOR :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-04T01:47:51.170Z
 >
 > Meta's Threads is a feeding ground for AI
@@ -202,26 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:54:02.854Z
 >
 > He is watching our behavior 😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:52:33.726Z
->
-> Agree! And most importantly, based on the AT Protocol, we can also create services like Instagram that focus on media content :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:42:46.882Z
->
-> Instagram is a very boring platform with no room for third party developers, and I guess Threads will be no different
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:29:47.522Z
->
-> I see! It’s a bit tricky, but you can see my implementation if you need :)
-
-https://github.com/myConsciousness/atproto.dart/blob/main/packages/atproto_core/lib/src/car_decoder.dart
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
