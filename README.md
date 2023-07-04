@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T01:47:51.170Z
+>
+> Meta's Threads is a feeding ground for AI
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:54:02.854Z
 >
 > He is watching our behavior 😏
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I see! It’s a bit tricky, but you can see my implementation if you need :)
 
 https://github.com/myConsciousness/atproto.dart/blob/main/packages/atproto_core/lib/src/car_decoder.dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:47:08.030Z
->
-> About Firehose API and other syncs endpoints? Yes I built CAR parser, but you don’t need to aware of it if you use my packages:)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
