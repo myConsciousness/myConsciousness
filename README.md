@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:54:02.854Z
+>
+> He is watching our behavior 😏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:52:33.726Z
+>
+> Agree! And most importantly, based on the AT Protocol, we can also create services like Instagram that focus on media content :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:42:46.882Z
+>
+> Instagram is a very boring platform with no room for third party developers, and I guess Threads will be no different
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:29:47.522Z
+>
+> I see! It’s a bit tricky, but you can see my implementation if you need :)
+
+https://github.com/myConsciousness/atproto.dart/blob/main/packages/atproto_core/lib/src/car_decoder.dart
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:47:08.030Z
 >
 > About Firehose API and other syncs endpoints? Yes I built CAR parser, but you don’t need to aware of it if you use my packages:)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:42:35.667Z
->
-> This is my Instagram account btw
-
-https://instagram.com/shinyakato.dev?igshid=MmIzYWVlNDQ5Yg==
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:26:44.390Z
->
-> Wait for good news!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:23:01.470Z
->
-> I don’t know, but I plan to create a Bluesky community on Threads :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:16:48.827Z
->
-> https://apps.apple.com/app/threads-an-instagram-app/id6446901002
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
