@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T22:57:24.985Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:47:08.030Z
 >
-> I was trying to think of an efficient way to give Bluesky's invitation codes to Instagram users. Thanks Meta
+> About Firehose API and other syncs endpoints? Yes I built CAR parser, but you don’t need to aware of it if you use my packages:)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T22:41:12.376Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:42:35.667Z
 >
-> Meta's Threads is probably more aware of AT Protocol and Bluesky than Twitter. It's obvious from their app icon
+> This is my Instagram account btw
+
+https://instagram.com/shinyakato.dev?igshid=MmIzYWVlNDQ5Yg==
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T14:21:40.877Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:26:44.390Z
 >
-> Haha I already watched their promotion even 100 times on YouTube 😂
+> Wait for good news!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T14:20:28.829Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:23:01.470Z
 >
-> I’m not very Python person for Bluesky, but I guess you can use it :)
-
-https://github.com/mnogu/chitose
+> I don’t know, but I plan to create a Bluesky community on Threads :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T08:31:24.305Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-03T23:16:48.827Z
 >
-> It's just a clever!
+> https://apps.apple.com/app/threads-an-instagram-app/id6446901002
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
