@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T05:28:40.522Z
+>
+> Yay you did it! 😁🎉
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T05:00:41.287Z
+>
+> You’re very welcome 😁🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:46:45.523Z
 >
 > I also had to implement CID, so you can check my code if you need more details :)
@@ -214,18 +226,6 @@ https://github.com/myConsciousness/atproto.dart/blob/main/packages/multiformats/
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:42:45.198Z
 >
 > CID v1 is used in AT Protocol, so it basically starts with [1, 113, 18, 32] or [0x01, 0x55, 0x12, 0x20] for DAG-PB spec, or [1, 85, 18, 32] or [0x01, 0x71, 0x12, 0x20] for DAG-CBOR :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T01:47:51.170Z
->
-> Meta's Threads is a feeding ground for AI
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T00:54:02.854Z
->
-> He is watching our behavior 😏
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
