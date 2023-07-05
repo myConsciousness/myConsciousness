@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T11:50:20.144Z
+>
+> I hope it’s not @zuck but @jack.bsky.social
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T11:45:32.300Z
+>
+> Instagram のアカウントがあるのでたぶんもう紐付けされてそうです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T11:41:30.989Z
+>
+> Nice rich club
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T10:33:03.311Z
 >
 > 🤘⚡️⚡️
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T10:25:52.131Z
 >
 > When you use multiple social networking services
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T07:57:10.479Z
->
-> We’re here
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T07:00:29.702Z
->
-> I see, I finally noticed the pattern on the wings! :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T06:53:51.276Z
->
-> Japanese White-eye? :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
