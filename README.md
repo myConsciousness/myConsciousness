@@ -193,39 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T05:28:40.522Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T01:08:51.568Z
 >
-> Yay you did it! 😁🎉
+> 付けられたラベルに応じて振る舞いが変わるUIがあったら面白いかもね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T05:00:41.287Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T00:53:10.543Z
 >
-> You’re very welcome 😁🤝
+> Automating tasks is a wonderful thing
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:46:45.523Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T23:05:22.924Z
 >
-> I also had to implement CID, so you can check my code if you need more details :)
-
-https://github.com/myConsciousness/atproto.dart/blob/main/packages/multiformats/lib/src/cid.dart
+> おはスコ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:45:28.067Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T23:00:03.403Z
 >
-> 0x01 means it's CID v1
-0x55 means it's DAG-PB
-(Also 0x71 means it's DAG-CBOR)
-0x12 means it's SHA256 converted
-0x20 means hash length
+> おはスコ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T04:42:45.198Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-04T13:56:18.844Z
 >
-> CID v1 is used in AT Protocol, so it basically starts with [1, 113, 18, 32] or [0x01, 0x55, 0x12, 0x20] for DAG-PB spec, or [1, 85, 18, 32] or [0x01, 0x71, 0x12, 0x20] for DAG-CBOR :)
+> Ladies and gentlemen, Happy 4th!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
