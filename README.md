@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T07:57:10.479Z
+>
+> We’re here
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T07:00:29.702Z
 >
 > I see, I finally noticed the pattern on the wings! :)
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T01:08:51.568Z
 >
 > 付けられたラベルに応じて振る舞いが変わるUIがあったら面白いかもね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T00:53:10.543Z
->
-> Automating tasks is a wonderful thing
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
