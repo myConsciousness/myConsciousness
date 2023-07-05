@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:51:57.851Z
+>
+> 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:29:49.138Z
+>
+> I guess yes :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:25:49.275Z
+>
+> It’s opened in 35 minutes, good luck to all of you! 🫡
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:24:22.175Z
 >
 > Looks like we didn't have enough assets to join Threads' rich club
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:21:35.206Z
 >
 > Let’s prepare to give our data to Zuck
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:15:04.491Z
->
-> Let’s create a Bluesky community on Threads. This platform is ours!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:05:24.121Z
->
-> This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:04:44.749Z
->
-> You can log in with Instagram account
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
