@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T12:05:29.660Z
+>
+> Yes they are very rich, I just hope this submarine doesn't sink haha
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T11:50:20.144Z
 >
 > I hope it’s not @zuck but @jack.bsky.social
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T10:33:03.311Z
 >
 > 🤘⚡️⚡️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T10:25:52.131Z
->
-> When you use multiple social networking services
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
