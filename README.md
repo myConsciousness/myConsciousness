@@ -193,6 +193,31 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:54:45.157Z
+>
+> I didn't know this 👀 
+
+https://makevscodeawesome.com
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:42:21.200Z
+>
+> Theme for my VSCode recently
+
+Panda Theme + Fira Code
+
+https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda
+https://github.com/tonsky/FiraCode
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:04:58.364Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:00:30.209Z
 >
 > Bluesky has many spies from Meta
@@ -204,24 +229,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > AT Protocol vs Threads
 
 Coincidence?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T15:51:52.044Z
->
-> Bluesky vs Threads
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T10:40:49.424Z
->
-> I remember this word😏
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T10:15:48.062Z
->
-> Haha you described perfectly
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
