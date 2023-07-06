@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T02:17:35.009Z
+>
+> All I can say is that Meta is socially credible and rich beyond comparison to Twitter. If Meta got serious, they could make Twitter out of business tomorrow.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T01:33:59.578Z
+>
+> Tired of Threads. There is nothing technically interesting about it.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:51:57.851Z
 >
 > 
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:25:49.275Z
 >
 > It’s opened in 35 minutes, good luck to all of you! 🫡
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:24:22.175Z
->
-> Looks like we didn't have enough assets to join Threads' rich club
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T14:21:35.206Z
->
-> Let’s prepare to give our data to Zuck
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
