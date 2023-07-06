@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T04:58:31.856Z
+>
+> We made it 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T04:51:56.575Z
+>
+> Bluesky is a very smart place
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T02:17:35.009Z
 >
 > All I can say is that Meta is socially credible and rich beyond comparison to Twitter. If Meta got serious, they could make Twitter out of business tomorrow.
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:51:57.851Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:29:49.138Z
->
-> I guess yes :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:25:49.275Z
->
-> It’s opened in 35 minutes, good luck to all of you! 🫡
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
