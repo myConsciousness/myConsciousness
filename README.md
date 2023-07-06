@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T04:58:31.856Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:54:39.230Z
 >
-> We made it 😁
+> 🥷🥷🥷
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T04:51:56.575Z
+> beth @bethbourdon.bsky.social 2023-07-06T01:09:47.366Z
 >
-> Bluesky is a very smart place
+> the 4 twitters
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T02:17:35.009Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:52:09.281Z
 >
-> All I can say is that Meta is socially credible and rich beyond comparison to Twitter. If Meta got serious, they could make Twitter out of business tomorrow.
+> Japan as No.1
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T01:33:59.578Z
->
-> Tired of Threads. There is nothing technically interesting about it.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-05T22:51:57.851Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:44:01.201Z
 >
 > 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:20:20.689Z
+>
+> I’m back from threads, it was like hell
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
