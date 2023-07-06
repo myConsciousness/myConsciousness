@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T10:40:49.424Z
+>
+> I remember this word😏
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T10:15:48.062Z
+>
+> Haha you described perfectly
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T09:30:34.137Z
 >
 > Threads is like a party place for large groups. Just when you think you're having a good time chatting with your friends, a group of celebrities you don't even know walk by you and your friends, loudly bragging about their elegant holidays and yoga accomplishments.
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T07:09:29.741Z
 >
 > SkyFeed is awesome
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:54:39.230Z
->
-> 🥷🥷🥷
-
----
-
-> beth @bethbourdon.bsky.social 2023-07-06T01:09:47.366Z
->
-> the 4 twitters
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
