@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:00:30.209Z
+>
+> Bluesky has many spies from Meta
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T15:55:31.091Z
+>
+> AT Protocol vs Threads
+
+Coincidence?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T15:51:52.044Z
+>
+> Bluesky vs Threads
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T10:40:49.424Z
 >
 > I remember this word😏
@@ -202,24 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T10:15:48.062Z
 >
 > Haha you described perfectly
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T09:30:34.137Z
->
-> Threads is like a party place for large groups. Just when you think you're having a good time chatting with your friends, a group of celebrities you don't even know walk by you and your friends, loudly bragging about their elegant holidays and yoga accomplishments.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T09:21:55.115Z
->
-> 2023年のトレンドはTwitter風SNS
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T07:09:29.741Z
->
-> SkyFeed is awesome
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
