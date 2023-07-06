@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T07:09:29.741Z
+>
+> SkyFeed is awesome
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:54:39.230Z
 >
 > 🥷🥷🥷
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:44:01.201Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T05:20:20.689Z
->
-> I’m back from threads, it was like hell
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
