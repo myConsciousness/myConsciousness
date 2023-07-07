@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T01:16:37.165Z
+>
+> Bluebirdで初カキコ...ども…
+
+https://bluebird.blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:27:09.550Z
 >
 > Good evening professor! 😁
@@ -216,17 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I didn't know this 👀 
 
 https://makevscodeawesome.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:42:21.200Z
->
-> Theme for my VSCode recently
-
-Panda Theme + Fira Code
-
-https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda
-https://github.com/tonsky/FiraCode
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
