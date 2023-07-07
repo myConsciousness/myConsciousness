@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Ali Partovi @alip.bsky.social 2023-07-06T23:08:40.909Z
+>
+> I'm excited to share that we at Neo have backed Bluesky and led their $8M seed round! 
+
+https://neo.substack.com/p/neo-backs-bluesky?utm_medium=email
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-07T11:15:55.607Z
 >
 > Now that atproto.dart development is settling down, I'd like to measure the benchmarks at this stage
@@ -216,12 +224,6 @@ https://bluebird.blue
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:27:09.550Z
 >
 > Good evening professor! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:07:11.744Z
->
-> おはスココ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
