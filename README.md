@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T11:15:55.607Z
+>
+> Now that atproto.dart development is settling down, I'd like to measure the benchmarks at this stage
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-07T10:08:47.267Z
 >
 > The truth is always in the dark
@@ -216,12 +222,6 @@ https://bluebird.blue
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:07:11.744Z
 >
 > おはスココ🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:02:56.228Z
->
-> Good morning ブルスコ🤙
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
