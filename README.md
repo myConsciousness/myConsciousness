@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T10:08:47.267Z
+>
+> The truth is always in the dark
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-07T01:16:37.165Z
 >
 > Bluebirdで初カキコ...ども…
@@ -216,14 +222,6 @@ https://bluebird.blue
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:02:56.228Z
 >
 > Good morning ブルスコ🤙
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T16:54:45.157Z
->
-> I didn't know this 👀 
-
-https://makevscodeawesome.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
