@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T11:54:45.085Z
+>
+> I realize now that your profile picture is a composite photo 😱
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T06:29:26.653Z
 >
 > heehee 🌞
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:18:13.748Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:57:54.966Z
->
-> そもそもTwitterのコミュニティやサークルはv2エンドポイントに採用されなかったんだよね。Twitter迷走時代の遺物というか、いつ消されても不思議じゃない
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
