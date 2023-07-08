@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T06:29:26.653Z
+>
+> heehee 🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:29:01.571Z
 >
 > Threadsの複数画像並べる機能で一番右にブラクラ画像を設置する人がそろそろ出てきそうなんだけど皆真面目だね
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:57:54.966Z
 >
 > そもそもTwitterのコミュニティやサークルはv2エンドポイントに採用されなかったんだよね。Twitter迷走時代の遺物というか、いつ消されても不思議じゃない
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:42:37.362Z
->
-> “bash for loop examples”
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
