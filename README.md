@@ -193,37 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:27:24.871Z
+>
+> @emily.bsky.team
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:26:49.686Z
+>
+> My package is only a wrapper, so I have not included details about features. But it’s true that this list feature may be a little confusing, maybe we need an official guidance :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T00:27:22.957Z
+>
+> Hm, reading this, DNS and other settings may not be possible at present, we need to test it 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T00:22:54.457Z
+>
+> Your .bsky.social username is unique to you, in this server. But by setting your domain as your username, you prove that you are always unique on AT Protocol and the Internet.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:53:43.444Z
 >
 > Leave it to the blue bird to fight with Threads; AT Protocol and Bluesky will take a different path than them anyway
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:50:52.271Z
->
-> The world is all about Threads, but I was glad to see Meta's ability to be a part of GAFA rather than the Threads platform. I was able to rediscover the strength of an American company.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:43:11.114Z
->
-> I transfer my domains to Bluesky Account
-
-https://account.bsky.app
-
----
-
-> Ali Partovi @alip.bsky.social 2023-07-06T23:08:40.909Z
->
-> I'm excited to share that we at Neo have backed Bluesky and led their $8M seed round! 
-
-https://neo.substack.com/p/neo-backs-bluesky?utm_medium=email
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T11:15:55.607Z
->
-> Now that atproto.dart development is settling down, I'd like to measure the benchmarks at this stage
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
