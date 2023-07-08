@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:57:54.966Z
+>
+> そもそもTwitterのコミュニティやサークルはv2エンドポイントに採用されなかったんだよね。Twitter迷走時代の遺物というか、いつ消されても不思議じゃない
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:42:37.362Z
+>
+> “bash for loop examples”
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:29:50.830Z
+>
+> Twitterサークルとかいうの使ったこともないから具体的になにをする機能なのか知らないけど、誰かに見られて困る情報は非公開でも投稿するなが鉄則な気がする
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T03:40:19.467Z
 >
 > Congrats! 😁👍
@@ -203,24 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 >
 > あらゆるMastodonクライアントをBlueskyクライアント化するプロキシ「Sky Bridge」レビュー
 https://gigazine.net/news/20230708-sky-bridge-mastodon-bluesky/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T03:11:47.034Z
->
-> @videah.net 🥳🥳🥳
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T02:06:18.775Z
->
-> 一方でAT Protocol やBlueskyはスタートアップなので、下手に大手に喧嘩を売らずに共生しながら着実にサービスを拡大していくのがベストですね。落ち目のTwitterには強く出れますけど、Metaはちょっと相手が悪いです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T02:02:41.953Z
->
-> Thanks Jake! Then I should not transfer yet, but I’ll be waiting for this update!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
