@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:29:01.571Z
+>
+> Threadsの複数画像並べる機能で一番右にブラクラ画像を設置する人がそろそろ出てきそうなんだけど皆真面目だね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:26:12.189Z
+>
+> Instagram もグリッド投稿が流行ってたので、この形式も流行る気がしますね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:18:13.748Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:57:54.966Z
 >
 > そもそもTwitterのコミュニティやサークルはv2エンドポイントに採用されなかったんだよね。Twitter迷走時代の遺物というか、いつ消されても不思議じゃない
@@ -202,25 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:42:37.362Z
 >
 > “bash for loop examples”
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T04:29:50.830Z
->
-> Twitterサークルとかいうの使ったこともないから具体的になにをする機能なのか知らないけど、誰かに見られて困る情報は非公開でも投稿するなが鉄則な気がする
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T03:40:19.467Z
->
-> Congrats! 😁👍
-
----
-
-> GIGAZINE @gigazine.net 2023-07-08T03:00:33.841Z
->
-> あらゆるMastodonクライアントをBlueskyクライアント化するプロキシ「Sky Bridge」レビュー
-https://gigazine.net/news/20230708-sky-bridge-mastodon-bluesky/
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
