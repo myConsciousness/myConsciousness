@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:53:43.444Z
+>
+> Leave it to the blue bird to fight with Threads; AT Protocol and Bluesky will take a different path than them anyway
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:50:52.271Z
+>
+> The world is all about Threads, but I was glad to see Meta's ability to be a part of GAFA rather than the Threads platform. I was able to rediscover the strength of an American company.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:43:11.114Z
+>
+> I transfer my domains to Bluesky Account
+
+https://account.bsky.app
+
+---
+
 > Ali Partovi @alip.bsky.social 2023-07-06T23:08:40.909Z
 >
 > I'm excited to share that we at Neo have backed Bluesky and led their $8M seed round! 
@@ -204,26 +224,6 @@ https://neo.substack.com/p/neo-backs-bluesky?utm_medium=email
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-07T11:15:55.607Z
 >
 > Now that atproto.dart development is settling down, I'd like to measure the benchmarks at this stage
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T10:08:47.267Z
->
-> The truth is always in the dark
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T01:16:37.165Z
->
-> Bluebirdで初カキコ...ども…
-
-https://bluebird.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-06T23:27:09.550Z
->
-> Good evening professor! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
