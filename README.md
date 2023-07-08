@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T16:14:47.454Z
+>
+> 🧚‍♂️🦄
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T16:08:48.652Z
+>
+> When I give out Bluesky invitation codes, I often hear, "This is the first time I've met someone who didn't charge me money”
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T11:54:45.085Z
 >
 > I realize now that your profile picture is a composite photo 😱
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:29:01.571Z
 >
 > Threadsの複数画像並べる機能で一番右にブラクラ画像を設置する人がそろそろ出てきそうなんだけど皆真面目だね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:26:12.189Z
->
-> Instagram もグリッド投稿が流行ってたので、この形式も流行る気がしますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:18:13.748Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
