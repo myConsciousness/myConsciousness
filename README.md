@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T03:11:47.034Z
+>
+> @videah.net 🥳🥳🥳
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T02:06:18.775Z
 >
 > 一方でAT Protocol やBlueskyはスタートアップなので、下手に大手に喧嘩を売らずに共生しながら着実にサービスを拡大していくのがベストですね。落ち目のTwitterには強く出れますけど、Metaはちょっと相手が悪いです
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:32:18.716Z
 >
 > 東欧の夏はいいぞ。めちゃくちゃ乾燥してるから気温が高くても汗をかくことがほとんどないし、洗濯した衣類も室内でてきとうにかけておくだけで1時間もあれば乾いて着れるようになる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:27:24.871Z
->
-> @emily.bsky.team
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
