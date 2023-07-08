@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T02:06:18.775Z
+>
+> 一方でAT Protocol やBlueskyはスタートアップなので、下手に大手に喧嘩を売らずに共生しながら着実にサービスを拡大していくのがベストですね。落ち目のTwitterには強く出れますけど、Metaはちょっと相手が悪いです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T02:02:41.953Z
+>
+> Thanks Jake! Then I should not transfer yet, but I’ll be waiting for this update!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:59:06.443Z
+>
+> Twitterはこの調子だと勝手に自壊してThreadsが世界的なメインストリームになりそうですね。少なくともMetaが抱える潜在的なユーザー数と資本力にはTwitterではとても太刀打ちできないですし、Twitterから革新的なサービスが出るビジョンがまったく見えないのが致命的です。今は単にTwitter風のサービスですけど、Metaの総合的な技術を活かしたまったく別のプラットフォームになると思いますね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:32:18.716Z
+>
+> 東欧の夏はいいぞ。めちゃくちゃ乾燥してるから気温が高くても汗をかくことがほとんどないし、洗濯した衣類も室内でてきとうにかけておくだけで1時間もあれば乾いて着れるようになる
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:27:24.871Z
 >
 > @emily.bsky.team
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:26:49.686Z
->
-> My package is only a wrapper, so I have not included details about features. But it’s true that this list feature may be a little confusing, maybe we need an official guidance :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T00:27:22.957Z
->
-> Hm, reading this, DNS and other settings may not be possible at present, we need to test it 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T00:22:54.457Z
->
-> Your .bsky.social username is unique to you, in this server. But by setting your domain as your username, you prove that you are always unique on AT Protocol and the Internet.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-07T23:53:43.444Z
->
-> Leave it to the blue bird to fight with Threads; AT Protocol and Bluesky will take a different path than them anyway
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
