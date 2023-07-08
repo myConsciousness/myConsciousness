@@ -193,6 +193,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T03:40:19.467Z
+>
+> Congrats! 😁👍
+
+---
+
+> GIGAZINE @gigazine.net 2023-07-08T03:00:33.841Z
+>
+> あらゆるMastodonクライアントをBlueskyクライアント化するプロキシ「Sky Bridge」レビュー
+https://gigazine.net/news/20230708-sky-bridge-mastodon-bluesky/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T03:11:47.034Z
 >
 > @videah.net 🥳🥳🥳
@@ -208,18 +221,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T02:02:41.953Z
 >
 > Thanks Jake! Then I should not transfer yet, but I’ll be waiting for this update!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:59:06.443Z
->
-> Twitterはこの調子だと勝手に自壊してThreadsが世界的なメインストリームになりそうですね。少なくともMetaが抱える潜在的なユーザー数と資本力にはTwitterではとても太刀打ちできないですし、Twitterから革新的なサービスが出るビジョンがまったく見えないのが致命的です。今は単にTwitter風のサービスですけど、Metaの総合的な技術を活かしたまったく別のプラットフォームになると思いますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T01:32:18.716Z
->
-> 東欧の夏はいいぞ。めちゃくちゃ乾燥してるから気温が高くても汗をかくことがほとんどないし、洗濯した衣類も室内でてきとうにかけておくだけで1時間もあれば乾いて着れるようになる
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
