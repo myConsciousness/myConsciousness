@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T16:14:47.454Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:54:06.109Z
 >
-> 🧚‍♂️🦄
+> Happy birthday to ya!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T16:08:48.652Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:36:26.628Z
 >
-> When I give out Bluesky invitation codes, I often hear, "This is the first time I've met someone who didn't charge me money”
+> We pursue the **right** beauty 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T11:54:45.085Z
+> (Enn) Nafnlaus 🇮🇸 🇺🇦 @nafnlaus.bsky.social 2023-07-08T23:05:01.597Z
 >
-> I realize now that your profile picture is a composite photo 😱
+> 7/ Not all beautiful cauliflorous trees are so edible, however. The stunning cannonball tree (Couroupita guianensis), sacred in India, puts on a staggering display, but the fruits are hard and foul-smelling, generally only appropriate as a famine food.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T06:29:26.653Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:32:46.535Z
 >
-> heehee 🌞
+> It's almost hibiscus season
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T05:29:01.571Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:25:42.240Z
 >
-> Threadsの複数画像並べる機能で一番右にブラクラ画像を設置する人がそろそろ出てきそうなんだけど皆真面目だね
+> Make this platform Instagram
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
