@@ -193,6 +193,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T03:37:09.180Z
+>
+> Mastodon Proxy
+
+SkyBridge
+
+https://skybridge.fly.dev
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:37:47.725Z
 >
 > Threadsの目的はInstagram + TwitterのFacebookに匹敵する巨大プラットフォームを作ることのように見えるし、AP採用は今のところついでにFediverseにしかいないユーザーも吸収できたらラッキー程度の客寄せパンダ的なあつかいのようにも見える
@@ -214,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T00:23:25.435Z
 >
 > flicknow.bskyですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:54:06.109Z
->
-> Happy birthday to ya!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
