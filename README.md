@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:37:47.725Z
+>
+> Threadsの目的はInstagram + TwitterのFacebookに匹敵する巨大プラットフォームを作ることのように見えるし、AP採用は今のところついでにFediverseにしかいないユーザーも吸収できたらラッキー程度の客寄せパンダ的なあつかいのようにも見える
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:22:06.214Z
 >
 > そもそもMetaは資本主義の権化だし、対等な立場で既存のインスタンスと仲良くしていくつもりなんかさらさらないと思うんだよな。自分たちのやり方で利益を最大化させてくるだろうし、金にならないなら切り捨ててくるだろうね
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:54:06.109Z
 >
 > Happy birthday to ya!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:36:26.628Z
->
-> We pursue the **right** beauty 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
