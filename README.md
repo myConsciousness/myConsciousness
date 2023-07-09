@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T07:28:01.539Z
+>
+> Unidentified Mysterious Animal
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T05:53:43.796Z
 >
 > He dozes off on the breezy lawn
@@ -218,12 +224,6 @@ https://skybridge.fly.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:22:06.214Z
 >
 > そもそもMetaは資本主義の権化だし、対等な立場で既存のインスタンスと仲良くしていくつもりなんかさらさらないと思うんだよな。自分たちのやり方で利益を最大化させてくるだろうし、金にならないなら切り捨ててくるだろうね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:15:16.657Z
->
-> 結果的にThreadsという巨大インスタンスだけが生き残るというディストピア
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
