@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T05:53:43.796Z
+>
+> He dozes off on the breezy lawn
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T03:37:09.180Z
 >
 > Mastodon Proxy
@@ -218,12 +224,6 @@ https://skybridge.fly.dev
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:15:16.657Z
 >
 > 結果的にThreadsという巨大インスタンスだけが生き残るというディストピア
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T00:23:25.435Z
->
-> flicknow.bskyですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
