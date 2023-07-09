@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:22:06.214Z
+>
+> そもそもMetaは資本主義の権化だし、対等な立場で既存のインスタンスと仲良くしていくつもりなんかさらさらないと思うんだよな。自分たちのやり方で利益を最大化させてくるだろうし、金にならないなら切り捨ててくるだろうね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:15:16.657Z
+>
+> 結果的にThreadsという巨大インスタンスだけが生き残るというディストピア
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T00:23:25.435Z
+>
+> flicknow.bskyですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:54:06.109Z
 >
 > Happy birthday to ya!
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:36:26.628Z
 >
 > We pursue the **right** beauty 😁
-
----
-
-> (Enn) Nafnlaus 🇮🇸 🇺🇦 @nafnlaus.bsky.social 2023-07-08T23:05:01.597Z
->
-> 7/ Not all beautiful cauliflorous trees are so edible, however. The stunning cannonball tree (Couroupita guianensis), sacred in India, puts on a staggering display, but the fruits are hard and foul-smelling, generally only appropriate as a famine food.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:32:46.535Z
->
-> It's almost hibiscus season
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-08T23:25:42.240Z
->
-> Make this platform Instagram
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
