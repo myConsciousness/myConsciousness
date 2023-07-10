@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T00:32:34.301Z
+>
+> Русскоязычных здесь мало но они приветствуются :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T23:29:58.189Z
 >
 > She hates men anyway
@@ -218,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 SkyBridge
 
 https://skybridge.fly.dev
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T01:37:47.725Z
->
-> Threadsの目的はInstagram + TwitterのFacebookに匹敵する巨大プラットフォームを作ることのように見えるし、AP採用は今のところついでにFediverseにしかいないユーザーも吸収できたらラッキー程度の客寄せパンダ的なあつかいのようにも見える
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
