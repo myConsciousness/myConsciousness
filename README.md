@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T07:16:30.745Z
+>
+> 下手に持ったら横向きに吹っ飛びそうな形してる…
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-10T00:32:34.301Z
 >
 > Русскоязычных здесь мало но они приветствуются :)
@@ -214,16 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-09T05:53:43.796Z
 >
 > He dozes off on the breezy lawn
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T03:37:09.180Z
->
-> Mastodon Proxy
-
-SkyBridge
-
-https://skybridge.fly.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
