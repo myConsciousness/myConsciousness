@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T08:58:24.109Z
+>
+> This will be in the history books
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T08:51:28.528Z
+>
+> Okay, he has only shown 10% of his true potential
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T08:33:50.284Z
+>
+> I would buy a ticket and watch if Elon Musk and Mark Zuckerberg were to duel like gladiators at the Colosseum
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T08:30:08.854Z
+>
+> He must be afraid Caesar will kill him in the Colosseum
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-10T07:16:30.745Z
 >
 > 下手に持ったら横向きに吹っ飛びそうな形してる…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T00:32:34.301Z
->
-> Русскоязычных здесь мало но они приветствуются :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T23:29:58.189Z
->
-> She hates men anyway
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T07:28:01.539Z
->
-> Unidentified Mysterious Animal
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-09T05:53:43.796Z
->
-> He dozes off on the breezy lawn
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
