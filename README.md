@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T05:17:58.072Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:52:53.767Z
 >
-> https://front-row.jp/_ct/17378310
+> @albattran.bsky.social wow I didn’t know you’re already here! I hope you build interesting things like Tweepsmap on this platform too 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T04:14:18.708Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:28:13.316Z
 >
-> 
+> Good start, welcome!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T23:49:02.845Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:23:47.834Z
 >
-> It’s our vault
+> おはスコ🌞
 
 ---
 
-> Catbus @catbus.bsky.social 2023-07-09T14:22:34.022Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:21:19.032Z
 >
-> The vibe
+> おはスココ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T23:46:03.106Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:20:46.989Z
 >
-> ブルスコちゃんstatus
+> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
