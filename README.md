@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T04:14:18.708Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-10T23:49:02.845Z
 >
 > It’s our vault
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-10T14:43:37.429Z
 >
 > This is the way.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-10T14:39:35.021Z
->
-> Webからだとまだアカウント認証ができないのでプロフィールデータにしかアクセスできないですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
