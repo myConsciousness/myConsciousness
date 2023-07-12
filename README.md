@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T11:49:52.283Z
+>
+> I suffered through a DOS batch today. Who created the text file with BOM?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T10:42:19.697Z
 >
 > 実際にどういう理由があったかはわからないけど、自分の中で理想的な異性像を作りすぎて実際に性転換してみたら理想とまったく違う現実に絶望する話は聞いたことあるな
@@ -214,14 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T09:23:58.947Z
 >
 > Thanks, I'll check! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T08:02:19.058Z
->
-> I have added some apps to Showcase on atprotodart.com :) I also made it to show the author of each app. You can view the author's profile on Bluesky by clicking on the auhtor's link.
-
-https://atprotodart.com/showcase/
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
