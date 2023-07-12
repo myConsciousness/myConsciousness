@@ -193,6 +193,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T01:39:02.923Z
+>
+> Test TextMath
+
+𝑍ₙ₊₁ = 𝑍ₙ² + 𝐶 
+
+https://textmath.hyuki.net
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T01:05:12.585Z
 >
 > I just recently noticed that melos has a built-in command "publish". If I had realized this earlier, I would not have had to implement the topological sort and publish script myself.
@@ -216,12 +226,6 @@ https://melos.invertase.dev/commands/publish
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:28:13.316Z
 >
 > Good start, welcome!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:23:47.834Z
->
-> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
