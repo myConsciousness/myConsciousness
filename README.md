@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T09:33:14.973Z
+>
+> OAuth is not yet supported by AT Protocol or Bluesky, so it's not possible. But OAuth is an essential of today's social networking services, so I believe it will eventually be implemented. At that time, of course I plan to create a package that easily integrates Flutter and OAuth :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T09:23:58.947Z
+>
+> Thanks, I'll check! 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T08:02:19.058Z
 >
 > I have added some apps to Showcase on atprotodart.com :) I also made it to show the author of each app. You can view the author's profile on Bluesky by clicking on the auhtor's link.
@@ -210,22 +222,6 @@ https://atprotodart.com/showcase/
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:34:15.046Z
 >
 > Yes! This is the first time I have used this package and it has dramatically increased my development productivity :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:31:56.707Z
->
-> やっぱりジャックが開発の中心にいると思われてるんですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T01:39:02.923Z
->
-> Test TextMath
-
-𝑍ₙ₊₁ = 𝑍ₙ² + 𝐶 
-
-https://textmath.hyuki.net
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
