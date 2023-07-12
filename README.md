@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:44:43.177Z
+>
+> 古今東西インテリゲンツィアは誰にも侵害されない選択の自由を求める傾向があるが、大衆は必要最低限の自由があれば鎖に繋がれた状態を望む
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:34:15.046Z
+>
+> Yes! This is the first time I have used this package and it has dramatically increased my development productivity :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:31:56.707Z
+>
+> やっぱりジャックが開発の中心にいると思われてるんですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T01:39:02.923Z
 >
 > Test TextMath
@@ -208,24 +226,6 @@ https://textmath.hyuki.net
 > I just recently noticed that melos has a built-in command "publish". If I had realized this earlier, I would not have had to implement the topological sort and publish script myself.
 
 https://melos.invertase.dev/commands/publish
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T23:29:07.289Z
->
-> @redsolver.net You are using a forked SurrealDB package in SkyFeed, is there a problem with the existing package? I’m also planning to try SurrealDB with Dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:52:53.767Z
->
-> @albattran.bsky.social wow I didn’t know you’re already here! I hope you build interesting things like Tweepsmap on this platform too 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:28:13.316Z
->
-> Good start, welcome!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
