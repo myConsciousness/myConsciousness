@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T08:02:19.058Z
+>
+> I have added some apps to Showcase on atprotodart.com :) I also made it to show the author of each app. You can view the author's profile on Bluesky by clicking on the auhtor's link.
+
+https://atprotodart.com/showcase/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:44:43.177Z
 >
 > 古今東西インテリゲンツィアは誰にも侵害されない選択の自由を求める傾向があるが、大衆は必要最低限の自由があれば鎖に繋がれた状態を望む
@@ -218,14 +226,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 𝑍ₙ₊₁ = 𝑍ₙ² + 𝐶 
 
 https://textmath.hyuki.net
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T01:05:12.585Z
->
-> I just recently noticed that melos has a built-in command "publish". If I had realized this earlier, I would not have had to implement the topological sort and publish script myself.
-
-https://melos.invertase.dev/commands/publish
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
