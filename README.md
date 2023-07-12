@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T23:29:07.289Z
+>
+> @redsolver.net You are using a forked SurrealDB package in SkyFeed, is there a problem with the existing package? I’m also planning to try SurrealDB with Dart
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:52:53.767Z
 >
 > @albattran.bsky.social wow I didn’t know you’re already here! I hope you build interesting things like Tweepsmap on this platform too 😁
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:21:19.032Z
 >
 > おはスココ🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-11T22:20:46.989Z
->
-> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
