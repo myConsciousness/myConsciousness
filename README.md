@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T10:42:19.697Z
+>
+> 実際にどういう理由があったかはわからないけど、自分の中で理想的な異性像を作りすぎて実際に性転換してみたら理想とまったく違う現実に絶望する話は聞いたことあるな
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T10:12:59.728Z
+>
+> Haha I was just wondering if I should separate SkyFeed from packages such as Indexer! Also there is great value in open sourcing a great app like SkyFeed, I’m very looking forward to see your work! :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T09:33:14.973Z
 >
 > OAuth is not yet supported by AT Protocol or Bluesky, so it's not possible. But OAuth is an essential of today's social networking services, so I believe it will eventually be implemented. At that time, of course I plan to create a package that easily integrates Flutter and OAuth :)
@@ -210,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have added some apps to Showcase on atprotodart.com :) I also made it to show the author of each app. You can view the author's profile on Bluesky by clicking on the auhtor's link.
 
 https://atprotodart.com/showcase/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:44:43.177Z
->
-> 古今東西インテリゲンツィアは誰にも侵害されない選択の自由を求める傾向があるが、大衆は必要最低限の自由があれば鎖に繋がれた状態を望む
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T04:34:15.046Z
->
-> Yes! This is the first time I have used this package and it has dramatically increased my development productivity :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
