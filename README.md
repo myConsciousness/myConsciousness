@@ -193,6 +193,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T07:22:01.787Z
+>
+> Maybe you already know, according to the post of this user, chisato.bsky.social is his/her main account
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T07:16:20.492Z
+>
+> 過去のポストを見るとchisatoっぽい？
+
+https://bsky.app/profile/elna.bsky.social/post/3jyizxgksnj2f
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T07:03:06.378Z
+>
+> Any way you want! You can contact me here, or Discord :)
+
+https://discordapp.com/users/919043517974720514
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:57:37.751Z
 >
 > Okay, I can help :)
@@ -202,24 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:52:49.209Z
 >
 > This account is intentionally trying to create hate
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:51:23.860Z
->
-> The account seems to be intentionally abusing the invite code and making hateful things
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:31:36.434Z
->
-> もうなにが使えるのかすら確認してないですけど、さすがにMediaは残した感じですかね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T05:33:44.476Z
->
-> POST (DELETE)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
