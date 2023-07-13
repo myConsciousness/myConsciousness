@@ -193,6 +193,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> ✨(Sid)ereal Fox @slimedrops.com 2023-07-07T19:19:41.699Z
+>
+> Hi! Wanna make a feed using the https://skyfeed.app/ tool?
+Here's an easy way to get started.
+Notes: 
+- In the builder tool, you won't see the feed on the right hand side until it has posts to show (ex. - you haven't tagged anything yet.) It still works!
+- Might update a lil' slowly! Give it time.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T13:40:43.667Z
 >
 > The program was right, but the results were not as expected… This was truly the work of the Satan 😨
@@ -214,12 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T10:12:59.728Z
 >
 > Haha I was just wondering if I should separate SkyFeed from packages such as Indexer! Also there is great value in open sourcing a great app like SkyFeed, I’m very looking forward to see your work! :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T09:33:14.973Z
->
-> OAuth is not yet supported by AT Protocol or Bluesky, so it's not possible. But OAuth is an essential of today's social networking services, so I believe it will eventually be implemented. At that time, of course I plan to create a package that easily integrates Flutter and OAuth :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
