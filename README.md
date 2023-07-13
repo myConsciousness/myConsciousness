@@ -193,37 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:57:37.751Z
+>
+> Okay, I can help :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:52:49.209Z
+>
+> This account is intentionally trying to create hate
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:51:23.860Z
+>
+> The account seems to be intentionally abusing the invite code and making hateful things
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T06:31:36.434Z
+>
+> もうなにが使えるのかすら確認してないですけど、さすがにMediaは残した感じですかね〜
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-13T05:33:44.476Z
 >
 > POST (DELETE)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T05:31:13.491Z
->
-> Twitter API v1.1が停止ということは、Twitter APIを通して画像や動画をアップロードすることは完全にできなくなったのかな。結局最後までv2エンドポイントに実装されなかったね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T04:34:25.500Z
->
-> Nice start
-
----
-
-> ✨(Sid)ereal Fox @slimedrops.com 2023-07-07T19:19:41.699Z
->
-> Hi! Wanna make a feed using the https://skyfeed.app/ tool?
-Here's an easy way to get started.
-Notes: 
-- In the builder tool, you won't see the feed on the right hand side until it has posts to show (ex. - you haven't tagged anything yet.) It still works!
-- Might update a lil' slowly! Give it time.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T13:40:43.667Z
->
-> The program was right, but the results were not as expected… This was truly the work of the Satan 😨
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
