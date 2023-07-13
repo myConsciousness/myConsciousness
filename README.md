@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-13T04:34:25.500Z
+>
+> Nice start
+
+---
+
 > ✨(Sid)ereal Fox @slimedrops.com 2023-07-07T19:19:41.699Z
 >
 > Hi! Wanna make a feed using the https://skyfeed.app/ tool?
@@ -218,12 +224,6 @@ Notes:
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-12T10:42:19.697Z
 >
 > 実際にどういう理由があったかはわからないけど、自分の中で理想的な異性像を作りすぎて実際に性転換してみたら理想とまったく違う現実に絶望する話は聞いたことあるな
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-12T10:12:59.728Z
->
-> Haha I was just wondering if I should separate SkyFeed from packages such as Indexer! Also there is great value in open sourcing a great app like SkyFeed, I’m very looking forward to see your work! :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
