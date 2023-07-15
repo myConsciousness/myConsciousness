@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T01:27:48.705Z
+>
+> I've seen some people say that ChatGPT-4 is getting more and more idiot, and well they have a point. Sometimes it works well, but sometimes it gets out of control and ignores all of our requests. There seems to be a problem with the training data.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-14T23:09:10.481Z
 >
 > おはスコ🌞
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-14T22:45:46.151Z
 >
 > In your mind 🧘‍♂️
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-14T08:41:46.021Z
->
-> Welcome to IPFS world
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
