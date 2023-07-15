@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T02:02:54.035Z
+>
+> Did you know the programmable robot from iRobot?
+
+https://www.irobot.com/en_US/root.html?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T01:27:48.705Z
 >
 > I've seen some people say that ChatGPT-4 is getting more and more idiot, and well they have a point. Sometimes it works well, but sometimes it gets out of control and ignores all of our requests. There seems to be a problem with the training data.
@@ -214,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-14T22:57:39.951Z
 >
 > 「約束」とかちょっと堅い表現だと「契約」でもいいかもしれません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-14T22:45:46.151Z
->
-> In your mind 🧘‍♂️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
