@@ -193,6 +193,23 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T14:30:19.355Z
+>
+> これは依存パッケージのcborがstableのものより高いバージョンのcollectionを使ってしまっているからですね。以下のように依存性をオーバーライドしてください
+
+dependency_overrides:
+  collection: ^1.17.2
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T14:23:01.412Z
+>
+> これはFlutterというより単純に実装が悪そうですね。Flutter Webで実装されたSkyFeedは軽快に動きます
+
+https://skyfeed.app
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T11:28:37.353Z
 >
 > Let's be thankful that this is a virtual space
@@ -210,18 +227,6 @@ https://bsky.app/profile/jack.bsky.social/post/3juhurl5j6e2s
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T10:28:53.640Z
 >
 > Sometimes I remember his words
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T08:09:31.540Z
->
-> 黒人コミュニティが結構盛り上がってた感じですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T02:39:01.575Z
->
-> Integrating hardware and software always feels like a difficult task. I have no experience with hardware, but I think so.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
