@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T16:01:19.758Z
+>
+> またついでのエビデンス
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T15:57:37.373Z
 >
 > ついでに調べてみたんですけど、chisatoのサブアカウントの周りには自分の招待コードを使ってハンドル確保のためにアカウントを大量生産してるグループがあるっぽい。good君絡みかわからないですけど、ちょっときな臭いですね
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T15:31:42.766Z
 >
 > headerにレートリミットの情報が欲しいですね
-
----
-
-> redsolver @redsolver.dev 2023-07-15T15:21:30.013Z
->
-> Automatic language detection and translation using local ML models on Android! works pretty ok
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
