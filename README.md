@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T08:09:31.540Z
+>
+> 黒人コミュニティが結構盛り上がってた感じですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T02:39:01.575Z
 >
 > Integrating hardware and software always feels like a difficult task. I have no experience with hardware, but I think so.
@@ -216,12 +222,6 @@ https://www.irobot.com/en_US/root.html?
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-14T23:09:10.481Z
 >
 > おはスコ🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-14T23:07:20.613Z
->
-> そうです、プロトコルは双方向間で発生するなにかしらの通信を成り立たせるために必要な約束事ですね。コンピュータの世界じゃなくても、人間が会話する時に相手と意思疎通ができる言語を使えばそれもプロトコルと言えます
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
