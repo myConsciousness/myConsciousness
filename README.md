@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T11:28:37.353Z
+>
+> Let's be thankful that this is a virtual space
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T10:46:45.665Z
 >
 > Jack尊師としてもプロトコル部分はbskyと完全に切り離していきたいはず
@@ -216,14 +222,6 @@ https://bsky.app/profile/jack.bsky.social/post/3juhurl5j6e2s
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T02:39:01.575Z
 >
 > Integrating hardware and software always feels like a difficult task. I have no experience with hardware, but I think so.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T02:02:54.035Z
->
-> Did you know the programmable robot from iRobot?
-
-https://www.irobot.com/en_US/root.html?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
