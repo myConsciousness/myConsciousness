@@ -193,6 +193,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T10:46:45.665Z
+>
+> Jack尊師としてもプロトコル部分はbskyと完全に切り離していきたいはず
+
+https://bsky.app/profile/jack.bsky.social/post/3juhurl5j6e2s
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T10:28:53.640Z
+>
+> Sometimes I remember his words
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-15T08:09:31.540Z
 >
 > 黒人コミュニティが結構盛り上がってた感じですね
@@ -210,18 +224,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Did you know the programmable robot from iRobot?
 
 https://www.irobot.com/en_US/root.html?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T01:27:48.705Z
->
-> I've seen some people say that ChatGPT-4 is getting more and more idiot, and well they have a point. Sometimes it works well, but sometimes it gets out of control and ignores all of our requests. There seems to be a problem with the training data.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-14T23:09:10.481Z
->
-> おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
