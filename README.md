@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:46:28.618Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:34:52.576Z
 >
-> It will always exist. It cannot be overcome as long as we who use the system are human.
+> I also like the fact that SkyWatch is a third-party org that conducts the research and selects the moderation targets
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:26:00.159Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:25:43.366Z
 >
-> Importantly, team members are also part of the community. They are not just privileged admins.
+> I underestimated the mute list. It’s a powerful, if not perfect, moderation tool when used correctly. See @skywatch.bsky.social
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:21:23.913Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:12:06.322Z
 >
-> Thanks for sharing it, it’s a very important issue. As you said we can’t create a perfect community, but we can improve it together, step by step :) For now let’s wait for team, I guess they are also discussing about it
+> 日本人は良くも悪くも気にしない&行動しないと思いますね。面と向かって異人種の方に差別されたことがある人はほぼいないでしょうし、ネットだとなおさら相手の悪ふざけ程度にしか見えない気がします
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:03:39.008Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T15:47:00.828Z
 >
-> IMO, I don't think the Bluesky team is cold-shouldering any particular race or group. They are very liberal people. But they must have misjudged somewhat.
+> Haha, if you invite me, I’ll jump in 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:01:56.283Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T15:39:58.556Z
 >
-> Aveta, I believe we’re fair in this place :)
-
-Well, hm, this case seems to involve some very difficult issues. I just wonder, if the Bluesky team were to apologize, would you be satisfied with this?
+> Is it just for black community? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
