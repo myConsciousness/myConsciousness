@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:47:09.042Z
+>
+> At the same time it’s also true that hates against a particular race or group are unacceptable. We need to think more about this issue.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:46:03.878Z
+>
+> I’m still reading your posts, but yes I kind of understood what was going on. But you know the Bluesky team is very small and I’m sure that they are not equipped to respond to all requests.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:28:50.397Z
+>
+> Of course yes, but we also have to build it together here, that’s why it’s open source
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:19:48.769Z
+>
+> In a way, it seems to expose the fragility of control in the system
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:58:26.901Z
 >
 > I don't know the full extent of the recent fiasco, but I feel it would be a mistake to point all the blame at the Bluesky team. They provide this wonderful place for free and work hard every day to improve it. What is needed here is unity, not division.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:33:18.723Z
->
-> Of course it’s depending on whether the crisis is imminent or not. But for things that are not clear as to whether action should be taken or not, they can leave it to the will of the people.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:25:56.033Z
->
-> Then let’s build Twitter Rule
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:25:03.385Z
->
-> Then it’s people will. Vox Populi, Vox Dei.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:13:59.576Z
->
-> Ideally, moderation requires democracy. We indicate our upvote or downvote before a particular moderation action is taken. Then the result of that moderation act is considered the will of the people. And this right to vote should, of course, be only once per real person.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
