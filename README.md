@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T23:47:15.560Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:58:26.901Z
 >
-> アカウントによって人格が違うのは一人の人間がやってるとするとかなり不気味ですね。ただ転売をしたことを仄めかすポストもあるので、意図的に人格を変えてるのだと考えてますけど… 素でやってるとすると病的ですね
+> I don't know the full extent of the recent fiasco, but I feel it would be a mistake to point all the blame at the Bluesky team. They provide this wonderful place for free and work hard every day to improve it. What is needed here is unity, not division.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T23:33:17.206Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:33:18.723Z
 >
-> サブアカウントを使って人格を変えながら自作自演をしてるようにも見えるし、ただただ闇の深さを感じる
+> Of course it’s depending on whether the crisis is imminent or not. But for things that are not clear as to whether action should be taken or not, they can leave it to the will of the people.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T23:24:54.472Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:25:56.033Z
 >
-> 投稿を見る感じ全部がgood君ではなさそうだけど、複数人いるとなると日本語クラスタでこういう人たちが湧きやすいのは少し面白い現象だと感じる
+> Then let’s build Twitter Rule
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T16:01:19.758Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:25:03.385Z
 >
-> またついでのエビデンス
+> Then it’s people will. Vox Populi, Vox Dei.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-15T15:57:37.373Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:13:59.576Z
 >
-> ついでに調べてみたんですけど、chisatoのサブアカウントの周りには自分の招待コードを使ってハンドル確保のためにアカウントを大量生産してるグループがあるっぽい。good君絡みかわからないですけど、ちょっときな臭いですね
+> Ideally, moderation requires democracy. We indicate our upvote or downvote before a particular moderation action is taken. Then the result of that moderation act is considered the will of the people. And this right to vote should, of course, be only once per real person.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
