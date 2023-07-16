@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:47:09.042Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:46:28.618Z
 >
-> At the same time it’s also true that hates against a particular race or group are unacceptable. We need to think more about this issue.
+> It will always exist. It cannot be overcome as long as we who use the system are human.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:46:03.878Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:26:00.159Z
 >
-> I’m still reading your posts, but yes I kind of understood what was going on. But you know the Bluesky team is very small and I’m sure that they are not equipped to respond to all requests.
+> Importantly, team members are also part of the community. They are not just privileged admins.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:28:50.397Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:21:23.913Z
 >
-> Of course yes, but we also have to build it together here, that’s why it’s open source
+> Thanks for sharing it, it’s a very important issue. As you said we can’t create a perfect community, but we can improve it together, step by step :) For now let’s wait for team, I guess they are also discussing about it
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T13:19:48.769Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:03:39.008Z
 >
-> In a way, it seems to expose the fragility of control in the system
+> IMO, I don't think the Bluesky team is cold-shouldering any particular race or group. They are very liberal people. But they must have misjudged somewhat.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T12:58:26.901Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T14:01:56.283Z
 >
-> I don't know the full extent of the recent fiasco, but I feel it would be a mistake to point all the blame at the Bluesky team. They provide this wonderful place for free and work hard every day to improve it. What is needed here is unity, not division.
+> Aveta, I believe we’re fair in this place :)
+
+Well, hm, this case seems to involve some very difficult issues. I just wonder, if the Bluesky team were to apologize, would you be satisfied with this?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
