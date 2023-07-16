@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T17:19:40.069Z
+>
+> Anyway I hope you all have a nice weekend!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T17:08:17.155Z
+>
+> Yes I also thought citations are necessary. The certainty of the contents of the list is very important. And I feel if there is a dedicated site or page where these mute lists and reasons for account selection can be easily viewed, that would be even better
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:34:52.576Z
 >
 > I also like the fact that SkyWatch is a third-party org that conducts the research and selects the moderation targets
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:12:06.322Z
 >
 > 日本人は良くも悪くも気にしない&行動しないと思いますね。面と向かって異人種の方に差別されたことがある人はほぼいないでしょうし、ネットだとなおさら相手の悪ふざけ程度にしか見えない気がします
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T15:47:00.828Z
->
-> Haha, if you invite me, I’ll jump in 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T15:39:58.556Z
->
-> Is it just for black community? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
