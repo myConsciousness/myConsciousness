@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T15:42:52.158Z
+>
+> Some contents are fixed to hide in iOS because Apple compelled it
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T08:04:17.206Z
 >
 > I feel this is an organized act. I don't believe the average Japanese person is capable of running a mail server.
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:15:55.023Z
 >
 > Glad to be part of your training dataset
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:10:49.244Z
->
-> flowers 💐
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
