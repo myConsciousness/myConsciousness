@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T22:24:56.756Z
+>
+> chisatoとtakinaは垢バンされたみたいね。なんならchisatoはなりすましラベルも付いてたな
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T21:45:03.288Z
 >
 > I don't know if that is possible because it depends on the App Store's review criteria. At least team should have changed to this because it doesn't pass Apple's review. When this feature was first added it was synchronized, so it’s an intentional limitation.
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T07:37:26.697Z
 >
 > You should not use it if you want a better life :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T07:20:31.039Z
->
-> It's threads, not birdapp
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
