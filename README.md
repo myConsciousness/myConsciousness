@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T04:14:32.988Z
+>
+> As Jack said, the team is working hard to make sure everyone owns this protocol
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T02:12:48.205Z
 >
 > Great deal! 👍
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:25:00.467Z
 >
 > ドメインを買ってエイリアスで転送設定してもいけますけど、この量だと業者の線も疑ってしまいますね…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:10:22.846Z
->
-> Yes, they or he is collecting valuable handles. It is hard to understand why they would do this, but I guess it’s for selling. If not, this activity makes no sense and is quite weird
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
