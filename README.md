@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T07:37:26.697Z
+>
+> You should not use it if you want a better life :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T07:20:31.039Z
+>
+> It's threads, not birdapp
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:15:55.023Z
 >
 > Glad to be part of your training dataset
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:10:30.196Z
 >
 > I monitored the Roomba to make sure it was learning its assigned floor well. This is a new kind of parenting.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T04:14:32.988Z
->
-> As Jack said, the team is working hard to make sure everyone owns this protocol
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T02:12:48.205Z
->
-> Great deal! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
