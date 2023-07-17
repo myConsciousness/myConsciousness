@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T08:04:17.206Z
+>
+> I feel this is an organized act. I don't believe the average Japanese person is capable of running a mail server.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T07:37:26.697Z
 >
 > You should not use it if you want a better life :)
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:10:49.244Z
 >
 > flowers 💐
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:10:30.196Z
->
-> I monitored the Roomba to make sure it was learning its assigned floor well. This is a new kind of parenting.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
