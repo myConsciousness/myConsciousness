@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T02:12:48.205Z
+>
+> Great deal! 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T02:10:59.842Z
+>
+> Yes it’s really cool, now it’s learning rooms haha
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:29:11.987Z
+>
+> It’s my new gear…
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:25:00.467Z
 >
 > ドメインを買ってエイリアスで転送設定してもいけますけど、この量だと業者の線も疑ってしまいますね…
@@ -202,35 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:10:22.846Z
 >
 > Yes, they or he is collecting valuable handles. It is hard to understand why they would do this, but I guess it’s for selling. If not, this activity makes no sense and is quite weird
-
----
-
-> SkyFeed App @skyfeed.app 2023-07-16T20:51:45.080Z
->
-> 🛠️ Builder Update 🛠️
-
-• RegEx search now supports alt text and links
-• Remove by reply/repost count
-• Remove list of users
-• Stash+Pop blocks for more advanced feeds
-• Remove duplicates
-• List Input: set timeframe
-• Debug info: result counts
-• Performance optimizations!
-
-Try it on https://skyfeed.app
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T00:48:27.619Z
->
-> But he is a very clever person. He changes his gender and personality from account to account, so to someone who knows nothing about the situation, he just looks like a user who does not contribute to the community.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T00:43:28.746Z
->
-> Possible, but he resembles a Japanese user who was repeatedly committing malicious vandalism a few months ago. There are also victims. He also created a large number of accounts, and if I remember correctly, this list includes the accounts he created. I suspect it could be the same person.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
