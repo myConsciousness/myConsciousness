@@ -193,33 +193,44 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T17:19:40.069Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:25:00.467Z
 >
-> Anyway I hope you all have a nice weekend!
+> ドメインを買ってエイリアスで転送設定してもいけますけど、この量だと業者の線も疑ってしまいますね…
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T17:08:17.155Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:10:22.846Z
 >
-> Yes I also thought citations are necessary. The certainty of the contents of the list is very important. And I feel if there is a dedicated site or page where these mute lists and reasons for account selection can be easily viewed, that would be even better
+> Yes, they or he is collecting valuable handles. It is hard to understand why they would do this, but I guess it’s for selling. If not, this activity makes no sense and is quite weird
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:34:52.576Z
+> SkyFeed App @skyfeed.app 2023-07-16T20:51:45.080Z
 >
-> I also like the fact that SkyWatch is a third-party org that conducts the research and selects the moderation targets
+> 🛠️ Builder Update 🛠️
+
+• RegEx search now supports alt text and links
+• Remove by reply/repost count
+• Remove list of users
+• Stash+Pop blocks for more advanced feeds
+• Remove duplicates
+• List Input: set timeframe
+• Debug info: result counts
+• Performance optimizations!
+
+Try it on https://skyfeed.app
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:25:43.366Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T00:48:27.619Z
 >
-> I underestimated the mute list. It’s a powerful, if not perfect, moderation tool when used correctly. See @skywatch.bsky.social
+> But he is a very clever person. He changes his gender and personality from account to account, so to someone who knows nothing about the situation, he just looks like a user who does not contribute to the community.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-16T16:12:06.322Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T00:43:28.746Z
 >
-> 日本人は良くも悪くも気にしない&行動しないと思いますね。面と向かって異人種の方に差別されたことがある人はほぼいないでしょうし、ネットだとなおさら相手の悪ふざけ程度にしか見えない気がします
+> Possible, but he resembles a Japanese user who was repeatedly committing malicious vandalism a few months ago. There are also victims. He also created a large number of accounts, and if I remember correctly, this list includes the accounts he created. I suspect it could be the same person.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
