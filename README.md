@@ -193,6 +193,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:15:55.023Z
+>
+> Glad to be part of your training dataset
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:10:49.244Z
+>
+> flowers 💐
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T05:10:30.196Z
+>
+> I monitored the Roomba to make sure it was learning its assigned floor well. This is a new kind of parenting.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T04:14:32.988Z
 >
 > As Jack said, the team is working hard to make sure everyone owns this protocol
@@ -202,24 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T02:12:48.205Z
 >
 > Great deal! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T02:10:59.842Z
->
-> Yes it’s really cool, now it’s learning rooms haha
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:29:11.987Z
->
-> It’s my new gear…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T01:25:00.467Z
->
-> ドメインを買ってエイリアスで転送設定してもいけますけど、この量だと業者の線も疑ってしまいますね…
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
