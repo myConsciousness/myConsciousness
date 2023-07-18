@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T00:51:02.318Z
+>
+> 明らかにヘイトを撒き散らしてる有害なアカウントであれば即ブロックでいいと思うんですけど、そうではないアカウントを気軽にボタン一つでブロックできてしまうのは問題だと思いますね。
+
+ブロックする時に「あなたがこのユーザーをブロックすることによって、半永久的にこのユーザーとの繋がりがなくなります。また、あなたがユーザーをブロックすることによってこのユーザーを不愉快にさせる可能性があります。」くらいのダイアログを出してもいいのかもしれないですね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T00:42:52.223Z
+>
+> ブロックを意識し始めると萎縮してその人特有の面白コンテンツを作れなくなるから気にしないのが一番。どうせ万人に受けるコンテンツはないんだし、ブロックしてくる人よりコンテンツを見てくれる人を気にしたほうがいい
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T00:30:02.543Z
+>
+> 痙攣があると要注意ですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T22:24:56.756Z
 >
 > chisatoとtakinaは垢バンされたみたいね。なんならchisatoはなりすましラベルも付いてたな
@@ -202,24 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-17T21:45:03.288Z
 >
 > I don't know if that is possible because it depends on the App Store's review criteria. At least team should have changed to this because it doesn't pass Apple's review. When this feature was first added it was synchronized, so it’s an intentional limitation.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T15:42:52.158Z
->
-> Some contents are fixed to hide in iOS because Apple compelled it
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T08:04:17.206Z
->
-> I feel this is an organized act. I don't believe the average Japanese person is capable of running a mail server.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-17T07:37:26.697Z
->
-> You should not use it if you want a better life :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
