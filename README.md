@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T12:46:40.873Z
+>
+> たぶん進化をBボタンキャンセルしてます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:50:15.566Z
 >
 > I believe this paradox to be true
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:20:12.812Z
 >
 > アカウントごとに人格が一致しないのが不気味ですね。まだ生き残ってる200個近いサブアカウントは例のあの人の分霊箱です
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:10:05.400Z
->
-> 既に本日未明にchisatoとtakina が垢バンされたのでもう確認はできないんですけど、例のあの人が過去に作ったアカウントと繋がってたんですよね…
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
