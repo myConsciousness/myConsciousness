@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T06:37:11.090Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T12:38:28.416Z
 >
-> These are probably just a few examples of malicious accounts created by the same person or group. This user has been causing problems for some time.
+> Next GAFA
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T06:18:07.456Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T10:02:49.044Z
 >
-> I’m sure this is the same person or the same group as chisato and takina. chisato and takina were banned yesterday, so I guess this user started to attack Bluesky. But it’s just too childish and it doesn't even make sense.
+> Android版も近々公開予定みたいなので楽しみですね！
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T01:09:29.368Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T09:16:53.665Z
 >
-> トータルですね！一日あたりだとこのUIだとないですけど、ここまでの仕組みがあれば集計単位を変えるだけで簡単に出せそうです
+> @redsolver.dev の実装の速さとUI表現の発想がすごいですね。私が作ったパッケージを使っているようですが、あれを使ってこんなものが作れるんだなとただただ感心しています
+
+あと余談ですけどFlutter WebはFlutterの中でもかなりの曲者なのですが、私が今まで見てきたFlutterアプリの中でも最高傑作レベルの代物になってますね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T00:51:48.175Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T07:50:59.459Z
 >
-> 集計時のデータだとトップは110115ポストみたいです。ただスパムラベルが付いてるので、実質のトップは二番目の25997ですかね
-
-https://bsky.jazco.dev/stats
+> Yea it depends on users :) So it can be shown or hidden depending on the user. This way, they can see their favorite feeds when they launch the app
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T00:44:59.672Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T07:45:15.926Z
 >
-> 数ヶ月前からやってる海外ユーザーがいますね
+> Since custom feeds are starting to become more common, it might be better to be able to hide the fixed “Following” feed in the official app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
