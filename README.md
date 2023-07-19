@@ -193,33 +193,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T12:46:40.873Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T01:09:29.368Z
 >
-> たぶん進化をBボタンキャンセルしてます
+> トータルですね！一日あたりだとこのUIだとないですけど、ここまでの仕組みがあれば集計単位を変えるだけで簡単に出せそうです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:50:15.566Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T00:51:48.175Z
 >
-> I believe this paradox to be true
+> 集計時のデータだとトップは110115ポストみたいです。ただスパムラベルが付いてるので、実質のトップは二番目の25997ですかね
+
+https://bsky.jazco.dev/stats
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:36:18.917Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T00:44:59.672Z
 >
-> Yes, human logic is full of paradoxes
+> 数ヶ月前からやってる海外ユーザーがいますね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:31:10.794Z
+> redsolver @redsolver.dev 2023-07-18T22:28:27.268Z
 >
-> 差別を止めるために差別する人を積極的に排除するしかないというのも結構皮肉だよね
+> I'm working on a lightweight bluesky API proxy which adds bridge support for other social networks. It already supports browsing timelines, profiles and threads on Mastodon and Hacker News using any Bluesky client!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T10:20:12.812Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T22:41:08.693Z
 >
-> アカウントごとに人格が一致しないのが不気味ですね。まだ生き残ってる200個近いサブアカウントは例のあの人の分霊箱です
+> Oh are you using mastodon_api? Lately I didn’t maintained it, but maybe I’ll get started it again, thanks!
+
+https://pub.dev/packages/mastodon_api
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
