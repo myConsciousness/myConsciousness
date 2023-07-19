@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T06:37:11.090Z
+>
+> These are probably just a few examples of malicious accounts created by the same person or group. This user has been causing problems for some time.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T06:18:07.456Z
+>
+> I’m sure this is the same person or the same group as chisato and takina. chisato and takina were banned yesterday, so I guess this user started to attack Bluesky. But it’s just too childish and it doesn't even make sense.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-19T01:09:29.368Z
 >
 > トータルですね！一日あたりだとこのUIだとないですけど、ここまでの仕組みがあれば集計単位を変えるだけで簡単に出せそうです
@@ -210,20 +222,6 @@ https://bsky.jazco.dev/stats
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-19T00:44:59.672Z
 >
 > 数ヶ月前からやってる海外ユーザーがいますね
-
----
-
-> redsolver @redsolver.dev 2023-07-18T22:28:27.268Z
->
-> I'm working on a lightweight bluesky API proxy which adds bridge support for other social networks. It already supports browsing timelines, profiles and threads on Mastodon and Hacker News using any Bluesky client!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-18T22:41:08.693Z
->
-> Oh are you using mastodon_api? Lately I didn’t maintained it, but maybe I’ll get started it again, thanks!
-
-https://pub.dev/packages/mastodon_api
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
