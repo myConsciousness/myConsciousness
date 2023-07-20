@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T13:39:23.617Z
+>
+> Thanks to the Bluesky team for their response!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T12:05:05.242Z
 >
 > I created a PR
@@ -216,12 +222,6 @@ https://github.com/myConsciousness/atproto.dart
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:26:58.063Z
 >
 > Lantana camara
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T05:06:47.406Z
->
-> Drop something blue from your camera roll
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
