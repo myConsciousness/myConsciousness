@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T02:02:39.705Z
+>
+> Gold rush!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T01:36:32.563Z
+>
+> Flutter devs, finally Flame author in Bluesky!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T01:22:29.585Z
 >
 > 
@@ -208,20 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T01:06:06.739Z
 >
 > Ideally, moderators should have the review of other moderators when moderating a particular user. neither Admin nor moderator should abuse their authority.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T00:53:07.289Z
->
-> It’s a good solution for the PDS administrator to grant moderator privileges to certain trusted users. The empowered users can see individual cases as an entity independent of the PDS administrator while adhering to PDS conventions. It’s not physically sustainable for Admin to solve all problems.
-
----
-
-> Paul Frazee (season 36) @pfrazee.com 2023-06-14T17:40:06.890Z
->
-> broadly speaking the kind of political action that the reddit moderators are taking is what we're setting ourselves up for
-
-it's the whole point. the network shouldn't run at the whims of one company
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
