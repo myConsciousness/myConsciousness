@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:43:56.523Z
+>
+> I didn’t announce this in the last release, but I have added the ability to get the response as JSON for all GET methods. This is a method for experts and is expected to improve performance by directly retrieving JSON without marshalling.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:42:10.843Z
+>
+> I have released the latest builds of the packages `atproto` and `bluesky` for Dart/Flutter :) This release includes performance improvements through optimizations and new useful features.
+
+https://github.com/myConsciousness/atproto.dart
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:26:58.063Z
+>
+> Lantana camara
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T05:06:47.406Z
 >
 > Drop something blue from your camera roll
@@ -202,24 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T04:54:23.218Z
 >
 > Nice conversation
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T04:44:37.047Z
->
-> So sweet
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T03:27:02.980Z
->
-> Bingo!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T02:02:39.705Z
->
-> Gold rush!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
