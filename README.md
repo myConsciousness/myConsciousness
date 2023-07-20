@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T22:06:11.382Z
+>
+> Thank you. This problem is quite deep-rooted. Even if you just label or ban a trolling account, they start doing the same thing right away, either by creating a new account or using one of the available accounts. Moreover, they also have aggression that could harm others.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T18:01:23.136Z
 >
 > @why.bsky.team Certain Japanese individuals or groups have recently created a large number of accounts and engaged in trolling activities, how are they treated on Bluesky?
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T12:05:05.242Z
 >
 > I created a PR
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:43:56.523Z
->
-> I didn’t announce this in the last release, but I have added the ability to get the response as JSON for all GET methods. This is a method for experts and is expected to improve performance by directly retrieving JSON without marshalling.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
