@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T12:38:28.416Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T01:22:29.585Z
 >
-> Next GAFA
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T10:02:49.044Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T01:17:07.168Z
 >
-> Android版も近々公開予定みたいなので楽しみですね！
+> Yea power and corruption are the history of mankind. I would like to solve things democratically, but sometimes democracy also collapses due to populism and other factors. In a way, what we should be referring to is the structure of political institutions
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T09:16:53.665Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T01:06:06.739Z
 >
-> @redsolver.dev の実装の速さとUI表現の発想がすごいですね。私が作ったパッケージを使っているようですが、あれを使ってこんなものが作れるんだなとただただ感心しています
-
-あと余談ですけどFlutter WebはFlutterの中でもかなりの曲者なのですが、私が今まで見てきたFlutterアプリの中でも最高傑作レベルの代物になってますね
+> Ideally, moderators should have the review of other moderators when moderating a particular user. neither Admin nor moderator should abuse their authority.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T07:50:59.459Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T00:53:07.289Z
 >
-> Yea it depends on users :) So it can be shown or hidden depending on the user. This way, they can see their favorite feeds when they launch the app
+> It’s a good solution for the PDS administrator to grant moderator privileges to certain trusted users. The empowered users can see individual cases as an entity independent of the PDS administrator while adhering to PDS conventions. It’s not physically sustainable for Admin to solve all problems.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-19T07:45:15.926Z
+> Paul Frazee (season 36) @pfrazee.com 2023-06-14T17:40:06.890Z
 >
-> Since custom feeds are starting to become more common, it might be better to be able to hide the fixed “Following” feed in the official app
+> broadly speaking the kind of political action that the reddit moderators are taking is what we're setting ourselves up for
+
+it's the whole point. the network shouldn't run at the whims of one company
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
