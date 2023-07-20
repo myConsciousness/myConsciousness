@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T17:40:54.904Z
+>
+> You’re done freak
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T13:39:23.617Z
 >
 > Thanks to the Bluesky team for their response!
@@ -216,12 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have released the latest builds of the packages `atproto` and `bluesky` for Dart/Flutter :) This release includes performance improvements through optimizations and new useful features.
 
 https://github.com/myConsciousness/atproto.dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:26:58.063Z
->
-> Lantana camara
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
