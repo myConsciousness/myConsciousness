@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T12:05:05.242Z
+>
+> I created a PR
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:43:56.523Z
 >
 > I didn’t announce this in the last release, but I have added the ability to get the response as JSON for all GET methods. This is a method for experts and is expected to improve performance by directly retrieving JSON without marshalling.
@@ -216,12 +222,6 @@ https://github.com/myConsciousness/atproto.dart
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T05:06:47.406Z
 >
 > Drop something blue from your camera roll
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T04:54:23.218Z
->
-> Nice conversation
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
