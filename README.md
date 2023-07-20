@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T18:01:23.136Z
+>
+> @why.bsky.team Certain Japanese individuals or groups have recently created a large number of accounts and engaged in trolling activities, how are they treated on Bluesky?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T17:40:54.904Z
 >
 > You’re done freak
@@ -214,14 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:43:56.523Z
 >
 > I didn’t announce this in the last release, but I have added the ability to get the response as JSON for all GET methods. This is a method for experts and is expected to improve performance by directly retrieving JSON without marshalling.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T09:42:10.843Z
->
-> I have released the latest builds of the packages `atproto` and `bluesky` for Dart/Flutter :) This release includes performance improvements through optimizations and new useful features.
-
-https://github.com/myConsciousness/atproto.dart
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
