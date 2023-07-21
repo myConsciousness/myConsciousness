@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> David Buchanan @retr0-id.translate.goog 2023-07-21T04:29:19.621Z
+>
+> 
+
+---
+
+> Eepy @eepy.bsky.social 2023-07-21T04:19:03.395Z
+>
+> It's like this
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-21T03:55:51.902Z
 >
 > 偶然にしては出来過ぎといった感じですね。とりあえず今はBlueskyチームの働きを見ましょう
@@ -210,18 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 詳細を調べる時間もないからなにかしらの条件で一括で無効化フラグを立てた感じなんですかね… それか元から時限式なのかもしれないです
 
 日本のユーザーからばかりこういうのが発生するのは結構興味深く見てますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T02:51:38.250Z
->
-> 意図的じゃないとしても不安すぎる決済システム
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T02:46:39.325Z
->
-> なんとも言えないですけどこの件で動いたのかもしれないです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
