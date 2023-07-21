@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T02:51:38.250Z
+>
+> 意図的じゃないとしても不安すぎる決済システム
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T02:46:39.325Z
+>
+> なんとも言えないですけどこの件で動いたのかもしれないです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-21T01:54:26.065Z
 >
 > なんか面白そうなドラフトPRが生えてるね
@@ -210,18 +222,6 @@ https://github.com/bluesky-social/atproto/pull/1366
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-21T00:46:44.646Z
 >
 > So I think, we need a feature to prevent users who have caused problems in the past from re-entering a particular PDS. I expect the Bluesky team to do a great job.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T00:44:20.096Z
->
-> I have also shared this with the SkyWatch maintainers. But this will be a difficult case for them as well, because there is no limit to how much we can mute or block this matter as long as they are given out invitation codes.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-20T22:06:11.382Z
->
-> Thank you. This problem is quite deep-rooted. Even if you just label or ban a trolling account, they start doing the same thing right away, either by creating a new account or using one of the available accounts. Moreover, they also have aggression that could harm others.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
