@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T03:55:51.902Z
+>
+> 偶然にしては出来過ぎといった感じですね。とりあえず今はBlueskyチームの働きを見ましょう
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T03:38:12.098Z
+>
+> 視認した瞬間に頭の中でデコードしてそう
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T03:07:06.318Z
+>
+> 詳細を調べる時間もないからなにかしらの条件で一括で無効化フラグを立てた感じなんですかね… それか元から時限式なのかもしれないです
+
+日本のユーザーからばかりこういうのが発生するのは結構興味深く見てますね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-21T02:51:38.250Z
 >
 > 意図的じゃないとしても不安すぎる決済システム
@@ -202,26 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-21T02:46:39.325Z
 >
 > なんとも言えないですけどこの件で動いたのかもしれないです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T01:54:26.065Z
->
-> なんか面白そうなドラフトPRが生えてるね
-
-https://github.com/bluesky-social/atproto/pull/1366
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T01:46:05.030Z
->
-> ちゃんと統計をとってるのもすごい
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T00:46:44.646Z
->
-> So I think, we need a feature to prevent users who have caused problems in the past from re-entering a particular PDS. I expect the Bluesky team to do a great job.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
