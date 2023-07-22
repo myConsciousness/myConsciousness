@@ -193,6 +193,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:44:30.596Z
+>
+> They just use invitation codes. Since invitation codes can be obtained even from newly created accounts, the number increases exponentially like a computer virus.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:25:07.564Z
+>
+> Legend
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:03:23.231Z
+>
+> 片倉館
+
+https://ja.m.wikipedia.org/wiki/片倉館
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T02:11:23.847Z
 >
 > @owlice.bsky.social , I sent an email to Prof. Nemiroff! If he needs more information, please contact me, thanks :)
@@ -202,26 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:35:39.398Z
 >
 > 過去に3回連続でハンドル違いの同じプロフィール写真が使われたスパムからメッセージが来たときはさすがに笑いました
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:08:14.958Z
->
-> And are there any plans to open source your Flutter app?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:07:10.216Z
->
-> That’s great! You can check my packages for Dart/Flutter, it will surely be useful for your Flutter app :)
-
-https://atprotodart.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T00:54:10.783Z
->
-> @bsky.global What is bsky.global? Is this a bridge client between Bluesky and Threads?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
