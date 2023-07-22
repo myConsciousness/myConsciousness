@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Jay 🦋 @jay.bsky.team 2023-07-22T22:01:02.819Z
+>
+> Last week, users reported an account that used a slur as its handle. We’re sorry that this handle slipped through. Our Black community deserved better. As an open social network, we strive to be transparent. Read this for more details. https://bsky.app/profile/safety.bsky.app/post/3k35dxtz2e22h
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T14:30:20.191Z
 >
 > displayNameが優先されるのは変な感じがするのでIssue立ててみました
@@ -223,15 +229,6 @@ https://github.com/bluesky-social/atproto/blob/4619e2b24a39e55897c027c9138c98fd4
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T13:25:07.691Z
 >
 > searchActorsTypeaheadで取得したユーザーのDIDリストにyuiのDIDを混ぜて手動でソートしても優先度が一番下というわけではないんですよね。気になるのはdistanceがどう計算されてるかですね・・・
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T12:59:01.386Z
->
-> .orderBy('did')
-    .orderBy('distance')
-
-たぶんこれかな・・・
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
