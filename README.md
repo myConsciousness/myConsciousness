@@ -193,6 +193,31 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T12:59:01.386Z
+>
+> .orderBy('did')
+    .orderBy('distance')
+
+たぶんこれかな・・・
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T12:57:05.422Z
+>
+> 行の範囲がおかしかった
+
+https://github.com/bluesky-social/atproto/blob/4619e2b24a39e55897c027c9138c98fd47fe7325/packages/bsky/src/services/util/search.ts#L46-L135
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T12:55:33.077Z
+>
+> handleで検索した結果とdisplayNameで検索した結果をマージしてるっぽいですね。結合順でdisplayNameで検索された結果が優先されてるんだろうか
+
+https://github.com/bluesky-social/atproto/blob/4619e2b24a39e55897c027c9138c98fd47fe7325/packages/bsky/src/services/util/search.ts#L72-L108
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T10:06:51.710Z
 >
 > Seriously correct
@@ -209,26 +234,6 @@ Fireworks get headlines. BOOM. But then they are gone. The rising sun never make
 But if the sun stopped shining the world would notice
 
 Be the sun
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:44:30.596Z
->
-> They just use invitation codes. Since invitation codes can be obtained even from newly created accounts, the number increases exponentially like a computer virus.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:25:07.564Z
->
-> Legend
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:03:23.231Z
->
-> 片倉館
-
-https://ja.m.wikipedia.org/wiki/片倉館
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
