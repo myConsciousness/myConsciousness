@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T14:30:20.191Z
+>
+> displayNameが優先されるのは変な感じがするのでIssue立ててみました
+
+https://github.com/bluesky-social/atproto/issues/1371
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T13:51:33.978Z
 >
 > PostgreSQLにはノード間の距離を計算する演算子があるのね
@@ -224,14 +232,6 @@ https://github.com/bluesky-social/atproto/blob/4619e2b24a39e55897c027c9138c98fd4
     .orderBy('distance')
 
 たぶんこれかな・・・
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T12:57:05.422Z
->
-> 行の範囲がおかしかった
-
-https://github.com/bluesky-social/atproto/blob/4619e2b24a39e55897c027c9138c98fd47fe7325/packages/bsky/src/services/util/search.ts#L46-L135
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
