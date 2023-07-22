@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Mike Masnick @mmasnick.bsky.social 2023-07-20T19:10:12.451Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T02:11:23.847Z
 >
-> I wrote a thing about Bluesky, trust & safety, and communications. I expect some people will yell at me about this. Because people always yell about this. https://www.techdirt.com/2023/07/20/trust-safety-and-communication/
+> @owlice.bsky.social , I sent an email to Prof. Nemiroff! If he needs more information, please contact me, thanks :)
 
 ---
 
-> David Buchanan @retr0-id.translate.goog 2023-07-21T04:29:19.621Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:35:39.398Z
 >
-> 
+> 過去に3回連続でハンドル違いの同じプロフィール写真が使われたスパムからメッセージが来たときはさすがに笑いました
 
 ---
 
-> Eepy @eepy.bsky.social 2023-07-21T04:19:03.395Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:08:14.958Z
 >
-> It's like this
+> And are there any plans to open source your Flutter app?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T03:55:51.902Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:07:10.216Z
 >
-> 偶然にしては出来過ぎといった感じですね。とりあえず今はBlueskyチームの働きを見ましょう
+> That’s great! You can check my packages for Dart/Flutter, it will surely be useful for your Flutter app :)
+
+https://atprotodart.com
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-21T03:38:12.098Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T00:54:10.783Z
 >
-> 視認した瞬間に頭の中でデコードしてそう
+> @bsky.global What is bsky.global? Is this a bridge client between Bluesky and Threads?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
