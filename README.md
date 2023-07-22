@@ -193,6 +193,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Brent Peters 🌏 The Digital Global Citizen @globalcitizen.bsky.social 2023-07-22T07:19:19.120Z
+>
+> Don’t worry too much about the rage & fighting on social media. Most of it won’t change the world
+
+Attention does not signal importance.
+Fireworks get headlines. BOOM. But then they are gone. The rising sun never makes headlines.
+
+But if the sun stopped shining the world would notice
+
+Be the sun
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T03:44:30.596Z
 >
 > They just use invitation codes. Since invitation codes can be obtained even from newly created accounts, the number increases exponentially like a computer virus.
@@ -216,12 +229,6 @@ https://ja.m.wikipedia.org/wiki/片倉館
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T02:11:23.847Z
 >
 > @owlice.bsky.social , I sent an email to Prof. Nemiroff! If he needs more information, please contact me, thanks :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T01:35:39.398Z
->
-> 過去に3回連続でハンドル違いの同じプロフィール写真が使われたスパムからメッセージが来たときはさすがに笑いました
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
