@@ -193,33 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:59:13.511Z
+>
+> Thx that's really great, it must be fun! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:47:06.943Z
+>
+> I have yet to visit Canada, but I would like to experience its diverse culture and natural wonders not found in Japan! Thanks, I will contact you when I visit Canada 😁👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:39:57.775Z
+>
+> haha that's really great 🧘
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:38:29.524Z
+>
+> This is the goal! A bonfire in a lovely garden, what better evening could there be?
+
+btw I noticed Buddha is living in your garden 😏
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-23T01:45:55.803Z
 >
 > Woooo, this must be even more beautiful when the night is deeper! This is like a wonderland 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T00:48:48.102Z
->
-> 生成AIがいろいろな分野で応用され始めてきていよいよ各地でAIに対するデモ活動が現実になってきたけど、歴史的に破壊的イノベーションが起きた場合には常に既存の技術が置き換えられてきたから抗っても仕方がないと思いつつ、人間にしかできないことがまだあると考えるのは人間の性なのだろうか
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T00:23:48.400Z
->
-> oh then it's really something to look forward to! Your garden is very cool 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T23:43:40.055Z
->
-> Does this glow at night? 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T23:10:08.027Z
->
-> そろそろカスタムフィードの検索機能を強化しないと厳しそうですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
