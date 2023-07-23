@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T01:45:55.803Z
+>
+> Woooo, this must be even more beautiful when the night is deeper! This is like a wonderland 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-23T00:48:48.102Z
 >
 > 生成AIがいろいろな分野で応用され始めてきていよいよ各地でAIに対するデモ活動が現実になってきたけど、歴史的に破壊的イノベーションが起きた場合には常に既存の技術が置き換えられてきたから抗っても仕方がないと思いつつ、人間にしかできないことがまだあると考えるのは人間の性なのだろうか
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T23:10:08.027Z
 >
 > そろそろカスタムフィードの検索機能を強化しないと厳しそうですね
-
----
-
-> Jay 🦋 @jay.bsky.team 2023-07-22T22:01:02.819Z
->
-> Last week, users reported an account that used a slur as its handle. We’re sorry that this handle slipped through. Our Black community deserved better. As an open social network, we strive to be transparent. Read this for more details. https://bsky.app/profile/safety.bsky.app/post/3k35dxtz2e22h
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
