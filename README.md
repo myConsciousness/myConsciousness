@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T00:48:48.102Z
+>
+> 生成AIがいろいろな分野で応用され始めてきていよいよ各地でAIに対するデモ活動が現実になってきたけど、歴史的に破壊的イノベーションが起きた場合には常に既存の技術が置き換えられてきたから抗っても仕方がないと思いつつ、人間にしかできないことがまだあると考えるのは人間の性なのだろうか
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T00:23:48.400Z
+>
+> oh then it's really something to look forward to! Your garden is very cool 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-22T23:43:40.055Z
 >
 > Does this glow at night? 👀
@@ -208,22 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Jay 🦋 @jay.bsky.team 2023-07-22T22:01:02.819Z
 >
 > Last week, users reported an account that used a slur as its handle. We’re sorry that this handle slipped through. Our Black community deserved better. As an open social network, we strive to be transparent. Read this for more details. https://bsky.app/profile/safety.bsky.app/post/3k35dxtz2e22h
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T14:30:20.191Z
->
-> displayNameが優先されるのは変な感じがするのでIssue立ててみました
-
-https://github.com/bluesky-social/atproto/issues/1371
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T13:51:33.978Z
->
-> PostgreSQLにはノード間の距離を計算する演算子があるのね
-
-https://www.pgecons.org/wp-content/uploads/PGECons/2015/WG2/14_Appendix_02_AssessmentOfPostGIS.pdf
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
