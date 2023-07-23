@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T23:43:40.055Z
+>
+> Does this glow at night? 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T23:10:08.027Z
+>
+> そろそろカスタムフィードの検索機能を強化しないと厳しそうですね
+
+---
+
 > Jay 🦋 @jay.bsky.team 2023-07-22T22:01:02.819Z
 >
 > Last week, users reported an account that used a slur as its handle. We’re sorry that this handle slipped through. Our Black community deserved better. As an open social network, we strive to be transparent. Read this for more details. https://bsky.app/profile/safety.bsky.app/post/3k35dxtz2e22h
@@ -212,23 +224,6 @@ https://github.com/bluesky-social/atproto/issues/1371
 > PostgreSQLにはノード間の距離を計算する演算子があるのね
 
 https://www.pgecons.org/wp-content/uploads/PGECons/2015/WG2/14_Appendix_02_AssessmentOfPostGIS.pdf
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T13:41:36.079Z
->
-> よく見たらdistanceの計算ロジックがありましたけど、<<<->がなにをする演算子なのか知らないので詰みました
-
-const distance = (term: string, ref: DbRef) =>
-  sql<number>`(${term} <<<-> ${ref})`
-
-https://github.com/bluesky-social/atproto/blob/4619e2b24a39e55897c027c9138c98fd47fe7325/packages/pds/src/services/util/search.ts#L201C1-L202C38
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-22T13:25:07.691Z
->
-> searchActorsTypeaheadで取得したユーザーのDIDリストにyuiのDIDを混ぜて手動でソートしても優先度が一番下というわけではないんですよね。気になるのはdistanceがどう計算されてるかですね・・・
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
