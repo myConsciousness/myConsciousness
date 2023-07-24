@@ -193,35 +193,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:59:13.511Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T23:30:20.468Z
 >
-> Thx that's really great, it must be fun! 😁
+> The Firehose API is a long-lived Stream API for WebSocket communication and the Lexicon ID is “com.atproto.sync.subscribeRepos”. The response is encoded in CBOR format, so it’s recommended to be used from the library :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:47:06.943Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T23:26:58.740Z
 >
-> I have yet to visit Canada, but I would like to experience its diverse culture and natural wonders not found in Japan! Thanks, I will contact you when I visit Canada 😁👍
+> Hi there!
+
+The way I know of is to use the Firehose API :) When people block someone, a record of “app.bsky.graph.block” is created, so you can create a graph from the DID of the creator of this record and the DID (subject) of the blocked user.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:39:57.775Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T23:04:27.566Z
 >
-> haha that's really great 🧘
+> 私は紅よりRusty Nail派
+
+https://youtu.be/IXvreqrrh3o
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T02:38:29.524Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T22:57:54.262Z
 >
-> This is the goal! A bonfire in a lovely garden, what better evening could there be?
-
-btw I noticed Buddha is living in your garden 😏
+> I guess they bought fake accounts, or they created. This is a birdapp-verified anti-social account.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T01:45:55.803Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T14:17:21.623Z
 >
-> Woooo, this must be even more beautiful when the night is deeper! This is like a wonderland 😁
+> In a sense, this is a return to the roots and may be a legitimate evolution.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
