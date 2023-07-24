@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T02:22:07.647Z
+>
+> Hi! Do you mean this page?
+
+https://apod.nasa.gov/apod/astropix.html
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-24T00:08:40.857Z
 >
 > You’re welcome:)
@@ -220,12 +228,6 @@ The way I know of is to use the Firehose API :) When people block someone, a rec
 > 私は紅よりRusty Nail派
 
 https://youtu.be/IXvreqrrh3o
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T22:57:54.262Z
->
-> I guess they bought fake accounts, or they created. This is a birdapp-verified anti-social account.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
