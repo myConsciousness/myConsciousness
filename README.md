@@ -193,33 +193,34 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T11:22:03.709Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:44:17.983Z
 >
-> Nice les paul
+> Welcome to X.com
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T08:58:35.647Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:36:05.147Z
 >
-> SkyFeedならミュートリストに含まれるユーザーのカスタムフィードを簡単に作成可能です
+> Something happened, yes something
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T08:16:57.915Z
+> Mike Rydstrom💙 @rydmike.bsky.social 2023-07-24T14:36:52.963Z
 >
-> I understand, I’ll fix it! :)
+> To use the new #ThemesPlayground for the #FlutterDev package #FlexColorScheme v7.2, go here https://rydmike.com/flexcolorscheme/themesplayground-v7-2 🤩 That's it for this time, thanks for tuning in 🙏 and happy #FlutterDev theming! 😃💙
+9/9
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T07:49:13.484Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:17:47.778Z
 >
-> Okay
+> I already fixed and deployed it! A link to the official page will be included from the next time 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T06:55:54.476Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:14:23.223Z
 >
-> mr. why knows this issue, and mod team will have follow their activity. team could see the exact social graph, they can never escape. But I think there ideally should be a spec that users who have caused problems cannot re-enter a particular PDS.
+> birdapp is broken. I developed several packages for birdapp and appeared on official Space, but my account was permanently frozen on the day Elon Musk took over as CEO 😂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
