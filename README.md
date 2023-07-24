@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T08:58:35.647Z
+>
+> SkyFeedならミュートリストに含まれるユーザーのカスタムフィードを簡単に作成可能です
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T08:16:57.915Z
+>
+> I understand, I’ll fix it! :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-24T07:49:13.484Z
 >
 > Okay
@@ -210,20 +222,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Hi! Do you mean this page?
 
 https://apod.nasa.gov/apod/astropix.html
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T00:08:40.857Z
->
-> You’re welcome:)
-
-Except for Firehose, the current spec allows you to get the block list of authenticated users. But, this is only a list of users you have blocked, so it’s not effective for creating an extensive graph
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T23:30:20.468Z
->
-> The Firehose API is a long-lived Stream API for WebSocket communication and the Lexicon ID is “com.atproto.sync.subscribeRepos”. The response is encoded in CBOR format, so it’s recommended to be used from the library :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
