@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T00:08:40.857Z
+>
+> You’re welcome:)
+
+Except for Firehose, the current spec allows you to get the block list of authenticated users. But, this is only a list of users you have blocked, so it’s not effective for creating an extensive graph
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-23T23:30:20.468Z
 >
 > The Firehose API is a long-lived Stream API for WebSocket communication and the Lexicon ID is “com.atproto.sync.subscribeRepos”. The response is encoded in CBOR format, so it’s recommended to be used from the library :)
@@ -218,12 +226,6 @@ https://youtu.be/IXvreqrrh3o
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-23T22:57:54.262Z
 >
 > I guess they bought fake accounts, or they created. This is a birdapp-verified anti-social account.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T14:17:21.623Z
->
-> In a sense, this is a return to the roots and may be a legitimate evolution.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
