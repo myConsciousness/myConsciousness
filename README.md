@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T11:22:03.709Z
+>
+> Nice les paul
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-24T08:58:35.647Z
 >
 > SkyFeedならミュートリストに含まれるユーザーのカスタムフィードを簡単に作成可能です
@@ -214,14 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-24T06:55:54.476Z
 >
 > mr. why knows this issue, and mod team will have follow their activity. team could see the exact social graph, they can never escape. But I think there ideally should be a spec that users who have caused problems cannot re-enter a particular PDS.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T02:22:07.647Z
->
-> Hi! Do you mean this page?
-
-https://apod.nasa.gov/apod/astropix.html
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
