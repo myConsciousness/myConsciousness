@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T06:55:54.476Z
+>
+> mr. why knows this issue, and mod team will have follow their activity. team could see the exact social graph, they can never escape. But I think there ideally should be a spec that users who have caused problems cannot re-enter a particular PDS.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-24T02:22:07.647Z
 >
 > Hi! Do you mean this page?
@@ -220,14 +226,6 @@ Except for Firehose, the current spec allows you to get the block list of authen
 > Hi there!
 
 The way I know of is to use the Firehose API :) When people block someone, a record of “app.bsky.graph.block” is created, so you can create a graph from the DID of the creator of this record and the DID (subject) of the blocked user.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-23T23:04:27.566Z
->
-> 私は紅よりRusty Nail派
-
-https://youtu.be/IXvreqrrh3o
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
