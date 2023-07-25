@@ -193,34 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:44:17.983Z
+> Josh Burton @josh.app 2023-07-25T03:53:57.929Z
 >
-> Welcome to X.com
+> Hello Bluesky 👋
+
+Where's all the flutter devs at?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:36:05.147Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T09:42:22.323Z
 >
-> Something happened, yes something
+> Let’s do creative works! 👋👋👋
 
 ---
 
-> Mike Rydstrom💙 @rydmike.bsky.social 2023-07-24T14:36:52.963Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T09:28:23.943Z
 >
-> To use the new #ThemesPlayground for the #FlutterDev package #FlexColorScheme v7.2, go here https://rydmike.com/flexcolorscheme/themesplayground-v7-2 🤩 That's it for this time, thanks for tuning in 🙏 and happy #FlutterDev theming! 😃💙
-9/9
+> @owlice.bsky.social Now it includes an official link! :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:17:47.778Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T09:05:46.246Z
 >
-> I already fixed and deployed it! A link to the official page will be included from the next time 👍
+> 【Dart/Flutter】Bluesky APIからメディアを添付してBlueskyにポストする｜shinyakato.dev https://zenn.dev/kato_shinya/articles/lets-post-with-media-and-dart-to-bluesky
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-24T15:14:23.223Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T01:11:26.364Z
 >
-> birdapp is broken. I developed several packages for birdapp and appeared on official Space, but my account was permanently frozen on the day Elon Musk took over as CEO 😂
+> リアルタイム性との折り合いですけど定期的に集計した結果だけを流すことはできると思いますね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
@@ -231,11 +232,11 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
   <summary>:zap: Zenn Articles</summary>
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
+- 🖼 [【Dart/Flutter】Bluesky APIからメディアを添付してBlueskyにポストする](https://zenn.dev/kato_shinya/articles/lets-post-with-media-and-dart-to-bluesky) (2023-07-25)
 - 🏎️ [【Dart/Flutter】DartでBlueskyのFirehose APIを簡単に使用する](https://zenn.dev/kato_shinya/articles/lets-use-bluesky-firehose-api-with-dart) (2023-06-10)
 - 🖌 [GitHub ActionsからBluesky Socialへ簡単にポストする](https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions) (2023-05-20)
 - 💙 [bluesky_cliでコマンドラインから簡単にBluesky SocialのAPIを叩く](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-cli) (2023-04-04)
 - 💙 [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
-- 💙 [分散型SNSの大本命「Bluesky」をさっそく試してみた](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-social) (2023-03-07)
 <!-- MY-ZENN-ARTICLES:END -->
 </details>
 
