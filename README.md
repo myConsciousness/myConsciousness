@@ -193,35 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:50:17.600Z
+>
+> 電気代がすごそう（遠目）
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:49:32.126Z
+>
+> 普通の逸般人
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:46:27.986Z
+>
+> Jazさんのサービスが今これで動いてるかわからないけど、私が見たポストはこれ
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:30:44.993Z
+>
+> 直接コードを書けるのでなんでもできますね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T03:02:24.202Z
 >
 > @redsolver.dev wow you did it!
-
----
-
-> Jay 🦋 @jay.bsky.team 2023-07-26T01:48:05.726Z
->
-> Curious what custom feeds are popular? Here's a list of feeds from Skyfeed, with how often they've been loaded, scrolled, and refreshed: https://stats.skyfeed.me/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T00:33:20.802Z
->
-> 厚切りジェイソンのこの記事をふと思い出した
-
-「責任の所在が曖昧な謝罪は無意味」
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T00:11:49.910Z
->
-> 謝罪会見を開いて許す許されるの問題ではないけど、会見後に叩かれるのは経営陣が問題の詳細の把握とシナリオを組まないまま会見を開いてアドリブでマスコミの質問に答えてるものが多い気がする
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T22:02:34.341Z
->
-> I remembered his son’s name 😅
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
