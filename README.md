@@ -193,33 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:55:48.043Z
+>
+> “Listen kids, there used to be a service called Twitter…”
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:54:20.973Z
+>
+> The blue bird seems to have died in its cage. I hope at least its soul is in the blue sky.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:48:59.710Z
+>
+> Musk seems to want to erase Twitter's existence
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:46:33.473Z
+>
+> Yes, this is what happened
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T14:49:08.380Z
 >
 > Photos of the Week
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T11:06:33.377Z
->
-> I didn't think he would actually do this
-
----
-
-> Matt Binder @mattbinder.bsky.social 2023-07-26T03:21:55.720Z
->
-> seems like Elon has taken the @x handle and in exchange gifted the original @x user with this snazzy brand new, easy to remember handle
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T09:06:45.825Z
->
-> Whyさん曰く既にモデレーション専門のチームがあるようで、調査やBANはそこが中心にやってるようです。ただハンドル名の件を中心としてPaulやDanielがモデレーション関連の機能追加や修正を結構していたようにも見えたので、連合の実装などに影響がありそうな感じですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:50:17.600Z
->
-> 電気代がすごそう（遠目）
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
