@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T14:49:08.380Z
+>
+> Photos of the Week
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T11:06:33.377Z
 >
 > I didn't think he would actually do this
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:50:17.600Z
 >
 > 電気代がすごそう（遠目）
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:49:32.126Z
->
-> 普通の逸般人
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
