@@ -193,35 +193,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Josh Burton @josh.app 2023-07-25T03:53:57.929Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T03:02:24.202Z
 >
-> Hello Bluesky 👋
-
-Where's all the flutter devs at?
+> @redsolver.dev wow you did it!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T09:42:22.323Z
+> Jay 🦋 @jay.bsky.team 2023-07-26T01:48:05.726Z
 >
-> Let’s do creative works! 👋👋👋
+> Curious what custom feeds are popular? Here's a list of feeds from Skyfeed, with how often they've been loaded, scrolled, and refreshed: https://stats.skyfeed.me/
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T09:28:23.943Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T00:33:20.802Z
 >
-> @owlice.bsky.social Now it includes an official link! :)
+> 厚切りジェイソンのこの記事をふと思い出した
+
+「責任の所在が曖昧な謝罪は無意味」
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T09:05:46.246Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T00:11:49.910Z
 >
-> 【Dart/Flutter】Bluesky APIからメディアを添付してBlueskyにポストする｜shinyakato.dev https://zenn.dev/kato_shinya/articles/lets-post-with-media-and-dart-to-bluesky
+> 謝罪会見を開いて許す許されるの問題ではないけど、会見後に叩かれるのは経営陣が問題の詳細の把握とシナリオを組まないまま会見を開いてアドリブでマスコミの質問に答えてるものが多い気がする
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T01:11:26.364Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-25T22:02:34.341Z
 >
-> リアルタイム性との折り合いですけど定期的に集計した結果だけを流すことはできると思いますね
+> I remembered his son’s name 😅
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
