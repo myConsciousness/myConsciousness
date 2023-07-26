@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T09:06:45.825Z
+>
+> Whyさん曰く既にモデレーション専門のチームがあるようで、調査やBANはそこが中心にやってるようです。ただハンドル名の件を中心としてPaulやDanielがモデレーション関連の機能追加や修正を結構していたようにも見えたので、連合の実装などに影響がありそうな感じですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:50:17.600Z
 >
 > 電気代がすごそう（遠目）
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:30:44.993Z
 >
 > 直接コードを書けるのでなんでもできますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T03:02:24.202Z
->
-> @redsolver.dev wow you did it!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
