@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T11:06:33.377Z
+>
+> I didn't think he would actually do this
+
+---
+
+> Matt Binder @mattbinder.bsky.social 2023-07-26T03:21:55.720Z
+>
+> seems like Elon has taken the @x handle and in exchange gifted the original @x user with this snazzy brand new, easy to remember handle
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T09:06:45.825Z
 >
 > Whyさん曰く既にモデレーション専門のチームがあるようで、調査やBANはそこが中心にやってるようです。ただハンドル名の件を中心としてPaulやDanielがモデレーション関連の機能追加や修正を結構していたようにも見えたので、連合の実装などに影響がありそうな感じですね
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:49:32.126Z
 >
 > 普通の逸般人
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:46:27.986Z
->
-> Jazさんのサービスが今これで動いてるかわからないけど、私が見たポストはこれ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T08:30:44.993Z
->
-> 直接コードを書けるのでなんでもできますね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
