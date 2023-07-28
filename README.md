@@ -193,33 +193,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:55:48.043Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T03:49:27.816Z
 >
-> “Listen kids, there used to be a service called Twitter…”
+> 期待された金融政策と違ったみたいだけど今のところ大した動きはないのね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:54:20.973Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T03:36:10.526Z
 >
-> The blue bird seems to have died in its cage. I hope at least its soul is in the blue sky.
+> セカンドキャリアに関連して最近読んだ中でも面白かった本
+
+https://www.amazon.co.jp/QUITTING-クイッティング-やめる力-最良の人生戦略-ジュリア・ケラー/dp/4296116568
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:48:59.710Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T02:43:39.892Z
 >
-> Musk seems to want to erase Twitter's existence
+> Hi @owlice.bsky.social ! I replied to an email from professor. I think it has reached your mailbox as well :)
+
+Thank you so much, let me know if you have more requests!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T22:46:33.473Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-27T06:48:32.783Z
 >
-> Yes, this is what happened
+> Yea I have shopped there several times :) I have also been to Lotte Department Store in Myeongdong many times, and I ate Japanese dishes there haha
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-26T14:49:08.380Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-27T06:38:13.839Z
 >
-> Photos of the Week
+> Lotte world tower?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
