@@ -193,6 +193,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T04:50:00.930Z
+>
+> I have received permission from Prof. Robert Nemiroff, so I changed a display name of @apod.shinyakato.dev from “Unofficial” to “Official” :) Thanks also to @owlice.bsky.social  for this opportunity!
+
+https://apod.nasa.gov/apod/lib/about_apod.html
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-28T03:49:27.816Z
 >
 > 期待された金融政策と違ったみたいだけど今のところ大した動きはないのね
@@ -218,12 +226,6 @@ Thank you so much, let me know if you have more requests!
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-27T06:48:32.783Z
 >
 > Yea I have shopped there several times :) I have also been to Lotte Department Store in Myeongdong many times, and I ate Japanese dishes there haha
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-27T06:38:13.839Z
->
-> Lotte world tower?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
