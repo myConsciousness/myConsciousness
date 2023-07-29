@@ -193,39 +193,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T04:50:00.930Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-29T03:51:32.748Z
 >
-> I have received permission from Prof. Robert Nemiroff, so I changed a display name of @apod.shinyakato.dev from “Unofficial” to “Official” :) Thanks also to @owlice.bsky.social  for this opportunity!
-
-https://apod.nasa.gov/apod/lib/about_apod.html
+> 鰻重より肝吸いのほうが好き
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T03:49:27.816Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-29T01:31:47.901Z
 >
-> 期待された金融政策と違ったみたいだけど今のところ大した動きはないのね
+> Evil organization
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T03:36:10.526Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T12:26:32.776Z
 >
-> セカンドキャリアに関連して最近読んだ中でも面白かった本
-
-https://www.amazon.co.jp/QUITTING-クイッティング-やめる力-最良の人生戦略-ジュリア・ケラー/dp/4296116568
+> リッチさん、おはスコ🌞
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T02:43:39.892Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T12:02:21.356Z
 >
-> Hi @owlice.bsky.social ! I replied to an email from professor. I think it has reached your mailbox as well :)
-
-Thank you so much, let me know if you have more requests!
+> gm gm!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-27T06:48:32.783Z
+> Mike Godwin @mnemonic.bsky.social 2023-07-28T00:49:43.964Z
 >
-> Yea I have shopped there several times :) I have also been to Lotte Department Store in Myeongdong many times, and I ate Japanese dishes there haha
+> I KEEP CLICKING THE CLOSE BUTTON ON THE TWITTER WINDOW AND IT'S NOT CLOSING!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
