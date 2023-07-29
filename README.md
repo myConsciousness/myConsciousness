@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-29T08:09:51.578Z
+>
+> Tragic branding
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-29T07:35:11.170Z
 >
 > Hibiscus 🌺
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-28T12:26:32.776Z
 >
 > リッチさん、おはスコ🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T12:02:21.356Z
->
-> gm gm!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
