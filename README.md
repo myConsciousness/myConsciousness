@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-29T22:21:24.369Z
+>
+> What did you do this week lol
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-29T08:09:51.578Z
 >
 > Tragic branding
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-29T01:31:47.901Z
 >
 > Evil organization
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-28T12:26:32.776Z
->
-> リッチさん、おはスコ🌞
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
