@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-29T07:35:11.170Z
+>
+> Hibiscus 🌺
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-29T03:51:32.748Z
 >
 > 鰻重より肝吸いのほうが好き
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-28T12:02:21.356Z
 >
 > gm gm!
-
----
-
-> Mike Godwin @mnemonic.bsky.social 2023-07-28T00:49:43.964Z
->
-> I KEEP CLICKING THE CLOSE BUTTON ON THE TWITTER WINDOW AND IT'S NOT CLOSING!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
