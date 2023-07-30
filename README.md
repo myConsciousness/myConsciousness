@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-30T03:39:02.429Z
+>
+> I thought Eddie is talking about block, so it’s a distinctly different feature from a list 🤔 But well, SkyFeed and others allow you to set up a mute list as a general list in a custom feed :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-29T23:21:19.406Z
 >
 > Haha I see 😂👍
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-29T07:35:11.170Z
 >
 > Hibiscus 🌺
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-29T03:51:32.748Z
->
-> 鰻重より肝吸いのほうが好き
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
