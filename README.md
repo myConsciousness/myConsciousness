@@ -193,6 +193,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T00:52:55.894Z
+>
+> Outage
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T00:44:06.998Z
+>
+> Skyfall
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-30T23:26:08.561Z
 >
 > Turn this place into a Flutter world
@@ -208,18 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-30T14:13:39.811Z
 >
 > Hanabi
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-30T08:21:19.296Z
->
-> 駆け巡りたくなる場所でした🌞
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-30T07:54:24.228Z
->
-> Blue sky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
