@@ -193,6 +193,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T11:26:11.810Z
+>
+> バービーで検索したらブラウザがぶっ壊れた
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-31T02:21:24.112Z
 >
 > Yep, it's maintained by @emily.space :)
@@ -214,12 +220,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-07-30T23:26:08.561Z
 >
 > Turn this place into a Flutter world
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-30T14:15:00.181Z
->
-> There are so many trolls lately
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
