@@ -43,7 +43,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 ## **Feeds** 🔭
 
 <details>
-  <summary>:zap: Bluesky</summary>
+  <summary>🪿 Bluesky</summary>
 
 ---
 
