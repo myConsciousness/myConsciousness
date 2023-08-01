@@ -82,12 +82,12 @@ Future<void> _updateZennArticles() async {
   final json = jsonDecode(response.body);
   final dateFormat = DateFormat('yyyy-MM-dd');
 
-  final articles = <String>[];
+  final articles = <String>['- [Zenn](https://zenn.dev/kato_shinya)'];
   for (final Map<String, dynamic> article in json['articles']) {
     final publishedAt = DateTime.parse(article['published_at']);
 
     articles.add(
-      '- ${article['emoji']} [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
+      '  - ${article['emoji']} [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
     );
   }
 
