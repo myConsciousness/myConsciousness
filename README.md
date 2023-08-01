@@ -9,20 +9,20 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 ## **_Featured Projects_** 🚀
 
-### **Awesome**
+### **Awesome** ✨
 
 - [atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)
 - [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)
 - [mastodon-api](https://github.com/mastodon-dart/mastodon-api) (50+ ⭐)
 - [batch.dart](https://github.com/batch-dart/batch.dart) (20+ ⭐)
 
-#### **Others**
+#### **a bit Awesome** ✨
 
-- [flutter-ranking](https://github.com/myConsciousness/flutter-ranking) (20+ ⭐)
-- [freezer](https://github.com/myConsciousness/freezer) (10+ ⭐)
-- [twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce) (10+ ⭐)
-- [mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2) (10+ ⭐)
-- [duolingo4d](https://github.com/duolingo-dart/duolingo4d) (10+ ⭐)
+- [flutter-ranking](https://github.com/myConsciousness/flutter-ranking)
+- [freezer](https://github.com/myConsciousness/freezer)
+- [twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce)
+- [mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)
+- [duolingo4d](https://github.com/duolingo-dart/duolingo4d)
 - [tweet](https://github.com/dart-actions/tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
 
