@@ -13,9 +13,9 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
 
-## **_Projects_**
+## **_Featured Projects_**
 
-### **Featured**
+### **Awesome**
 
 - [atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)
 - [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)
