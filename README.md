@@ -12,6 +12,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 ### **Awesome** ✨
 
 - **[atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)**
+- **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post) (10+ ⭐)**
 - **[twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)**
 - **[mastodon-api](https://github.com/mastodon-dart/mastodon-api) (50+ ⭐)**
 - **[batch.dart](https://github.com/batch-dart/batch.dart) (20+ ⭐)**
@@ -25,7 +26,6 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 - [duolingo4d](https://github.com/duolingo-dart/duolingo4d)
 - [tweet](https://github.com/marketplace/actions/send-tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
-- [bluesky-post](https://github.com/marketplace/actions/send-bluesky-post)
 - [bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)
 - [atproto-apod-search](https://github.com/myConsciousness/atproto-pds-search)
 
