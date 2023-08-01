@@ -7,15 +7,11 @@
 
 If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Bluesky Social](https://staging.bsky.app/profile/shinyakato.dev).
 
----
-
 ## **_Sponsoring_**
 
 **Let me drink a beer!** 🍻
 
 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
-
----
 
 ## **_Featured Projects_**
 
