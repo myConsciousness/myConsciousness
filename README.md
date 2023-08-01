@@ -58,6 +58,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T11:47:03.175Z
+>
+> Cases like yours are not a problem at all, at least. Trolls that use large numbers of accounts and annoy people are the problem.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:31:58.882Z
 >
 > If you’re interested in astronomy, then this feed is what you need to subscribe 
@@ -81,15 +87,6 @@ https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T00:41:32.420Z
 >
 > The official iOS app is displaying the link card strangely, has this been the case before?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T00:28:23.177Z
->
-> I have added documentation on `bluesky_text` to atprotodart.com :) `bluesky_text` is a package for Dart/Bluesky that allows easy handle of RichText in Bluesky.
-
-https://atprotodart.com/docs/packages/bluesky_text
-https://pub.dev/packages/bluesky_text
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
