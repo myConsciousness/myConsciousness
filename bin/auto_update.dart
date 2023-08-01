@@ -7,10 +7,6 @@ import 'package:http/http.dart';
 import 'package:intl/intl.dart';
 import 'package:nasa/nasa.dart';
 
-// const _myRankInGitHubSectionStart =
-//     '<!-- MY-RANK-IN-GITHUB:START - Do not remove or modify this section -->';
-// const _myRankInGitHubSectionEnd = '<!-- MY-RANK-IN-GITHUB:END -->';
-
 const _myBskyTimelineSectionStart =
     '<!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->';
 const _myBskyTimelineSectionEnd = '<!-- MY-BSKY_TIMELINE:END -->';
@@ -24,9 +20,8 @@ const _apodSectionStart =
 const _apodSectionEnd = '<!-- APOD:END -->';
 
 Future<void> main(List<String> arguments) async {
-  // await _updateGitHubRanking();
   await _updateBlueskyTimeline();
-  // await _updateAPOD();
+  await _updateAPOD();
   await _updateZennArticles();
 }
 
@@ -76,22 +71,6 @@ Future<void> _updateBlueskyTimeline() async {
     ),
   );
 }
-
-// Future<void> _updateGitHubRanking() async {
-//   final readme = File('README.md');
-//   String content = readme.readAsStringSync();
-
-//   readme.writeAsStringSync(
-//     _replaceFileContent(
-//       content,
-//       _myRankInGitHubSectionStart,
-//       _myRankInGitHubSectionEnd,
-//       '''\n\n🤖 **Fun fact 1**: I'm currently [the ${await _getRankAsGitHubCommitter()} most active GitHub committer in Japan](https://commits.top/japan.html).</br>
-// 🤖 **Fun fact 2**: I'm currently rated as [the ${await _getRankAsGitHubContributor()} most active GitHub contributor in Japan](https://commits.top/japan_public.html).</br>
-// 🤖 **Fun fact 3**: I'm described in [Wikipedia](https://ja.wikipedia.org/wiki/加藤真也_(プログラマ)).\n\n''',
-//     ),
-//   );
-// }
 
 Future<void> _updateAPOD() async {
   final nasa = NasaApi(token: Platform.environment['NASA_APIS_TOKEN']!);
