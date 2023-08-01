@@ -32,7 +32,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 - [tweet](https://github.com/dart-actions/tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
 
-## **_Activities_**
+## **References**
 
 <details>
   <summary>:zap: Github Status</summary>
