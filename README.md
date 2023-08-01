@@ -7,7 +7,7 @@
 
 If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Bluesky Social](https://staging.bsky.app/profile/shinyakato.dev).
 
-## **_Featured Projects_**
+## **_Featured Projects_** 🚀
 
 ### **Awesome**
 
@@ -26,7 +26,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 - [tweet](https://github.com/dart-actions/tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
 
-## **References**
+## **References** 🔭
 
 <details>
   <summary>:zap: Github Status</summary>
@@ -118,7 +118,7 @@ Cannistra
 <!-- APOD:END -->
 </details>
 
-## **_Sponsoring_**
+## **_Sponsoring_** 😉
 
 **Let me drink a beer!** 🍻
 
