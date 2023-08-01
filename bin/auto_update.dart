@@ -2,7 +2,6 @@ import 'dart:convert';
 import 'dart:io';
 
 import 'package:bluesky/bluesky.dart' as bsky;
-import 'package:html/parser.dart';
 import 'package:http/http.dart';
 import 'package:intl/intl.dart';
 
@@ -102,44 +101,6 @@ Future<void> _updateZennArticles() async {
       '''\n${articles.join('\n')}\n''',
     ),
   );
-}
-
-Future<String> _getRankAsGitHubCommitter() async {
-  final response = await get(Uri.https('commits.top', '/japan.html'));
-
-  return _getRank(response.body);
-}
-
-Future<String> _getRankAsGitHubContributor() async {
-  final response = await get(Uri.https('commits.top', '/japan_public.html'));
-
-  return _getRank(response.body);
-}
-
-String _getRank(final String html) {
-  final document = parse(html);
-
-  for (final element in document.body!.querySelectorAll('tr')) {
-    if (element.innerHtml.contains('https://github.com/myConsciousness')) {
-      final rank = element.querySelector('td')!.innerHtml;
-
-      return _getRankWithUnit(rank.substring(0, rank.indexOf('.')));
-    }
-  }
-
-  return 'N/A';
-}
-
-String _getRankWithUnit(final String rank) {
-  if (rank.endsWith('1')) {
-    return '${rank}st';
-  } else if (rank.endsWith('2')) {
-    return '${rank}nd';
-  } else if (rank.endsWith('3')) {
-    return '${rank}rd';
-  }
-
-  return '${rank}th';
 }
 
 String _replaceFileContent(
