@@ -25,6 +25,8 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 - [duolingo4d](https://github.com/duolingo-dart/duolingo4d)
 - [tweet](https://github.com/dart-actions/tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
+- [bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)
+- [atproto-apod-search](https://github.com/myConsciousness/atproto-pds-search)
 
 ## **References** 🔭
 
