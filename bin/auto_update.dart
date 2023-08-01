@@ -37,11 +37,15 @@ Future<void> _updateBlueskyTimeline() async {
 
   final feeds = await bluesky.feeds.findFeed(
     actor: 'shinyakato.dev',
-    limit: 5,
   );
 
   final postUIs = <String>[];
   for (final feed in feeds.data.feed) {
+    if (feed.reason != null) {
+      //! Exclude reposts.
+      continue;
+    }
+
     final post = feed.post;
     final me = post.author;
 
@@ -50,6 +54,10 @@ Future<void> _updateBlueskyTimeline() async {
 >
 > ${feed.post.record.text}
 ''');
+
+    if (postUIs.length == 5) {
+      break;
+    }
   }
 
   final readme = File('README.md');
