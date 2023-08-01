@@ -9,12 +9,17 @@ const _myBskyTimelineSectionStart =
     '<!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->';
 const _myBskyTimelineSectionEnd = '<!-- MY-BSKY_TIMELINE:END -->';
 
+const _myDevToArticlesSectionStart =
+    '<!-- MY-DEV-TO-ARTICLES:START - Do not remove or modify this section -->';
+const _myDevToArticlesSectionEnd = '<!-- MY-DEV-TO-ARTICLES:END -->';
+
 const _myZennArticlesSectionStart =
     '<!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->';
 const _myZennArticlesSectionEnd = '<!-- MY-ZENN-ARTICLES:END -->';
 
 Future<void> main(List<String> arguments) async {
   await _updateBlueskyTimeline();
+  await _updateDevToArticle();
   await _updateZennArticles();
 }
 
@@ -73,6 +78,44 @@ Future<void> _updateBlueskyTimeline() async {
   );
 }
 
+Future<void> _updateDevToArticle() async {
+  final response = await get(
+    Uri.https(
+      'dev.to',
+      '/api/articles',
+      {'username': 'shinyakato'},
+    ),
+  );
+
+  if (response.statusCode != 200) {
+    return;
+  }
+
+  final json = jsonDecode(response.body);
+  final dateFormat = DateFormat('yyyy-MM-dd');
+
+  final articles = <String>['- [Dev.to](https://dev.to/shinyakato)'];
+  for (final Map<String, dynamic> article in json) {
+    final publishedAt = DateTime.parse(article['published_at']);
+
+    articles.add(
+      '  - [${article['title']}](${article['url']}) (${dateFormat.format(publishedAt)})',
+    );
+  }
+
+  final readme = File('README.md');
+  String content = readme.readAsStringSync();
+
+  readme.writeAsStringSync(
+    _replaceFileContent(
+      content,
+      _myDevToArticlesSectionStart,
+      _myDevToArticlesSectionEnd,
+      '''\n${articles.join('\n')}\n''',
+    ),
+  );
+}
+
 Future<void> _updateZennArticles() async {
   final response = await get(
     Uri.https('zenn.dev', '/api/articles', {
@@ -89,12 +132,12 @@ Future<void> _updateZennArticles() async {
   final json = jsonDecode(response.body);
   final dateFormat = DateFormat('yyyy-MM-dd');
 
-  final articles = <String>['- [Zenn](https://zenn.dev/kato_shinya)'];
+  final articles = <String>['- [Zenn.dev](https://zenn.dev/kato_shinya)'];
   for (final Map<String, dynamic> article in json['articles']) {
     final publishedAt = DateTime.parse(article['published_at']);
 
     articles.add(
-      '  - ${article['emoji']} [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
+      '  - [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
     );
   }
 
