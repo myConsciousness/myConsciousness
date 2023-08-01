@@ -169,10 +169,6 @@ I'm looking for sponsors to support my open source development, I appreciate you
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=myConsciousness&theme=gruvbox&include_all_commits=true&count_private=true)](https://github-profile-trophy.vercel.app/?username=myConsciousness&margin-w=15&include_all_commits=true&count_private=true)
 
-<p>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=myConsciousness&layout=compact&theme=gruvbox" alt="myConsciousness" />
-</p>
-
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=myConsciousness&count_private=true&theme=gruvbox&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myConsciousness&layout=compact&langs_count=7&theme=gruvbox"/>
