@@ -193,34 +193,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:09:18.755Z
+>
+> Interesting 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T00:41:32.420Z
+>
+> The official iOS app is displaying the link card strangely, has this been the case before?
+
+---
+
+> bryan newbold @bnewbold.bsky.team 2023-07-31T23:50:02.028Z
+>
+> [DEⅤS]
+
+got some early notes here on protocol plan to shift from full repo history to snapshots with logical clocks. check it out, especially if you are working with the firehose!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T00:28:23.177Z
+>
+> I have added documentation on `bluesky_text` to atprotodart.com :) `bluesky_text` is a package for Dart/Bluesky that allows easy handle of RichText in Bluesky.
+
+https://atprotodart.com/docs/packages/bluesky_text
+https://pub.dev/packages/bluesky_text
+
+---
+
 > Kylie Robison @kylierobison.com 2023-07-31T21:00:06.507Z
 >
 > I wrote about the racist usernames found on Bluesky, obtained an email investors sent to the team, details about the personalized apologies from the company, and more.
 https://fortune.com/2023/07/31/inside-bluesky-moderation-crisis-investor-pushback-user-backlash-ceo-apology/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T11:26:11.810Z
->
-> バービーで検索したらブラウザがぶっ壊れた
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T02:21:24.112Z
->
-> Yep, it's maintained by @emily.space :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T00:52:55.894Z
->
-> Outage
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-07-31T00:44:06.998Z
->
-> Skyfall
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
