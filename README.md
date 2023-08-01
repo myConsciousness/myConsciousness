@@ -19,7 +19,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 - [atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)
 - [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)
-- [mastodon-api](https://github.com/twitter-dart/twitter-api-v2) (50+ ⭐)
+- [mastodon-api](https://github.com/mastodon-dart/mastodon-api) (50+ ⭐)
 
 #### **Others**
 
