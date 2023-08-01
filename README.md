@@ -13,10 +13,10 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 - **[atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)**
 - **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post) (10+ ⭐)**
+- **[bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)**
 - **[twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)**
 - **[mastodon-api](https://github.com/mastodon-dart/mastodon-api) (50+ ⭐)**
 - **[batch.dart](https://github.com/batch-dart/batch.dart) (20+ ⭐)**
-- **[bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)**
 
 ### **a bit Awesome** ✨
 
