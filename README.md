@@ -1,17 +1,21 @@
 ## Hi, I'm Shinya Kato - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
 
-- [Dart](https://dart.dev)/[Flutter](https://flutter.dev) and [AT Protocol](https://atproto.com) enthusiast
-- I've spoken on [Twitter's official Space](https://twitter.com/TwitterDevJP/status/1572870095193272320) about Twitter API
-- Author of [atproto.dart](https://github.com/myConsciousness/atproto.dart), [twitter_api_v2](https://github.com/twitter-dart/twitter-api-v2), [mastodon_api](https://github.com/mastodon-dart/mastodon-api), and many OSS
-- Owner of [shinyakato.dev](https://shinyakato.dev) and [atprotodart.com](https://atprotodart.com)
+- 🛠️ [Dart](https://dart.dev)/[Flutter](https://flutter.dev) and [AT Protocol](https://atproto.com) enthusiast
+- 🗣️ I've spoken on [Twitter's official Space](https://twitter.com/TwitterDevJP/status/1572870095193272320) about Twitter API
+- 🧐 Author of [atproto.dart](https://github.com/myConsciousness/atproto.dart), [twitter_api_v2](https://github.com/twitter-dart/twitter-api-v2), [mastodon_api](https://github.com/mastodon-dart/mastodon-api), and many OSS
+- ✅ Owner of [shinyakato.dev](https://shinyakato.dev) and [atprotodart.com](https://atprotodart.com)
 
 If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on [Bluesky Social](https://staging.bsky.app/profile/shinyakato.dev).
+
+---
 
 ## **_Sponsoring_**
 
 **Let me drink a beer!** 🍻
 
 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
+
+---
 
 ## **_Featured Projects_**
 
