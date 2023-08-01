@@ -40,7 +40,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
   - 💙 [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
 <!-- MY-ZENN-ARTICLES:END -->
 
-## **Timeline** 🔭
+## **Feeds** 🔭
 
 <details>
   <summary>:zap: Bluesky</summary>
