@@ -13,87 +13,15 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
 
-## **_Featured Projects_**
+## **_Projects_**
 
-<details>
-  <summary>🐦 <b><h3>twitter_api_v2 (150+ ⭐)</h3></b></summary>
-  <div>
-    <p align="center">
-      <a href="https://github.com/twitter-dart/twitter-api-v2">
-        <img alt="twitter_api_v2" width="500px" src="https://user-images.githubusercontent.com/13072231/199728866-202b9742-d58e-4667-b046-e8096efd2339.png">
-      </a>
-    </p>
-  </div>
+### **Featured**
 
-  <h4><b>Highlights</b> ✨</h4>
+- [atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)
+- [twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)
+- [mastodon-api](https://github.com/twitter-dart/twitter-api-v2) (50+ ⭐)
 
-✅ The **wrapper library** for **[Twitter API v2.0](https://developer.twitter.com/en/docs/twitter-api)**. </br>
-✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
-✅ Provides response objects with a **guaranteed safe types.** </br>
-✅ Supports **[all endpoints](https://developer.twitter.com/en/docs/api-reference-index)**. </br>
-✅ Support **all request parameters and response fields**.</br>
-✅ Supports **high-performance streaming** endpoints. </br>
-✅ Supports **[expansions](https://developer.twitter.com/en/docs/twitter-api/expansions)** and **[fields](https://developer.twitter.com/en/docs/twitter-api/fields)** features. </br>
-✅ **Well documented** and **well tested**.</br>
-✅ Supports the powerful **automatic retry**.</br>
-✅ Supports for **large media uploads** (image, gif, video).</br>
-✅ Supports **safe and powerful paging** feature.
-
-- [Repository](https://github.com/twitter-dart/twitter-api-v2)
-- [Pub.dev](https://pub.dev/packages/twitter_api_v2)
-
-</details>
-
-<details>
-  <summary>🦣 <b><h3>mastodon_api (40+ ⭐)</h3></b></summary>
-  <div>
-    <p align="center">
-      <a href="https://github.com/mastodon-dart/mastodon-api">
-        <img alt="twitter_api_v2" width="500px" src="https://user-images.githubusercontent.com/13072231/202892481-5b9c8a39-ef55-4dca-a912-e298beb635ca.png">
-      </a>
-    </p>
-  </div>
-
-  <h4><b>Highlights</b> ✨</h4>
-
-✅ The **wrapper library** for **[Mastodon API](https://docs.joinmastodon.org/client/intro/)**. </br>
-✅ **Easily integrates** with the **Dart** & **Flutter** apps. </br>
-✅ Provides response objects with a **guaranteed safe types.** </br>
-✅ **Well documented** and **well tested**.</br>
-✅ Supports **v1 and v2 endpoints**.</br>
-✅ Supports the powerful **automatic retry**.</br>
-
-- [Repository](https://github.com/mastodon-dart/mastodon-api)
-- [Pub.dev](https://pub.dev/packages/mastodon_api)
-
-</details>
-
-<details>
-  <summary>🚀 <b><h3>Batch.dart (20+ ⭐)</h3></b></summary>
-  <div>
-    <p align="center">
-      <a href="https://github.com/batch-dart/batch.dart">
-        <img alt="batch" width="300px" src="https://user-images.githubusercontent.com/13072231/157616062-6208b014-e104-49f4-8227-b491b7ef6d42.png">
-      </a>
-    </p>
-  </div>
-
-  <h4><b>Highlights</b> ✨</h4>
-
-✅ **Job Scheduling Framework** running on **Dart VM**. </br>
-✅ **Easily schedules** with a combination of **Job**, **Step**, and **Task**. </br>
-✅ Supports **job scheduling in [Cron](https://en.wikipedia.org/wiki/Cron)** format. </br>
-✅ Supports **convenient logging functions** as a standard. </br>
-✅ Supports the **parallel processing**. </br>
-✅ Supports **conditional branching** of schedules. </br>
-✅ Supports the **customizable retry feature**.
-
-- [Repository](https://github.com/batch-dart/batch.dart)
-- [Pub.dev](https://pub.dev/packages/batch)
-
-</details>
-
-#### Others
+#### **Others**
 
 - [flutter-ranking](https://github.com/myConsciousness/flutter-ranking) (20+ ⭐)
 - [freezer](https://github.com/myConsciousness/freezer) (10+ ⭐)
@@ -102,7 +30,6 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 - [duolingo4d](https://github.com/duolingo-dart/duolingo4d) (10+ ⭐)
 - [tweet](https://github.com/dart-actions/tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
-- [misskey](https://github.com/misskey-dart/misskey)
 
 ## **_Experiences_**
 
