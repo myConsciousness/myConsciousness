@@ -36,7 +36,7 @@ Future<void> _updateBlueskyTimeline() async {
   );
 
   final feeds = await bluesky.feeds.findFeed(
-    actor: 'shinyakato.dev',
+    actor: Platform.environment['BLUESKY_IDENTIFIER']!,
   );
 
   final postUIs = <String>[];
