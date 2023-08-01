@@ -10,7 +10,6 @@ dependencies:
   html: ^0.15.1
   http: ^0.13.5
   intl: ^0.18.0
-  nasa: ^0.0.2
 
 dev_dependencies:
   lints: ^2.0.0

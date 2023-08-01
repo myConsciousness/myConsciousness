@@ -5,7 +5,6 @@ import 'package:bluesky/bluesky.dart' as bsky;
 import 'package:html/parser.dart';
 import 'package:http/http.dart';
 import 'package:intl/intl.dart';
-import 'package:nasa/nasa.dart';
 
 const _myBskyTimelineSectionStart =
     '<!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->';
@@ -15,13 +14,8 @@ const _myZennArticlesSectionStart =
     '<!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->';
 const _myZennArticlesSectionEnd = '<!-- MY-ZENN-ARTICLES:END -->';
 
-const _apodSectionStart =
-    '<!-- APOD:START - Do not remove or modify this section -->';
-const _apodSectionEnd = '<!-- APOD:END -->';
-
 Future<void> main(List<String> arguments) async {
   await _updateBlueskyTimeline();
-  await _updateAPOD();
   await _updateZennArticles();
 }
 
@@ -68,28 +62,6 @@ Future<void> _updateBlueskyTimeline() async {
       _myBskyTimelineSectionStart,
       _myBskyTimelineSectionEnd,
       '\n---\n${postUIs.join('\n---\n')}\n---\n',
-    ),
-  );
-}
-
-Future<void> _updateAPOD() async {
-  final nasa = NasaApi(token: Platform.environment['NASA_APIS_TOKEN']!);
-
-  final image = await nasa.apod.lookupImage();
-
-  final readme = File('README.md');
-  String content = readme.readAsStringSync();
-
-  readme.writeAsStringSync(
-    _replaceFileContent(
-      content,
-      _apodSectionStart,
-      _apodSectionEnd,
-      '''\n---\n
-> ${image.data.description}
-> ![APOD](${image.data.url})
-${_getCopyright(image.data)}
-\n---\n''',
     ),
   );
 }
@@ -181,6 +153,3 @@ String _replaceFileContent(
       content.indexOf(endSection),
       newContent,
     );
-
-String _getCopyright(final APODData image) =>
-    image.copyright != null ? '> &copy; ${image.copyright}' : '';
