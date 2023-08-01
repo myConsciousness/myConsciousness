@@ -16,7 +16,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 - [mastodon-api](https://github.com/mastodon-dart/mastodon-api) (50+ ⭐)
 - [batch.dart](https://github.com/batch-dart/batch.dart) (20+ ⭐)
 
-#### **a bit Awesome** ✨
+### **a bit Awesome** ✨
 
 - [flutter-ranking](https://github.com/myConsciousness/flutter-ranking)
 - [freezer](https://github.com/myConsciousness/freezer)
