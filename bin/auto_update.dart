@@ -101,6 +101,10 @@ Future<void> _updateDevToArticle() async {
     articles.add(
       '  - [${article['title']}](${article['url']}) (${dateFormat.format(publishedAt)})',
     );
+
+    if (articles.length == 5) {
+      break;
+    }
   }
 
   final readme = File('README.md');
