@@ -1,4 +1,4 @@
-## Hi, I'm Shinya Kato - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻
+## Hi, I'm Shinya Kato - aka [**_myConsciousness_**](https://github.com/myConsciousness/) here 👋👨‍💻 [![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
 
 - 🛠️ [Dart](https://dart.dev)/[Flutter](https://flutter.dev) and [AT Protocol](https://atproto.com) enthusiast
 - 🗣️ I've spoken on [Twitter's official Space](https://twitter.com/TwitterDevJP/status/1572870095193272320) about Twitter API
@@ -7,7 +7,6 @@
 
 If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on **[Bluesky Social](https://bsky.app/profile/shinyakato.dev)**.
 
-[![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
 ## **_Featured Projects_** 🚀
 
 ### **Awesome** ✨
