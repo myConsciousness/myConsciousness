@@ -97,9 +97,3 @@ https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
 <!-- MY-BSKY_TIMELINE:END -->
 
 </details>
-
-## **_Sponsoring_** 😉
-
-**Let me drink a beer!** 🍻
-
-[![GitHub Badge](https://img.shields.io/badge/Github%20Sponsor-orange?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/myConsciousness)
