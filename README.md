@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T22:52:38.059Z
+>
+> See devs, this is where we belong to
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:35:25.650Z
 >
 > and when you didn’t write unit tests
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:12:37.344Z
 >
 > You’ll be addicted to Flutter
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T23:01:39.948Z
->
-> Thanks to @dholms.xyz for his great work
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
