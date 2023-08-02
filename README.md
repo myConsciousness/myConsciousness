@@ -11,7 +11,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 ### **Awesome** ✨
 
-| Repository                                                                     | Star                                                                                               |
+| Repositories                                                                   | Stars                                                                                              |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
 | **[atproto.dart](https://github.com/myConsciousness/atproto.dart)**            | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/atproto.dart?style=social)     |
 | **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post)**   | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-post?style=social)     |
