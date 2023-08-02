@@ -58,6 +58,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T23:01:39.948Z
+>
+> Thanks to @dholms.xyz for his great work
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T22:56:28.704Z
 >
 > I have been looking forward to seeing this PR for several weeks now. When this PR is merged, the rate limit information will be set in the response header.
@@ -83,12 +89,6 @@ https://github.com/bluesky-social/atproto/pull/1382/files
 > If you’re interested in astronomy, then this feed is what you need to subscribe 
 
 https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:22:52.336Z
->
-> Don’t care. They just lost the opportunity to see your wonderful post.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
