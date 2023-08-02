@@ -95,12 +95,22 @@ Future<void> _updateDevToArticle() async {
   final dateFormat = DateFormat('yyyy-MM-dd');
 
   final articles = <String>['- [Dev.to](https://dev.to/shinyakato)'];
+
+  final now = DateTime.now();
+  final oneWeekAgo = now.subtract(Duration(days: 7));
+
   for (final Map<String, dynamic> article in json) {
     final publishedAt = DateTime.parse(article['published_at']);
 
-    articles.add(
-      '  - [${article['title']}](${article['url']}) (${dateFormat.format(publishedAt)})',
-    );
+    if (publishedAt.isAfter(oneWeekAgo) && publishedAt.isBefore(now)) {
+      articles.add(
+        '  - 🆕 [${article['title']}](${article['url']}) (${dateFormat.format(publishedAt)})',
+      );
+    } else {
+      articles.add(
+        '  - [${article['title']}](${article['url']}) (${dateFormat.format(publishedAt)})',
+      );
+    }
 
     if (articles.length == 5) {
       break;
@@ -137,12 +147,22 @@ Future<void> _updateZennArticles() async {
   final dateFormat = DateFormat('yyyy-MM-dd');
 
   final articles = <String>['- [Zenn.dev](https://zenn.dev/kato_shinya)'];
+
+  final now = DateTime.now();
+  final oneWeekAgo = now.subtract(Duration(days: 7));
+
   for (final Map<String, dynamic> article in json['articles']) {
     final publishedAt = DateTime.parse(article['published_at']);
 
-    articles.add(
-      '  - [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
-    );
+    if (publishedAt.isAfter(oneWeekAgo) && publishedAt.isBefore(now)) {
+      articles.add(
+        '  - 🆕 [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
+      );
+    } else {
+      articles.add(
+        '  - [${article['title']}](https://zenn.dev${article['path']}) (${dateFormat.format(publishedAt)})',
+      );
+    }
   }
 
   final readme = File('README.md');
