@@ -11,16 +11,16 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 ### **Awesome** ✨
 
-| Repositories                                                                   | Stars                                                                                              |
-| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| **[atproto.dart](https://github.com/myConsciousness/atproto.dart)**            | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/atproto.dart?style=social)     |
-| **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post)**   | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-post?style=social)     |
-| **[bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)**    | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-apod-bot?style=social) |
-| **[twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2)**           | ![GitHub stars](https://img.shields.io/github/stars/twitter-dart/twitter-api-v2?style=social)      |
-| **[twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce)** | ![GitHub stars](https://img.shields.io/github/stars/twitter-dart/twitter-oauth2-pkce?style=social) |
-| **[mastodon-api](https://github.com/mastodon-dart/mastodon-api)**              | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-api?style=social)       |
-| **[mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)**        | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-oauth2?style=social)    |
-| **[batch.dart](https://github.com/batch-dart/batch.dart)**                     | ![GitHub stars](https://img.shields.io/github/stars/batch-dart/batch.dart?style=social)            |
+| Repositories                                                                   | Stars                                                                                              | Description                                                                                                                                                                                                                                                                |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[atproto.dart](https://github.com/myConsciousness/atproto.dart)**            | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/atproto.dart?style=social)     | This is a monorepo project to manage a complete set of **[AT Protocol](https://atproto.com)** and **[Bluesky](https://blueskyweb.xyz)** APIs and other features for easy integration into Dart/Flutter apps.                                                               |
+| **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post)**   | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-post?style=social)     | Provides the ability to easily post from GitHub Actions to **[Bluesky](https://blueskyweb.xyz)**.                                                                                                                                                                          |
+| **[bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)**    | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-apod-bot?style=social) | The **_[Official APOD BOT](https://apod.nasa.gov/apod/lib/about_apod.html)_** for Bluesky approved by **[Professor Robert Nemiroff](https://www.mtu.edu/physics/department/faculty/nemiroff/)**, the founder of **[NASA APOD](https://apod.nasa.gov/apod/astropix.html)**. |
+| **[twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2)**           | ![GitHub stars](https://img.shields.io/github/stars/twitter-dart/twitter-api-v2?style=social)      | A library for easy integration of **[Twitter API v2.0](https://developer.twitter.com/en/docs/api-reference-index)** into Dart/Flutter apps.                                                                                                                                |
+| **[twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce)** | ![GitHub stars](https://img.shields.io/github/stars/twitter-dart/twitter-oauth2-pkce?style=social) | A library to easily integrate **Twitter OAuth 2.0 PKCE** into your Flutter apps.                                                                                                                                                                                           |
+| **[mastodon-api](https://github.com/mastodon-dart/mastodon-api)**              | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-api?style=social)       | A library for easy integration of **[Mastodon API](https://docs.joinmastodon.org/api/)** into Dart/Flutter apps.                                                                                                                                                           |
+| **[mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)**        | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-oauth2?style=social)    | A library to easily integrate **[Mastodon OAuth](https://docs.joinmastodon.org/spec/oauth/)** into your Flutter apps.                                                                                                                                                      |
+| **[batch.dart](https://github.com/batch-dart/batch.dart)**                     | ![GitHub stars](https://img.shields.io/github/stars/batch-dart/batch.dart?style=social)            | A **job scheduling framework** developed in Dart that supports scheduling jobs in [Cron](https://en.wikipedia.org/wiki/Cron) format and advanced parallel processing.                                                                                                      |
 
 ### **Others** ✨
 
@@ -88,7 +88,7 @@ https://github.com/bluesky-social/atproto/pull/1382/files
 
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:31:58.882Z
 >
-> If you’re interested in astronomy, then this feed is what you need to subscribe 
+> If you’re interested in astronomy, then this feed is what you need to subscribe
 
 https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
 
