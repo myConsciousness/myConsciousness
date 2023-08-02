@@ -5,7 +5,7 @@
 - 🧐 Author of [atproto.dart](https://github.com/myConsciousness/atproto.dart), [twitter_api_v2](https://github.com/twitter-dart/twitter-api-v2), [mastodon_api](https://github.com/mastodon-dart/mastodon-api), and many OSS
 - ✅ Owner of [shinyakato.dev](https://shinyakato.dev) and [atprotodart.com](https://atprotodart.com)
 
-If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on **[Bluesky Social](https://staging.bsky.app/profile/shinyakato.dev)**.
+If you are interested in what I do, you can hit the **_Follow_** button over there 👈 or on **[Bluesky Social](https://bsky.app/profile/shinyakato.dev)**.
 
 ## **_Featured Projects_** 🚀
 
