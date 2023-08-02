@@ -5,5 +5,8 @@
       "front_matter_title": ""
     }
   },
-  "cSpell.words": ["Bluesky", "shinyakato"]
+  "cSpell.words": ["Bluesky", "shinyakato"],
+  "[markdown]": {
+    "editor.wordWrap": "off"
+  },
 }

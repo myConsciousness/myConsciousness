@@ -11,19 +11,21 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 ### **Awesome** ✨
 
-- **[atproto.dart](https://github.com/myConsciousness/atproto.dart) (60+ ⭐)**
-- **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post) (10+ ⭐)**
-- **[bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)**
-- **[twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2) (150+ ⭐)**
-- **[mastodon-api](https://github.com/mastodon-dart/mastodon-api) (50+ ⭐)**
-- **[batch.dart](https://github.com/batch-dart/batch.dart) (20+ ⭐)**
+| Repository                                                                     | Star                                                                                               |
+| ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| **[atproto.dart](https://github.com/myConsciousness/atproto.dart)**            | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/atproto.dart?style=social)     |
+| **[bluesky-post](https://github.com/marketplace/actions/send-bluesky-post)**   | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-post?style=social)     |
+| **[bluesky-apod-bot](https://github.com/myConsciousness/bluesky-apod-bot)**    | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/bluesky-apod-bot?style=social) |
+| **[twitter-api-v2](https://github.com/twitter-dart/twitter-api-v2)**           | ![GitHub stars](https://img.shields.io/github/stars/twitter-dart/twitter-api-v2?style=social)      |
+| **[twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce)** | ![GitHub stars](https://img.shields.io/github/stars/twitter-dart/twitter-oauth2-pkce?style=social) |
+| **[mastodon-api](https://github.com/mastodon-dart/mastodon-api)**              | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-api?style=social)       |
+| **[mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)**        | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-oauth2?style=social)    |
+| **[batch.dart](https://github.com/batch-dart/batch.dart)**                     | ![GitHub stars](https://img.shields.io/github/stars/batch-dart/batch.dart?style=social)            |
 
 ### **a bit Awesome** ✨
 
 - [flutter-ranking](https://github.com/myConsciousness/flutter-ranking)
 - [freezer](https://github.com/myConsciousness/freezer)
-- [twitter-oauth2-pkce](https://github.com/twitter-dart/twitter-oauth2-pkce)
-- [mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)
 - [duolingo4d](https://github.com/duolingo-dart/duolingo4d)
 - [tweet](https://github.com/marketplace/actions/send-tweet)
 - [nasa](https://github.com/myConsciousness/nasa-api)
@@ -86,7 +88,7 @@ https://github.com/bluesky-social/atproto/pull/1382/files
 
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:31:58.882Z
 >
-> If you’re interested in astronomy, then this feed is what you need to subscribe 
+> If you’re interested in astronomy, then this feed is what you need to subscribe
 
 https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
 
