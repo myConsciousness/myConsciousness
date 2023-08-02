@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:35:25.650Z
+>
+> and when you didn’t write unit tests
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:24:49.708Z
+>
+> gm gm!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:44:43.089Z
 >
 > Great work!
@@ -79,20 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T23:01:39.948Z
 >
 > Thanks to @dholms.xyz for his great work
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T22:56:28.704Z
->
-> I have been looking forward to seeing this PR for several weeks now. When this PR is merged, the rate limit information will be set in the response header.
-
-https://github.com/bluesky-social/atproto/pull/1382/files
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T12:08:55.573Z
->
-> 複数垢を作るにしろ何にしろPDSにいる皆が心穏やかにいられるように一般的な常識の範囲内でやってくださいねということだね。それができないなら追放しますよという簡単なお願い
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
