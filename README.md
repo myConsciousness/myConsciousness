@@ -22,7 +22,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 | **[mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)**        | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-oauth2?style=social)    |
 | **[batch.dart](https://github.com/batch-dart/batch.dart)**                     | ![GitHub stars](https://img.shields.io/github/stars/batch-dart/batch.dart?style=social)            |
 
-### **a bit Awesome** ✨
+### **Others** ✨
 
 - [flutter-ranking](https://github.com/myConsciousness/flutter-ranking)
 - [freezer](https://github.com/myConsciousness/freezer)
