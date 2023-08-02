@@ -88,7 +88,7 @@ https://github.com/bluesky-social/atproto/pull/1382/files
 
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:31:58.882Z
 >
-> If you’re interested in astronomy, then this feed is what you need to subscribe
+> If you’re interested in astronomy, then this feed is what you need to subscribe 
 
 https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
 
