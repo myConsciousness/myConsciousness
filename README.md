@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:44:43.089Z
+>
+> Great work!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:12:37.344Z
+>
+> You’ll be addicted to Flutter
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T23:01:39.948Z
 >
 > Thanks to @dholms.xyz for his great work
@@ -81,20 +93,6 @@ https://github.com/bluesky-social/atproto/pull/1382/files
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-01T12:08:55.573Z
 >
 > 複数垢を作るにしろ何にしろPDSにいる皆が心穏やかにいられるように一般的な常識の範囲内でやってくださいねということだね。それができないなら追放しますよという簡単なお願い
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T11:47:03.175Z
->
-> Cases like yours are not a problem at all, at least. Trolls that use large numbers of accounts and annoy people are the problem.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-01T01:31:58.882Z
->
-> If you’re interested in astronomy, then this feed is what you need to subscribe 
-
-https://bsky.app/profile/did:plc:jcoy7v3a2t4rcfdh6i4kza25/feed/astro
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
