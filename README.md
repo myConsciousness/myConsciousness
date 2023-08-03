@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T23:41:24.655Z
+>
+> Although not even officially released yet, I have created a simple interface to get rate limits for API from packages I'm developing. This spec will be included in the next release.
+
+https://github.com/myConsciousness/atproto.dart/pull/637
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T22:52:38.059Z
 >
 > See devs, this is where we belong to
@@ -85,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:44:43.089Z
 >
 > Great work!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:12:37.344Z
->
-> You’ll be addicted to Flutter
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
