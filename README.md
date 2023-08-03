@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-03T07:48:25.093Z
+>
+> I have not released it yet, but have added documentation on Rate Limits ahead of time :)
+
+https://atprotodart.com/docs/packages/bluesky#rate-limits
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-03T00:02:14.851Z
 >
 > トーキングモジュレータを使った結果狂人になるのか、それとも狂人がトーキングモジュレータに辿り着くのか
@@ -87,12 +95,6 @@ https://github.com/myConsciousness/atproto.dart/pull/637
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:35:25.650Z
 >
 > and when you didn’t write unit tests
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:24:49.708Z
->
-> gm gm!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
