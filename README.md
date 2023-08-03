@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-03T00:02:14.851Z
+>
+> トーキングモジュレータを使った結果狂人になるのか、それとも狂人がトーキングモジュレータに辿り着くのか
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T23:41:24.655Z
 >
 > Although not even officially released yet, I have created a simple interface to get rate limits for API from packages I'm developing. This spec will be included in the next release.
@@ -87,12 +93,6 @@ https://github.com/myConsciousness/atproto.dart/pull/637
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:24:49.708Z
 >
 > gm gm!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T14:44:43.089Z
->
-> Great work!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
