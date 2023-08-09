@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T05:59:43.053Z
+>
+> !jazbot Getlikecount
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T05:14:47.750Z
+>
+> you got a cool bot
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T03:50:22.931Z
 >
 > Adminだけですね
@@ -81,18 +93,6 @@ https://github.com/bluesky-social/atproto/blob/e1d10d21c004a1323a426bbe84674b663
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:22:12.384Z
 >
 > This is the way!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:17:13.335Z
->
-> btw I found an interesting UI expression when posting from SkyFeed: a hint for gender of emoji
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:14:23.322Z
->
-> 👯‍♀️🧚‍♂️🌹
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
