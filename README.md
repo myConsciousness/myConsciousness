@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T02:35:54.219Z
+>
+> DIDで検索しても見つからないのでもしかするとアカウントを消したみたいですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:22:12.384Z
 >
 > This is the way!
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:01:48.674Z
 >
 > It’s an unexpected but nice discovery!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:00:30.136Z
->
-> I think you’re right 🤔 I did not check facets info, but yes the facets set up from SkyFeed seem to have based on utf16 (String on Flutter is basically based on utf16)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
