@@ -64,37 +64,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-03T07:48:25.093Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:22:12.384Z
 >
-> I have not released it yet, but have added documentation on Rate Limits ahead of time :)
-
-https://atprotodart.com/docs/packages/bluesky#rate-limits
+> This is the way!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-03T00:02:14.851Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:17:13.335Z
 >
-> トーキングモジュレータを使った結果狂人になるのか、それとも狂人がトーキングモジュレータに辿り着くのか
+> btw I found an interesting UI expression when posting from SkyFeed: a hint for gender of emoji
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T23:41:24.655Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:14:23.322Z
 >
-> Although not even officially released yet, I have created a simple interface to get rate limits for API from packages I'm developing. This spec will be included in the next release.
-
-https://github.com/myConsciousness/atproto.dart/pull/637
+> 👯‍♀️🧚‍♂️🌹
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T22:52:38.059Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:01:48.674Z
 >
-> See devs, this is where we belong to
+> It’s an unexpected but nice discovery!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-02T15:35:25.650Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:00:30.136Z
 >
-> and when you didn’t write unit tests
+> I think you’re right 🤔 I did not check facets info, but yes the facets set up from SkyFeed seem to have based on utf16 (String on Flutter is basically based on utf16)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
