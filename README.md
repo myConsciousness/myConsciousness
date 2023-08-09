@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T09:24:18.405Z
+>
+> @jaz.bsky.social @vqv.app Have you ever calculated the number of active users in a given time period for this PDS? Or is it already visualized in a graph?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T09:03:06.191Z
+>
+> 複垢も既に相当な量があると思うので、単純なアカウント数はもうあまり意味がないですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T06:06:13.906Z
 >
 > I see, this is a very reasonable choice :) @yui.syui.ai has been having this problem recently
@@ -79,20 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T05:59:43.053Z
 >
 > !jazbot Getlikecount
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T05:14:47.750Z
->
-> you got a cool bot
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T03:50:22.931Z
->
-> Adminだけですね
-
-https://github.com/bluesky-social/atproto/blob/e1d10d21c004a1323a426bbe84674b66327a439c/packages/pds/src/app-view/api/app/bsky/unspecced.ts#L195
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
