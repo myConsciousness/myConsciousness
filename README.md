@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T03:50:22.931Z
+>
+> Adminだけですね
+
+https://github.com/bluesky-social/atproto/blob/e1d10d21c004a1323a426bbe84674b66327a439c/packages/pds/src/app-view/api/app/bsky/unspecced.ts#L195
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T02:35:54.219Z
 >
 > DIDで検索しても見つからないのでもしかするとアカウントを消したみたいですね
@@ -85,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:14:23.322Z
 >
 > 👯‍♀️🧚‍♂️🌹
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:01:48.674Z
->
-> It’s an unexpected but nice discovery!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
