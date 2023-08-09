@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T22:56:36.261Z
+>
+> And more serious than above ground is ocean
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T09:24:18.405Z
 >
 > @jaz.bsky.social @vqv.app Have you ever calculated the number of active users in a given time period for this PDS? Or is it already visualized in a graph?
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T06:01:27.028Z
 >
 > @jaz.bsky.social Is there a reason why this BOT is identified by a special identifier instead of a mentions?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T05:59:43.053Z
->
-> !jazbot Getlikecount
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
