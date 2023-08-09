@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T06:06:13.906Z
+>
+> I see, this is a very reasonable choice :) @yui.syui.ai has been having this problem recently
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T06:01:27.028Z
+>
+> @jaz.bsky.social Is there a reason why this BOT is identified by a special identifier instead of a mentions?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T05:59:43.053Z
 >
 > !jazbot Getlikecount
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Adminだけですね
 
 https://github.com/bluesky-social/atproto/blob/e1d10d21c004a1323a426bbe84674b66327a439c/packages/pds/src/app-view/api/app/bsky/unspecced.ts#L195
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T02:35:54.219Z
->
-> DIDで検索しても見つからないのでもしかするとアカウントを消したみたいですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-08T23:22:12.384Z
->
-> This is the way!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
