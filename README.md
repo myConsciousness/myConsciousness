@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:36:46.166Z
+>
+> I labeled myself as a "developer"
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:20:51.140Z
+>
+> The filter property is useful
+
+https://github.com/bluesky-social/atproto/blob/38a4b25c274c62e86ae240db037731eebf5b05ec/lexicons/app/bsky/feed/getAuthorFeed.json#L15
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:11:24.657Z
+>
+> Let’s work! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:01:33.207Z
 >
 > Self labeling
@@ -75,24 +95,6 @@ https://github.com/bluesky-social/atproto/pull/1444
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T12:06:40.514Z
 >
 > 海外勢の自前のインフラが強すぎる
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T11:57:46.793Z
->
-> Nice summer holidays
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T03:07:23.060Z
->
-> MastodonみたいにisBotフラグでもいい気がしますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T02:44:11.905Z
->
-> !jazbot takeMeToMars
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
