@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T11:57:46.793Z
+>
+> Nice summer holidays
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T03:07:23.060Z
 >
 > MastodonみたいにisBotフラグでもいい気がしますね
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T22:56:36.261Z
 >
 > And more serious than above ground is ocean
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T09:24:18.405Z
->
-> @jaz.bsky.social @vqv.app Have you ever calculated the number of active users in a given time period for this PDS? Or is it already visualized in a graph?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
