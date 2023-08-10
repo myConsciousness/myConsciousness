@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T03:07:23.060Z
+>
+> MastodonみたいにisBotフラグでもいい気がしますね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T02:44:11.905Z
 >
 > !jazbot takeMeToMars
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-09T09:24:18.405Z
 >
 > @jaz.bsky.social @vqv.app Have you ever calculated the number of active users in a given time period for this PDS? Or is it already visualized in a graph?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T09:03:06.191Z
->
-> 複垢も既に相当な量があると思うので、単純なアカウント数はもうあまり意味がないですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
