@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T16:03:33.426Z
+>
+> I have released the latest builds of `atproto` and `bluesky` packages for Dart/Flutter :) This release includes `self-labeling` and the addition of `filter` parameter for author feeds.
+
+https://github.com/myConsciousness/atproto.dart
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T14:31:20.575Z
 >
 > 少なくとも今のところはAdmin権限が必要みたいですね
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > The filter property is useful
 
 https://github.com/bluesky-social/atproto/blob/38a4b25c274c62e86ae240db037731eebf5b05ec/lexicons/app/bsky/feed/getAuthorFeed.json#L15
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:11:24.657Z
->
-> Let’s work! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
