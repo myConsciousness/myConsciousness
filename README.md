@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T14:31:20.575Z
+>
+> 少なくとも今のところはAdmin権限が必要みたいですね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T14:27:32.019Z
+>
+> あくまでも自分に対するラベリングですけど、もし悪意のあるクライアントを使った場合は認証さえ通せば好きなラベルを知らない内に貼られるかも
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:36:46.166Z
 >
 > I labeled myself as a "developer"
@@ -81,20 +93,6 @@ https://github.com/bluesky-social/atproto/blob/38a4b25c274c62e86ae240db037731eeb
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:11:24.657Z
 >
 > Let’s work! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:01:33.207Z
->
-> Self labeling
-
-https://github.com/bluesky-social/atproto/pull/1444
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T12:06:40.514Z
->
-> 海外勢の自前のインフラが強すぎる
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
