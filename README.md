@@ -64,6 +64,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T13:01:33.207Z
+>
+> Self labeling
+
+https://github.com/bluesky-social/atproto/pull/1444
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T12:06:40.514Z
+>
+> 海外勢の自前のインフラが強すぎる
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T11:57:46.793Z
 >
 > Nice summer holidays
@@ -79,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T02:44:11.905Z
 >
 > !jazbot takeMeToMars
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T02:42:36.768Z
->
-> !jazbot virtualHighFive
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-09T22:56:36.261Z
->
-> And more serious than above ground is ocean
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
