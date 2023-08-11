@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-11T14:15:52.301Z
+>
+> I will be modifying the Dart SDK to `^3.0.0` for all packages provided by atproto.dart this weekend. Then I will make some freezed union objects available for pattern matching.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-11T14:09:08.358Z
+>
+> Also, a marshalling bug related to viewer objects (ActorViewer, ListViewer) has been fixed. Some flags were not included in the response, and are now set to false by default. No breaking change for this.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-11T14:03:18.434Z
+>
+> I have released the latest build of the `bluesky` package for Dart/Flutter :) Now you can see the author of the content from `app.bsky.embed.record#viewBlocked` and `app.bsky.feed.defs#blockedPost`
+
+https://github.com/myConsciousness/atproto.dart
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-11T10:55:32.337Z
 >
 > リッチさん、おはスコ🌞
@@ -73,26 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T23:11:07.545Z
 >
 > ですね。あとGigazineの件はグレーゾーンですけど、あれをアウトの判例にしてしまうとかなり厳しめのルールができてしまうので運営陣からするとあまり旨みがなさそうです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T22:58:14.628Z
->
-> たぶん招待コードやアカウントの交換時に悪意のある者に直接的な金銭の利益が発生する（もしくは発生し得る状況）かどうかがポイントのような気がします
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T16:03:33.426Z
->
-> I have released the latest builds of `atproto` and `bluesky` packages for Dart/Flutter :) This release includes `self-labeling` and the addition of `filter` parameter for author feeds.
-
-https://github.com/myConsciousness/atproto.dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T14:31:20.575Z
->
-> 少なくとも今のところはAdmin権限が必要みたいですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
