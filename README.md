@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-11T10:55:32.337Z
+>
+> リッチさん、おはスコ🌞
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T23:11:07.545Z
 >
 > ですね。あとGigazineの件はグレーゾーンですけど、あれをアウトの判例にしてしまうとかなり厳しめのルールができてしまうので運営陣からするとあまり旨みがなさそうです
@@ -87,12 +93,6 @@ https://github.com/myConsciousness/atproto.dart
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-10T14:31:20.575Z
 >
 > 少なくとも今のところはAdmin権限が必要みたいですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-10T14:27:32.019Z
->
-> あくまでも自分に対するラベリングですけど、もし悪意のあるクライアントを使った場合は認証さえ通せば好きなラベルを知らない内に貼られるかも
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
