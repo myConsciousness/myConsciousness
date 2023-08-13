@@ -64,33 +64,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T05:52:36.514Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:59:21.522Z
 >
-> This is a new feature and not yet available for official clients :) Briefly, until now only negative elements such as "spam" could be labeled for certain accounts and posts, but now we will be able to set our own arbitrary labels, like "space", "astronomy" and something like them
+> A realistic view: I don't know how much demand there is for this yet. But, I just feel it’s interesting to create custom feeds using profile and post labels
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T00:41:46.343Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:56:04.346Z
 >
-> XBook Pro
+> @redsolver.dev Do you have a plan to add “label value” (or something like this) to the SkyFeed Builder? This item allows the user to set any label value as a filter, like “flutterdev”
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-12T23:35:12.103Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:43:12.019Z
 >
-> @emily.space with self-labeling already available, do you plan to use labels in your custom feeds to improve filtering?
+> 規定や制限は今の段階で考えなくても大丈夫だと思いますね。実際にいろいろ試してみて向き不向きを判断したほうが良さそうです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-12T10:39:01.207Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:27:48.489Z
 >
-> It was a wonderful cruise ⛵️
+> プロポーザルをベースにするなら、このセクションがポジティブラベルについて言及しています
+
+https://github.com/bluesky-social/proposals/tree/main/0002-labeling-and-moderation-controls#about-neutral-and-positive-labels
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-11T22:37:12.492Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:02:53.232Z
 >
-> Thank you, my goal is to minimize the time Dart and Flutter developers spend learning about the API and maximize their productivity in app development 😁
+> 公式の発表はないですが、私が思うにラベルはもともと無色な機能で付けられた値に応じて性質が変わるものですね。
+
+仮にラベルがモデレーションに特化した機能であればラベルのLexiconはモデレーションサービスとして分類されると思いますが、ラベルサービスとして分けられているのでモデレーションからは独立した存在ですね
+
+https://github.com/bluesky-social/atproto/blob/main/lexicons/com/atproto/label/defs.json
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
