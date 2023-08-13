@@ -64,6 +64,27 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:31:40.718Z
+>
+> Use them :)
+
+https://bsky.app/profile/shinyakato.bsky.social/post/3k4tedgjik72g
+https://bsky.app/profile/shinyakato.bsky.social/post/3k4teggdcio2u
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:25:37.613Z
+>
+> If you need labels other than moderation-related, wait a bit. I will create some posts
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:23:00.960Z
+>
+> @mimomimo.bsky.social used self labels to post officially supported moderation-related labels. If you want to use the label set in a profile, use mine :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T08:41:30.990Z
 >
 > 公式で機能としてのハッシュタグがない状態が続くと早かれ遅かれラベルが事実上のハッシュタグみたいな機能として使われていく可能性は高そうです
@@ -75,26 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:59:21.522Z
 >
 > A realistic view: I don't know how much demand there is for this yet. But, I just feel it’s interesting to create custom feeds using profile and post labels
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:56:04.346Z
->
-> @redsolver.dev Do you have a plan to add “label value” (or something like this) to the SkyFeed Builder? This item allows the user to set any label value as a filter, like “flutterdev”
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:43:12.019Z
->
-> 規定や制限は今の段階で考えなくても大丈夫だと思いますね。実際にいろいろ試してみて向き不向きを判断したほうが良さそうです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:27:48.489Z
->
-> プロポーザルをベースにするなら、このセクションがポジティブラベルについて言及しています
-
-https://github.com/bluesky-social/proposals/tree/main/0002-labeling-and-moderation-controls#about-neutral-and-positive-labels
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
