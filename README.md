@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T11:12:02.367Z
+>
+> 天国 503 Service Unavailable
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T10:20:12.971Z
 >
 > gm gm!
@@ -88,14 +94,6 @@ https://bsky.app/profile/shinyakato.bsky.social/post/3k4teggdcio2u
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:23:00.960Z
 >
 > @mimomimo.bsky.social used self labels to post officially supported moderation-related labels. If you want to use the label set in a profile, use mine :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T08:41:30.990Z
->
-> 公式で機能としてのハッシュタグがない状態が続くと早かれ遅かれラベルが事実上のハッシュタグみたいな機能として使われていく可能性は高そうです
-
-あとはもしかするとクライアントとしてもプロフィールやポストに付けられたラベルのリストをUI上で見られるようにしたほうがいいのかもしれないですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
