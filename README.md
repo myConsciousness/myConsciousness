@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T10:20:12.971Z
+>
+> gm gm!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:31:40.718Z
 >
 > Use them :)
@@ -90,12 +96,6 @@ https://bsky.app/profile/shinyakato.bsky.social/post/3k4teggdcio2u
 > 公式で機能としてのハッシュタグがない状態が続くと早かれ遅かれラベルが事実上のハッシュタグみたいな機能として使われていく可能性は高そうです
 
 あとはもしかするとクライアントとしてもプロフィールやポストに付けられたラベルのリストをUI上で見られるようにしたほうがいいのかもしれないですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:59:21.522Z
->
-> A realistic view: I don't know how much demand there is for this yet. But, I just feel it’s interesting to create custom feeds using profile and post labels
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
