@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T08:41:30.990Z
+>
+> 公式で機能としてのハッシュタグがない状態が続くと早かれ遅かれラベルが事実上のハッシュタグみたいな機能として使われていく可能性は高そうです
+
+あとはもしかするとクライアントとしてもプロフィールやポストに付けられたラベルのリストをUI上で見られるようにしたほうがいいのかもしれないですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:59:21.522Z
 >
 > A realistic view: I don't know how much demand there is for this yet. But, I just feel it’s interesting to create custom feeds using profile and post labels
@@ -87,16 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > プロポーザルをベースにするなら、このセクションがポジティブラベルについて言及しています
 
 https://github.com/bluesky-social/proposals/tree/main/0002-labeling-and-moderation-controls#about-neutral-and-positive-labels
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T07:02:53.232Z
->
-> 公式の発表はないですが、私が思うにラベルはもともと無色な機能で付けられた値に応じて性質が変わるものですね。
-
-仮にラベルがモデレーションに特化した機能であればラベルのLexiconはモデレーションサービスとして分類されると思いますが、ラベルサービスとして分けられているのでモデレーションからは独立した存在ですね
-
-https://github.com/bluesky-social/atproto/blob/main/lexicons/com/atproto/label/defs.json
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
