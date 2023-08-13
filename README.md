@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T22:14:58.221Z
+>
+> Yay, I’m looking forward to use your client! 😁👍 Let me know about your app when you’re ready, and I can list it on this page if you want :)
+
+https://atprotodart.com/showcase
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T11:12:02.367Z
 >
 > 天国 503 Service Unavailable
@@ -88,12 +96,6 @@ https://bsky.app/profile/shinyakato.bsky.social/post/3k4teggdcio2u
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:25:37.613Z
 >
 > If you need labels other than moderation-related, wait a bit. I will create some posts
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:23:00.960Z
->
-> @mimomimo.bsky.social used self labels to post officially supported moderation-related labels. If you want to use the label set in a profile, use mine :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
