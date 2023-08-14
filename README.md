@@ -64,6 +64,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:51:44.562Z
+>
+> @emily.space I started to add some self labels such as “space” and “astronomy” for my APOD bot, so you can use my bot to test labels if you want :)
+
+https://bsky.app/profile/apod.shinyakato.dev/post/3k4wyemnvdp2g
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:43:03.478Z
+>
+> 既知の事象でDartのutf16Stringをベースにして文字列をカウントしてる処理があるようです。近いうちに修正される予定です
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:27:17.204Z
+>
+> Of course yes, I’m very looking forward to see your Flutter app for Bluesky! 😁👍
+
+You can join this Discord channel, and there are Flutter devs for AT Protocol and Bluesky :)
+
+https://discord.gg/psMDFZVN
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T05:17:21.589Z
 >
 > ゲーム性を意識する以上は自然なアクションにはなりにくいと思いますけど、ただコミュニティを活性化させるためには良いアイデアだと感じますね〜
@@ -75,24 +99,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T04:50:10.649Z
 >
 > 数ヶ月前にも書いた気がするけど、いいねとかのアクションでなにをスパムとするかは実はかなり難しい問題なのよね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:53:16.537Z
->
-> もし実装する時になにかあればサポートできるので気軽に教えてください 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:10:56.010Z
->
-> 最近CLIの開発はサボり気味だったので良い刺激になりました、ありがとうございます！😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:08:19.617Z
->
-> rootとparentという名前がまたややこしくて、APIからスレッドを作るのが少しハードルが高い感じですね〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
