@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T04:50:10.649Z
+>
+> 数ヶ月前にも書いた気がするけど、いいねとかのアクションでなにをスパムとするかは実はかなり難しい問題なのよね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:53:16.537Z
 >
 > もし実装する時になにかあればサポートできるので気軽に教えてください 😁
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:02:09.936Z
 >
 > Bluesky APIのちょっと面倒なところですけど、リプライも手動設定ですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T02:59:02.847Z
->
-> すごい、DartとPythonの融合は私も初めて見たかも👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
