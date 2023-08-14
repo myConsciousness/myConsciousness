@@ -64,6 +64,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T01:18:37.935Z
+>
+> 検索自体は簡単に実装できますね、ただUIは苦労しそう…
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T01:15:40.809Z
+>
+> @henoya.com さんがそんな感じのサービスを作ろうとしてたような
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T00:37:43.734Z
+>
+> Welcome back 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T22:14:58.221Z
 >
 > Yay, I’m looking forward to use your client! 😁👍 Let me know about your app when you’re ready, and I can list it on this page if you want :)
@@ -75,27 +93,6 @@ https://atprotodart.com/showcase
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-13T11:12:02.367Z
 >
 > 天国 503 Service Unavailable
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T10:20:12.971Z
->
-> gm gm!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:31:40.718Z
->
-> Use them :)
-
-https://bsky.app/profile/shinyakato.bsky.social/post/3k4tedgjik72g
-https://bsky.app/profile/shinyakato.bsky.social/post/3k4teggdcio2u
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-13T09:25:37.613Z
->
-> If you need labels other than moderation-related, wait a bit. I will create some posts
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
