@@ -64,35 +64,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:53:16.537Z
+>
+> もし実装する時になにかあればサポートできるので気軽に教えてください 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:10:56.010Z
+>
+> 最近CLIの開発はサボり気味だったので良い刺激になりました、ありがとうございます！😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:08:19.617Z
+>
+> rootとparentという名前がまたややこしくて、APIからスレッドを作るのが少しハードルが高い感じですね〜
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T03:02:09.936Z
+>
+> Bluesky APIのちょっと面倒なところですけど、リプライも手動設定ですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T02:59:02.847Z
 >
 > すごい、DartとPythonの融合は私も初めて見たかも👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T02:44:30.031Z
->
-> Remi works to disable `.when` by default when freezed reaches 3.0, but I leave it enabled in my packages. Perhaps it's because of the structure of the freezed objects, but the pattern matching in Dart3 still does not work well with freezed
-
-https://github.com/rrousselGit/freezed/issues/926
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T02:33:30.476Z
->
-> I'm trying the new pattern matching in Dart3 and am somewhat concerned about type safety. The following shows a situation where matching is performed based on EmbedView, and it works since UEmbedViewRecord is a child of EmbedView. But even objects other than children don't cause compile errors.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T01:18:37.935Z
->
-> 検索自体は簡単に実装できますね、ただUIは苦労しそう…
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T01:15:40.809Z
->
-> @henoya.com さんがそんな感じのサービスを作ろうとしてたような
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
