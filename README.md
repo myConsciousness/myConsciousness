@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T21:16:04.505Z
+>
+> Try stopping Bluesky app from the background on your phone and restarting it :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T21:09:31.761Z
+>
+> Maybe cache of app?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:51:44.562Z
 >
 > @emily.space I started to add some self labels such as “space” and “astronomy” for my APOD bot, so you can use my bot to test labels if you want :)
@@ -85,20 +97,6 @@ https://bsky.app/profile/apod.shinyakato.dev/post/3k4wyemnvdp2g
 You can join this Discord channel, and there are Flutter devs for AT Protocol and Bluesky :)
 
 https://discord.gg/psMDFZVN
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T05:17:21.589Z
->
-> ゲーム性を意識する以上は自然なアクションにはなりにくいと思いますけど、ただコミュニティを活性化させるためには良いアイデアだと感じますね〜
-
-あとはあまりいいねされたくない層が一定数いると思うので、そこは気をつけないといけないですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T04:50:10.649Z
->
-> 数ヶ月前にも書いた気がするけど、いいねとかのアクションでなにをスパムとするかは実はかなり難しい問題なのよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
