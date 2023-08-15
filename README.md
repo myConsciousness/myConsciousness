@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T04:04:38.896Z
+>
+> @shy.party you can try new version of bluesky_post, you can pass language tags and labels
+
+https://bsky.app/profile/shinyakato.dev/post/3k4xqv2h3cy2u
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-15T03:34:37.167Z
 >
 > I noticed now that in the example in this image, "actions/checkout" is not necessary. It's just needed when uploading the image with this workflow.
@@ -90,14 +98,6 @@ With this release, you can set the BCP47 language tags in the "langs" parameter 
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-15T01:38:51.662Z
 >
 > Can your poodle swim?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T01:28:21.908Z
->
-> I learned that parallel processing is possible with melos. I was wasting a lot of time.
-
-https://melos.invertase.dev/commands/exec#concurrency--c
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
