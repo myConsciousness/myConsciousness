@@ -64,6 +64,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T01:38:51.662Z
+>
+> Can your poodle swim?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T01:28:21.908Z
+>
+> I learned that parallel processing is possible with melos. I was wasting a lot of time.
+
+https://melos.invertase.dev/commands/exec#concurrency--c
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-14T21:16:04.505Z
 >
 > Try stopping Bluesky app from the background on your phone and restarting it :)
@@ -81,22 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > @emily.space I started to add some self labels such as “space” and “astronomy” for my APOD bot, so you can use my bot to test labels if you want :)
 
 https://bsky.app/profile/apod.shinyakato.dev/post/3k4wyemnvdp2g
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:43:03.478Z
->
-> 既知の事象でDartのutf16Stringをベースにして文字列をカウントしてる処理があるようです。近いうちに修正される予定です
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:27:17.204Z
->
-> Of course yes, I’m very looking forward to see your Flutter app for Bluesky! 😁👍
-
-You can join this Discord channel, and there are Flutter devs for AT Protocol and Bluesky :)
-
-https://discord.gg/psMDFZVN
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
