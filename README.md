@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T07:26:28.121Z
+>
+> I posted on DEV.to how to update your profile using the Bluesky API
+
+https://dev.to/shinyakato/how-to-update-your-profile-from-dartflutter-app-using-bluesky-api-5cag
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-15T04:04:38.896Z
 >
 > @shy.party you can try new version of bluesky_post, you can pass language tags and labels
@@ -92,12 +100,6 @@ https://github.com/myConsciousness/atproto.dart/blob/main/packages/bluesky_post/
 > I have released the latest build of the workflow that allows you to post from GitHub Actions to Bluesky as "v4" on the marketplace :)
 
 With this release, you can set the BCP47 language tags in the "langs" parameter and any labels in the "labels" parameter to the post.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T01:38:51.662Z
->
-> Can your poodle swim?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
