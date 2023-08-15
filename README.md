@@ -64,6 +64,29 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T03:34:37.167Z
+>
+> I noticed now that in the example in this image, "actions/checkout" is not necessary. It's just needed when uploading the image with this workflow.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T03:25:23.382Z
+>
+> See more details.
+
+https://github.com/myConsciousness/atproto.dart/blob/main/packages/bluesky_post/README.md#attach-language-tags
+https://github.com/myConsciousness/atproto.dart/blob/main/packages/bluesky_post/README.md#attach-self-labels
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-15T03:24:04.706Z
+>
+> I have released the latest build of the workflow that allows you to post from GitHub Actions to Bluesky as "v4" on the marketplace :)
+
+With this release, you can set the BCP47 language tags in the "langs" parameter and any labels in the "labels" parameter to the post.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-15T01:38:51.662Z
 >
 > Can your poodle swim?
@@ -75,26 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I learned that parallel processing is possible with melos. I was wasting a lot of time.
 
 https://melos.invertase.dev/commands/exec#concurrency--c
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T21:16:04.505Z
->
-> Try stopping Bluesky app from the background on your phone and restarting it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T21:09:31.761Z
->
-> Maybe cache of app?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-14T20:51:44.562Z
->
-> @emily.space I started to add some self labels such as “space” and “astronomy” for my APOD bot, so you can use my bot to test labels if you want :)
-
-https://bsky.app/profile/apod.shinyakato.dev/post/3k4wyemnvdp2g
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
