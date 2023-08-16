@@ -65,6 +65,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T01:54:05.045Z
+>
+> I know who buys it
+
+https://bid.hgpauction.com/auctions/8660/herita10216/lot-details/b99d8f90-ea30-4f1a-b31d-b0520057263a
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-16T01:16:51.497Z
 >
 > 作った私も昨日まで存在を忘れてました
@@ -88,12 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Boobee以外にも結構建ってるみたいです
 
 https://github.com/myConsciousness/atproto-pds-search/blob/main/README.md
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T00:46:49.286Z
->
-> あとはデータやアルゴリズムはユーザーのものという思想が根底にあるためですね。私はSelf-Labelingの”Self”の部分にかなり強い意味を感じてます
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
