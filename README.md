@@ -65,6 +65,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T07:36:27.576Z
+>
+> @markos.dev I haven't used Reddit for a while, is it now only allowed to post links in the dartlang community?
+
+https://www.reddit.com/r/dartlang/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-16T04:47:09.563Z
 >
 > 伊良湖岬
@@ -88,12 +96,6 @@ https://bid.hgpauction.com/auctions/8660/herita10216/lot-details/b99d8f90-ea30-4
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-16T01:14:02.460Z
 >
 > A major force in Flutter is Indian and Chinese. I would like to contact them.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T01:01:45.576Z
->
-> 私は公式atprotoの開発には参加してなくて、たまにIssueやPRを投げたりするだけですね。ただ運営陣とごにょごにょはたまにあります。私のatprotoでの立ち位置はおそらくエフゲニー•プリゴジンです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
