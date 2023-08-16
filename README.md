@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T08:21:06.879Z
+>
+> ようやく競合相手として認識され始めたといったところですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-16T07:36:27.576Z
 >
 > @markos.dev I haven't used Reddit for a while, is it now only allowed to post links in the dartlang community?
@@ -90,12 +96,6 @@ https://bid.hgpauction.com/auctions/8660/herita10216/lot-details/b99d8f90-ea30-4
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-16T01:16:51.497Z
 >
 > 作った私も昨日まで存在を忘れてました
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T01:14:02.460Z
->
-> A major force in Flutter is Indian and Chinese. I would like to contact them.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
