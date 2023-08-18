@@ -65,19 +65,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:51:16.300Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:51:16.036Z
 >
 > And my account is permanently frozen 👍
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:37:06.565Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:37:05.690Z
 >
 > I'm very goosed
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:36:12.310Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:36:11.519Z
 >
 > btw, I secretly added support for the `langs` and `labels` parameters to bluesky_cli's `post` command in this release. You can easily experiment with self-labeling for post.
 
@@ -85,7 +85,7 @@ https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:25:44.736Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:25:42.827Z
 >
 > I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter. This release resolves an error that occurred with third-party `cbor` with Flutter version upgrades and allows atproto.dart packages to be used with Flutter 3.13.0
 
@@ -93,7 +93,7 @@ https://github.com/shamblett/cbor/issues/56
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T05:22:26.505Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T05:22:26.292Z
 >
 > Yes it was a perfect day for shooting! But it was extremely hot 🥵
 
