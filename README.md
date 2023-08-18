@@ -65,37 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:51:16.036Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:59:33.867Z
 >
-> And my account is permanently frozen 👍
+> Japanese Spitz?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:37:05.690Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:47:27.861Z
 >
-> I'm very goosed
+> It's a signal from users who want the block feature
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:36:11.519Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:36:35.127Z
 >
-> btw, I secretly added support for the `langs` and `labels` parameters to bluesky_cli's `post` command in this release. You can easily experiment with self-labeling for post.
-
-https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli
+> From the beginning until now, Jack has been the center of the Bluesky conversation. Even though he is not here and does not have the authority to make decisions on the operation at this point, many people expect him to be
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:25:42.827Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:27:48.223Z
 >
-> I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter. This release resolves an error that occurred with third-party `cbor` with Flutter version upgrades and allows atproto.dart packages to be used with Flutter 3.13.0
+> Removing blocks on a huge platform like birdapp is a very interesting experiment. Blocks allow you to actively remove from view content that you don’t want to see or that you don’t want others to see.
 
-https://github.com/shamblett/cbor/issues/56
+Let's see how this specification works in birdapp’s community conversations
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T05:22:26.292Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:12:06.539Z
 >
-> Yes it was a perfect day for shooting! But it was extremely hot 🥵
+> A world without blocks would be healthier imo, but alas this is a human world
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
