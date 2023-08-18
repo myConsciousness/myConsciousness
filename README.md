@@ -65,37 +65,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T09:40:19.346Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:37:06.565Z
 >
-> The cost of running a program like ChatGPT is pretty enormous
-
-https://analyticsindiamag.com/openai-might-go-bankrupt-by-the-end-of-2024/
+> I'm very goosed
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T09:02:14.461Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:36:12.310Z
 >
-> もし「help」ラベルをポストに入れられるようになれば識別の精度が上がりそうですね
+> btw, I secretly added support for the `langs` and `labels` parameters to bluesky_cli's `post` command in this release. You can easily experiment with self-labeling for post.
+
+https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky_cli
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T08:21:06.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:25:44.736Z
 >
-> ようやく競合相手として認識され始めたといったところですね
+> I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter. This release resolves an error that occurred with third-party `cbor` with Flutter version upgrades and allows atproto.dart packages to be used with Flutter 3.13.0
+
+https://github.com/shamblett/cbor/issues/56
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T07:36:27.576Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T05:22:26.505Z
 >
-> @markos.dev I haven't used Reddit for a while, is it now only allowed to post links in the dartlang community?
-
-https://www.reddit.com/r/dartlang/
+> Yes it was a perfect day for shooting! But it was extremely hot 🥵
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-16T04:47:09.563Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T03:05:24.763Z
 >
-> 伊良湖岬
+> Matsumoto Castle
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
