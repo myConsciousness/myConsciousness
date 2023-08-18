@@ -65,35 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:59:33.867Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:41:16.876Z
 >
-> Japanese Spitz?
+> You can try. Sometimes, by quitting something, we realize new possibilities.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:47:27.861Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:38:25.868Z
 >
-> It's a signal from users who want the block feature
+> You hacked my app!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:36:35.127Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:31:23.511Z
 >
-> From the beginning until now, Jack has been the center of the Bluesky conversation. Even though he is not here and does not have the authority to make decisions on the operation at this point, many people expect him to be
+> I got a rare error response
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:27:48.223Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:29:37.660Z
 >
-> Removing blocks on a huge platform like birdapp is a very interesting experiment. Blocks allow you to actively remove from view content that you don’t want to see or that you don’t want others to see.
+> Hi flutter dev, try my packages anyway 
 
-Let's see how this specification works in birdapp’s community conversations
+https://github.com/myConsciousness/atproto.dart
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T21:12:06.539Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:21:20.936Z
 >
-> A world without blocks would be healthier imo, but alas this is a human world
+> They were only popular on certain platforms. We're starting over here as a newbie.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
