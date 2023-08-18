@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:51:16.300Z
+>
+> And my account is permanently frozen 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-18T13:37:06.565Z
 >
 > I'm very goosed
@@ -90,12 +96,6 @@ https://github.com/shamblett/cbor/issues/56
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-18T05:22:26.505Z
 >
 > Yes it was a perfect day for shooting! But it was extremely hot 🥵
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T03:05:24.763Z
->
-> Matsumoto Castle
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
