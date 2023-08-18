@@ -3,12 +3,12 @@ description: A sample command-line application.
 version: 1.0.0
 
 environment:
-  sdk: ">=2.18.6 <3.0.0"
+  sdk: ^3.0.0
 
 dependencies:
-  bluesky: ^0.7.7
+  bluesky: ^0.8.2
   html: ^0.15.1
-  http: ^0.13.5
+  http: ^1.1.0
   intl: ^0.18.0
 
 dev_dependencies:
