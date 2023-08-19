@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T12:35:33.324Z
+>
+> Thx! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T12:31:06.463Z
+>
+> Is this a real service btw?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T11:39:43.241Z
 >
 > あとは大概の人にとってTwitter以外の選択肢が知識としてないんですよね。ThreadsでようやくTwitter以外のマイクロブロギングサービスの存在を認識し始めた感じで、Mastodonの名前すら知らない人がザラです
@@ -80,20 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T10:55:43.697Z
 >
 > それを超えるサイコになればいいのです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T10:43:26.939Z
->
-> I have added a section about Session Management to atprotodart.com. It's still WIP, but it's probably a good enough starter resource to see how AT Protocol sessions are created with packages and how long sessions are valid
-
-https://atprotodart.com/docs/packages/bluesky/#session-management
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T09:37:08.067Z
->
-> doesn't contain (閾値高め)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
