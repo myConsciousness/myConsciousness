@@ -65,37 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T23:05:40.528Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:03:03.708Z
 >
-> Kōzen-ji
-
-https://en.m.wikipedia.org/wiki/Kōzen-ji
+> Instagram のフォロワー削除みたいなのはブロックとは独立した機能としてあったほうがよさそうですね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:41:16.876Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:46:58.950Z
 >
-> You can try. Sometimes, by quitting something, we realize new possibilities.
+> ブロック機能の有り無しの議論の終着点はどう転んでも「無いより有ったほうがいいよね」になるから、実はこの議論自体にあまり意味がない。ただ実際に機能が消されるか残るかは御上の都合次第、ただそれだけ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:38:25.868Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:27:12.347Z
 >
-> You hacked my app!
+> テック界ではありがちです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:31:23.511Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:24:52.919Z
 >
-> I got a rare error response
+> Jackは社会正義云々というよりは、自分が思い描く理想的なインターネットの世界を構築したいんだろうなと考えてる。ブロック機能の削除に賛成したのはイーロンとの政治的な関係からかもしれないけど、Jack自身がもともと不要だと考えていた可能性も高い
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:29:37.660Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:10:04.126Z
 >
-> Hi flutter dev, try my packages anyway 
-
-https://github.com/myConsciousness/atproto.dart
+> 誰かをブロックしたところで捨て垢を作ればいくらでも見られる以上はそもそも機能として不完全なんですよね。合理的なイーロンらしい判断だと思います
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
