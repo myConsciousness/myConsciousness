@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T10:55:43.697Z
+>
+> それを超えるサイコになればいいのです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T10:43:26.939Z
+>
+> I have added a section about Session Management to atprotodart.com. It's still WIP, but it's probably a good enough starter resource to see how AT Protocol sessions are created with packages and how long sessions are valid
+
+https://atprotodart.com/docs/packages/bluesky/#session-management
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T09:37:08.067Z
 >
 > doesn't contain (閾値高め)
@@ -80,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:36:31.153Z
 >
 > サンキューマイク
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:05:02.324Z
->
-> You have come to know the darkness of Mario's world
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:01:43.051Z
->
-> A spy from birdapp
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
