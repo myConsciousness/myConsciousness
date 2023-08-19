@@ -65,33 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:03:03.708Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:01:43.051Z
 >
-> Instagram のフォロワー削除みたいなのはブロックとは独立した機能としてあったほうがよさそうですね
+> A spy from birdapp
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:46:58.950Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:30:36.213Z
 >
-> ブロック機能の有り無しの議論の終着点はどう転んでも「無いより有ったほうがいいよね」になるから、実はこの議論自体にあまり意味がない。ただ実際に機能が消されるか残るかは御上の都合次第、ただそれだけ
+> bookmarked
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:27:12.347Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:29:41.259Z
 >
-> テック界ではありがちです
+> たぶんBOTです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:24:52.919Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:28:35.946Z
 >
-> Jackは社会正義云々というよりは、自分が思い描く理想的なインターネットの世界を構築したいんだろうなと考えてる。ブロック機能の削除に賛成したのはイーロンとの政治的な関係からかもしれないけど、Jack自身がもともと不要だと考えていた可能性も高い
+> No Thanks button does not work and browser back button does not work 😂
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T00:10:04.126Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:27:02.813Z
 >
-> 誰かをブロックしたところで捨て垢を作ればいくらでも見られる以上はそもそも機能として不完全なんですよね。合理的なイーロンらしい判断だと思います
+> Also, if you try to send a DM to someone without subscribing to Twitter Blue, you may get completely stuck as follows
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
