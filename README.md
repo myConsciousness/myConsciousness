@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T08:10:36.678Z
+>
+> 一瞬えびせんべいを思い浮かべました
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:36:31.153Z
 >
 > サンキューマイク
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:30:36.213Z
 >
 > bookmarked
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:29:41.259Z
->
-> たぶんBOTです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
