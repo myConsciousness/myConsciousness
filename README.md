@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:36:31.153Z
+>
+> サンキューマイク
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:05:02.324Z
+>
+> You have come to know the darkness of Mario's world
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:01:43.051Z
 >
 > A spy from birdapp
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:29:41.259Z
 >
 > たぶんBOTです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:28:35.946Z
->
-> No Thanks button does not work and browser back button does not work 😂
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:27:02.813Z
->
-> Also, if you try to send a DM to someone without subscribing to Twitter Blue, you may get completely stuck as follows
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
