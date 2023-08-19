@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T09:37:08.067Z
+>
+> doesn't contain (閾値高め)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T08:10:36.678Z
 >
 > 一瞬えびせんべいを思い浮かべました
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:01:43.051Z
 >
 > A spy from birdapp
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T01:30:36.213Z
->
-> bookmarked
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
