@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T13:57:45.602Z
+>
+> facetはtypeで構造を識別できるので、サーバー側でハッシュタグの実装がちゃんとしていればなんら問題にはならないと思います
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T12:35:33.324Z
 >
 > Thx! 😁
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T11:30:34.061Z
 >
 > What’s happening with you?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T10:55:43.697Z
->
-> それを超えるサイコになればいいのです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
