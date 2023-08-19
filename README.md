@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T11:39:43.241Z
+>
+> あとは大概の人にとってTwitter以外の選択肢が知識としてないんですよね。ThreadsでようやくTwitter以外のマイクロブロギングサービスの存在を認識し始めた感じで、Mastodonの名前すら知らない人がザラです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T11:30:34.061Z
+>
+> What’s happening with you?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T10:55:43.697Z
 >
 > それを超えるサイコになればいいのです
@@ -82,18 +94,6 @@ https://atprotodart.com/docs/packages/bluesky/#session-management
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T09:37:08.067Z
 >
 > doesn't contain (閾値高め)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T08:10:36.678Z
->
-> 一瞬えびせんべいを思い浮かべました
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T02:36:31.153Z
->
-> サンキューマイク
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
