@@ -65,6 +65,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T23:05:40.528Z
+>
+> Kōzen-ji
+
+https://en.m.wikipedia.org/wiki/Kōzen-ji
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:41:16.876Z
 >
 > You can try. Sometimes, by quitting something, we realize new possibilities.
@@ -88,12 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Hi flutter dev, try my packages anyway 
 
 https://github.com/myConsciousness/atproto.dart
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-18T22:21:20.936Z
->
-> They were only popular on certain platforms. We're starting over here as a newbie.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
