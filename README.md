@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:04:01.892Z
+>
+> そこはもう公式の思想次第ですね。どの道RichTextを始めから採用したからには今更大きく変更することもできないですし、いつも通りUIでなんとかしてくれになると思います
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-20T00:38:01.386Z
 >
 > 馬籠宿 - Magome-juku
@@ -92,12 +98,6 @@ https://en.m.wikipedia.org/wiki/Tōson_Shimazaki
 > 埋め込みリンクの中身を公式で制御するとなると理想はapp[.]bsky[.]feed[.]postの実行時なんだろうけど、ポストはRecordの一つでAT Protocolの汎用レイヤーだからロジックを入れられないような気がする。
 
 app[.]bsky[.]richtext[.]facet#linkのLexiconに"prohibitedPatterns"みたいな定義を追加すれば、Lexiconの解析時にバリデートはできるかも。
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T22:46:23.457Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
