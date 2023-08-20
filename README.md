@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T03:55:10.362Z
+>
+> Birdapp lately is like
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:56:06.991Z
 >
 > バックアップ、とってるといいですねぇ…
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:24:43.850Z
 >
 > @goose.art
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:04:01.892Z
->
-> そこはもう公式の思想次第ですね。どの道RichTextを始めから採用したからには今更大きく変更することもできないですし、いつも通りUIでなんとかしてくれになると思います
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
