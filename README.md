@@ -65,33 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T03:55:10.362Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:33:20.847Z
 >
-> Birdapp lately is like
+> 彼は本気で片道切符の火星に移住しようとしてるので、そもそも地球で常識的に振る舞うことに意味がないのかも
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:56:06.991Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:22:28.730Z
 >
-> バックアップ、とってるといいですねぇ…
+> 最近は超法規的な存在になってきましたね
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:53:29.406Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:20:00.043Z
 >
-> This is the linked page for the media that was removed. I thought this poodle was replaced by Doge, but it seems he avoided that.
+> たしかFacebookのアカウントと紐付けてプロアカウントにすると使えます。インプレッション数がグラフで確認できます
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:32:48.550Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:16:15.067Z
 >
-> リンク切れの状態で表示されるようです
+> 🎂🎉
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T02:24:43.850Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:14:43.212Z
 >
-> @goose.art
+> A bountiful harvest!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
