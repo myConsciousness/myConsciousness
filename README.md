@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T05:35:10.708Z
+>
+> イーロンは筋金入りですよ。この目的のためだけに生きてきたと言ってもいいくらいです。過労で早死しなければ必ずやり遂げると思います。
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:33:20.847Z
 >
 > 彼は本気で片道切符の火星に移住しようとしてるので、そもそも地球で常識的に振る舞うことに意味がないのかも
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:16:15.067Z
 >
 > 🎂🎉
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:14:43.212Z
->
-> A bountiful harvest!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
