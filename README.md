@@ -65,6 +65,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T00:38:01.386Z
+>
+> 馬籠宿 - Magome-juku
+Birthplace of Tōson Shimazaki
+
+https://en.m.wikipedia.org/wiki/Magome-juku
+https://en.m.wikipedia.org/wiki/Tōson_Shimazaki
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T00:21:51.298Z
+>
+> he chose to become a champion at jazbot battle
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T23:52:34.693Z
 >
 > This is an excellent activity. There is considerable value in discarded books. These books are not simply reused, but shared free of charge with those who cannot afford to buy them.
@@ -82,18 +98,6 @@ app[.]bsky[.]richtext[.]facet#linkのLexiconに"prohibitedPatterns"みたいな�
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-19T22:46:23.457Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T22:40:26.051Z
->
-> I’m shreyan'ed! @shreyanjain.net
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-19T21:53:28.451Z
->
-> I’m goosed! @goose.art
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
