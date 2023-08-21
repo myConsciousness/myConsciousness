@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T14:01:54.571Z
+>
+> 自作のバナー文化、いつの間にかなくなりましたね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T12:38:36.647Z
 >
 > Thx! 😁
@@ -90,12 +96,6 @@ https://atprotodart.com/docs/packages/bluesky/#session-management
 > If you are interested in building applications in Flutter, you should check this beautiful playground developed by @rydmike.bsky.social 
 
 https://rydmike.com/flexcolorscheme/themesplayground-latest/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T02:29:54.812Z
->
-> A horror of internet
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
