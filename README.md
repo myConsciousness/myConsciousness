@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T02:29:54.812Z
+>
+> A horror of internet
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T01:00:18.234Z
 >
 > It’s still read-only but I’m looking forward to see this progress 😁
@@ -91,12 +97,6 @@ https://blueskydeck.com
 
 https://pub.dev/packages/bluesky
 https://pub.dev/packages/bluesky_text
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:04:14.499Z
->
-> Ah I see, I’m looking forward to see your work 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
