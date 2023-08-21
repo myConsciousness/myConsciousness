@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T12:38:36.647Z
+>
+> Thx! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T10:20:29.017Z
 >
 > For more details about session management
@@ -90,12 +96,6 @@ https://rydmike.com/flexcolorscheme/themesplayground-latest/
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T02:29:54.812Z
 >
 > A horror of internet
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T01:00:18.234Z
->
-> It’s still read-only but I’m looking forward to see this progress 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
