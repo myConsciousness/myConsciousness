@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T10:20:29.017Z
+>
+> For more details about session management
+
+https://atprotodart.com/docs/packages/bluesky/#session-management
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T10:16:15.726Z
+>
+> I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter. In this release, ".refreshSession" is changed from a method to a function. the refreshSession method of ServersService is deprecated and the refreshSession function should be used instead, like the createSession function
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T07:32:58.695Z
 >
 > If you are interested in building applications in Flutter, you should check this beautiful playground developed by @rydmike.bsky.social 
@@ -82,20 +96,6 @@ https://rydmike.com/flexcolorscheme/themesplayground-latest/
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T01:00:18.234Z
 >
 > It’s still read-only but I’m looking forward to see this progress 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:53:50.020Z
->
-> I discovered a new Flutter app developed by @blueskydeck.com that aims to become TweetDeck for Bluesky.
-
-https://blueskydeck.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:30:19.134Z
->
-> haha thank you so much! Let me know when you need help with my packages and API specs, I will help! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
