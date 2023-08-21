@@ -65,6 +65,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T07:32:58.695Z
+>
+> If you are interested in building applications in Flutter, you should check this beautiful playground developed by @rydmike.bsky.social 
+
+https://rydmike.com/flexcolorscheme/themesplayground-latest/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T02:29:54.812Z
 >
 > A horror of internet
@@ -88,15 +96,6 @@ https://blueskydeck.com
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:30:19.134Z
 >
 > haha thank you so much! Let me know when you need help with my packages and API specs, I will help! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:20:00.183Z
->
-> Also you can try my packages for Dart/Flutter if you need
-
-https://pub.dev/packages/bluesky
-https://pub.dev/packages/bluesky_text
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
