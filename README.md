@@ -65,33 +65,38 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T23:57:14.444Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T01:00:18.234Z
 >
-> @blueskydeck.com When I try to go from dark mode to light mode, a strange icon appears
+> It’s still read-only but I’m looking forward to see this progress 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T23:52:31.570Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:53:50.020Z
 >
-> Is it an open source?
+> I discovered a new Flutter app developed by @blueskydeck.com that aims to become TweetDeck for Bluesky.
+
+https://blueskydeck.com
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T05:35:10.708Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:30:19.134Z
 >
-> イーロンは筋金入りですよ。この目的のためだけに生きてきたと言ってもいいくらいです。過労で早死しなければ必ずやり遂げると思います。
+> haha thank you so much! Let me know when you need help with my packages and API specs, I will help! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:33:20.847Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:20:00.183Z
 >
-> 彼は本気で片道切符の火星に移住しようとしてるので、そもそも地球で常識的に振る舞うことに意味がないのかも
+> Also you can try my packages for Dart/Flutter if you need
+
+https://pub.dev/packages/bluesky
+https://pub.dev/packages/bluesky_text
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-20T04:22:28.730Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T00:04:14.499Z
 >
-> 最近は超法規的な存在になってきましたね
+> Ah I see, I’m looking forward to see your work 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
