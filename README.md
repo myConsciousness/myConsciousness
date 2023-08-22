@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T03:48:28.493Z
+>
+> What kind of social media? Is it a Bluesky thing?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T02:12:03.255Z
 >
 > Above all, some of the most popular third party apps here, such as SkyFeed and SkyBridge, are made by Dart/Flutter :) Dart and Flutter have quite a presence here!
@@ -86,14 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T12:38:36.647Z
 >
 > Thx! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T10:20:29.017Z
->
-> For more details about session management
-
-https://atprotodart.com/docs/packages/bluesky/#session-management
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
