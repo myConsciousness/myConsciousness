@@ -39,7 +39,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 <!-- MY-DEV-TO-ARTICLES:START - Do not remove or modify this section -->
 - [Dev.to](https://dev.to/shinyakato)
-  - 🆕 [How to Update Your Profile from Dart/Flutter App using Bluesky API](https://dev.to/shinyakato/how-to-update-your-profile-from-dartflutter-app-using-bluesky-api-5cag) (2023-08-15)
+  - [How to Update Your Profile from Dart/Flutter App using Bluesky API](https://dev.to/shinyakato/how-to-update-your-profile-from-dartflutter-app-using-bluesky-api-5cag) (2023-08-15)
   - [Let's Post to Bluesky Social easily with Dart and Flutter](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5) (2023-06-15)
   - [Easily use Firehose API on Bluesky Social with Dart and Flutter](https://dev.to/shinyakato/easily-use-firehose-api-on-bluesky-social-with-dart-and-flutter-mdk) (2023-06-06)
 <!-- MY-DEV-TO-ARTICLES:END -->
