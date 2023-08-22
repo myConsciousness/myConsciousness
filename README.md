@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T22:06:29.249Z
+>
+> Also, invitation codes will begin to be issued about 10 days after you create your account. Invite devs and cool people from India 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T22:01:53.615Z
+>
+> @niteshsh4rma.bsky.social you’re finally here my friend 😁 this is the document you need to read to play with this place in Dart/Flutter
+
+atprotodart.com/docs/intro
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T21:54:15.879Z
 >
 > The official client uses indexedAt to display posting times
@@ -80,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T03:48:28.493Z
 >
 > What kind of social media? Is it a Bluesky thing?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T02:12:03.255Z
->
-> Above all, some of the most popular third party apps here, such as SkyFeed and SkyBridge, are made by Dart/Flutter :) Dart and Flutter have quite a presence here!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T02:09:32.871Z
->
-> Your app is artistic and the overall design of the app is very educational :) And you're right, this place is still in its infancy, but the team is currently implementing Federation so that the service can scale sustainably. Once that is done, they will be able to start implementing GIF, Video, etc!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
