@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T02:12:03.255Z
+>
+> Above all, some of the most popular third party apps here, such as SkyFeed and SkyBridge, are made by Dart/Flutter :) Dart and Flutter have quite a presence here!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T02:09:32.871Z
+>
+> Your app is artistic and the overall design of the app is very educational :) And you're right, this place is still in its infancy, but the team is currently implementing Federation so that the service can scale sustainably. Once that is done, they will be able to start implementing GIF, Video, etc!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T14:01:54.571Z
 >
 > 自作のバナー文化、いつの間にかなくなりましたね
@@ -82,20 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > For more details about session management
 
 https://atprotodart.com/docs/packages/bluesky/#session-management
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T10:16:15.726Z
->
-> I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter. In this release, ".refreshSession" is changed from a method to a function. the refreshSession method of ServersService is deprecated and the refreshSession function should be used instead, like the createSession function
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T07:32:58.695Z
->
-> If you are interested in building applications in Flutter, you should check this beautiful playground developed by @rydmike.bsky.social 
-
-https://rydmike.com/flexcolorscheme/themesplayground-latest/
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
