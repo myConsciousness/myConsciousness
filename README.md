@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T21:54:15.879Z
+>
+> The official client uses indexedAt to display posting times
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T05:28:07.750Z
 >
 > 最初期にfacetsを設定したFeedGeneratorを試しに作ったら公式クライアントからだとアプリ強制終了の地雷ができたんですけど、今はどうなってるんだろう
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T02:09:32.871Z
 >
 > Your app is artistic and the overall design of the app is very educational :) And you're right, this place is still in its infancy, but the team is currently implementing Federation so that the service can scale sustainably. Once that is done, they will be able to start implementing GIF, Video, etc!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T14:01:54.571Z
->
-> 自作のバナー文化、いつの間にかなくなりましたね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
