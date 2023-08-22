@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T05:28:07.750Z
+>
+> 最初期にfacetsを設定したFeedGeneratorを試しに作ったら公式クライアントからだとアプリ強制終了の地雷ができたんですけど、今はどうなってるんだろう
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T03:48:28.493Z
 >
 > What kind of social media? Is it a Bluesky thing?
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-21T14:01:54.571Z
 >
 > 自作のバナー文化、いつの間にかなくなりましたね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-21T12:38:36.647Z
->
-> Thx! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
