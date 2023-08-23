@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T02:44:25.648Z
+>
+> I noticed! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T01:56:58.175Z
 >
 > Ryuk's special makeup is of high quality
@@ -91,14 +97,6 @@ github.com/myConsciousn...
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:40:26.861Z
 >
 > The basis of the Feed Generator is the Firehose API. Filter the data flowing from the Firehose stream with your algos and stores it in your database. The client or API makes a request to the database you operate and retrieves the Feed from your Generator, as you see in this place :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:31:25.572Z
->
-> The easiest way to get started is to simply Fork the official repository. You need to know TypeScript but you can write algorithms as you need :)
-
-github.com/bluesky-soci...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
