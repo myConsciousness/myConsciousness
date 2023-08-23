@@ -65,39 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:46:18.609Z
+>
+> "Es ist noch nicht vorbei"
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:40:59.829Z
+>
+> I learned a lot from this book in this place
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:36:01.509Z
+>
+> Ich habe es schon einmal erlebt
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:33:06.527Z
+>
+> 使ってるAPIは公式でもサードパーティでも同じなので、マージする時に差っ引かれてるんでしょうね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T03:07:49.362Z
 >
 > btw, the descriptions and images for showcase are my own creation based on the author's description. If you have a better description or image, please modify the following code
 
 github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T03:03:53.623Z
->
-> I have added SkyPurge (@barine.co) and BlueskyDeck (@blueskydeck.com) to atprotodart.com, thank you!
-
-atprotodart.com/showcase/
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T02:44:25.648Z
->
-> I noticed! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T01:56:58.175Z
->
-> Ryuk's special makeup is of high quality
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T01:02:54.363Z
->
-> Also, I have added the `actor-likes` command to the CLI that corresponds to `app.bsky.feed.getActorLikes`.
-
-pub.dev/packages/blu...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
