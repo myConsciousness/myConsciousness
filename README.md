@@ -65,6 +65,23 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T01:02:54.363Z
+>
+> Also, I have added the `actor-likes` command to the CLI that corresponds to `app.bsky.feed.getActorLikes`.
+
+pub.dev/packages/blu...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T00:58:33.144Z
+>
+> I have released the latest build of `bluesky` for Dart/Flutter :) This release supports a new endpoint `app.bsky.feed.getActorLikes` to get a list of posts liked by authenticated actors.
+
+pub.dev/packages/blu...
+github.com/myConsciousn...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:40:26.861Z
 >
 > The basis of the Feed Generator is the Firehose API. Filter the data flowing from the Firehose stream with your algos and stores it in your database. The client or API makes a request to the database you operate and retrieves the Feed from your Generator, as you see in this place :)
@@ -82,20 +99,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:19:20.810Z
 >
 > Yea SkyFeed Builder allows you to build filtering rules like Lego blocks. But if you need more detailed rules, you need to write code.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:11:25.644Z
->
-> Yay!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:10:49.293Z
->
-> You can use SkyFeed Builder if you want to create it with simple rules
-
-skyfeed.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
