@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T10:10:29.405Z
+>
+> that's why
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T10:06:24.525Z
+>
+> Great work! 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:38:39.380Z
 >
 > 戦国自衛隊だ！
@@ -80,20 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:19:31.566Z
 >
 > ちなみに未来日時をcreatedAtに指定すると投稿時の日時（indexedAt？）が使われるので予約投稿には使えないっぽいです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:54:42.822Z
->
-> `indexedAt`の代わりに`sortAt`が返されるように修正されたのは結構前なんだけど、実は数ヶ月前から同じことができたのか
-
-ちなみにこれは1961/4/12のポスト
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:38:38.982Z
->
-> APIの仕様が変わってユーザーが指定した日時が常に優先して設定されるようです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
