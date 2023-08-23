@@ -65,6 +65,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:38:39.380Z
+>
+> 戦国自衛隊だ！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:24:27.414Z
+>
+> 悪用もできそうですけど、データの移植性はかなり高まりましたね。これでTwitterからエクスポートしてきたツイートは発生した位置まで再現してインポートできますし、別のPDSに移動する際にも今までのデータを全移植できます
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:19:31.566Z
+>
+> ちなみに未来日時をcreatedAtに指定すると投稿時の日時（indexedAt？）が使われるので予約投稿には使えないっぽいです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:54:42.822Z
 >
 > `indexedAt`の代わりに`sortAt`が返されるように修正されたのは結構前なんだけど、実は数ヶ月前から同じことができたのか
@@ -76,24 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:38:38.982Z
 >
 > APIの仕様が変わってユーザーが指定した日時が常に優先して設定されるようです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:25:46.244Z
->
-> 時を超えるポスト
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:46:18.609Z
->
-> "Es ist noch nicht vorbei"
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:40:59.829Z
->
-> I learned a lot from this book in this place
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
