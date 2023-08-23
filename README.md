@@ -65,6 +65,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:54:42.822Z
+>
+> `indexedAt`の代わりに`sortAt`が返されるように修正されたのは結構前なんだけど、実は数ヶ月前から同じことができたのか
+
+ちなみにこれは1961/4/12のポスト
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:38:38.982Z
+>
+> APIの仕様が変わってユーザーが指定した日時が常に優先して設定されるようです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T08:25:46.244Z
+>
+> 時を超えるポスト
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:46:18.609Z
 >
 > "Es ist noch nicht vorbei"
@@ -74,26 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:40:59.829Z
 >
 > I learned a lot from this book in this place
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:36:01.509Z
->
-> Ich habe es schon einmal erlebt
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T07:33:06.527Z
->
-> 使ってるAPIは公式でもサードパーティでも同じなので、マージする時に差っ引かれてるんでしょうね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T03:07:49.362Z
->
-> btw, the descriptions and images for showcase are my own creation based on the author's description. If you have a better description or image, please modify the following code
-
-github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
