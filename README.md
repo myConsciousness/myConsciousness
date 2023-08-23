@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T01:56:58.175Z
+>
+> Ryuk's special makeup is of high quality
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T01:02:54.363Z
 >
 > Also, I have added the `actor-likes` command to the CLI that corresponds to `app.bsky.feed.getActorLikes`.
@@ -93,12 +99,6 @@ github.com/myConsciousn...
 > The easiest way to get started is to simply Fork the official repository. You need to know TypeScript but you can write algorithms as you need :)
 
 github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:19:20.810Z
->
-> Yea SkyFeed Builder allows you to build filtering rules like Lego blocks. But if you need more detailed rules, you need to write code.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
