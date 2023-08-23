@@ -65,6 +65,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T03:07:49.362Z
+>
+> btw, the descriptions and images for showcase are my own creation based on the author's description. If you have a better description or image, please modify the following code
+
+github.com/myConsciousn...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T03:03:53.623Z
+>
+> I have added SkyPurge (@barine.co) and BlueskyDeck (@blueskydeck.com) to atprotodart.com, thank you!
+
+atprotodart.com/showcase/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T02:44:25.648Z
 >
 > I noticed! 😁
@@ -82,21 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Also, I have added the `actor-likes` command to the CLI that corresponds to `app.bsky.feed.getActorLikes`.
 
 pub.dev/packages/blu...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T00:58:33.144Z
->
-> I have released the latest build of `bluesky` for Dart/Flutter :) This release supports a new endpoint `app.bsky.feed.getActorLikes` to get a list of posts liked by authenticated actors.
-
-pub.dev/packages/blu...
-github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:40:26.861Z
->
-> The basis of the Feed Generator is the Firehose API. Filter the data flowing from the Firehose stream with your algos and stores it in your database. The client or API makes a request to the database you operate and retrieves the Feed from your Generator, as you see in this place :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
