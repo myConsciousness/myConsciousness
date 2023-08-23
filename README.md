@@ -65,35 +65,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T22:06:29.249Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:40:26.861Z
 >
-> Also, invitation codes will begin to be issued about 10 days after you create your account. Invite devs and cool people from India 👍
+> The basis of the Feed Generator is the Firehose API. Filter the data flowing from the Firehose stream with your algos and stores it in your database. The client or API makes a request to the database you operate and retrieves the Feed from your Generator, as you see in this place :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T22:01:53.615Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:31:25.572Z
 >
-> @niteshsh4rma.bsky.social you’re finally here my friend 😁 this is the document you need to read to play with this place in Dart/Flutter
+> The easiest way to get started is to simply Fork the official repository. You need to know TypeScript but you can write algorithms as you need :)
 
-atprotodart.com/docs/intro
+github.com/bluesky-soci...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T21:54:15.879Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:19:20.810Z
 >
-> The official client uses indexedAt to display posting times
+> Yea SkyFeed Builder allows you to build filtering rules like Lego blocks. But if you need more detailed rules, you need to write code.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T05:28:07.750Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:11:25.644Z
 >
-> 最初期にfacetsを設定したFeedGeneratorを試しに作ったら公式クライアントからだとアプリ強制終了の地雷ができたんですけど、今はどうなってるんだろう
+> Yay!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T03:48:28.493Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-22T23:10:49.293Z
 >
-> What kind of social media? Is it a Bluesky thing?
+> You can use SkyFeed Builder if you want to create it with simple rules
+
+skyfeed.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
