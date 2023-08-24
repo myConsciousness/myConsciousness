@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T03:38:06.915Z
+>
+> He had even various wigs
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T02:26:06.134Z
 >
 > Great work anyway! 😁
@@ -90,14 +96,6 @@ github.com/bluesky-soci...
 > I have tried both modes in my local env and had no problems with Japanese input 🤔 This is an old issue, but it seems similar 
 
 github.com/flutter/flut...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T00:52:26.358Z
->
-> With the simple implementation in this reference, inputting Japanese doesn't result in strange behavior. Or you can share your code on Discord :)
-
-api.flutter.dev/flutter/mate...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
