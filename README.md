@@ -65,33 +65,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T23:57:33.767Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T01:18:51.200Z
 >
-> プーチンさん、あれでもあの集団の中だとかなり穏健派な方ですからね
+> I have tried both modes in my local env and had no problems with Japanese input 🤔 This is an old issue, but it seems similar 
+
+github.com/flutter/flut...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T23:42:02.758Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T00:52:26.358Z
 >
-> Quick Question: Do you plan to build this Flutter app for Android and iOS?
+> With the simple implementation in this reference, inputting Japanese doesn't result in strange behavior. Or you can share your code on Discord :)
+
+api.flutter.dev/flutter/mate...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T23:28:43.114Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T00:44:27.388Z
 >
-> スロヴィキン氏も今頃…
+> How do you implement state management for your app? I imagine if you’re using pure Flutter, you update the TextEditingController and setState for every input. If you're using Riverpod, you're not really aware of this.
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T21:20:44.639Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T00:23:30.715Z
 >
-> David changed the world
+> I’m looking forward to see your upgrades! 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T10:10:29.405Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T00:09:34.503Z
 >
-> that's why
+> I see, thanks :) 
+
+I feel, since non-tablet devices are too small to take advantage of the performance of your app, you might want to make the mobile dedicated to tablets 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
