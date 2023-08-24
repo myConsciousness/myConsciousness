@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T05:19:11.851Z
+>
+> 私の場合はアプリ側のバグで数ヶ月ほど招待コードの通知が止まってます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T03:38:06.915Z
 >
 > He had even various wigs
@@ -88,14 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I’m checking your work
 
 github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T01:18:51.200Z
->
-> I have tried both modes in my local env and had no problems with Japanese input 🤔 This is an old issue, but it seems similar 
-
-github.com/flutter/flut...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
