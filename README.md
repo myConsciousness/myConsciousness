@@ -65,6 +65,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T23:57:33.767Z
+>
+> プーチンさん、あれでもあの集団の中だとかなり穏健派な方ですからね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T23:42:02.758Z
+>
+> Quick Question: Do you plan to build this Flutter app for Android and iOS?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T23:28:43.114Z
+>
+> スロヴィキン氏も今頃…
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T21:20:44.639Z
 >
 > David changed the world
@@ -74,24 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-23T10:10:29.405Z
 >
 > that's why
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T10:06:24.525Z
->
-> Great work! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:38:39.380Z
->
-> 戦国自衛隊だ！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-23T09:24:27.414Z
->
-> 悪用もできそうですけど、データの移植性はかなり高まりましたね。これでTwitterからエクスポートしてきたツイートは発生した位置まで再現してインポートできますし、別のPDSに移動する際にも今までのデータを全移植できます
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
