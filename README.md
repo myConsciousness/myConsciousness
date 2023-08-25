@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T23:47:00.791Z
+>
+> Ironically it’s Elon that is boosting Bluesky's growth
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T05:19:11.851Z
 >
 > 私の場合はアプリ側のバグで数ヶ月ほど招待コードの通知が止まってます
@@ -86,14 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T02:24:50.464Z
 >
 > 🤫🤫🤫
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T02:18:04.577Z
->
-> I’m checking your work
-
-github.com/bluesky-soci...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
