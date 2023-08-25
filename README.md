@@ -65,33 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T12:52:38.007Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:56:14.138Z
 >
-> I’ll catch your ping 😁👍
+> Good, now you learned!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T01:49:57.878Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:52:33.175Z
 >
-> “No one knows yet that this will lead to the collapse of the financial system around the world…”
+> btw it’s not “Dart” for Web but “Flutter” for Web
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T01:07:49.708Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:50:11.831Z
 >
-> “IBM taps AI to translate COBOL code to Java”
+> btw if you need Dart/Flutter SDK for AT Protocol and Bluesky, check my packages 
+
+github.com/myConsciousn...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T00:53:19.966Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:48:40.076Z
 >
-> @ansh.bsky.team A feature to delete all App Password in bulk in official app
+> Flutter for Web is available and production ready, like SkyFeed.app here
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T23:47:00.791Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:44:37.927Z
 >
-> Ironically it’s Elon that is boosting Bluesky's growth
+> Oh let’s see SkyFeed.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
