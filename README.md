@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T01:49:57.878Z
+>
+> “No one knows yet that this will lead to the collapse of the financial system around the world…”
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-25T01:07:49.708Z
 >
 > “IBM taps AI to translate COBOL code to Java”
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T05:19:11.851Z
 >
 > 私の場合はアプリ側のバグで数ヶ月ほど招待コードの通知が止まってます
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T03:38:06.915Z
->
-> He had even various wigs
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
