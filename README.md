@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T01:07:49.708Z
+>
+> “IBM taps AI to translate COBOL code to Java”
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T00:53:19.966Z
+>
+> @ansh.bsky.team A feature to delete all App Password in bulk in official app
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T23:47:00.791Z
 >
 > Ironically it’s Elon that is boosting Bluesky's growth
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-24T03:38:06.915Z
 >
 > He had even various wigs
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T02:26:06.134Z
->
-> Great work anyway! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-24T02:24:50.464Z
->
-> 🤫🤫🤫
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
