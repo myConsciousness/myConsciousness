@@ -65,35 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:44:35.298Z
+>
+> Cheers! 🍻
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:40:26.052Z
+>
+> gm gm ☕️
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:38:38.530Z
+>
+> Trump card: “*/*”
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:32:10.327Z
+>
+> Doesn't the official API wrapper determine the mine type from bytes?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:21:34.925Z
 >
 > なんかバグりました
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:18:55.747Z
->
-> なるほど、それで統合するとなるとmemosの機能はbluesky-jp のDocusaurus製ドキュメントのトップページか専用セクションに出して、公式の翻訳は別リポジトリにしたほうがよさそうですね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:08:56.388Z
->
-> 個人ドメインのリンクがあっても大丈夫だと思いますね
-
-公式ドキュメントの翻訳もするんですかね？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T07:51:29.024Z
->
-> @uakihir0.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T07:48:47.537Z
->
-> github.com/bluesky-jp と github.com/bskyjp で似たコミュニティが乱立してる状態は良くないので、どっちかにリポジトリを集約したほうがよさそう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
