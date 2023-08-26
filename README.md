@@ -65,6 +65,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:21:34.925Z
+>
+> なんかバグりました
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:18:55.747Z
+>
+> なるほど、それで統合するとなるとmemosの機能はbluesky-jp のDocusaurus製ドキュメントのトップページか専用セクションに出して、公式の翻訳は別リポジトリにしたほうがよさそうですね〜
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:08:56.388Z
+>
+> 個人ドメインのリンクがあっても大丈夫だと思いますね
+
+公式ドキュメントの翻訳もするんですかね？
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T07:51:29.024Z
 >
 > @uakihir0.com
@@ -74,24 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T07:48:47.537Z
 >
 > github.com/bluesky-jp と github.com/bskyjp で似たコミュニティが乱立してる状態は良くないので、どっちかにリポジトリを集約したほうがよさそう
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T01:31:42.695Z
->
-> たぶんWebからだと絵文字を入力するのが難しいからですかね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T01:21:22.384Z
->
-> 公式Webクライアントに追加されたみたいです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:56:56.894Z
->
-> I’m not using Zoom, but yes sometimes
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
