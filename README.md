@@ -65,35 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:00:15.375Z
+>
+> Many people think that all crows are the same, but the species are quite diverse. They can be identified by the shape and color of their beaks
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:53:17.601Z
+>
+> There are so many third party Flutter apps in bsky! If you’re interested in building apps in Dart/Flutter for AT Protocol and Bluesky, we welcome you 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:43:19.015Z
+>
+> Not “all”, but “almost all”
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:37:55.316Z
+>
+> atproto.com/blog/feature...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:56:14.138Z
 >
 > Good, now you learned!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:52:33.175Z
->
-> btw it’s not “Dart” for Web but “Flutter” for Web
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:50:11.831Z
->
-> btw if you need Dart/Flutter SDK for AT Protocol and Bluesky, check my packages 
-
-github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:48:40.076Z
->
-> Flutter for Web is available and production ready, like SkyFeed.app here
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:44:37.927Z
->
-> Oh let’s see SkyFeed.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
