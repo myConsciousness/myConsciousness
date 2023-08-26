@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T07:51:29.024Z
+>
+> @uakihir0.com
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T07:48:47.537Z
+>
+> github.com/bluesky-jp と github.com/bskyjp で似たコミュニティが乱立してる状態は良くないので、どっちかにリポジトリを集約したほうがよさそう
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T01:31:42.695Z
 >
 > たぶんWebからだと絵文字を入力するのが難しいからですかね〜
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:56:56.894Z
 >
 > I’m not using Zoom, but yes sometimes
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:00:15.375Z
->
-> Many people think that all crows are the same, but the species are quite diverse. They can be identified by the shape and color of their beaks
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:53:17.601Z
->
-> There are so many third party Flutter apps in bsky! If you’re interested in building apps in Dart/Flutter for AT Protocol and Bluesky, we welcome you 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
