@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:56:56.894Z
+>
+> I’m not using Zoom, but yes sometimes
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:00:15.375Z
 >
 > Many people think that all crows are the same, but the species are quite diverse. They can be identified by the shape and color of their beaks
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:37:55.316Z
 >
 > atproto.com/blog/feature...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T20:56:14.138Z
->
-> Good, now you learned!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
