@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T12:11:18.306Z
+>
+> When will this film be released?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T12:01:00.466Z
+>
+> I have been granted moderator privileges on dart, flutter, atproto and bluesky topics on dev.to. Thanks @dev.to !
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:44:35.298Z
 >
 > Cheers! 🍻
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:38:38.530Z
 >
 > Trump card: “*/*”
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:32:10.327Z
->
-> Doesn't the official API wrapper determine the mine type from bytes?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T08:21:34.925Z
->
-> なんかバグりました
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
