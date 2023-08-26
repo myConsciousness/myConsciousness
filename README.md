@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T01:31:42.695Z
+>
+> たぶんWebからだと絵文字を入力するのが難しいからですかね〜
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T01:21:22.384Z
+>
+> 公式Webクライアントに追加されたみたいです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T00:56:56.894Z
 >
 > I’m not using Zoom, but yes sometimes
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:53:17.601Z
 >
 > There are so many third party Flutter apps in bsky! If you’re interested in building apps in Dart/Flutter for AT Protocol and Bluesky, we welcome you 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:43:19.015Z
->
-> Not “all”, but “almost all”
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-25T23:37:55.316Z
->
-> atproto.com/blog/feature...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
