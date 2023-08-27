@@ -65,6 +65,21 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T01:44:59.070Z
+>
+> Tosokchon is the place to go if you are looking for samgyetang in Seoul
+
+tosokchon.com/index.php?lu...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T01:32:28.827Z
+>
+> Myeongdong Cathedral
+명동성당
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:56:06.717Z
 >
 > It’s very useful
@@ -80,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:30:00.159Z
 >
 > If this were Jeff Bezos's word, people might follow
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:24:18.655Z
->
-> memes of Trump’s mugshot
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:16:42.869Z
->
-> Have you tried to retrieve the notification?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
