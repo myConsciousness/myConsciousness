@@ -65,35 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:53:01.539Z
+>
+> And this is the price 🥲
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:37:52.023Z
+>
+> Timeout 🥹
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:29:37.507Z
+>
+> Sure
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:23:18.118Z
+>
+> Sure let me introduce him
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:00:26.374Z
 >
 > Paulに招待されたけど一番最初にフォローしてきたのがWhyさんだったので、最初の数日はWhyさんのアカウントがPaulだと勘違いしてた思い出
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T03:30:33.498Z
->
-> チームに加わった @danabramov.bsky.social さんを知らない人に簡単に説明しておくと、FacebookでReactを生み出した開発者の一人です。つまりテック界のスーパースターです。
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T03:27:37.269Z
->
-> Facebookで最初期からReact開発に関わってる開発者の一人です
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T02:32:44.434Z
->
-> Yes it was! Obrigado 😋
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T01:44:59.070Z
->
-> Tosokchon is the place to go if you are looking for samgyetang in Seoul
-
-tosokchon.com/index.php?lu...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
