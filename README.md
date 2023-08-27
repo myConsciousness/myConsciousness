@@ -65,33 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:46:15.333Z
+>
+> Somewhere in the world, someone screamed
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:44:45.883Z
+>
+> When I run scripts
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:30:10.191Z
+>
+> 🎯
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:26:21.834Z
+>
+> “get system date in bash”
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:53:01.539Z
 >
 > And this is the price 🥲
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:37:52.023Z
->
-> Timeout 🥹
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:29:37.507Z
->
-> Sure
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:23:18.118Z
->
-> Sure let me introduce him
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:00:26.374Z
->
-> Paulに招待されたけど一番最初にフォローしてきたのがWhyさんだったので、最初の数日はWhyさんのアカウントがPaulだと勘違いしてた思い出
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
