@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T03:30:33.498Z
+>
+> チームに加わった @danabramov.bsky.social さんを知らない人に簡単に説明しておくと、FacebookでReactを生み出した開発者の一人です。つまりテック界のスーパースターです。
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T03:27:37.269Z
+>
+> Facebookで最初期からReact開発に関わってる開発者の一人です
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T02:32:44.434Z
 >
 > Yes it was! Obrigado 😋
@@ -83,18 +95,6 @@ tosokchon.com/index.php?lu...
 >
 > Myeongdong Cathedral
 명동성당
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:56:06.717Z
->
-> It’s very useful
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:33:35.338Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
