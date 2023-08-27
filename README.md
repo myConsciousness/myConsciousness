@@ -65,33 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T12:11:18.306Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:56:06.717Z
 >
-> When will this film be released?
+> It’s very useful
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T12:01:00.466Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:33:35.338Z
 >
-> I have been granted moderator privileges on dart, flutter, atproto and bluesky topics on dev.to. Thanks @dev.to !
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:44:35.298Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:30:00.159Z
 >
-> Cheers! 🍻
+> If this were Jeff Bezos's word, people might follow
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:40:26.052Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:24:18.655Z
 >
-> gm gm ☕️
+> memes of Trump’s mugshot
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T09:38:38.530Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-26T23:16:42.869Z
 >
-> Trump card: “*/*”
+> Have you tried to retrieve the notification?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
