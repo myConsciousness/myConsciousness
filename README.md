@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T23:40:54.547Z
+>
+> ポップで好き
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T23:38:08.438Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:46:15.333Z
 >
 > Somewhere in the world, someone screamed
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:30:10.191Z
 >
 > 🎯
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:26:21.834Z
->
-> “get system date in bash”
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T14:53:01.539Z
->
-> And this is the price 🥲
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
