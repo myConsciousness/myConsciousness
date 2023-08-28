@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T05:53:53.622Z
+>
+> I have checked it and it's working fine! 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T05:46:09.123Z
+>
+> ふと思ったんですけど、これで過去に投稿したポストと入れ替えられればUI上はポストを編集したように見えますね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T03:53:21.950Z
 >
 > 過去に安倍圭子先生のPrismとかを叩いてたマリンバ奏者だったことがあるんだけど、ビブラフォンを極めてジャズミュージシャンになりたいと考えてたこともあったことをふと思い出した
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T03:08:50.866Z
 >
 > Did you solve the problem with the Widget properties?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T23:40:54.547Z
->
-> ポップで好き
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T23:38:08.438Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
