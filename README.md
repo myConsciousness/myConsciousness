@@ -65,6 +65,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T03:53:21.950Z
+>
+> 過去に安倍圭子先生のPrismとかを叩いてたマリンバ奏者だったことがあるんだけど、ビブラフォンを極めてジャズミュージシャンになりたいと考えてたこともあったことをふと思い出した
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T03:42:19.878Z
+>
+> 4オクターブのマリンバが家にありますけど、5オクターブは値段もそうですが置く場所の確保が大変です
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T03:08:50.866Z
+>
+> Did you solve the problem with the Widget properties?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T23:40:54.547Z
 >
 > ポップで好き
@@ -74,24 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-27T23:38:08.438Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:46:15.333Z
->
-> Somewhere in the world, someone screamed
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:44:45.883Z
->
-> When I run scripts
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-27T22:30:10.191Z
->
-> 🎯
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
