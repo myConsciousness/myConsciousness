@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T22:43:42.704Z
+>
+> What a gallery 👀
+
+fatcatart.ru
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T22:26:18.029Z
+>
+> Great Flutter dev 🎯
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T06:29:28.808Z
 >
 > 理想はそれですね〜
@@ -82,18 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T05:53:53.622Z
 >
 > I have checked it and it's working fine! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T05:46:09.123Z
->
-> ふと思ったんですけど、これで過去に投稿したポストと入れ替えられればUI上はポストを編集したように見えますね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T03:53:21.950Z
->
-> 過去に安倍圭子先生のPrismとかを叩いてたマリンバ奏者だったことがあるんだけど、ビブラフォンを極めてジャズミュージシャンになりたいと考えてたこともあったことをふと思い出した
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
