@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T00:43:26.344Z
+>
+> Or “TweetDeck”
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T23:37:56.377Z
 >
 > It's going to cause optical illusions
@@ -88,14 +94,6 @@ fatcatart.ru
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T22:26:18.029Z
 >
 > Great Flutter dev 🎯
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T06:29:28.808Z
->
-> 理想はそれですね〜
-
-ポストの編集だけならputRecordの対象コレクションを緩和するだけなので簡単なんですけど、これも連合次第ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
