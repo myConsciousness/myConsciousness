@@ -65,35 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T12:45:34.363Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:40:50.005Z
 >
-> This is what the job market looks like these days
+> очень интересно
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T12:21:45.827Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:27:44.079Z
 >
-> Can't you even access it? 👀
+> I recall an incident about 30 years ago when a Japanese exchange student was shot and killed in the wrong house for a party
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T12:16:26.743Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:14:41.980Z
 >
-> There is basically no difference in endpoints between services :)
-
-The behavior may change if the PDS implementation is different, but this is something different similar to Bluesky and can be ignored
+> I have heard that cacti have a lifespan of about 30 years 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:38:03.461Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:09:35.894Z
 >
-> 404 not found
+> Interesting 👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:36:06.731Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:04:08.727Z
 >
-> 英語クラスター見てると研究職の人がかなり多いですね
+> Don’t think, skeet
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
