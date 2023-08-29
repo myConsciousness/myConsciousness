@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T23:37:56.377Z
+>
+> It's going to cause optical illusions
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T23:06:03.948Z
+>
+> Just thinking about union response raises our IQ by about 20 points
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T22:43:42.704Z
 >
 > What a gallery 👀
@@ -84,18 +96,6 @@ fatcatart.ru
 > 理想はそれですね〜
 
 ポストの編集だけならputRecordの対象コレクションを緩和するだけなので簡単なんですけど、これも連合次第ですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T06:05:18.706Z
->
-> indexedAtの仕様次第になってしまうのがなんともですけど、投稿してすぐ（一時間以内とか）のポストは編集可能みたいにできると面白そうですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T05:53:53.622Z
->
-> I have checked it and it's working fine! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
