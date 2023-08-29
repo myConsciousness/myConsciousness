@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T04:50:52.007Z
+>
+> 金自体の価値も上がってるんですけど一番の要因は円安ですね。米国ドルで見るとようやく数年前の水準になったところです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T02:46:54.423Z
 >
 > And above all both are Flutter apps, so SkyFeed and BlueskyDeck devs can seamlessly exchange technical ideas :)
@@ -88,12 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > what do you mean about “activity feed”? 👀
 
 cc @blueskydeck.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T00:43:26.344Z
->
-> Or “TweetDeck”
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
