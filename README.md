@@ -65,33 +65,36 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:47:14.677Z
+>
+> I didn’t know this version
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:28:21.465Z
+>
+> When iPhone owners finally get USB Type-C
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:19:34.794Z
+>
+> USB Type-C finally
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:16:57.659Z
+>
+> I guess you can use GestureDetector and MouseRegion widgets to implement this feature
+
+api.flutter.dev/flutter/widg...
+api.flutter.dev/flutter/widg...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:40:50.005Z
 >
 > очень интересно
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:27:44.079Z
->
-> I recall an incident about 30 years ago when a Japanese exchange student was shot and killed in the wrong house for a party
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:14:41.980Z
->
-> I have heard that cacti have a lifespan of about 30 years 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:09:35.894Z
->
-> Interesting 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:04:08.727Z
->
-> Don’t think, skeet
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
