@@ -65,35 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:38:03.461Z
+>
+> 404 not found
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:36:06.731Z
+>
+> 英語クラスター見てると研究職の人がかなり多いですね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:30:42.731Z
+>
+> No what I'm indicating is to add a `service` field. This color is to highlight it.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:12:58.182Z
+>
+> @blueskydeck.com let's add `service` field like this
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T07:23:18.004Z
 >
 > プロフィール画面に遷移するルートによってリンクが設定されない場合があるようで今調査中みたいです
 
 github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T04:50:52.007Z
->
-> 金自体の価値も上がってるんですけど一番の要因は円安ですね。米国ドルで見るとようやく数年前の水準になったところです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T02:46:54.423Z
->
-> And above all both are Flutter apps, so SkyFeed and BlueskyDeck devs can seamlessly exchange technical ideas :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T02:42:21.625Z
->
-> It differs from SkyFeed: SkyFeed is a very powerful client that includes Bluesky-specific custom feeds and statistics and so on, while BlueskyDeck is a more lightweight multi-column client
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T01:42:34.895Z
->
-> I see :) Since there is currently no endpoint to retrieve the activities of our following users, @blueskydeck.com would need to have a database to store the data retrieved from Firehose (also needs account management). But interesting idea anyway!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
