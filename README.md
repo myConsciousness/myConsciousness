@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T01:42:34.895Z
+>
+> I see :) Since there is currently no endpoint to retrieve the activities of our following users, @blueskydeck.com would need to have a database to store the data retrieved from Firehose (also needs account management). But interesting idea anyway!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T01:34:47.944Z
+>
+> what do you mean about “activity feed”? 👀
+
+cc @blueskydeck.com
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T00:43:26.344Z
 >
 > Or “TweetDeck”
@@ -80,20 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-28T23:06:03.948Z
 >
 > Just thinking about union response raises our IQ by about 20 points
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T22:43:42.704Z
->
-> What a gallery 👀
-
-fatcatart.ru
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T22:26:18.029Z
->
-> Great Flutter dev 🎯
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
