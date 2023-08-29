@@ -65,6 +65,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T12:45:34.363Z
+>
+> This is what the job market looks like these days
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T12:21:45.827Z
+>
+> Can't you even access it? 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T12:16:26.743Z
+>
+> There is basically no difference in endpoints between services :)
+
+The behavior may change if the PDS implementation is different, but this is something different similar to Bluesky and can be ignored
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:38:03.461Z
 >
 > 404 not found
@@ -74,26 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:36:06.731Z
 >
 > 英語クラスター見てると研究職の人がかなり多いですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:30:42.731Z
->
-> No what I'm indicating is to add a `service` field. This color is to highlight it.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T10:12:58.182Z
->
-> @blueskydeck.com let's add `service` field like this
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T07:23:18.004Z
->
-> プロフィール画面に遷移するルートによってリンクが設定されない場合があるようで今調査中みたいです
-
-github.com/bluesky-soci...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
