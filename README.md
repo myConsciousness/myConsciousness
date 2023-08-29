@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T02:46:54.423Z
+>
+> And above all both are Flutter apps, so SkyFeed and BlueskyDeck devs can seamlessly exchange technical ideas :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T02:42:21.625Z
+>
+> It differs from SkyFeed: SkyFeed is a very powerful client that includes Bluesky-specific custom feeds and statistics and so on, while BlueskyDeck is a more lightweight multi-column client
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T01:42:34.895Z
 >
 > I see :) Since there is currently no endpoint to retrieve the activities of our following users, @blueskydeck.com would need to have a database to store the data retrieved from Firehose (also needs account management). But interesting idea anyway!
@@ -82,18 +94,6 @@ cc @blueskydeck.com
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T00:43:26.344Z
 >
 > Or “TweetDeck”
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T23:37:56.377Z
->
-> It's going to cause optical illusions
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-28T23:06:03.948Z
->
-> Just thinking about union response raises our IQ by about 20 points
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
