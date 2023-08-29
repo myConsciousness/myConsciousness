@@ -65,6 +65,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T07:23:18.004Z
+>
+> プロフィール画面に遷移するルートによってリンクが設定されない場合があるようで今調査中みたいです
+
+github.com/bluesky-soci...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T04:50:52.007Z
 >
 > 金自体の価値も上がってるんですけど一番の要因は円安ですね。米国ドルで見るとようやく数年前の水準になったところです
@@ -86,14 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T01:42:34.895Z
 >
 > I see :) Since there is currently no endpoint to retrieve the activities of our following users, @blueskydeck.com would need to have a database to store the data retrieved from Firehose (also needs account management). But interesting idea anyway!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T01:34:47.944Z
->
-> what do you mean about “activity feed”? 👀
-
-cc @blueskydeck.com
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
