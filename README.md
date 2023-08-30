@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T13:53:33.817Z
+>
+> Booster ignition and liftoff of the shuttle Discovery 🚀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T13:44:36.122Z
+>
+> I'm not familiar with this job, but how many parts of the story are actually used in the film after the screenwriter comes up with a scenario?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:40:28.349Z
 >
 > こちらこそありがとうございます！ 😁
@@ -80,20 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:20:35.340Z
 >
 > ちなみに私は深掘りしてないんですけど、SkyFeedも公式のrepo v3移行時に一時的にダウンしてたので似たような事象かもしれません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:12:58.178Z
->
-> でもこれは新規フィールドなので既存の処理に影響はないはずなんですよね、別の原因がありそうです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:05:40.637Z
->
-> オブジェクトの構造は変わってないと思いますけど新しい必須フィールドが増えましたね
-
-atproto.com/blog/repo-sy...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
