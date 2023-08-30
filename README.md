@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:26:47.549Z
+>
+> And welcome to Bluesky 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:25:00.147Z
+>
+> Not official, but yes SkyFeed and BlueskyDeck and so on as third party :)
+
+Official apps are built using React
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:03:08.293Z
 >
 > Pts.jsもおすすめです
@@ -86,18 +100,6 @@ ptsjs.org
 Check the following changelog for more details
 
 github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T01:31:02.575Z
->
-> I like this site
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T00:07:29.432Z
->
-> Now you have all the power to change this place
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
