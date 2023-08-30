@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T00:07:29.432Z
+>
+> Now you have all the power to change this place
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T00:03:33.154Z
+>
+> Interesting 
+
+twexit.nl
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:50:24.152Z
 >
 > Historic moment
@@ -80,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:22:29.175Z
 >
 > Accepted 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:47:14.677Z
->
-> I didn’t know this version
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:28:21.465Z
->
-> When iPhone owners finally get USB Type-C
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
