@@ -65,35 +65,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:03:08.293Z
+>
+> Pts.jsもおすすめです
+
+ptsjs.org
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T01:43:01.860Z
+>
+> Also this is a very minor addition. I added a simple function to determine if a given string is in App Password format.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T01:36:50.748Z
+>
+> I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter :) This release merges all of the Sync spec changes. Some completely deprecated endpoints were removed, some endpoints were simply deprecated.
+
+Check the following changelog for more details
+
+github.com/myConsciousn...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T01:31:02.575Z
+>
+> I like this site
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T00:07:29.432Z
 >
 > Now you have all the power to change this place
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T00:03:33.154Z
->
-> Interesting 
-
-twexit.nl
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:50:24.152Z
->
-> Historic moment
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:34:45.854Z
->
-> very curious
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:22:29.175Z
->
-> Accepted 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
