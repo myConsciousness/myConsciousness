@@ -65,39 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T07:35:21.685Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:40:28.349Z
 >
-> Yes! And it's probably the Dart language that has benefited the most from Flutter's success. Until it was used by Flutter, it was one of the least valuable languages in the world to learn.
-
-And Flutter's growing presence at "Bluesky" is a deeply moving sensation :)
+> こちらこそありがとうございます！ 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T07:29:26.076Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:38:54.706Z
 >
-> btw does anyone remember that the early versions of Flutter were codenamed "Sky Project"?
-
-chromium.googlesource.com/external/git...
+> うさ
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T07:13:26.732Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:20:35.340Z
 >
-> Hey @lemaire-adrien.bsky.social , great to see you here! And thanks for using my package, let's build cool apps! 😄
+> ちなみに私は深掘りしてないんですけど、SkyFeedも公式のrepo v3移行時に一時的にダウンしてたので似たような事象かもしれません
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:26:47.549Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:12:58.178Z
 >
-> And welcome to Bluesky 😁
+> でもこれは新規フィールドなので既存の処理に影響はないはずなんですよね、別の原因がありそうです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:25:00.147Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:05:40.637Z
 >
-> Not official, but yes SkyFeed and BlueskyDeck and so on as third party :)
+> オブジェクトの構造は変わってないと思いますけど新しい必須フィールドが増えましたね
 
-Official apps are built using React
+atproto.com/blog/repo-sy...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
