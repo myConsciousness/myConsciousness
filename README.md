@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T14:28:49.956Z
+>
+> This surgery is going to be hard, good luck!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T13:53:33.817Z
 >
 > Booster ignition and liftoff of the shuttle Discovery 🚀
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:38:54.706Z
 >
 > うさ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T08:20:35.340Z
->
-> ちなみに私は深掘りしてないんですけど、SkyFeedも公式のrepo v3移行時に一時的にダウンしてたので似たような事象かもしれません
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
