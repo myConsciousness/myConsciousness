@@ -65,6 +65,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:50:24.152Z
+>
+> Historic moment
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:34:45.854Z
+>
+> very curious
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T23:22:29.175Z
+>
+> Accepted 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:47:14.677Z
 >
 > I didn’t know this version
@@ -74,27 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:28:21.465Z
 >
 > When iPhone owners finally get USB Type-C
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:19:34.794Z
->
-> USB Type-C finally
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T19:16:57.659Z
->
-> I guess you can use GestureDetector and MouseRegion widgets to implement this feature
-
-api.flutter.dev/flutter/widg...
-api.flutter.dev/flutter/widg...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-29T14:40:50.005Z
->
-> очень интересно
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
