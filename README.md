@@ -65,6 +65,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T07:35:21.685Z
+>
+> Yes! And it's probably the Dart language that has benefited the most from Flutter's success. Until it was used by Flutter, it was one of the least valuable languages in the world to learn.
+
+And Flutter's growing presence at "Bluesky" is a deeply moving sensation :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T07:29:26.076Z
+>
+> btw does anyone remember that the early versions of Flutter were codenamed "Sky Project"?
+
+chromium.googlesource.com/external/git...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T07:13:26.732Z
+>
+> Hey @lemaire-adrien.bsky.social , great to see you here! And thanks for using my package, let's build cool apps! 😄
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:26:47.549Z
 >
 > And welcome to Bluesky 😁
@@ -76,30 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Not official, but yes SkyFeed and BlueskyDeck and so on as third party :)
 
 Official apps are built using React
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T02:03:08.293Z
->
-> Pts.jsもおすすめです
-
-ptsjs.org
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T01:43:01.860Z
->
-> Also this is a very minor addition. I added a simple function to determine if a given string is in App Password format.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T01:36:50.748Z
->
-> I have released the latest builds of `atproto` and `bluesky` for Dart/Flutter :) This release merges all of the Sync spec changes. Some completely deprecated endpoints were removed, some endpoints were simply deprecated.
-
-Check the following changelog for more details
-
-github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
