@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T16:10:06.295Z
+>
+> Powodzenia :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-31T15:48:30.495Z
 >
 > Yay!
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:48:44.204Z
 >
 > Quote with a game that is nostalgic to you
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:34:01.956Z
->
-> I’m so hungry
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
