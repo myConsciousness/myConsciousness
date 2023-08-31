@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T00:11:49.938Z
+>
+> 欲望丸（旗付）
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T00:08:38.652Z
+>
+> 💯
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:48:44.204Z
 >
 > Quote with a game that is nostalgic to you
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:34:01.956Z
 >
 > I’m so hungry
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:25:25.922Z
->
-> Yes I felt like I was transported back to the 70's or even older while I was there. People were still living in Soviet-era apartments that had not been repaired at all, and everything possible was rusting.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:17:07.492Z
->
-> Sad to say but this image is so real
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
