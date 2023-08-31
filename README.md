@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T15:48:30.495Z
+>
+> Yay!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-31T10:47:57.600Z
 >
 > Are the vanilla colored objects bubbles?
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:34:01.956Z
 >
 > I’m so hungry
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:25:25.922Z
->
-> Yes I felt like I was transported back to the 70's or even older while I was there. People were still living in Soviet-era apartments that had not been repaired at all, and everything possible was rusting.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
