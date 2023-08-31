@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T10:47:57.600Z
+>
+> Are the vanilla colored objects bubbles?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-31T00:08:38.652Z
 >
 > 💯
@@ -74,12 +80,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:48:44.204Z
 >
 > Quote with a game that is nostalgic to you
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:42:28.387Z
->
-> 方向音痴
 
 ---
 
