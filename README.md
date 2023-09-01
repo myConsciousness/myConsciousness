@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T03:25:04.851Z
+>
+> Looking forward to the harvest!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T03:13:47.223Z
+>
+> Interesting Fact: I’m a big fan of Chris Heria and have been following some of his calisthenics workout routines for about 6 years
+
+youtu.be/48kmkN-v6-4?...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-01T02:40:32.783Z
 >
 > @redsolver.dev Are you busy working on your infrastructure these days?
@@ -80,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-31T15:48:30.495Z
 >
 > Yay!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T10:47:57.600Z
->
-> Are the vanilla colored objects bubbles?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T00:08:38.652Z
->
-> 💯
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
