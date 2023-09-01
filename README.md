@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T02:40:32.783Z
+>
+> @redsolver.dev Are you busy working on your infrastructure these days?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-31T16:10:06.295Z
 >
 > Powodzenia :)
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-08-31T00:08:38.652Z
 >
 > 💯
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-30T23:48:44.204Z
->
-> Quote with a game that is nostalgic to you
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
