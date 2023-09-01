@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T12:29:08.795Z
+>
+> gm gm!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-01T04:31:53.620Z
 >
 > 今手元でAPIを叩けないので私の記憶頼りですけど”embed.images#main”というオブジェクトは普通のルートでは作られないので、テスト中か初期リリースされたアプリやクライアントでtypeを間違えて作られたポストの可能性がありますね（または破壊的変更前の構造？）
@@ -90,12 +96,6 @@ youtu.be/48kmkN-v6-4?...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-01T02:40:32.783Z
 >
 > @redsolver.dev Are you busy working on your infrastructure these days?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-08-31T16:10:06.295Z
->
-> Powodzenia :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
