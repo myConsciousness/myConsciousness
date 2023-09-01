@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T16:23:49.230Z
+>
+> gm ブルスコ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-01T12:29:08.795Z
 >
 > gm gm!
@@ -90,12 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Interesting Fact: I’m a big fan of Chris Heria and have been following some of his calisthenics workout routines for about 6 years
 
 youtu.be/48kmkN-v6-4?...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T02:40:32.783Z
->
-> @redsolver.dev Are you busy working on your infrastructure these days?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
