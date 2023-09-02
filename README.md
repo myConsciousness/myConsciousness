@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T02:19:12.438Z
+>
+> SkyDeck is shorter and better, but this is already used by another app
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T02:17:29.809Z
+>
+> I like the name, but if you're rebranding it you may want to move away from "Deck". Words that evoke the vast blue sky stretching to the horizon would be good.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:35:22.818Z
 >
 > I have recently become very interested in the Israeli company Nano Dimension (NNDM). This company's technology will represent a significant presence in a future where 3D printing in manufacturing is commonplace.
@@ -82,18 +94,6 @@ www.nano-di.com
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:22:47.026Z
 >
 > Nudibranchs are very mysterious creatures
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:09:56.756Z
->
-> 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:06:03.645Z
->
-> JavaScript is the Balkans of the programming world
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
