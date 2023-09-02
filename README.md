@@ -65,33 +65,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:54:02.351Z
+>
+> And nice car
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:50:14.693Z
+>
+> Interesting, I’ll try :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:47:52.147Z
+>
+> What is bsky.tel? Is it a Bluesky client?
+
+I couldn’t open this link
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:36:35.605Z
+>
+> I don't know how these accounts got labeled, is it because of their follow behaviors?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:20:51.190Z
 >
 > Ah that's why "Japan Fest"! Japan is waiting for ya! 🇯🇵
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:13:16.929Z
->
-> It’s app password only, no need to worry 🥹
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:06:33.461Z
->
-> Are you staying in Japan?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:05:41.746Z
->
-> yep some programs are written in Java and Python for some reason
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T11:50:49.574Z
->
-> I have added SkyClad to showcase on atprotodart.com. Thx @igz0.bsky.social !
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
