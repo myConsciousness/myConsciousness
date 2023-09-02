@@ -65,33 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:20:51.190Z
+>
+> Ah that's why "Japan Fest"! Japan is waiting for ya! 🇯🇵
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:13:16.929Z
+>
+> It’s app password only, no need to worry 🥹
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:06:33.461Z
+>
+> Are you staying in Japan?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:05:41.746Z
+>
+> yep some programs are written in Java and Python for some reason
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T11:50:49.574Z
 >
 > I have added SkyClad to showcase on atprotodart.com. Thx @igz0.bsky.social !
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T09:10:43.608Z
->
-> btw I joined up with the BlueskyDeck (blueskydeck.com) project a few days ago. I’m glad to commit to this project, thx @blueskydeck.com !
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T03:59:21.151Z
->
-> It may be somewhat inconvenient to live in, but I like the brutalist architecture like them
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T02:19:12.438Z
->
-> SkyDeck is shorter and better, but this is already used by another app
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T02:17:29.809Z
->
-> I like the name, but if you're rebranding it you may want to move away from "Deck". Words that evoke the vast blue sky stretching to the horizon would be good.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
