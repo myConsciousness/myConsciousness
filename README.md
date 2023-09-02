@@ -65,37 +65,40 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:09:56.756Z
+>
+> 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:06:03.645Z
+>
+> JavaScript is the Balkans of the programming world
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T00:51:26.581Z
+>
+> We were plagued by CBOR here. Nothing to be afraid of anymore.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T00:46:12.063Z
+>
+> I have released the latest build of `bluesky_text` for Dart/Flutter :) This release fixes a bug that caused range errors when parsing entities under certain conditions.
+
+Thx @blueskydeck.com !
+
+github.com/myConsciousn...
+pub.dev/packages/blu...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-01T23:40:00.281Z
 >
 > デンソーの話題に便乗して、名古屋に来たらトヨタ産業技術記念館がおすすめ
 
 www.tcmit.org
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T23:34:20.182Z
->
-> デンソーは元々トヨタ自動車の一部門で豊田家が代々支配してる会社の一つなので、トヨタ自動車とセットで偉大さを叩き込まれます
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T16:23:49.230Z
->
-> gm ブルスコ
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T12:29:08.795Z
->
-> gm gm!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T04:31:53.620Z
->
-> 今手元でAPIを叩けないので私の記憶頼りですけど”embed.images#main”というオブジェクトは普通のルートでは作られないので、テスト中か初期リリースされたアプリやクライアントでtypeを間違えて作られたポストの可能性がありますね（または破壊的変更前の構造？）
-
-たぶんですけどfacetsのようにLexiconで定義されたtype以外はバリデートされないでなんでも登録できるかもしれないので、一度自分でこの構造のポストを作れるか確認したほうがよさそうです。もしバリデートされてerrorになるならそういうものだと考えて”embed.images”として扱ってもよさそうです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
