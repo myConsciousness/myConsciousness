@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T09:10:43.608Z
+>
+> btw I joined up with the BlueskyDeck (blueskydeck.com) project a few days ago. I’m glad to commit to this project, thx @blueskydeck.com !
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T03:59:21.151Z
 >
 > It may be somewhat inconvenient to live in, but I like the brutalist architecture like them
@@ -88,12 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have recently become very interested in the Israeli company Nano Dimension (NNDM). This company's technology will represent a significant presence in a future where 3D printing in manufacturing is commonplace.
 
 www.nano-di.com
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:24:54.252Z
->
-> tenha uma ótima noite
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
