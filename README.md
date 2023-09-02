@@ -65,6 +65,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T23:40:00.281Z
+>
+> デンソーの話題に便乗して、名古屋に来たらトヨタ産業技術記念館がおすすめ
+
+www.tcmit.org
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T23:34:20.182Z
+>
+> デンソーは元々トヨタ自動車の一部門で豊田家が代々支配してる会社の一つなので、トヨタ自動車とセットで偉大さを叩き込まれます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-01T16:23:49.230Z
 >
 > gm ブルスコ
@@ -82,20 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 今手元でAPIを叩けないので私の記憶頼りですけど”embed.images#main”というオブジェクトは普通のルートでは作られないので、テスト中か初期リリースされたアプリやクライアントでtypeを間違えて作られたポストの可能性がありますね（または破壊的変更前の構造？）
 
 たぶんですけどfacetsのようにLexiconで定義されたtype以外はバリデートされないでなんでも登録できるかもしれないので、一度自分でこの構造のポストを作れるか確認したほうがよさそうです。もしバリデートされてerrorになるならそういうものだと考えて”embed.images”として扱ってもよさそうです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T03:25:04.851Z
->
-> Looking forward to the harvest!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T03:13:47.223Z
->
-> Interesting Fact: I’m a big fan of Chris Heria and have been following some of his calisthenics workout routines for about 6 years
-
-youtu.be/48kmkN-v6-4?...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
