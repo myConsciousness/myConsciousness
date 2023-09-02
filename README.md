@@ -65,6 +65,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:35:22.818Z
+>
+> I have recently become very interested in the Israeli company Nano Dimension (NNDM). This company's technology will represent a significant presence in a future where 3D printing in manufacturing is commonplace.
+
+www.nano-di.com
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:24:54.252Z
+>
+> tenha uma ótima noite
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:22:47.026Z
+>
+> Nudibranchs are very mysterious creatures
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:09:56.756Z
 >
 > 
@@ -74,31 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T01:06:03.645Z
 >
 > JavaScript is the Balkans of the programming world
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T00:51:26.581Z
->
-> We were plagued by CBOR here. Nothing to be afraid of anymore.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T00:46:12.063Z
->
-> I have released the latest build of `bluesky_text` for Dart/Flutter :) This release fixes a bug that caused range errors when parsing entities under certain conditions.
-
-Thx @blueskydeck.com !
-
-github.com/myConsciousn...
-pub.dev/packages/blu...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-01T23:40:00.281Z
->
-> デンソーの話題に便乗して、名古屋に来たらトヨタ産業技術記念館がおすすめ
-
-www.tcmit.org
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
