@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T21:21:21.783Z
+>
+> Flutter makes your heart flutter
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T21:15:09.249Z
+>
+> Thanks Jik! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:54:02.351Z
 >
 > And nice car
@@ -82,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > What is bsky.tel? Is it a Bluesky client?
 
 I couldn’t open this link
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:36:35.605Z
->
-> I don't know how these accounts got labeled, is it because of their follow behaviors?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T12:20:51.190Z
->
-> Ah that's why "Japan Fest"! Japan is waiting for ya! 🇯🇵
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
