@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-03T03:32:14.276Z
+>
+> It will vary depending on one's environment, but in general one of the best periods of one's life will be the time during which one can see and talk with one's parents
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-03T00:02:03.840Z
 >
 > Thanks, that's a relief for me to be able to clarify that :) It can then be easily integrated into the existing tech stack
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T23:03:43.677Z
 >
 > btw it’s slightly off topic but, will the future Stream API in atproto and bsky be delivered in CBOR format like the current Firehose?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T21:21:21.783Z
->
-> Flutter makes your heart flutter
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
