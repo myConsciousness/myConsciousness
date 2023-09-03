@@ -65,6 +65,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T23:25:41.821Z
+>
+> I am looking for a human here
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T23:08:59.046Z
+>
+> oh god :(
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T23:03:43.677Z
+>
+> btw it’s slightly off topic but, will the future Stream API in atproto and bsky be delivered in CBOR format like the current Firehose?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T21:21:21.783Z
 >
 > Flutter makes your heart flutter
@@ -74,26 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-02T21:15:09.249Z
 >
 > Thanks Jik! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:54:02.351Z
->
-> And nice car
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:50:14.693Z
->
-> Interesting, I’ll try :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T14:47:52.147Z
->
-> What is bsky.tel? Is it a Bluesky client?
-
-I couldn’t open this link
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
