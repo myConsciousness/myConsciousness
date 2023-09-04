@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T02:53:08.329Z
+>
+> 分類としては現代音楽ですかねぇ
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-03T23:13:25.195Z
 >
 > すごく懐かしい名前だなと思ったら訃報だった
@@ -90,12 +96,6 @@ www.icann.org/en/registry-...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-03T03:32:14.276Z
 >
 > It will vary depending on one's environment, but in general one of the best periods of one's life will be the time during which one can see and talk with one's parents
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-03T00:02:03.840Z
->
-> Thanks, that's a relief for me to be able to clarify that :) It can then be easily integrated into the existing tech stack
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
