@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T13:02:03.333Z
+>
+> カオスになったところを見てみたいというちょっとした好奇心があります
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T12:49:35.701Z
+>
+> SkyFeed Builderなんかもこの仕様で成り立ってるのでもはやこういうものという認識ですね〜
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:29:53.432Z
 >
 > 我が家のMr. ミンクです
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:10:52.940Z
 >
 > 数秒後
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:09:49.072Z
->
-> This is where I post from
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:05:15.268Z
->
-> スレッドにリプライするのが普通というか、急に絡んでもマイナスの感情を抱く人がまずいないので多少治安が悪くても英語クラスターのほうが気楽ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
