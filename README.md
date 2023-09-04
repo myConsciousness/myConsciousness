@@ -65,37 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T04:24:55.818Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:29:53.432Z
 >
-> Apparently GitHub has been having problems since yesterday, sometimes timeouts when I try to push
+> 我が家のMr. ミンクです
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T03:57:00.164Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:13:35.196Z
 >
-> SkyFeedは投稿時にリンクがズレるバグが前からあるんですけどなかなか手をつける時間がとれないみたいです
+> 情緒不安定です 🐩
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T02:53:08.329Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:10:52.940Z
 >
-> 分類としては現代音楽ですかねぇ
+> 数秒後
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-03T23:13:25.195Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:09:49.072Z
 >
-> すごく懐かしい名前だなと思ったら訃報だった
-
-amp.natalie.mu/music/news/5...
+> This is where I post from
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-03T12:13:04.415Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:05:15.268Z
 >
-> I didn't believe this existed until I googled it
-
-www.icann.org/en/registry-...
+> スレッドにリプライするのが普通というか、急に絡んでもマイナスの感情を抱く人がまずいないので多少治安が悪くても英語クラスターのほうが気楽ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
