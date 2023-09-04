@@ -65,6 +65,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-03T23:13:25.195Z
+>
+> すごく懐かしい名前だなと思ったら訃報だった
+
+amp.natalie.mu/music/news/5...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-03T12:13:04.415Z
 >
 > I didn't believe this existed until I googled it
@@ -88,12 +96,6 @@ www.icann.org/en/registry-...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-03T00:02:03.840Z
 >
 > Thanks, that's a relief for me to be able to clarify that :) It can then be easily integrated into the existing tech stack
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-02T23:25:41.821Z
->
-> I am looking for a human here
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
