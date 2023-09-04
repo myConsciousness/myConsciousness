@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T03:57:00.164Z
+>
+> SkyFeedは投稿時にリンクがズレるバグが前からあるんですけどなかなか手をつける時間がとれないみたいです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T02:53:08.329Z
 >
 > 分類としては現代音楽ですかねぇ
@@ -90,12 +96,6 @@ www.icann.org/en/registry-...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-03T11:49:27.997Z
 >
 > I have released the latest build of the `bluesky` package for Dart/Flutter :) This release adds a new feature that is useful when developing notification UIs in the Flutter app. You can easily get the data grouped by reason and reasonSubject by executing the `.group` method from the `Notifications`.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-03T03:32:14.276Z
->
-> It will vary depending on one's environment, but in general one of the best periods of one's life will be the time during which one can see and talk with one's parents
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
