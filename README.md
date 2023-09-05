@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-05T03:50:06.608Z
+>
+> I like this meme
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-05T03:44:35.032Z
+>
+> Congrats! 🎉
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T23:17:41.940Z
 >
 > Who hasn't been blocked by them yet
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T12:49:35.701Z
 >
 > SkyFeed Builderなんかもこの仕様で成り立ってるのでもはやこういうものという認識ですね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:29:53.432Z
->
-> 我が家のMr. ミンクです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:13:35.196Z
->
-> 情緒不安定です 🐩
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
