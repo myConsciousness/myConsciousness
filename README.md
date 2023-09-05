@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T23:17:41.940Z
+>
+> Who hasn't been blocked by them yet
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T13:02:03.333Z
 >
 > カオスになったところを見てみたいというちょっとした好奇心があります
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:13:35.196Z
 >
 > 情緒不安定です 🐩
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T11:10:52.940Z
->
-> 数秒後
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
