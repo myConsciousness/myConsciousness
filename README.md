@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T22:29:39.082Z
+>
+> This is the place you belong to
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T22:24:03.603Z
+>
+> The deck.blue UI will be multilingual in the near future. First, Japanese.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T10:29:57.747Z
 >
 > youtu.be/RlNhD0oS5pk?...
@@ -82,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > ドラマはあれだけどアニメのOPはオシャレで好き
 
 youtu.be/2JGl6UzfPkE?...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:09:58.451Z
->
-> These days
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:25:20.959Z
->
-> We're back
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
