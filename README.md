@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T10:29:57.747Z
+>
+> youtu.be/RlNhD0oS5pk?...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:53:45.574Z
 >
 > ドラマは原作を考えなければ面白いかもですけど全体的に反町さんのカッコ良さありきな感じですね
@@ -88,12 +94,6 @@ youtu.be/2JGl6UzfPkE?...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:25:20.959Z
 >
 > We're back
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:22:34.900Z
->
-> Finally got a login
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
