@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:16:43.671Z
+>
+> Daniel, let me in! Let me iiiiiiiiiiin!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-05T03:50:06.608Z
 >
 > I like this meme
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-04T13:02:03.333Z
 >
 > カオスになったところを見てみたいというちょっとした好奇心があります
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-04T12:49:35.701Z
->
-> SkyFeed Builderなんかもこの仕様で成り立ってるのでもはやこういうものという認識ですね〜
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
