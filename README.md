@@ -65,6 +65,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:53:45.574Z
+>
+> ドラマは原作を考えなければ面白いかもですけど全体的に反町さんのカッコ良さありきな感じですね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:45:51.824Z
+>
+> ドラマはあれだけどアニメのOPはオシャレで好き
+
+youtu.be/2JGl6UzfPkE?...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:09:58.451Z
+>
+> These days
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:25:20.959Z
 >
 > We're back
@@ -74,24 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:22:34.900Z
 >
 > Finally got a login
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T01:16:43.671Z
->
-> Daniel, let me in! Let me iiiiiiiiiiin!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-05T03:50:06.608Z
->
-> I like this meme
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-05T03:44:35.032Z
->
-> Congrats! 🎉
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
