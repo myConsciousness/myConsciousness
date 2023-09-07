@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T23:23:20.844Z
+>
+> アインシュタインの相対性理論からある仮説ですけど、時間は人間の認識や測定に依存する概念という考え方ですね。人間の周りで発生する複数の出来事の相互作用の過程や結果（エントロピーの増減）を未来や過去と感じているだけです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T22:29:39.082Z
 >
 > This is the place you belong to
@@ -86,14 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:53:45.574Z
 >
 > ドラマは原作を考えなければ面白いかもですけど全体的に反町さんのカッコ良さありきな感じですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T03:45:51.824Z
->
-> ドラマはあれだけどアニメのOPはオシャレで好き
-
-youtu.be/2JGl6UzfPkE?...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
