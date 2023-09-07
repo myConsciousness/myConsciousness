@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T13:47:54.000Z
+>
+> @drewscanlon.bsky.social Just out of curiosity, how does it feel to have your face flying around the internet as a very famous meme? Would you yourself laugh at a meme with your own face on it?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T13:10:24.376Z
+>
+> You’re legend seriously
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T03:19:50.753Z
 >
 > India forever
@@ -82,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > If it becomes Bharat, what will citizens call it in English?
 
 asia.nikkei.com/Politics/Ind...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T23:23:20.844Z
->
-> アインシュタインの相対性理論からある仮説ですけど、時間は人間の認識や測定に依存する概念という考え方ですね。人間の周りで発生する複数の出来事の相互作用の過程や結果（エントロピーの増減）を未来や過去と感じているだけです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T22:29:39.082Z
->
-> This is the place you belong to
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
