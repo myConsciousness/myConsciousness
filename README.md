@@ -65,6 +65,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T21:58:28.171Z
+>
+> Checking new interaction features. It seems it enables control of replies from people to your post.
+
+github.com/bluesky-soci...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T21:40:28.327Z
+>
+> Test my percentages
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T21:37:49.614Z
+>
+> Welcome! Also if you like astronomy 
+
+bsky.app/profile/did:...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T13:47:54.000Z
 >
 > @drewscanlon.bsky.social Just out of curiosity, how does it feel to have your face flying around the internet as a very famous meme? Would you yourself laugh at a meme with your own face on it?
@@ -74,26 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T13:10:24.376Z
 >
 > You’re legend seriously
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T03:19:50.753Z
->
-> India forever
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T02:46:49.019Z
->
-> Bharatian?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T02:43:54.593Z
->
-> If it becomes Bharat, what will citizens call it in English?
-
-asia.nikkei.com/Politics/Ind...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
