@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T03:19:50.753Z
+>
+> India forever
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T02:46:49.019Z
 >
 > Bharatian?
@@ -88,12 +94,6 @@ asia.nikkei.com/Politics/Ind...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-06T22:29:39.082Z
 >
 > This is the place you belong to
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-06T22:24:03.603Z
->
-> The deck.blue UI will be multilingual in the near future. First, Japanese.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
