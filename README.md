@@ -65,37 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T21:58:28.171Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:46:39.356Z
 >
-> Checking new interaction features. It seems it enables control of replies from people to your post.
-
-github.com/bluesky-soci...
+> replies are now sorted by love for Dart/Flutter
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T21:40:28.327Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:33:52.080Z
 >
-> Test my percentages
+> Okay anyway I’m a geek 🤓
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T21:37:49.614Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:30:03.721Z
 >
-> Welcome! Also if you like astronomy 
-
-bsky.app/profile/did:...
+> If you are interested in classic game music, this is the sound you are looking for
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T13:47:54.000Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:27:22.774Z
 >
-> @drewscanlon.bsky.social Just out of curiosity, how does it feel to have your face flying around the internet as a very famous meme? Would you yourself laugh at a meme with your own face on it?
+> tron soundtrack?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T13:10:24.376Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:21:56.391Z
 >
-> You’re legend seriously
+> btw I'm sure everyone forgot, but what happened to the discussion about the official icon for Bluesky?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
