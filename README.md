@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T05:32:04.739Z
+>
+> @pfrazee.com @danabra.mov @ansh.bsky.team it's very cool design
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:23:32.230Z
 >
 > Cool beard col
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:40:34.049Z
 >
 > I like this version
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:19:53.045Z
->
-> drop something blue from your gallery
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
