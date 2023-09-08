@@ -65,33 +65,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:46:39.356Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:51:54.602Z
 >
-> replies are now sorted by love for Dart/Flutter
+> Even dogs like kitties
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:33:52.080Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:40:34.049Z
 >
-> Okay anyway I’m a geek 🤓
+> I like this version
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:30:03.721Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:19:53.045Z
 >
-> If you are interested in classic game music, this is the sound you are looking for
+> drop something blue from your gallery
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:27:22.774Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:10:26.143Z
 >
-> tron soundtrack?
+> I’m very hungry
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T22:21:56.391Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:09:44.742Z
 >
-> btw I'm sure everyone forgot, but what happened to the discussion about the official icon for Bluesky?
+> This is evolution
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
