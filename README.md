@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T11:44:37.305Z
+>
+> Time passes so quickly
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T10:55:29.680Z
 >
 > I have also released the latest build of the `bluesky` package. I don't know if this is currently working in the client UI, but you can now specify the aspect ratio for uploaded image
@@ -92,12 +98,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:23:32.230Z
 >
 > Cool beard col
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:10:24.748Z
->
-> Waiting for prod federation :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
