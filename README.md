@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:23:32.230Z
+>
+> Cool beard col
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:10:24.748Z
+>
+> Waiting for prod federation :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:51:54.602Z
 >
 > Even dogs like kitties
@@ -80,18 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:19:53.045Z
 >
 > drop something blue from your gallery
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:10:26.143Z
->
-> I’m very hungry
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:09:44.742Z
->
-> This is evolution
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
