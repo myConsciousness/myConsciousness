@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T13:25:47.491Z
+>
+> People who use Flutter will always be hooked on Flutter
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T11:44:37.305Z
 >
 > Time passes so quickly
@@ -92,12 +98,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T05:32:04.739Z
 >
 > @pfrazee.com @danabra.mov @ansh.bsky.team it's very cool design
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:23:32.230Z
->
-> Cool beard col
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
