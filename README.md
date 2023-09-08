@@ -65,6 +65,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T10:55:29.680Z
+>
+> I have also released the latest build of the `bluesky` package. I don't know if this is currently working in the client UI, but you can now specify the aspect ratio for uploaded image
+
+pub.dev/packages/blu...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T10:36:32.210Z
+>
+> I have released the latest build of `bluesky_text` for Dart/Flutter :) It has an improved algo for parsing text and can detect abbreviated URLs (like bsky.app) as facets.
+
+Also, it now validates the domain detected as facets based on TLDs from ICANN
+
+pub.dev/packages/blu...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T05:32:04.739Z
 >
 > @pfrazee.com @danabra.mov @ansh.bsky.team it's very cool design
@@ -80,18 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T00:10:24.748Z
 >
 > Waiting for prod federation :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:51:54.602Z
->
-> Even dogs like kitties
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-07T23:40:34.049Z
->
-> I like this version
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
