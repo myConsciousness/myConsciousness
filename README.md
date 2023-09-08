@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T15:27:57.159Z
+>
+> I always wish Stockholm was next to Japan 🥹
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T15:00:45.535Z
 >
 > It looks so good! 😁
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T14:36:09.827Z
 >
 > So hot 🔥
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T13:25:47.491Z
->
-> People who use Flutter will always be hooked on Flutter
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
