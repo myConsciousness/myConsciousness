@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T03:02:15.241Z
+>
+> You’re a hero
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T15:27:57.159Z
 >
 > I always wish Stockholm was next to Japan 🥹
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T14:43:40.027Z
 >
 > Very useful tips!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T14:36:09.827Z
->
-> So hot 🔥
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
