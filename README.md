@@ -65,6 +65,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T09:38:15.285Z
+>
+> I have fixed this :) If you get another chance, try it from deck.blue !
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-09T08:09:17.322Z
 >
 > This is the hardest part
@@ -86,12 +92,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-08T15:00:45.535Z
 >
 > It looks so good! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T14:59:39.021Z
->
-> I’m very honored Paul! I’m always interested in writing developer friendly code, the name and structure of the object are very important… This is in a sense an artistic activity in front of canvas😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
