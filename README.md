@@ -65,6 +65,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T14:35:30.484Z
+>
+> Enjoy Bluesky on deck.blue!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T14:25:58.455Z
+>
+> Nice curated list
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-09T13:46:05.592Z
 >
 > Like someone's post on deck.blue. The button is so addictive that you will want to press like as many times as you want.
@@ -82,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I wrote an article on how to create a highly interactive BOT using Dart and Bluesky's Firehose. In this article you will learn how to easily create a BOT using Firehose with Dart.
 
 github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T09:38:15.285Z
->
-> I have fixed this :) If you get another chance, try it from deck.blue !
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T08:09:17.322Z
->
-> This is the hardest part
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
