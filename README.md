@@ -65,6 +65,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T13:46:05.592Z
+>
+> Like someone's post on deck.blue. The button is so addictive that you will want to press like as many times as you want.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T13:27:43.473Z
+>
+> Let's build interesting bots😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T13:23:51.810Z
+>
+> I wrote an article on how to create a highly interactive BOT using Dart and Bluesky's Firehose. In this article you will learn how to easily create a BOT using Firehose with Dart.
+
+github.com/myConsciousn...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-09T09:38:15.285Z
 >
 > I have fixed this :) If you get another chance, try it from deck.blue !
@@ -74,24 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-09T08:09:17.322Z
 >
 > This is the hardest part
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T03:02:15.241Z
->
-> You’re a hero
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T15:27:57.159Z
->
-> I always wish Stockholm was next to Japan 🥹
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-08T15:00:45.535Z
->
-> It looks so good! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
