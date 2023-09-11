@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-11T08:26:18.411Z
+>
+> I'm curious, what are the use cases for integrating Bluesky and Discord? Do you want to display Discord chats in a column on the deck?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-10T00:14:29.943Z
 >
 > deck.blue is also recommended to be used from a tablet
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-09T14:25:58.455Z
 >
 > Nice curated list
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-09T13:46:05.592Z
->
-> Like someone's post on deck.blue. The button is so addictive that you will want to press like as many times as you want.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
