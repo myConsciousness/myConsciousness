@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T15:48:13.655Z
+>
+> KEEP CALM BUT 1 MILLION USERS 🎉
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-12T03:41:57.316Z
 >
 > Thx @emily.bsky.team !
@@ -89,12 +95,6 @@ Is it possible to add deck.blue to atproto.com community projects? This is a pow
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-11T08:26:18.411Z
 >
 > I'm curious, what are the use cases for integrating Bluesky and Discord? Do you want to display Discord chats in a column on the deck?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-10T00:14:29.943Z
->
-> deck.blue is also recommended to be used from a tablet
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
