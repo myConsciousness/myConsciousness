@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T03:41:57.316Z
+>
+> Thx @emily.bsky.team !
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-12T02:50:57.554Z
 >
 > 順次追加予定です！
@@ -89,12 +95,6 @@ Is it possible to add deck.blue to atproto.com community projects? This is a pow
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-10T00:14:29.943Z
 >
 > deck.blue is also recommended to be used from a tablet
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-10T00:11:29.081Z
->
-> This is the life
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
