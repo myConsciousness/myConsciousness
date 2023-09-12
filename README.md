@@ -66,35 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T21:55:43.296Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:57:12.612Z
 >
-> It’s based on our counter haha
+> We need a new one
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T15:48:13.655Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:48:22.363Z
 >
-> KEEP CALM BUT 1 MILLION USERS 🎉
+> Social Media Giant!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T03:41:57.316Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:43:24.217Z
 >
-> Thx @emily.bsky.team !
+> 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T02:50:57.554Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:35:41.305Z
 >
-> 順次追加予定です！
+> lol yep I imagined this
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T01:46:44.425Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:27:29.621Z
 >
-> Hi @rose.bsky.team @emily.bsky.team 
-
-Is it possible to add deck.blue to atproto.com community projects? This is a powerful web client with TweetDeck-like UI :)
+> Who is the millionth user here?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
