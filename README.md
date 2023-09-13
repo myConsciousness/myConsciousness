@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-13T22:10:44.447Z
+>
+> Best luck
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-13T11:45:55.713Z
 >
 > Achievement Unlocked
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:43:24.217Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:35:41.305Z
->
-> lol yep I imagined this
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
