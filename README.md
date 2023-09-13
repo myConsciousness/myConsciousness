@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-13T11:45:55.713Z
+>
+> Achievement Unlocked
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:57:12.612Z
 >
 > We need a new one
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:35:41.305Z
 >
 > lol yep I imagined this
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:27:29.621Z
->
-> Who is the millionth user here?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
