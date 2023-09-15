@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:44:32.139Z
+>
+> たぶん元ネタはこれです
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:40:26.751Z
+>
+> Jazさんがmeme的にNostrのJackの投稿の一部を切り取っただけだと思ったけどどうなんだろう
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:37:52.013Z
+>
+> ついさっきですけどこのPaulはBskyのPaulではなくて別人です
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T04:06:38.439Z
 >
 > We’re history bro
@@ -75,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:58:53.043Z
 >
 > Paul is great
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:55:07.086Z
->
-> resolved 🎯
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:24:15.811Z
->
-> pray one day he will resonate with this symphony
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:02:47.875Z
->
-> jackpot
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
