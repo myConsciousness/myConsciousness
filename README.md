@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T04:06:38.439Z
+>
+> We’re history bro
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:58:53.043Z
 >
 > Paul is great
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:02:47.875Z
 >
 > jackpot
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T01:03:25.464Z
->
-> Looks like the curated list feature has been merged into main
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
