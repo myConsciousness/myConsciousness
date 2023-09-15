@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T22:36:17.485Z
+>
+> Troubling situation
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T08:09:01.329Z
 >
 > I think David is also watching this battle with smile
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:37:52.013Z
 >
 > ついさっきですけどこのPaulはBskyのPaulではなくて別人です
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T04:06:38.439Z
->
-> We’re history bro
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
