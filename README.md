@@ -66,33 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:58:53.043Z
+>
+> Paul is great
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:55:07.086Z
+>
+> resolved 🎯
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:24:15.811Z
+>
+> pray one day he will resonate with this symphony
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T03:02:47.875Z
+>
+> jackpot
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T01:03:25.464Z
 >
 > Looks like the curated list feature has been merged into main
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-13T22:10:44.447Z
->
-> Best luck
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-13T11:45:55.713Z
->
-> Achievement Unlocked
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:57:12.612Z
->
-> We need a new one
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-12T22:48:22.363Z
->
-> Social Media Giant!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
