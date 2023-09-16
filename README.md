@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T11:40:21.622Z
+>
+> JWTトークンをデコードできるようにしておくと残り時間を正確に計算できるのでおすすめです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T22:36:17.485Z
 >
 > Troubling situation
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:40:26.751Z
 >
 > Jazさんがmeme的にNostrのJackの投稿の一部を切り取っただけだと思ったけどどうなんだろう
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:37:52.013Z
->
-> ついさっきですけどこのPaulはBskyのPaulではなくて別人です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
