@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T14:20:53.517Z
+>
+> deck.blue is simply beautiful. Beautiful UI and carefully selected features maximize your Bluesky experience.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-16T13:34:38.557Z
 >
 > Yes rate limit is finally working Daniel
@@ -89,12 +95,6 @@ github.com/myConsciousn...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T22:36:17.485Z
 >
 > Troubling situation
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T08:09:01.329Z
->
-> I think David is also watching this battle with smile
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
