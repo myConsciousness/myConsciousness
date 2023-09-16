@@ -39,7 +39,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 <!-- MY-DEV-TO-ARTICLES:START - Do not remove or modify this section -->
 - [Dev.to](https://dev.to/shinyakato)
-  - 🆕 [How to Create Bluesky BOT using Dart and Firehose](https://dev.to/shinyakato/how-to-create-bluesky-bot-using-dart-and-firehose-bll) (2023-09-09)
+  - [How to Create Bluesky BOT using Dart and Firehose](https://dev.to/shinyakato/how-to-create-bluesky-bot-using-dart-and-firehose-bll) (2023-09-09)
   - [How to Update Your Profile from Dart/Flutter App using Bluesky API](https://dev.to/shinyakato/how-to-update-your-profile-from-dartflutter-app-using-bluesky-api-5cag) (2023-08-15)
   - [Let's Post to Bluesky Social easily with Dart and Flutter](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5) (2023-06-15)
   - [Easily use Firehose API on Bluesky Social with Dart and Flutter](https://dev.to/shinyakato/easily-use-firehose-api-on-bluesky-social-with-dart-and-flutter-mdk) (2023-06-06)
@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T12:46:30.665Z
+>
+> I have added useful utilities to `bluesky` package for Dart/Flutter for session management that was inspired while developing deck.blue. Based on issued JWT, you'll know exactly how much time remains before your token expires, etc. Also you can now create curated lists :)
+
+github.com/myConsciousn...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-16T11:40:21.622Z
 >
 > JWTトークンをデコードできるようにしておくと残り時間を正確に計算できるのでおすすめです
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:44:32.139Z
 >
 > たぶん元ネタはこれです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:40:26.751Z
->
-> Jazさんがmeme的にNostrのJackの投稿の一部を切り取っただけだと思ったけどどうなんだろう
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
