@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T13:34:38.557Z
+>
+> Yes rate limit is finally working Daniel
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-16T12:46:30.665Z
 >
 > I have added useful utilities to `bluesky` package for Dart/Flutter for session management that was inspired while developing deck.blue. Based on issued JWT, you'll know exactly how much time remains before your token expires, etc. Also you can now create curated lists :)
@@ -89,12 +95,6 @@ github.com/myConsciousn...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-15T08:09:01.329Z
 >
 > I think David is also watching this battle with smile
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T05:44:32.139Z
->
-> たぶん元ネタはこれです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
