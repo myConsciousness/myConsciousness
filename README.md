@@ -66,6 +66,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T10:59:07.725Z
+>
+> Nice link card
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T10:17:26.832Z
+>
+> You can try deck.blue
+
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:23:27.799Z
 >
 > 使ってみて不便な点などがあればまた教えてください！
@@ -83,18 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:11:32.000Z
 >
 > カラムのリアルタイム更新のことでしたら既に搭載されています
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T01:37:01.160Z
->
-> Deck does not actively support mobile, at least now. We recommend using it from a desktop or tablet
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T14:20:53.517Z
->
-> deck.blue is simply beautiful. Beautiful UI and carefully selected features maximize your Bluesky experience.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
