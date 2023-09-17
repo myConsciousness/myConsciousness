@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T12:18:50.574Z
+>
+> Cozy place
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T10:59:07.725Z
 >
 > Nice link card
@@ -90,12 +96,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > deck.blue はリアルタイム更新が標準機能なので設定などは現状ありません。
 
 新しいポストや通知があってもカラムが更新されないということでしょうか？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:11:32.000Z
->
-> カラムのリアルタイム更新のことでしたら既に搭載されています
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
