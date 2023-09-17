@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T01:37:01.160Z
+>
+> Deck does not actively support mobile, at least now. We recommend using it from a desktop or tablet
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-16T14:20:53.517Z
 >
 > deck.blue is simply beautiful. Beautiful UI and carefully selected features maximize your Bluesky experience.
@@ -89,12 +95,6 @@ github.com/myConsciousn...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-16T11:40:21.622Z
 >
 > JWTトークンをデコードできるようにしておくと残り時間を正確に計算できるのでおすすめです
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-15T22:36:17.485Z
->
-> Troubling situation
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
