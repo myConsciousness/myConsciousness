@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:23:27.799Z
+>
+> 使ってみて不便な点などがあればまた教えてください！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:19:05.098Z
+>
+> deck.blue はリアルタイム更新が標準機能なので設定などは現状ありません。
+
+新しいポストや通知があってもカラムが更新されないということでしょうか？
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:11:32.000Z
+>
+> カラムのリアルタイム更新のことでしたら既に搭載されています
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T01:37:01.160Z
 >
 > Deck does not actively support mobile, at least now. We recommend using it from a desktop or tablet
@@ -75,26 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-16T14:20:53.517Z
 >
 > deck.blue is simply beautiful. Beautiful UI and carefully selected features maximize your Bluesky experience.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T13:34:38.557Z
->
-> Yes rate limit is finally working Daniel
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T12:46:30.665Z
->
-> I have added useful utilities to `bluesky` package for Dart/Flutter for session management that was inspired while developing deck.blue. Based on issued JWT, you'll know exactly how much time remains before your token expires, etc. Also you can now create curated lists :)
-
-github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-16T11:40:21.622Z
->
-> JWTトークンをデコードできるようにしておくと残り時間を正確に計算できるのでおすすめです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
