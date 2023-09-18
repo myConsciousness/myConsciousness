@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T06:56:53.477Z
+>
+> We’re considering about a translator too 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T05:42:57.335Z
 >
 > @deck.blue and me currently
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:45:06.425Z
 >
 > Dependence on the implementation of the client that creates the Threadgate is a somewhat worrisome factor
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:04:46.666Z
->
-> deck.blue will soon release curated lists and mute words per column
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
