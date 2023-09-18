@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T05:42:57.335Z
+>
+> @deck.blue and me currently
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T04:57:20.604Z
 >
 > Hi, this is optimized for desktop and tablet :)
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:04:46.666Z
 >
 > deck.blue will soon release curated lists and mute words per column
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T12:18:50.574Z
->
-> Cozy place
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
