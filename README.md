@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T04:57:20.604Z
+>
+> Hi, this is optimized for desktop and tablet :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:48:09.106Z
 >
 > This is a nice reference, thx!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T12:18:50.574Z
 >
 > Cozy place
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T10:59:07.725Z
->
-> Nice link card
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
