@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:48:09.106Z
+>
+> This is a nice reference, thx!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:45:06.425Z
+>
+> Dependence on the implementation of the client that creates the Threadgate is a somewhat worrisome factor
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T03:04:46.666Z
+>
+> deck.blue will soon release curated lists and mute words per column
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T12:18:50.574Z
 >
 > Cozy place
@@ -75,27 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-17T10:59:07.725Z
 >
 > Nice link card
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T10:17:26.832Z
->
-> You can try deck.blue
-
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:23:27.799Z
->
-> 使ってみて不便な点などがあればまた教えてください！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-17T09:19:05.098Z
->
-> deck.blue はリアルタイム更新が標準機能なので設定などは現状ありません。
-
-新しいポストや通知があってもカラムが更新されないということでしょうか？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
