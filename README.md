@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T02:48:18.786Z
+>
+> They are really powerful cluster
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T02:15:04.497Z
+>
+> Hang on!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-19T00:12:36.856Z
 >
 > We were very excited to implement this feature!
@@ -81,19 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T14:24:25.893Z
 >
 > Beautiful Flutter app
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T12:05:12.149Z
->
-> The curated list implemented in deck.blue uses the official API, so this is the equivalent of a list on Twitter :) If you have any feedback on this list feature, then mention it to @deck.blue or me!
-
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T08:28:28.824Z
->
-> It's complicated because he hasn't created a personal account, but @deck.blue and I are different people. @deck.blue is a nice Brazilian who loves music and playing the piano :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
