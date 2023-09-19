@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T00:12:36.856Z
+>
+> We were very excited to implement this feature!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T00:01:35.678Z
+>
+> deck.blue and skyfeed.app have different goals: deck.blue focuses on browsing to maximize the user experience on Bluesky, while skyfeed.app provides a more extensive FeedBuilder and statistics 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T14:24:25.893Z
 >
 > Beautiful Flutter app
@@ -82,18 +94,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-18T08:28:28.824Z
 >
 > It's complicated because he hasn't created a personal account, but @deck.blue and I are different people. @deck.blue is a nice Brazilian who loves music and playing the piano :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T06:56:53.477Z
->
-> We’re considering about a translator too 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-18T05:42:57.335Z
->
-> @deck.blue and me currently
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
