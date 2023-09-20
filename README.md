@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-20T13:58:29.500Z
+>
+> As deck.blue evolves, so does my packages:  Synergistic Effect
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-20T09:17:52.682Z
 >
 > The deck.blue list is a curated list supported by the official API, and it's not mute lists:) So, this is not just a feature within deck.blue, but once implemented in the official client, you will be able to see curated lists created with deck.blue in official client as well
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-19T02:48:18.786Z
 >
 > They are really powerful cluster
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T02:15:04.497Z
->
-> Hang on!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
