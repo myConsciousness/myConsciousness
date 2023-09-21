@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:40:23.556Z
+>
+> Thank you, I'm guessing from this error that the app password format is correct, but something is happening during the login process. We'll check it out!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:31:21.543Z
+>
+> Thanks! Was the error message due to the app password format? Or was it simply a failed login?
+
+If the latter, it could be a temporary communication failure or server error
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:28:01.994Z
+>
+> Hi, do you use an app password? Or your original one?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-21T04:10:46.493Z
 >
 > he looks very cute
@@ -75,24 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-20T23:05:41.576Z
 >
 > Do you mean mentions only column? You already can do it with column settings on notifications :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-20T13:58:29.500Z
->
-> As deck.blue evolves, so does my packages:  Synergistic Effect
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-20T09:17:52.682Z
->
-> The deck.blue list is a curated list supported by the official API, and it's not mute lists:) So, this is not just a feature within deck.blue, but once implemented in the official client, you will be able to see curated lists created with deck.blue in official client as well
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-20T08:47:32.489Z
->
-> Thanks for the great guide, this helps people so much :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
