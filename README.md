@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-20T23:05:41.576Z
+>
+> Do you mean mentions only column? You already can do it with column settings on notifications :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-20T13:58:29.500Z
 >
 > As deck.blue evolves, so does my packages:  Synergistic Effect
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-19T06:37:39.602Z
 >
 > Thanks, this is good feedback :) cc: @deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T02:48:18.786Z
->
-> They are really powerful cluster
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
