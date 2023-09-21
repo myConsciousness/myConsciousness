@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T04:10:46.493Z
+>
+> he looks very cute
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-20T23:05:41.576Z
 >
 > Do you mean mentions only column? You already can do it with column settings on notifications :)
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-20T08:47:32.489Z
 >
 > Thanks for the great guide, this helps people so much :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-19T06:37:39.602Z
->
-> Thanks, this is good feedback :) cc: @deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
