@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-22T08:39:13.113Z
+>
+> Yay! 🎯
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:40:23.556Z
 >
 > Thank you, I'm guessing from this error that the app password format is correct, but something is happening during the login process. We'll check it out!
@@ -89,12 +95,6 @@ If the latter, it could be a temporary communication failure or server error
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-21T04:10:46.493Z
 >
 > he looks very cute
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-20T23:05:41.576Z
->
-> Do you mean mentions only column? You already can do it with column settings on notifications :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
