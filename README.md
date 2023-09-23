@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-23T05:38:43.152Z
+>
+> I feel this place has a very Japanese feel to it
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-22T08:39:13.113Z
 >
 > Yay! 🎯
@@ -89,12 +95,6 @@ If the latter, it could be a temporary communication failure or server error
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:28:01.994Z
 >
 > Hi, do you use an app password? Or your original one?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T04:10:46.493Z
->
-> he looks very cute
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
