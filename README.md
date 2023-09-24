@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-24T21:21:36.593Z
+>
+> Good morning
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-23T05:38:43.152Z
 >
 > I feel this place has a very Japanese feel to it
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Thanks! Was the error message due to the app password format? Or was it simply a failed login?
 
 If the latter, it could be a temporary communication failure or server error
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:28:01.994Z
->
-> Hi, do you use an app password? Or your original one?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
