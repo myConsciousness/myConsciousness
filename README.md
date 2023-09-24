@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-24T22:19:00.114Z
+>
+> Morning Mark!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-24T21:21:36.593Z
 >
 > Good morning
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:40:23.556Z
 >
 > Thank you, I'm guessing from this error that the app password format is correct, but something is happening during the login process. We'll check it out!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:31:21.543Z
->
-> Thanks! Was the error message due to the app password format? Or was it simply a failed login?
-
-If the latter, it could be a temporary communication failure or server error
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
