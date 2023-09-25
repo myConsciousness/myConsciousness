@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-25T11:27:32.368Z
+>
+> Blue sky
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-24T22:19:00.114Z
 >
 > Morning Mark!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-22T08:39:13.113Z
 >
 > Yay! 🎯
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-21T05:40:23.556Z
->
-> Thank you, I'm guessing from this error that the app password format is correct, but something is happening during the login process. We'll check it out!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
