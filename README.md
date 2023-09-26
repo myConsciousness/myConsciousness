@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-25T23:55:25.266Z
+>
+> Very interesting to see how this works in the official UI
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-25T23:49:40.873Z
+>
+> My first official hashtags
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-25T11:27:32.368Z
 >
 > Blue sky
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-24T21:21:36.593Z
 >
 > Good morning
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-23T05:38:43.152Z
->
-> I feel this place has a very Japanese feel to it
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-22T08:39:13.113Z
->
-> Yay! 🎯
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
