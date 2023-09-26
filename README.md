@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T00:45:26.352Z
+>
+> I got it, thanks Paul!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T00:09:28.012Z
+>
+> Thanks Daniel, this is a very important point!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-25T23:55:25.266Z
 >
 > Very interesting to see how this works in the official UI
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-25T11:27:32.368Z
 >
 > Blue sky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-24T22:19:00.114Z
->
-> Morning Mark!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-24T21:21:36.593Z
->
-> Good morning
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
