@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T01:40:32.735Z
+>
+> As Paul clarified, in deck.blue there will be a clear distinction between facet tags and post tags, so we would add a new field for inputing tags about the post besides facet tags :)
+
+bsky.app/profile/pfra...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T01:27:51.436Z
+>
+> The hashtag feature is coming soon to deck.blue. @deck.blue is actively preparing for its release :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T00:45:26.352Z
 >
 > I got it, thanks Paul!
@@ -81,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-25T23:55:25.266Z
 >
 > Very interesting to see how this works in the official UI
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-25T23:49:40.873Z
->
-> My first official hashtags
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-25T11:27:32.368Z
->
-> Blue sky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
