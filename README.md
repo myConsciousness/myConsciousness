@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T07:38:27.188Z
+>
+> deck.blue uses the official API, so it can be used in the same way as deck.blue once it's implemented in official app :) 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T05:24:30.669Z
 >
 > Yay! 🍻 
@@ -89,12 +95,6 @@ bsky.app/profile/pfra...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T01:27:51.436Z
 >
 > The hashtag feature is coming soon to deck.blue. @deck.blue is actively preparing for its release :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T00:45:26.352Z
->
-> I got it, thanks Paul!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
