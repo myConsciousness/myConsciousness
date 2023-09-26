@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T08:22:47.315Z
+>
+> You must currently post from deck.blue to activate the #hashtag for the text you're posting, you can also try it on deck.blue :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T08:17:45.180Z
+>
+> At least for now. But deck.blue uses the official API to create hashtags, so hashtags created with deck.blue can be used in official app as well if official implement it :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T07:38:27.188Z
 >
 > deck.blue uses the official API, so it can be used in the same way as deck.blue once it's implemented in official app :) 
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T05:05:40.870Z
 >
 > deck.blue already supports #hashtags, but you must post from the latest deck.blue to activate hashtags in your text :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T01:40:32.735Z
->
-> As Paul clarified, in deck.blue there will be a clear distinction between facet tags and post tags, so we would add a new field for inputing tags about the post besides facet tags :)
-
-bsky.app/profile/pfra...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T01:27:51.436Z
->
-> The hashtag feature is coming soon to deck.blue. @deck.blue is actively preparing for its release :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
