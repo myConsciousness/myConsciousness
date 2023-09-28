@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-28T02:48:25.644Z
+>
+> I do dream of regex
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T12:42:55.804Z
 >
 > yes I noticed it... 👀
@@ -89,12 +95,6 @@ bsky.app/profile/pfr...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T08:17:45.180Z
 >
 > At least for now. But deck.blue uses the official API to create hashtags, so hashtags created with deck.blue can be used in official app as well if official implement it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T07:38:27.188Z
->
-> deck.blue uses the official API, so it can be used in the same way as deck.blue once it's implemented in official app :) 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
