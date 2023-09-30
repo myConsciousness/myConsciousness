@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-09-30T10:02:30.805Z
+>
+> This is a post from deck.blue using a new link extraction algorithm I'm currently developing. If this development is successful, we will be able to post links more naturally, even in languages that don't use spaces between words.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-28T03:27:28.954Z
 >
 > It's driving me crazy 😌
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-26T12:42:55.804Z
 >
 > yes I noticed it... 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T12:40:33.870Z
->
-> This is the way
-
-bsky.app/profile/pfr...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
