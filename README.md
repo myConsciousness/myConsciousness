@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-01T01:23:07.620Z
+>
+> btw we use `bluesky_text` almost 100% of the time when parsing text in deck.blue. This means that you can easily integrate the text-related algorithms implemented in deck.blue in your Dart/Flutter app by using the latest bluesky_text :)
+
+pub.dev/packages/blu...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-30T10:02:30.805Z
 >
 > This is a post from deck.blue using a new link extraction algorithm I'm currently developing. If this development is successful, we will be able to post links more naturally, even in languages that don't use spaces between words.
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-28T02:48:25.644Z
 >
 > I do dream of regex
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-26T12:42:55.804Z
->
-> yes I noticed it... 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
