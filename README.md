@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-01T05:22:02.497Z
+>
+> Don’t worry Mike, it’s our job to provide better and easier-to-use products for all people 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-01T01:23:07.620Z
 >
 > btw we use `bluesky_text` almost 100% of the time when parsing text in deck.blue. This means that you can easily integrate the text-related algorithms implemented in deck.blue in your Dart/Flutter app by using the latest bluesky_text :)
@@ -89,12 +95,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-28T03:25:11.612Z
 >
 > It gives us a hard time
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-28T02:48:25.644Z
->
-> I do dream of regex
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
