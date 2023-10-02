@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T21:45:56.787Z
+>
+> We use a protocol feature, so markdown style links created from deck.blue will work perfectly with any client :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-02T14:05:30.677Z
 >
 > Thank you, I'm honored!
@@ -91,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 e.g. you can easily create a post like this post.
 
 This feature will soon be available on deck.blue too :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-01T05:22:02.497Z
->
-> Don’t worry Mike, it’s our job to provide better and easier-to-use products for all people 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
