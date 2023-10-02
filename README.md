@@ -66,6 +66,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T11:11:53.895Z
+>
+> Coming soon!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T11:06:33.534Z
+>
+> I will support markdown style links using `bluesky_text`. This is the ability to embed any link in any string, allowing you to set up more links without consuming more characters in your post.
+
+e.g. you can easily create a post like this post.
+
+This feature will soon be available on deck.blue too :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-01T05:22:02.497Z
 >
 > Don’t worry Mike, it’s our job to provide better and easier-to-use products for all people 😁
@@ -83,18 +99,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🤯 @shinyakato.dev 2023-09-30T10:02:30.805Z
 >
 > This is a post from deck.blue using a new link extraction algorithm I'm currently developing. If this development is successful, we will be able to post links more naturally, even in languages that don't use spaces between words.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-28T03:27:28.954Z
->
-> It's driving me crazy 😌
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-09-28T03:25:11.612Z
->
-> It gives us a hard time
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
