@@ -66,37 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:40:04.927Z
+>
+> I haven't been following lately, I just wonder how the federation is progressing
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:19:20.243Z
+>
+> yep!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:11:42.604Z
+>
+> This is a timeline in chronological order of the users you're following :)
+
+There is no need to keep `home` as a column in deck.blue. If you feel you don't need it, you can remove it from the column settings.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:08:25.990Z
+>
+> We are also waiting for E2E secure DMs :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T05:30:38.273Z
 >
 > The best place to try out a evolution of `bluesky_text` is deck.blue. deck.blue uses `bluesky_text` for almost 100% of its text-related processing, so you will see the package's features everywhere :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T05:07:33.604Z
->
-> #Dart and #Flutter devs, there has been a dramatic evolution in `bluesky_text` over the past few weeks. There is no change in interface. Just use the latest `bluesky_text` and the following specs will apply to your app :)
-
-- Auto link shortening
-- Better link extraction algo
-- Markdown style link
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T03:06:09.029Z
->
-> dude, challenge accepted
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T21:45:56.787Z
->
-> We use a protocol feature, so markdown style links created from deck.blue will work perfectly with any client :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T14:05:30.677Z
->
-> Thank you, I'm honored!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
