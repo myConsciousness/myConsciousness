@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T11:22:31.942Z
+>
+> Yes he is 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T11:05:57.876Z
+>
+> I’m very hungry
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T10:22:41.120Z
 >
 > morning there!
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:19:20.243Z
 >
 > yep!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:11:42.604Z
->
-> This is a timeline in chronological order of the users you're following :)
-
-There is no need to keep `home` as a column in deck.blue. If you feel you don't need it, you can remove it from the column settings.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:08:25.990Z
->
-> We are also waiting for E2E secure DMs :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
