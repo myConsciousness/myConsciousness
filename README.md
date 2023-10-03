@@ -66,6 +66,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T05:30:38.273Z
+>
+> The best place to try out a evolution of `bluesky_text` is deck.blue. deck.blue uses `bluesky_text` for almost 100% of its text-related processing, so you will see the package's features everywhere :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T05:07:33.604Z
+>
+> #Dart and #Flutter devs, there has been a dramatic evolution in `bluesky_text` over the past few weeks. There is no change in interface. Just use the latest `bluesky_text` and the following specs will apply to your app :)
+
+- Auto link shortening
+- Better link extraction algo
+- Markdown style link
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T03:06:09.029Z
 >
 > dude, challenge accepted
@@ -81,18 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-02T14:05:30.677Z
 >
 > Thank you, I'm honored!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T14:04:35.621Z
->
-> Thx, I just enjoy this development 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T11:11:53.895Z
->
-> Coming soon!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
