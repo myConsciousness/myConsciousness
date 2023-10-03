@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T03:06:09.029Z
+>
+> dude, challenge accepted
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-02T21:45:56.787Z
 >
 > We use a protocol feature, so markdown style links created from deck.blue will work perfectly with any client :)
@@ -87,16 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-02T11:11:53.895Z
 >
 > Coming soon!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-02T11:06:33.534Z
->
-> I will support markdown style links using `bluesky_text`. This is the ability to embed any link in any string, allowing you to set up more links without consuming more characters in your post.
-
-e.g. you can easily create a post like this post.
-
-This feature will soon be available on deck.blue too :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
