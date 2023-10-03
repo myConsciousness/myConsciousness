@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T10:22:41.120Z
+>
+> morning there!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:40:04.927Z
 >
 > I haven't been following lately, I just wonder how the federation is progressing
@@ -89,12 +95,6 @@ There is no need to keep `home` as a column in deck.blue. If you feel you don't 
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:08:25.990Z
 >
 > We are also waiting for E2E secure DMs :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T05:30:38.273Z
->
-> The best place to try out a evolution of `bluesky_text` is deck.blue. deck.blue uses `bluesky_text` for almost 100% of its text-related processing, so you will see the package's features everywhere :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
