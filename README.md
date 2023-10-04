@@ -66,37 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:36:15.711Z
+>
+> @deck.blue The conversion of mentions to DIDs is not our problem, but this UI improvement is worth reconsidering
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:32:04.106Z
+>
+> Thanks, I understand the situation! I don't know why a mention was converted to DID, but something must have gone wrong when you created the post.
+
+At least deck.blue does not perform any such conversion :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:26:26.927Z
+>
+> So you created the first post from an official client? 🤔
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:07:42.263Z
+>
+> It's interesting, did you create a mention using `DID`? Or like `@deck.blue`?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T08:20:22.216Z
 >
 > Now I found, thank you @johoo.bsky.social!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T08:16:14.823Z
->
-> I don't know who did it but thanks for writing a great introductory article about deck.blue :)
-
-www.heise.de/ratgeber/Blu...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T01:50:46.466Z
->
-> This is the most helpful YouTube video for creating markdown style links on deck.blue, thank you @debbieohi.bsky.social! ✨
-
-www.youtube.com/watch?v=K2JP...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T23:23:48.617Z
->
-> Maya 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T23:19:44.715Z
->
-> skyfeed.app and deck.blue, #Flutter bros
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
