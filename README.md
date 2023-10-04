@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T11:26:02.110Z
+>
+> using xcode shortens our lifespan
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:07:31.688Z
 >
 > And unfortunately, it's not possible to set a markdown style link in the profile description using the official API, because the profile description is different from the post or listing description. We are making the profile link work as a spec just in the deck.blue app.
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Thanks, I understand the situation! I don't know why a mention was converted to DID, but something must have gone wrong when you created the post.
 
 At least deck.blue does not perform any such conversion :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:26:26.927Z
->
-> So you created the first post from an official client? 🤔
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
