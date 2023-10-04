@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:07:31.688Z
+>
+> And unfortunately, it's not possible to set a markdown style link in the profile description using the official API, because the profile description is different from the post or listing description. We are making the profile link work as a spec just in the deck.blue app.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:06:01.895Z
+>
+> Editing a profile is not that difficult to implement. @deck.blue will implement this after he gets the big job done :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:36:15.711Z
 >
 > @deck.blue The conversion of mentions to DIDs is not our problem, but this UI improvement is worth reconsidering
@@ -83,18 +95,6 @@ At least deck.blue does not perform any such conversion :)
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:26:26.927Z
 >
 > So you created the first post from an official client? 🤔
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:07:42.263Z
->
-> It's interesting, did you create a mention using `DID`? Or like `@deck.blue`?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T08:20:22.216Z
->
-> Now I found, thank you @johoo.bsky.social!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
