@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T23:23:48.617Z
+>
+> Maya 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T23:19:44.715Z
+>
+> skyfeed.app and deck.blue, #Flutter bros
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T11:22:31.942Z
 >
 > Yes he is 😁
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T10:22:41.120Z
 >
 > morning there!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:40:04.927Z
->
-> I haven't been following lately, I just wonder how the federation is progressing
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T09:19:20.243Z
->
-> yep!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
