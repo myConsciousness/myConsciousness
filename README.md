@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T01:50:46.466Z
+>
+> This is the most helpful YouTube video for creating markdown style links on deck.blue, thank you @debbieohi.bsky.social! ✨
+
+www.youtube.com/watch?v=K2JP...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T23:23:48.617Z
 >
 > Maya 😁
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T11:05:57.876Z
 >
 > I’m very hungry
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T10:22:41.120Z
->
-> morning there!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
