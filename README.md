@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T08:20:22.216Z
+>
+> Now I found, thank you @johoo.bsky.social!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T08:16:14.823Z
+>
+> I don't know who did it but thanks for writing a great introductory article about deck.blue :)
+
+www.heise.de/ratgeber/Blu...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T01:50:46.466Z
 >
 > This is the most helpful YouTube video for creating markdown style links on deck.blue, thank you @debbieohi.bsky.social! ✨
@@ -83,18 +97,6 @@ www.youtube.com/watch?v=K2JP...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-03T23:19:44.715Z
 >
 > skyfeed.app and deck.blue, #Flutter bros
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T11:22:31.942Z
->
-> Yes he is 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-03T11:05:57.876Z
->
-> I’m very hungry
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
