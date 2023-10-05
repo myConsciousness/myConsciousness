@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:15:58.017Z
+>
+> The growth of deck.blue has just begun
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T11:26:02.110Z
 >
 > using xcode shortens our lifespan
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:36:15.711Z
 >
 > @deck.blue The conversion of mentions to DIDs is not our problem, but this UI improvement is worth reconsidering
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:32:04.106Z
->
-> Thanks, I understand the situation! I don't know why a mention was converted to DID, but something must have gone wrong when you created the post.
-
-At least deck.blue does not perform any such conversion :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
