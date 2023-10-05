@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T07:04:06.599Z
+>
+> We have not yet implemented this, but have already begun preparations :) In the near future, your settings will be synchronized even if you access deck.blue from different devices.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:53:14.867Z
 >
 > こっちだとプライベートブラウズをオンにした状態でもアクセスできました。VPNとか使ってます？
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:07:31.688Z
 >
 > And unfortunately, it's not possible to set a markdown style link in the profile description using the official API, because the profile description is different from the post or listing description. We are making the profile link work as a spec just in the deck.blue app.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:06:01.895Z
->
-> Editing a profile is not that difficult to implement. @deck.blue will implement this after he gets the big job done :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
