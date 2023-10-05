@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:53:14.867Z
+>
+> こっちだとプライベートブラウズをオンにした状態でもアクセスできました。VPNとか使ってます？
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:15:58.017Z
 >
 > The growth of deck.blue has just begun
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:06:01.895Z
 >
 > Editing a profile is not that difficult to implement. @deck.blue will implement this after he gets the big job done :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T09:36:15.711Z
->
-> @deck.blue The conversion of mentions to DIDs is not our problem, but this UI improvement is worth reconsidering
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
