@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:41:35.384Z
+>
+> deck.blueについてなにかあれば日本語でいいので連絡ください！
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:34:07.336Z
+>
+> deck.blueの開発者が @deck.blue（ブラジル人）と私（日本人）だからですね
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:32:46.968Z
+>
+> 公式アプリがまだ対応していないだけでキュレートリストは既にあります。deck.blueでは先行してキュレートリストを提供していて、deck.blueで作成したキュレートリストは他のキュレートリストに対応したアプリからでも利用可能です。
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T07:04:06.599Z
 >
 > We have not yet implemented this, but have already begun preparations :) In the near future, your settings will be synchronized even if you access deck.blue from different devices.
@@ -75,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:53:14.867Z
 >
 > こっちだとプライベートブラウズをオンにした状態でもアクセスできました。VPNとか使ってます？
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:15:58.017Z
->
-> The growth of deck.blue has just begun
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T11:26:02.110Z
->
-> using xcode shortens our lifespan
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-04T10:07:31.688Z
->
-> And unfortunately, it's not possible to set a markdown style link in the profile description using the official API, because the profile description is different from the post or listing description. We are making the profile link work as a spec just in the deck.blue app.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
