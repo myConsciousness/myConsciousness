@@ -66,35 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:32:59.748Z
+>
+> Thanks for your contribution too! 🍻 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:30:12.681Z
+>
+> Thx, I will try to see if I can improve this algo :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:24:06.163Z
+>
+> Yes, @deck.blue and I have been developing deck.blue since its initial build :) @deck.blue is a nice Brazilian guy and I'm Japanese, we both like music!
+
+The UI and design of deck.blue is mainly developed by @deck.blue, and I tend to develop the backend such as API and text-related features :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:01:51.729Z
+>
+> You're welcome! 🍺 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-07T11:45:56.559Z
 >
 > Yes, deck.blue is optimized for desktops and tablets such as the iPad :) I often use deck.blue from my iPad and it's just as comfortable or even more comfortable than on desktop!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T08:38:31.617Z
->
-> morning!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T06:43:35.530Z
->
-> I have improved the syntax highlighting of the markdown links in deck.blue :) Now it's very clear where the link will be set as shown in the following image ✨
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T05:34:28.049Z
->
-> App Password makes your account more secure. But deck.blue doesn't force users to use App Password. 
-
-So you will see a warning when you press the "login" button with your password, and you can ignore this warning by pressing the "login" button again to log in :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:41:35.384Z
->
-> deck.blueについてなにかあれば日本語でいいので連絡ください！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
