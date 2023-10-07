@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T11:45:56.559Z
+>
+> Yes, deck.blue is optimized for desktops and tablets such as the iPad :) I often use deck.blue from my iPad and it's just as comfortable or even more comfortable than on desktop!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-07T08:38:31.617Z
 >
 > morning!
@@ -89,12 +95,6 @@ So you will see a warning when you press the "login" button with your password, 
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:41:35.384Z
 >
 > deck.blueについてなにかあれば日本語でいいので連絡ください！
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:34:07.336Z
->
-> deck.blueの開発者が @deck.blue（ブラジル人）と私（日本人）だからですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
