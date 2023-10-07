@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T13:28:52.490Z
+>
+> I have improved the mention extraction algo for deck.blue :) Japanese and other languages don't use spaces between words, but even in such languages, mentions can now be set in the text in a more expressive manner! ✨
+
+Look at examples in the following image :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:32:59.748Z
 >
 > Thanks for your contribution too! 🍻 
@@ -89,12 +97,6 @@ The UI and design of deck.blue is mainly developed by @deck.blue, and I tend to 
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:01:51.729Z
 >
 > You're welcome! 🍺 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T11:45:56.559Z
->
-> Yes, deck.blue is optimized for desktops and tablets such as the iPad :) I often use deck.blue from my iPad and it's just as comfortable or even more comfortable than on desktop!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
