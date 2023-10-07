@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T06:43:35.530Z
+>
+> I have improved the syntax highlighting of the markdown links in deck.blue :) Now it's very clear where the link will be set as shown in the following image ✨
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-07T05:34:28.049Z
 >
 > App Password makes your account more secure. But deck.blue doesn't force users to use App Password. 
@@ -89,12 +95,6 @@ So you will see a warning when you press the "login" button with your password, 
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:32:46.968Z
 >
 > 公式アプリがまだ対応していないだけでキュレートリストは既にあります。deck.blueでは先行してキュレートリストを提供していて、deck.blueで作成したキュレートリストは他のキュレートリストに対応したアプリからでも利用可能です。
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T07:04:06.599Z
->
-> We have not yet implemented this, but have already begun preparations :) In the near future, your settings will be synchronized even if you access deck.blue from different devices.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
