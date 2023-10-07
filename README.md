@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T05:34:28.049Z
+>
+> App Password makes your account more secure. But deck.blue doesn't force users to use App Password. 
+
+So you will see a warning when you press the "login" button with your password, and you can ignore this warning by pressing the "login" button again to log in :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T23:41:35.384Z
 >
 > deck.blueについてなにかあれば日本語でいいので連絡ください！
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-05T07:04:06.599Z
 >
 > We have not yet implemented this, but have already begun preparations :) In the near future, your settings will be synchronized even if you access deck.blue from different devices.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-05T01:53:14.867Z
->
-> こっちだとプライベートブラウズをオンにした状態でもアクセスできました。VPNとか使ってます？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
