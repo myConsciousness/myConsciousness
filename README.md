@@ -66,37 +66,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:34:50.012Z
+>
+> This is certainly a fair point! Let's see if this is possible with the tech we are using
+
+cc @deck.blue 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:28:07.991Z
+>
+> I like it too 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:23:09.741Z
+>
+> Which basic color of the deck.blue theme is your favorite? 👀
+
+Me:
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:14:05.175Z
+>
+> Fun fact: @deck.blue is my sponsor while I'm the sponsor of @deck.blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-07T13:28:52.490Z
 >
 > I have improved the mention extraction algo for deck.blue :) Japanese and other languages don't use spaces between words, but even in such languages, mentions can now be set in the text in a more expressive manner! ✨
 
 Look at examples in the following image :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:32:59.748Z
->
-> Thanks for your contribution too! 🍻 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:30:12.681Z
->
-> Thx, I will try to see if I can improve this algo :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:24:06.163Z
->
-> Yes, @deck.blue and I have been developing deck.blue since its initial build :) @deck.blue is a nice Brazilian guy and I'm Japanese, we both like music!
-
-The UI and design of deck.blue is mainly developed by @deck.blue, and I tend to develop the backend such as API and text-related features :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T12:01:51.729Z
->
-> You're welcome! 🍺 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
