@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:04:16.645Z
+>
+> Another beautiful color 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:01:19.628Z
+>
+> We will implement an emoji picker in deck.blue :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:34:50.012Z
 >
 > This is certainly a fair point! Let's see if this is possible with the tech we are using
@@ -85,20 +97,6 @@ cc @deck.blue
 > Which basic color of the deck.blue theme is your favorite? 👀
 
 Me:
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:14:05.175Z
->
-> Fun fact: @deck.blue is my sponsor while I'm the sponsor of @deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-07T13:28:52.490Z
->
-> I have improved the mention extraction algo for deck.blue :) Japanese and other languages don't use spaces between words, but even in such languages, mentions can now be set in the text in a more expressive manner! ✨
-
-Look at examples in the following image :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
