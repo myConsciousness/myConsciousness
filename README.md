@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T05:49:14.899Z
+>
+> 一部のリンクを消すことはリンクを貼るよりもかなり簡単に実装できるのですが、それをやると逆に「なんでこのリンクが機能しないの？」という問い合わせが増えることが予想されるのであまりやりたくないんですよね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T03:41:04.083Z
 >
 > Now the client with the most sophisticated text is deck.blue
@@ -91,12 +97,6 @@ Look at （#this =#tag's (#behaviour,)）
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:04:16.645Z
 >
 > Another beautiful color 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:01:19.628Z
->
-> We will implement an emoji picker in deck.blue :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
