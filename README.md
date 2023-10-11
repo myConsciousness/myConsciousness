@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T03:41:04.083Z
+>
+> Now the client with the most sophisticated text is deck.blue
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T03:11:07.029Z
+>
+> Good news for deck.blue users, I have made the hashtag extraction algo on deck.blue very smart :)
+
+Look at （#this =#tag's (#behaviour,)）
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T02:20:44.744Z
 >
 > It seems to be popular to play with javascript alerts, but deck.blue's algo doesn't allow this fomat as a markdown :)
@@ -83,20 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:01:19.628Z
 >
 > We will implement an emoji picker in deck.blue :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:34:50.012Z
->
-> This is certainly a fair point! Let's see if this is possible with the tech we are using
-
-cc @deck.blue 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:28:07.991Z
->
-> I like it too 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
