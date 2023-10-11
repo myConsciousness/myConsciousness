@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T02:20:44.744Z
+>
+> It seems to be popular to play with javascript alerts, but deck.blue's algo doesn't allow this fomat as a markdown :)
+
+[test](javascript:alert('howdy'))
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:04:16.645Z
 >
 > Another beautiful color 😁
@@ -89,14 +97,6 @@ cc @deck.blue
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:28:07.991Z
 >
 > I like it too 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T05:23:09.741Z
->
-> Which basic color of the deck.blue theme is your favorite? 👀
-
-Me:
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
