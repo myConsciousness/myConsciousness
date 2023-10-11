@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T14:30:29.011Z
+>
+> Yes deck.blue is not open source at least now. But we’re exploring ways for community based translation, we will consider about it :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T07:42:50.801Z
 >
 > App password is secure but generally a very confusing thing. We're patient until OAuth is implemented in the official.
@@ -89,14 +95,6 @@ btw if you're responsible for managing your password, you can log in to deck.blu
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T03:41:04.083Z
 >
 > Now the client with the most sophisticated text is deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T03:11:07.029Z
->
-> Good news for deck.blue users, I have made the hashtag extraction algo on deck.blue very smart :)
-
-Look at （#this =#tag's (#behaviour,)）
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
