@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T07:42:50.801Z
+>
+> App password is secure but generally a very confusing thing. We're patient until OAuth is implemented in the official.
+
+btw if you're responsible for managing your password, you can log in to deck.blue without using your app password. Just ignore the warning and press the login button twice :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T06:13:17.948Z
 >
 > このUIをベースに機能拡張を計画しているので戻すことはないですけど、アニメーションの最適化は考慮すべき事項ですね
@@ -89,14 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Good news for deck.blue users, I have made the hashtag extraction algo on deck.blue very smart :)
 
 Look at （#this =#tag's (#behaviour,)）
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T02:20:44.744Z
->
-> It seems to be popular to play with javascript alerts, but deck.blue's algo doesn't allow this fomat as a markdown :)
-
-[test](javascript:alert('howdy'))
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
