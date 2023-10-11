@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T06:13:17.948Z
+>
+> このUIをベースに機能拡張を計画しているので戻すことはないですけど、アニメーションの最適化は考慮すべき事項ですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T05:49:14.899Z
 >
 > 一部のリンクを消すことはリンクを貼るよりもかなり簡単に実装できるのですが、それをやると逆に「なんでこのリンクが機能しないの？」という問い合わせが増えることが予想されるのであまりやりたくないんですよね
@@ -91,12 +97,6 @@ Look at （#this =#tag's (#behaviour,)）
 > It seems to be popular to play with javascript alerts, but deck.blue's algo doesn't allow this fomat as a markdown :)
 
 [test](javascript:alert('howdy'))
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-10T09:04:16.645Z
->
-> Another beautiful color 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
