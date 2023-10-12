@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:39:17.280Z
+>
+> Guys Friday the 13th
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:30:49.475Z
+>
+> And congrats! 🎉
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:22:58.405Z
+>
+> Waiting
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T14:34:36.842Z
 >
 > This is because the official app does not yet have a functioning hashtag link. If the official app implements the hashtag link, hashtags created with deck.blue will work with the official app :)
@@ -75,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T08:54:58.521Z
 >
 > We have no plans to implement this, but it's an interesting idea! In my personal opinion, it would be nice to have the ability to copy lists
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T04:39:27.964Z
->
-> BlueskyText relies on a huge regex for entity detection different from the official, and the conversion logic for UTF-8 indexes is based on the official UnicodeString
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T02:16:19.475Z
->
-> I also want an poll feature
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T02:14:23.131Z
->
-> It won't be long before it reaches 10k
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
