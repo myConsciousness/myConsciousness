@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T08:54:58.521Z
+>
+> We have no plans to implement this, but it's an interesting idea! In my personal opinion, it would be nice to have the ability to copy lists
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T04:39:27.964Z
 >
 > BlueskyText relies on a huge regex for entity detection different from the official, and the conversion logic for UTF-8 indexes is based on the official UnicodeString
@@ -91,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 This BOT is officially authorized by Prof. Robert Nemiroff, one of the founders of APOD, I hope more people will enjoy with this bot :) 
 
 apod.nasa.gov/apod/lib/abo...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T23:01:32.691Z
->
-> #Birdapp is not working? Then it's exactly the time to get the best #Bluesky experience with deck.blue 🎯
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
