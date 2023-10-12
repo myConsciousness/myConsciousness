@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T01:35:50.563Z
+>
+> It's been a while since I looked at my APOD bot (@apod.shinyakato.dev) and was surprised to see almost 1k followers, thx!
+
+This BOT is officially authorized by Prof. Robert Nemiroff, one of the founders of APOD, I hope more people will enjoy with this bot :) 
+
+apod.nasa.gov/apod/lib/abo...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T23:01:32.691Z
 >
 > #Birdapp is not working? Then it's exactly the time to get the best #Bluesky experience with deck.blue 🎯
@@ -89,12 +99,6 @@ btw if you're responsible for managing your password, you can log in to deck.blu
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T06:13:17.948Z
 >
 > このUIをベースに機能拡張を計画しているので戻すことはないですけど、アニメーションの最適化は考慮すべき事項ですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T05:49:14.899Z
->
-> 一部のリンクを消すことはリンクを貼るよりもかなり簡単に実装できるのですが、それをやると逆に「なんでこのリンクが機能しないの？」という問い合わせが増えることが予想されるのであまりやりたくないんですよね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
