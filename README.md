@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T23:01:32.691Z
+>
+> #Birdapp is not working? Then it's exactly the time to get the best #Bluesky experience with deck.blue 🎯
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T14:30:29.011Z
 >
 > Yes deck.blue is not open source at least now. But we’re exploring ways for community based translation, we will consider about it :)
@@ -89,12 +95,6 @@ btw if you're responsible for managing your password, you can log in to deck.blu
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T05:49:14.899Z
 >
 > 一部のリンクを消すことはリンクを貼るよりもかなり簡単に実装できるのですが、それをやると逆に「なんでこのリンクが機能しないの？」という問い合わせが増えることが予想されるのであまりやりたくないんですよね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T03:41:04.083Z
->
-> Now the client with the most sophisticated text is deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
