@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T02:16:19.475Z
+>
+> I also want an poll feature
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T02:14:23.131Z
+>
+> It won't be long before it reaches 10k
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T01:35:50.563Z
 >
 > It's been a while since I looked at my APOD bot (@apod.shinyakato.dev) and was surprised to see almost 1k followers, thx!
@@ -85,20 +97,6 @@ apod.nasa.gov/apod/lib/abo...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T14:30:29.011Z
 >
 > Yes deck.blue is not open source at least now. But we’re exploring ways for community based translation, we will consider about it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T07:42:50.801Z
->
-> App password is secure but generally a very confusing thing. We're patient until OAuth is implemented in the official.
-
-btw if you're responsible for managing your password, you can log in to deck.blue without using your app password. Just ignore the warning and press the login button twice :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T06:13:17.948Z
->
-> このUIをベースに機能拡張を計画しているので戻すことはないですけど、アニメーションの最適化は考慮すべき事項ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
