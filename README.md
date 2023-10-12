@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T14:34:36.842Z
+>
+> This is because the official app does not yet have a functioning hashtag link. If the official app implements the hashtag link, hashtags created with deck.blue will work with the official app :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T08:54:58.521Z
 >
 > We have no plans to implement this, but it's an interesting idea! In my personal opinion, it would be nice to have the ability to copy lists
@@ -87,16 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T02:14:23.131Z
 >
 > It won't be long before it reaches 10k
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T01:35:50.563Z
->
-> It's been a while since I looked at my APOD bot (@apod.shinyakato.dev) and was surprised to see almost 1k followers, thx!
-
-This BOT is officially authorized by Prof. Robert Nemiroff, one of the founders of APOD, I hope more people will enjoy with this bot :) 
-
-apod.nasa.gov/apod/lib/abo...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
