@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T04:39:27.964Z
+>
+> BlueskyText relies on a huge regex for entity detection different from the official, and the conversion logic for UTF-8 indexes is based on the official UnicodeString
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T02:16:19.475Z
 >
 > I also want an poll feature
@@ -91,12 +97,6 @@ apod.nasa.gov/apod/lib/abo...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-11T23:01:32.691Z
 >
 > #Birdapp is not working? Then it's exactly the time to get the best #Bluesky experience with deck.blue 🎯
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-11T14:30:29.011Z
->
-> Yes deck.blue is not open source at least now. But we’re exploring ways for community based translation, we will consider about it :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
