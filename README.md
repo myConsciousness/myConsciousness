@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:32:14.483Z
+>
+> Okay very excited to hear that! :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:22:33.770Z
+>
+> Hey Emily, can we add languages other than Python or TypeScript?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:10:16.451Z
+>
+> @graysky.app is great
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T02:45:55.465Z
 >
 > @mozzius.dev you did it
@@ -75,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:39:17.280Z
 >
 > Guys Friday the 13th
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:30:49.475Z
->
-> And congrats! 🎉
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:22:58.405Z
->
-> Waiting
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T14:34:36.842Z
->
-> This is because the official app does not yet have a functioning hashtag link. If the official app implements the hashtag link, hashtags created with deck.blue will work with the official app :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
