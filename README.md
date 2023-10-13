@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T06:38:50.057Z
+>
+> I see! But unresolvedMention does not work with other clients, is that ok?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T06:32:40.553Z
+>
+> UTF-16 facets for your app?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T05:28:28.444Z
 >
 > I’m keeping an eye on this issue, as we expect improved performance for Flutter-based web apps such as skyfeed.app and deck.blue once the CORS header issue is resolved.
@@ -85,18 +97,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:22:33.770Z
 >
 > Hey Emily, can we add languages other than Python or TypeScript?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:10:16.451Z
->
-> @graysky.app is great
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T02:45:55.465Z
->
-> @mozzius.dev you did it
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
