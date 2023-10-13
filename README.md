@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T09:35:54.074Z
+>
+> You're loved by Google
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T09:34:06.555Z
+>
+> This is because there is not much space in the sidebar anymore, but you still can check it from settings :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T07:47:02.252Z
 >
 > Ah then it makes sense! 👍
@@ -81,22 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T06:32:40.553Z
 >
 > UTF-16 facets for your app?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T05:28:28.444Z
->
-> I’m keeping an eye on this issue, as we expect improved performance for Flutter-based web apps such as skyfeed.app and deck.blue once the CORS header issue is resolved.
-
-And thanks to @kevmoo.bsky.social for support on this issue!
-
-github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:32:14.483Z
->
-> Okay very excited to hear that! :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
