@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T07:47:02.252Z
+>
+> Ah then it makes sense! 👍
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T06:38:50.057Z
 >
 > I see! But unresolvedMention does not work with other clients, is that ok?
@@ -91,12 +97,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:32:14.483Z
 >
 > Okay very excited to hear that! :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:22:33.770Z
->
-> Hey Emily, can we add languages other than Python or TypeScript?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
