@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T05:28:28.444Z
+>
+> I’m keeping an eye on this issue, as we expect improved performance for Flutter-based web apps such as skyfeed.app and deck.blue once the CORS header issue is resolved.
+
+And thanks to @kevmoo.bsky.social for support on this issue!
+
+github.com/bluesky-soci...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T03:32:14.483Z
 >
 > Okay very excited to hear that! :)
@@ -87,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T02:45:55.465Z
 >
 > @mozzius.dev you did it
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:39:17.280Z
->
-> Guys Friday the 13th
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
