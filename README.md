@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T02:45:55.465Z
+>
+> @mozzius.dev you did it
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T22:39:17.280Z
 >
 > Guys Friday the 13th
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-12T14:34:36.842Z
 >
 > This is because the official app does not yet have a functioning hashtag link. If the official app implements the hashtag link, hashtags created with deck.blue will work with the official app :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-12T08:54:58.521Z
->
-> We have no plans to implement this, but it's an interesting idea! In my personal opinion, it would be nice to have the ability to copy lists
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
