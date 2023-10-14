@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-14T01:38:21.897Z
+>
+> Hey I have fixed this Issue :) This fix is included in build number 247, but if the fix does not take effect in 247, please also clean your browser cache!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-14T01:03:55.992Z
 >
 > Basic Journalist starter pack here
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T09:34:06.555Z
 >
 > This is because there is not much space in the sidebar anymore, but you still can check it from settings :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T07:47:02.252Z
->
-> Ah then it makes sense! 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
