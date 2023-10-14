@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-14T01:03:55.992Z
+>
+> Basic Journalist starter pack here
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T18:53:29.061Z
 >
 > So gorgeous place
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-13T07:47:02.252Z
 >
 > Ah then it makes sense! 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-13T06:38:50.057Z
->
-> I see! But unresolvedMention does not work with other clients, is that ok?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
