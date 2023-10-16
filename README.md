@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-16T11:38:16.617Z
+>
+> Welcome to Bluesky :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-16T02:46:24.211Z
 >
 > Of course welcome 🤝 
@@ -91,14 +97,6 @@ github.com/deckblue
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-15T15:00:20.909Z
 >
 > gm cool guy
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-15T10:02:42.440Z
->
-> blueskyではLexiconに定義されたエンドポイントしかサポートしていないので、1のエンドポイントに対応するメソッドはありませんね
-
-ただ3月の時点で聞いた話ではこのエンドポイントも将来的にはxrpcのエンドポイントとして実装されるらしいので、blueskyで実装するとなるとそのタイミングになります
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
