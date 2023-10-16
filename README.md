@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-16T01:12:45.367Z
+>
+> Bezos style
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-15T23:22:55.939Z
 >
 > Good so far 😁
@@ -91,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > We will soon open a translation repo for deck.blue. From this repo, you can add and improve the text in deck.blue with translations in your native language or language of your choice.
 
 We expect this repository to be maintained on a community basis, and all you need is a GitHub account :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-14T01:38:21.897Z
->
-> Hey I have fixed this Issue :) This fix is included in build number 247, but if the fix does not take effect in 247, please also clean your browser cache!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
