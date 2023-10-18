@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T09:58:15.451Z
+>
+> Literally launched! 🚀
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-17T06:49:01.574Z
 >
 > Yes I like this one
@@ -91,12 +97,6 @@ github.com/deckblue
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-16T01:12:45.367Z
 >
 > Bezos style
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-15T23:22:55.939Z
->
-> Good so far 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
