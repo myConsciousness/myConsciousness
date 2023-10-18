@@ -66,37 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:00:35.434Z
+>
+> This is a slightly off topic but do you have the slightest idea of building a service like Fedica with Bluesky in the future?
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:44:51.332Z
+>
+> I crashed Graysky once just now but I can't reproduce it
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:27:03.145Z
+>
+> When we encounter system failures
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:06:52.589Z
+>
+> Really nice hat
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-18T10:05:21.853Z
 >
 > I also often forget to write alt text, so I felt this feature was needed in deck.blue as well. We will try to implement it at some point :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T09:58:15.451Z
->
-> Literally launched! 🚀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-17T06:49:01.574Z
->
-> Yes I like this one
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-16T11:38:16.617Z
->
-> Welcome to Bluesky :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-16T02:46:24.211Z
->
-> Of course welcome 🤝 
-
-We will soon open the l10n repository to the following GitHub org, so please join us! :)
-
-github.com/deckblue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
