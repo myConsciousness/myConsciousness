@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T10:05:21.853Z
+>
+> I also often forget to write alt text, so I felt this feature was needed in deck.blue as well. We will try to implement it at some point :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-18T09:58:15.451Z
 >
 > Literally launched! 🚀
@@ -91,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 We will soon open the l10n repository to the following GitHub org, so please join us! :)
 
 github.com/deckblue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-16T01:12:45.367Z
->
-> Bezos style
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
