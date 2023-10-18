@@ -66,33 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:00:35.434Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:38:08.300Z
 >
-> This is a slightly off topic but do you have the slightest idea of building a service like Fedica with Bluesky in the future?
+> Ah I got it :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:30:51.663Z
+>
+> My favorite GIF is posted as a static image, do you know why? 🤔
+
+bsky.app/profile/shin...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:26:03.953Z
+>
+> I see :) Federation is likely to be deployed until next spring. If you are going to make a big move, this would be a good time to do it 👍
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:02:10.023Z
+>
+> This is slightly off topic but do you have the slightest idea of building a service like Fedica with Bluesky in the future?
 
 ---
 
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:44:51.332Z
 >
 > I crashed Graysky once just now but I can't reproduce it
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:27:03.145Z
->
-> When we encounter system failures
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:06:52.589Z
->
-> Really nice hat
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T10:05:21.853Z
->
-> I also often forget to write alt text, so I felt this feature was needed in deck.blue as well. We will try to implement it at some point :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
