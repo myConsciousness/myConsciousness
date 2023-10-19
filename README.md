@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T15:58:59.404Z
+>
+> Okay
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T15:56:43.892Z
+>
+> When you share your invitation code with people in birdapp
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:40:55.472Z
 >
 > We must be careful to hellthread 😌
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:06:04.739Z
 >
 > Thank you, please help us when we open a translation repository 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T09:12:44.503Z
->
-> Yes I also was concerned about this behavior, threads related to the post would need to be retrieved recursively
-
-@deck.blue wdyt?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T08:56:35.039Z
->
-> The evolution of deck.blue was truly dramatic. This quote is a post I did about 2 months ago, but compare it to the deck.blue now and you can see that very significant changes have occurred in this short period of time. deck.blue will provide even greater experience to users.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
