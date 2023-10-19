@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:40:55.472Z
+>
+> We must be careful to hellthread 😌
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:27:41.516Z
+>
+> yep you're one of the devs I'm constantly watching in Bluesky 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:06:04.739Z
+>
+> Thank you, please help us when we open a translation repository 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T09:12:44.503Z
 >
 > Yes I also was concerned about this behavior, threads related to the post would need to be retrieved recursively
@@ -77,26 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T08:56:35.039Z
 >
 > The evolution of deck.blue was truly dramatic. This quote is a post I did about 2 months ago, but compare it to the deck.blue now and you can see that very significant changes have occurred in this short period of time. deck.blue will provide even greater experience to users.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T08:46:24.115Z
->
-> This is the intended behavior. What you see in the search dialog is a preview, so to see detailed information about a post, you must add the search results as a column
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:38:08.300Z
->
-> Ah I got it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:30:51.663Z
->
-> My favorite GIF is posted as a static image, do you know why? 🤔
-
-bsky.app/profile/shin...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
