@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T09:12:44.503Z
+>
+> Yes I also was concerned about this behavior, threads related to the post would need to be retrieved recursively
+
+@deck.blue wdyt?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T08:56:35.039Z
 >
 > The evolution of deck.blue was truly dramatic. This quote is a post I did about 2 months ago, but compare it to the deck.blue now and you can see that very significant changes have occurred in this short period of time. deck.blue will provide even greater experience to users.
@@ -89,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > My favorite GIF is posted as a static image, do you know why? 🤔
 
 bsky.app/profile/shin...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:26:03.953Z
->
-> I see :) Federation is likely to be deployed until next spring. If you are going to make a big move, this would be a good time to do it 👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
