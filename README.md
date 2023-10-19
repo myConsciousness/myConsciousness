@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T08:56:35.039Z
+>
+> The evolution of deck.blue was truly dramatic. This quote is a post I did about 2 months ago, but compare it to the deck.blue now and you can see that very significant changes have occurred in this short period of time. deck.blue will provide even greater experience to users.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T08:46:24.115Z
+>
+> This is the intended behavior. What you see in the search dialog is a preview, so to see detailed information about a post, you must add the search results as a column
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:38:08.300Z
 >
 > Ah I got it :)
@@ -83,18 +95,6 @@ bsky.app/profile/shin...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:26:03.953Z
 >
 > I see :) Federation is likely to be deployed until next spring. If you are going to make a big move, this would be a good time to do it 👍
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T14:02:10.023Z
->
-> This is slightly off topic but do you have the slightest idea of building a service like Fedica with Bluesky in the future?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-18T13:44:51.332Z
->
-> I crashed Graysky once just now but I can't reproduce it
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
