@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T23:23:32.924Z
+>
+> It's time to contribute to the localization of deck.blue!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T23:17:27.879Z
+>
+> Good catch and it’s an interesting issue! Encoding the parens is a last resort, let's see if I can solve this without encoding first
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T15:58:59.404Z
 >
 > Okay
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:40:55.472Z
 >
 > We must be careful to hellthread 😌
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:27:41.516Z
->
-> yep you're one of the devs I'm constantly watching in Bluesky 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:06:04.739Z
->
-> Thank you, please help us when we open a translation repository 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
