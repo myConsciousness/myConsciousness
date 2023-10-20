@@ -66,33 +66,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:49:59.722Z
+>
+> Don't worry, we're making jokes about Flutter too, and we enjoy this lol
+
+Flutter is a framework originally built for mobile development, and the web still has room for improvement!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:40:08.519Z
+>
+> This is Google black magic
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:38:08.022Z
+>
+> Without getting too technical, Flutter renders the Widget as pixels in an HTML `<canvas>` element, not a DOM element
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:10:57.186Z
+>
+> You can try! You just need a GitHub account :)
+
+github.com/deckblue/l10n
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-19T23:23:32.924Z
 >
 > It's time to contribute to the localization of deck.blue!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T23:17:27.879Z
->
-> Good catch and it’s an interesting issue! Encoding the parens is a last resort, let's see if I can solve this without encoding first
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T15:58:59.404Z
->
-> Okay
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T15:56:43.892Z
->
-> When you share your invitation code with people in birdapp
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T11:40:55.472Z
->
-> We must be careful to hellthread 😌
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
