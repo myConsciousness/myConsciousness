@@ -66,37 +66,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:49:59.722Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:47:08.387Z
 >
-> Don't worry, we're making jokes about Flutter too, and we enjoy this lol
+> Of course yes, please create a pull request! 😁
 
-Flutter is a framework originally built for mobile development, and the web still has room for improvement!
+github.com/deckblue/l10...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:40:08.519Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:41:49.803Z
 >
-> This is Google black magic
+> Belarus :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:38:08.022Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:25:18.013Z
 >
-> Without getting too technical, Flutter renders the Widget as pixels in an HTML `<canvas>` element, not a DOM element
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:10:57.186Z
->
-> You can try! You just need a GitHub account :)
+> Four languages are already about to be added to deck.blue :)
 
 github.com/deckblue/l10n
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-19T23:23:32.924Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:20:40.019Z
 >
-> It's time to contribute to the localization of deck.blue!
+> Automation is seriously beautiful
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:49:59.722Z
+>
+> Don't worry, we're making jokes about Flutter too, and we enjoy this lol
+
+Flutter is a framework originally built for mobile development, and the web still has room for improvement!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
