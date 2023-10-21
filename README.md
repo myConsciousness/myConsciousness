@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T09:10:18.246Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T08:57:09.572Z
 >
 > This is what happened
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:51:34.364Z
 >
 > It’s time to move 😌
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:38:23.261Z
->
-> This is a revolution
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
