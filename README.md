@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T08:57:09.572Z
+>
+> This is what happened
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T08:22:44.089Z
+>
+> This is a very nice spec
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T04:14:43.875Z
 >
 > 
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:38:23.261Z
 >
 > This is a revolution
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:36:54.831Z
->
-> Guys look at this gif
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:47:08.387Z
->
-> Of course yes, please create a pull request! 😁
-
-github.com/deckblue/l10...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
