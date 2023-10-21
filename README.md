@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T22:43:09.072Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:21:23.092Z
 >
 > Yay! 😁
@@ -91,14 +97,6 @@ I solved this Issue with the regex magic
 > Graysky is powered by #ReactNative, deck.blue and skyfeed.app are powered by #Flutter :)
 
 bsky.app/profile/gray...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T10:51:27.583Z
->
-> Yes 😁
-
-www.youtube.com/watch?v=7fAD...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
