@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T11:54:55.946Z
+>
+> Graysky is powered by #ReactNative, deck.blue and skyfeed.app are powered by #Flutter :)
+
+bsky.app/profile/gray...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T10:51:27.583Z
 >
 > Yes 😁
@@ -89,12 +97,6 @@ www.youtube.com/watch?v=7fAD...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T08:22:44.089Z
 >
 > This is a very nice spec
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T04:14:43.875Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
