@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:21:23.092Z
+>
+> Yay! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:19:12.064Z
+>
+> Maybe you missed to add the last `)`? It works when I try it: Jakob Sprenger
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:06:44.684Z
+>
+> Hey @harald4blues.bsky.social, I think I fixed an issue we talked about before in deck.blue :) See this markdown link with parens!
+
+I solved this Issue with the regex magic
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T11:54:55.946Z
 >
 > Graysky is powered by #ReactNative, deck.blue and skyfeed.app are powered by #Flutter :)
@@ -79,24 +99,6 @@ bsky.app/profile/gray...
 > Yes 😁
 
 www.youtube.com/watch?v=7fAD...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T09:10:18.246Z
->
-> 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T08:57:09.572Z
->
-> This is what happened
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T08:22:44.089Z
->
-> This is a very nice spec
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
