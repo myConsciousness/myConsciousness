@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:51:34.364Z
+>
+> It’s time to move 😌
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:38:23.261Z
+>
+> This is a revolution
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T23:36:54.831Z
+>
+> Guys look at this gif
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:47:08.387Z
 >
 > Of course yes, please create a pull request! 😁
@@ -77,28 +95,6 @@ github.com/deckblue/l10...
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:41:49.803Z
 >
 > Belarus :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:25:18.013Z
->
-> Four languages are already about to be added to deck.blue :)
-
-github.com/deckblue/l10n
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T15:20:40.019Z
->
-> Automation is seriously beautiful
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-20T03:49:59.722Z
->
-> Don't worry, we're making jokes about Flutter too, and we enjoy this lol
-
-Flutter is a framework originally built for mobile development, and the web still has room for improvement!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
