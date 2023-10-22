@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T04:46:05.936Z
+>
+> @sylee.dev 翻译了它 :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T04:15:41.834Z
+>
+> Some people have asked me about gif support in deck.blue, and yes we plan to support gif in deck.blue as well. I would like to see multi columns of deck.blue filled with funny gifs!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T00:22:46.598Z
 >
 > 
@@ -85,26 +97,6 @@ Then these errors can be easily avoided according to the JSON linter :)
 > Hi there! This occurs when the `.arb` file cannot be decoded to JSON. In other words, the syntax as JSON may have been incorrect at the time this workflow was executed.
 
 From what I have seen so far, the double quotes were not closed correctly or in the wrong position.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:48:07.166Z
->
-> All you need to contribute to the translation of deck.blue is a GitHub account :)
-
-If you are not familiar with editing source code, please read the following guide; you can also edit files on GitHub!
-
-github.com/deckblue/l10...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:44:17.598Z
->
-> Several languages have already been added to deck.blue, this is great and thx! 🙏 
-
-In addition to adding new languages, you can contribute to translate untranslated items. Untranslated items are automatically updated in the following file, let's check it!
-
-github.com/deckblue/l10...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
