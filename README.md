@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:40:07.798Z
+>
+> 
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:39:13.797Z
+>
+> @mozzius.dev @graysky.app 
+
+Not enough space when replying to a post with no text
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:24:26.182Z
+>
+> I only know about the specific algo for deck.blue, but it's very possible that these clients use the same API but have different algos for displaying it. Also, some clients may not be able to view certain posts due to errors or other reasons when displaying them.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T08:54:04.071Z
 >
 > #Bluesky
@@ -75,24 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T06:06:33.160Z
 >
 > I think it’s a very useful option :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T06:05:40.564Z
->
-> Awesome!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T04:46:05.936Z
->
-> @sylee.dev 翻译了它 :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T04:15:41.834Z
->
-> Some people have asked me about gif support in deck.blue, and yes we plan to support gif in deck.blue as well. I would like to see multi columns of deck.blue filled with funny gifs!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
