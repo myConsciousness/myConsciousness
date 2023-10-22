@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T21:12:14.021Z
+>
+> Hi there! No need to create a new pull request, but please just push the modified commit to this pull request :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T20:43:10.249Z
 >
 > Guys look at this, this is the new deck.blue’s brand identity designed by @tullece.bsky.social, so cool!
@@ -91,12 +97,6 @@ Thank you very much for your amazing work @tullece.bsky.social 🤝
 > @mozzius.dev @graysky.app 
 
 Not enough space when replying to a post with no text
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:24:26.182Z
->
-> I only know about the specific algo for deck.blue, but it's very possible that these clients use the same API but have different algos for displaying it. Also, some clients may not be able to view certain posts due to errors or other reasons when displaying them.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
