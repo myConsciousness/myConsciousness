@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T12:59:04.583Z
+>
+> Thank you so much, we’ll check it! 🤝
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:40:07.798Z
 >
 > 
@@ -89,12 +95,6 @@ Not enough space when replying to a post with no text
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T08:54:04.071Z
 >
 > #Bluesky
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T06:06:33.160Z
->
-> I think it’s a very useful option :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
