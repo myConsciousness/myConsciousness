@@ -66,37 +66,45 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:59:22.881Z
+>
+> But anyway we no longer feel the need to manage these files in `.arb` in l10n, so we will change them all to `.json` files in the near future!
+
+Then these errors can be easily avoided according to the JSON linter :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:57:09.533Z
+>
+> Hi there! This occurs when the `.arb` file cannot be decoded to JSON. In other words, the syntax as JSON may have been incorrect at the time this workflow was executed.
+
+From what I have seen so far, the double quotes were not closed correctly or in the wrong position.
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:48:07.166Z
+>
+> All you need to contribute to the translation of deck.blue is a GitHub account :)
+
+If you are not familiar with editing source code, please read the following guide; you can also edit files on GitHub!
+
+github.com/deckblue/l10...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:44:17.598Z
+>
+> Several languages have already been added to deck.blue, this is great and thx! 🙏 
+
+In addition to adding new languages, you can contribute to translate untranslated items. Untranslated items are automatically updated in the following file, let's check it!
+
+github.com/deckblue/l10...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T22:43:09.072Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:21:23.092Z
->
-> Yay! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:19:12.064Z
->
-> Maybe you missed to add the last `)`? It works when I try it: Jakob Sprenger
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T14:06:44.684Z
->
-> Hey @harald4blues.bsky.social, I think I fixed an issue we talked about before in deck.blue :) See this markdown link with parens!
-
-I solved this Issue with the regex magic
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T11:54:55.946Z
->
-> Graysky is powered by #ReactNative, deck.blue and skyfeed.app are powered by #Flutter :)
-
-bsky.app/profile/gray...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
