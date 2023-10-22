@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T00:22:46.598Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:59:22.881Z
 >
 > But anyway we no longer feel the need to manage these files in `.arb` in l10n, so we will change them all to `.json` files in the near future!
@@ -99,12 +105,6 @@ github.com/deckblue/l10...
 In addition to adding new languages, you can contribute to translate untranslated items. Untranslated items are automatically updated in the following file, let's check it!
 
 github.com/deckblue/l10...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T22:43:09.072Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
