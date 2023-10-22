@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T06:06:33.160Z
+>
+> I think it’s a very useful option :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T06:05:40.564Z
+>
+> Awesome!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T04:46:05.936Z
 >
 > @sylee.dev 翻译了它 :)
@@ -81,22 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T00:22:46.598Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:59:22.881Z
->
-> But anyway we no longer feel the need to manage these files in `.arb` in l10n, so we will change them all to `.json` files in the near future!
-
-Then these errors can be easily avoided according to the JSON linter :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-21T23:57:09.533Z
->
-> Hi there! This occurs when the `.arb` file cannot be decoded to JSON. In other words, the syntax as JSON may have been incorrect at the time this workflow was executed.
-
-From what I have seen so far, the double quotes were not closed correctly or in the wrong position.
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
