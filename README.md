@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T06:13:20.236Z
+>
+> Thank you, I fixed as follows :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:51:42.682Z
 >
 > btw is `Bahasa Indonesia` better from the point of view of a native Indonesian speaker? Then I can fix it :)
@@ -89,12 +95,6 @@ Maybe it's a UI convenience to use the shortened name, I'll ask him later :)
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T04:17:31.234Z
 >
 > Looks like a delicious Jjigae :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T02:23:53.386Z
->
-> Так гэта вельмі цікавы факт :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
