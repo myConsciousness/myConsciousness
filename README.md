@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T09:45:08.039Z
+>
+> When the OS update started without my permission
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T09:01:48.402Z
+>
+> Try deck.blue out :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T07:15:27.966Z
 >
 > I use SQL a lot for big data analysis in my work and completely agree. I even find beauty in this calculation result.
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:51:42.682Z
 >
 > btw is `Bahasa Indonesia` better from the point of view of a native Indonesian speaker? Then I can fix it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:48:56.704Z
->
-> This list was modified by @deck.blue, but I think it stands for `Bahasa Indonesia`
-
-Maybe it's a UI convenience to use the shortened name, I'll ask him later :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:32:14.763Z
->
-> Indonesian translation is already available in deck.blue! :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
