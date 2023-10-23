@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T07:15:27.966Z
+>
+> I use SQL a lot for big data analysis in my work and completely agree. I even find beauty in this calculation result.
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T06:13:20.236Z
 >
 > Thank you, I fixed as follows :)
@@ -89,12 +95,6 @@ Maybe it's a UI convenience to use the shortened name, I'll ask him later :)
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:32:14.763Z
 >
 > Indonesian translation is already available in deck.blue! :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T04:17:31.234Z
->
-> Looks like a delicious Jjigae :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
