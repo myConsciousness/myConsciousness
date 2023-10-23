@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T02:23:53.386Z
+>
+> Так гэта вельмі цікавы факт :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T21:12:14.021Z
 >
 > Hi there! No need to create a new pull request, but please just push the modified commit to this pull request :)
@@ -89,14 +95,6 @@ Thank you very much for your amazing work @tullece.bsky.social 🤝
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:40:07.798Z
 >
 > 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:39:13.797Z
->
-> @mozzius.dev @graysky.app 
-
-Not enough space when replying to a post with no text
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
