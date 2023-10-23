@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T04:17:31.234Z
+>
+> Looks like a delicious Jjigae :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T02:23:53.386Z
 >
 > Так гэта вельмі цікавы факт :)
@@ -89,12 +95,6 @@ Thank you very much for your amazing work @tullece.bsky.social 🤝
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-22T12:59:04.583Z
 >
 > Thank you so much, we’ll check it! 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T10:40:07.798Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
