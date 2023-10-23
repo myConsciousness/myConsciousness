@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:51:42.682Z
+>
+> btw is `Bahasa Indonesia` better from the point of view of a native Indonesian speaker? Then I can fix it :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:48:56.704Z
+>
+> This list was modified by @deck.blue, but I think it stands for `Bahasa Indonesia`
+
+Maybe it's a UI convenience to use the shortened name, I'll ask him later :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:32:14.763Z
+>
+> Indonesian translation is already available in deck.blue! :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T04:17:31.234Z
 >
 > Looks like a delicious Jjigae :)
@@ -75,26 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T02:23:53.386Z
 >
 > Так гэта вельмі цікавы факт :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T21:12:14.021Z
->
-> Hi there! No need to create a new pull request, but please just push the modified commit to this pull request :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T20:43:10.249Z
->
-> Guys look at this, this is the new deck.blue’s brand identity designed by @tullece.bsky.social, so cool!
-
-Thank you very much for your amazing work @tullece.bsky.social 🤝
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-22T12:59:04.583Z
->
-> Thank you so much, we’ll check it! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
