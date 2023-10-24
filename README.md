@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:47:52.677Z
+>
+> The brand name #Pebble is as bad as T2. Even if we search for "T2" or "Pebble", not only news articles but even pebble.is does not appear at the top of the list
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:29:23.378Z
+>
+> There is no mention of open source or rebranding, but I'm curious about "our next steps" in this post
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:17:30.746Z
+>
+> Guys look at this, #Pebble will be shutting down
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T09:45:08.039Z
 >
 > When the OS update started without my permission
@@ -75,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T09:01:48.402Z
 >
 > Try deck.blue out :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T07:15:27.966Z
->
-> I use SQL a lot for big data analysis in my work and completely agree. I even find beauty in this calculation result.
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T06:13:20.236Z
->
-> Thank you, I fixed as follows :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T05:51:42.682Z
->
-> btw is `Bahasa Indonesia` better from the point of view of a native Indonesian speaker? Then I can fix it :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
