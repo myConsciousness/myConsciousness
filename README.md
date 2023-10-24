@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T22:32:09.462Z
+>
+> Their loss will be in that they were only a degraded version of birdapp, no more no less
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:47:52.677Z
 >
 > The brand name #Pebble is as bad as T2. Even if we search for "T2" or "Pebble", not only news articles but even pebble.is does not appear at the top of the list
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-23T09:45:08.039Z
 >
 > When the OS update started without my permission
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-23T09:01:48.402Z
->
-> Try deck.blue out :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
