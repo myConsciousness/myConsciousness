@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T06:04:18.134Z
+>
+> imo Bluesky would be a legitimate successor in a sense because of its historical background
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T02:51:13.710Z
 >
 > I'm honored, and I'm just providing tools and improving algorithms, many parts of deck.blue are built by @deck.blue :)
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:47:52.677Z
 >
 > The brand name #Pebble is as bad as T2. Even if we search for "T2" or "Pebble", not only news articles but even pebble.is does not appear at the top of the list
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:29:23.378Z
->
-> There is no mention of open source or rebranding, but I'm curious about "our next steps" in this post
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
