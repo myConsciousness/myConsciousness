@@ -66,37 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T07:47:47.066Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:46:06.245Z
 >
-> btw we may never have announced it, but underscores `_` have been available for some time
-
-#look_at_this_hashtag
+> yes we can, welcome to Bluesky 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T07:44:49.443Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:16:37.937Z
 >
-> Now this is the place you belong to :)
+> haha I’m honored 😁
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T07:41:56.762Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:15:10.960Z
 >
-> I have improved the hashtag detection in deck.blue :)  You can now post hashtags with hyphen `-`!
-
-#look-at-this-hashtag
+> I used skycle.app to generate this cool image :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T06:04:18.134Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:09:32.013Z
 >
-> imo Bluesky would be a legitimate successor in a sense because of its historical background
+> btw I’m very glad I’m a part of your app :)
+
+skycle.app
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T02:51:13.710Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:04:00.313Z
 >
-> I'm honored, and I'm just providing tools and improving algorithms, many parts of deck.blue are built by @deck.blue :)
+> I believe it’s E2E encrypted DMs
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
