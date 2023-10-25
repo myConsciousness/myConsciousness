@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T02:51:13.710Z
+>
+> I'm honored, and I'm just providing tools and improving algorithms, many parts of deck.blue are built by @deck.blue :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-24T23:01:04.731Z
 >
 > It’s really a cool watch!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:29:23.378Z
 >
 > There is no mention of open source or rebranding, but I'm curious about "our next steps" in this post
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:17:30.746Z
->
-> Guys look at this, #Pebble will be shutting down
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
