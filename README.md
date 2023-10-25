@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T13:51:16.729Z
+>
+> Where's Paul Now?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:46:06.245Z
 >
 > yes we can, welcome to Bluesky 😁
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > btw I’m very glad I’m a part of your app :)
 
 skycle.app
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:04:00.313Z
->
-> I believe it’s E2E encrypted DMs
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
