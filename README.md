@@ -66,6 +66,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T07:47:47.066Z
+>
+> btw we may never have announced it, but underscores `_` have been available for some time
+
+#look_at_this_hashtag
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T07:44:49.443Z
+>
+> Now this is the place you belong to :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T07:41:56.762Z
+>
+> I have improved the hashtag detection in deck.blue :)  You can now post hashtags with hyphen `-`!
+
+#look-at-this-hashtag
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T06:04:18.134Z
 >
 > imo Bluesky would be a legitimate successor in a sense because of its historical background
@@ -75,24 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T02:51:13.710Z
 >
 > I'm honored, and I'm just providing tools and improving algorithms, many parts of deck.blue are built by @deck.blue :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T23:01:04.731Z
->
-> It’s really a cool watch!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T22:32:09.462Z
->
-> Their loss will be in that they were only a degraded version of birdapp, no more no less
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-24T21:47:52.677Z
->
-> The brand name #Pebble is as bad as T2. Even if we search for "T2" or "Pebble", not only news articles but even pebble.is does not appear at the top of the list
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
