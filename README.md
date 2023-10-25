@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T21:55:19.960Z
+>
+> 
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T13:51:16.729Z
 >
 > Where's Paul Now?
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:15:10.960Z
 >
 > I used skycle.app to generate this cool image :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:09:32.013Z
->
-> btw I’m very glad I’m a part of your app :)
-
-skycle.app
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
