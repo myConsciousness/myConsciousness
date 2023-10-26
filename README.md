@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T16:23:54.703Z
+>
+> Only deck.blue respects Belarusian as distinct from Russian :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T10:13:22.510Z
 >
 > Ignore it
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:49:59.494Z
 >
 > I won't have to deal with the regex nightmare for a while now :^)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:47:46.174Z
->
-> What browser are you using?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
