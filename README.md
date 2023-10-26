@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T09:08:54.684Z
+>
+> Maybe, but I’m not sure 🤔 Can you try to turn it off?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:50:36.339Z
 >
 > Thanks, this is very valuable feedback!
@@ -87,16 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:46:24.370Z
 >
 > What browser are you using?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:45:09.067Z
->
-> You can now post hashtags containing emojis from deck.blue! Look these hashtags:
-
-#🦋
-#bluesky🦋-is-awesome
-#🦋blueskyは素晴らしい✨
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
