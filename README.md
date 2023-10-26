@@ -66,33 +66,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T07:58:26.203Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:50:36.339Z
 >
-> I see, this seems to happen when the display is vertical mode. Maybe it was intended, but I'll ask @deck.blue later :)
+> Thanks, this is very valuable feedback!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T04:04:27.814Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:49:59.494Z
 >
-> Is this from a tablet?
+> I won't have to deal with the regex nightmare for a while now :^)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T21:55:19.960Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:47:46.174Z
 >
-> 
+> What browser are you using?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T13:51:16.729Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:46:24.370Z
 >
-> Where's Paul Now?
+> What browser are you using?
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:46:06.245Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:45:09.067Z
 >
-> yes we can, welcome to Bluesky 😁
+> You can now post hashtags containing emojis from deck.blue! Look these hashtags:
+
+#🦋
+#bluesky🦋-is-awesome
+#🦋blueskyは素晴らしい✨
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
