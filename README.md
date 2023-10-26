@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T07:58:26.203Z
+>
+> I see, this seems to happen when the display is vertical mode. Maybe it was intended, but I'll ask @deck.blue later :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T04:04:27.814Z
 >
 > Is this from a tablet?
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:46:06.245Z
 >
 > yes we can, welcome to Bluesky 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:16:37.937Z
->
-> haha I’m honored 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
