@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T04:04:27.814Z
+>
+> Is this from a tablet?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T21:55:19.960Z
 >
 > 
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:16:37.937Z
 >
 > haha I’m honored 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-25T12:15:10.960Z
->
-> I used skycle.app to generate this cool image :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
