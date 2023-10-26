@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T22:57:09.984Z
+>
+> Yep! I used ВКонтакте more than Facebook when I was a student. I liked this service because I could listen to music for free lol I learned about Slavic culture here :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T22:48:12.718Z
+>
+> Hey thank you for your support! I have Belarusian friends as well, so I’m glad to know these differences this time! :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T22:35:09.836Z
+>
+> When I looked up Belarusian I found “Белорусская” and “Белорусский”, at the time I simply thought these two were just conjugational differences but it was not. I can read Russian, so I have a preconceived notion of Russian 🤷
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T16:23:54.703Z
 >
 > Only deck.blue respects Belarusian as distinct from Russian :)
@@ -75,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T10:13:22.510Z
 >
 > Ignore it
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T09:08:54.684Z
->
-> Maybe, but I’m not sure 🤔 Can you try to turn it off?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:50:36.339Z
->
-> Thanks, this is very valuable feedback!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T08:49:59.494Z
->
-> I won't have to deal with the regex nightmare for a while now :^)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
