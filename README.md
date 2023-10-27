@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T23:51:32.516Z
+>
+> Hey @stevewoz.bsky.social, Bluesky allows you to set up your own woz.org domain as your handle. With this setup you can prove to yourself that you are a real Woz.
+
+Please consider and read the guide at the following link!
+
+blueskyweb.xyz/blog/4-28-20...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T22:57:09.984Z
 >
 > Yep! I used ВКонтакте more than Facebook when I was a student. I liked this service because I could listen to music for free lol I learned about Slavic culture here :)
@@ -87,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-26T16:23:54.703Z
 >
 > Only deck.blue respects Belarusian as distinct from Russian :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T10:13:22.510Z
->
-> Ignore it
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
