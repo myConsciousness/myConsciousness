@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-27T06:43:31.840Z
+>
+> Substitute 😌
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-27T00:36:42.293Z
 >
 > lgtm
@@ -91,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 Please consider and read the guide at the following link!
 
 blueskyweb.xyz/blog/4-28-20...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-26T22:57:09.984Z
->
-> Yep! I used ВКонтакте more than Facebook when I was a student. I liked this service because I could listen to music for free lol I learned about Slavic culture here :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
