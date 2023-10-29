@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T11:42:16.234Z
+>
+> Yeah it was! 😁
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T11:26:11.770Z
+>
+> We had a great night
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-28T23:36:03.304Z
 >
 > No, emoji related things are not easy because of the rendering issues with the Flutter framework we are using. But Google developers are also working hard on this framework, so I'm sure it will improve in time :)
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-27T23:16:00.905Z
 >
 > We still can’t upload gifs, but we can choose available gifs from this icon like Graysky :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-27T22:59:50.225Z
->
-> 
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-27T06:43:31.840Z
->
-> Substitute 😌
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
