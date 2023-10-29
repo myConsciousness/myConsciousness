@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T22:53:44.364Z
+>
+> I upload my GIF via deck.blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-29T11:42:16.234Z
 >
 > Yeah it was! 😁
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-28T10:19:12.828Z
 >
 > Playing with emojis
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-27T23:16:00.905Z
->
-> We still can’t upload gifs, but we can choose available gifs from this icon like Graysky :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
