@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T09:12:18.964Z
+>
+> Yeah GIFs uploaded from your photo gallery will also work if you see it from deck.blue :) 
+
+But because of the spec of the official API, only GIFs of 1M or less can be uploaded. So if you are uploading GIF images that are slightly larger in size, you will need to compress them!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-30T04:24:08.934Z
 >
 > deck.blue uses the official API to upload GIFs, but uses tricks to play this. 
@@ -93,12 +101,6 @@ The official bsky.app could use this logic to play GIFs, but they won't implemen
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:23:24.324Z
 >
 > Look at this gif from deck.blue, my dog is scratching an itch
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T23:07:59.736Z
->
-> I uploaded this quoted gif from my photo gallery, and it works as an animated gif in deck.blue! Try it in deck.blue 😎
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
