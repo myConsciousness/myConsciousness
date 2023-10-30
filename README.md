@@ -66,6 +66,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:39:27.749Z
+>
+> You're on my list
+
+bsky.app/profile/did:...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:36:39.154Z
+>
+> deck.blue uses the official API to make GIFs work, but we use tricks :)
+
+The official bsky.app could use this logic to play GIFs, but they won't implement this until they officially support GIFs
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:23:24.324Z
+>
+> Look at this gif from deck.blue, my dog is scratching an itch
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-29T23:07:59.736Z
 >
 > I uploaded this quoted gif from my photo gallery, and it works as an animated gif in deck.blue! Try it in deck.blue 😎
@@ -75,24 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-29T22:53:44.364Z
 >
 > I upload my GIF via deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T11:42:16.234Z
->
-> Yeah it was! 😁
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T11:26:11.770Z
->
-> We had a great night
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-28T23:36:03.304Z
->
-> No, emoji related things are not easy because of the rendering issues with the Flutter framework we are using. But Google developers are also working hard on this framework, so I'm sure it will improve in time :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
