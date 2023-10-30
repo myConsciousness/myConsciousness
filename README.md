@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T04:24:08.934Z
+>
+> deck.blue uses the official API to upload GIFs, but uses tricks to play this. 
+
+So if a client does not implement this mechanism, the uploaded GIF will not play. However, this is not a feature limited to deck.blue alone :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:39:27.749Z
 >
 > You're on my list
@@ -91,12 +99,6 @@ The official bsky.app could use this logic to play GIFs, but they won't implemen
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-29T23:07:59.736Z
 >
 > I uploaded this quoted gif from my photo gallery, and it works as an animated gif in deck.blue! Try it in deck.blue 😎
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T22:53:44.364Z
->
-> I upload my GIF via deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
