@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-29T23:07:59.736Z
+>
+> I uploaded this quoted gif from my photo gallery, and it works as an animated gif in deck.blue! Try it in deck.blue 😎
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-29T22:53:44.364Z
 >
 > I upload my GIF via deck.blue
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-28T23:36:03.304Z
 >
 > No, emoji related things are not easy because of the rendering issues with the Flutter framework we are using. But Google developers are also working hard on this framework, so I'm sure it will improve in time :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-28T10:19:12.828Z
->
-> Playing with emojis
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
