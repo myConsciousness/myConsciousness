@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T23:12:40.960Z
+>
+> This matrix is a tutorial
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T23:07:30.968Z
+>
+> Quote with a pic of you from the 2080s
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-30T09:12:18.964Z
 >
 > Yeah GIFs uploaded from your photo gallery will also work if you see it from deck.blue :) 
@@ -87,20 +99,6 @@ So if a client does not implement this mechanism, the uploaded GIF will not play
 > You're on my list
 
 bsky.app/profile/did:...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:36:39.154Z
->
-> deck.blue uses the official API to make GIFs work, but we use tricks :)
-
-The official bsky.app could use this logic to play GIFs, but they won't implement this until they officially support GIFs
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:23:24.324Z
->
-> Look at this gif from deck.blue, my dog is scratching an itch
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
