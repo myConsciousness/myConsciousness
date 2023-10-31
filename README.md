@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-10-31T00:17:46.692Z
+>
+> #👀
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-30T23:12:40.960Z
 >
 > This matrix is a tutorial
@@ -91,14 +97,6 @@ But because of the spec of the official API, only GIFs of 1M or less can be uplo
 > deck.blue uses the official API to upload GIFs, but uses tricks to play this. 
 
 So if a client does not implement this mechanism, the uploaded GIF will not play. However, this is not a feature limited to deck.blue alone :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T00:39:27.749Z
->
-> You're on my list
-
-bsky.app/profile/did:...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
