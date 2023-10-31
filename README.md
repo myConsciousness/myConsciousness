@@ -66,35 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-31T03:57:12.504Z
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T11:33:22.998Z
+>
+> 🧚‍♂️🧚‍♂️🧚‍♂️🧚‍♂️
+
+---
+
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T11:28:43.564Z
+>
+> Treat me 🎃
+
+---
+
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T03:57:12.504Z
 >
 > Guys #day-of-the-dead is coming
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-31T00:17:46.692Z
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T00:17:46.692Z
 >
 > #👀
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T23:12:40.960Z
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-30T23:12:40.960Z
 >
 > This matrix is a tutorial
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T23:07:30.968Z
->
-> Quote with a pic of you from the 2080s
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-30T09:12:18.964Z
->
-> Yeah GIFs uploaded from your photo gallery will also work if you see it from deck.blue :) 
-
-But because of the spec of the official API, only GIFs of 1M or less can be uploaded. So if you are uploading GIF images that are slightly larger in size, you will need to compress them!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
