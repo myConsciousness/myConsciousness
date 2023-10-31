@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T13:13:21.114Z
+>
+> deck.blueには日本語があってオプションも豊富です
+
+---
+
 > Shinya Kato 🎃 @shinyakato.dev 2023-10-31T13:00:09.904Z
 >
 > ちなみにアップロードはどのクライアントからでも大丈夫で、あとは公式APIの制限で今のところは1Mがアップロードサイズの上限です
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🎃 @shinyakato.dev 2023-10-31T12:45:50.954Z
 >
 > You can upload and play your GIFs in deck.blue. Look at this GIF in deck.blue
-
----
-
-> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T11:33:22.998Z
->
-> 🧚‍♂️🧚‍♂️🧚‍♂️🧚‍♂️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
