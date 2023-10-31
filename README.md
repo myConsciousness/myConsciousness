@@ -66,33 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T13:00:09.904Z
+>
+> ちなみにアップロードはどのクライアントからでも大丈夫で、あとは公式APIの制限で今のところは1Mがアップロードサイズの上限です
+
+---
+
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T12:55:12.560Z
+>
+> GIFをアップロードして動かせる、そうdeck.blueならね
+
+---
+
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T12:53:00.337Z
+>
+> This is a feature of deck.blue that I can't tell you how many times I have mentioned it. I really like it. Besides we are using the official API to realize it!
+
+---
+
+> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T12:45:50.954Z
+>
+> You can upload and play your GIFs in deck.blue. Look at this GIF in deck.blue
+
+---
+
 > Shinya Kato 🎃 @shinyakato.dev 2023-10-31T11:33:22.998Z
 >
 > 🧚‍♂️🧚‍♂️🧚‍♂️🧚‍♂️
-
----
-
-> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T11:28:43.564Z
->
-> Treat me 🎃
-
----
-
-> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T03:57:12.504Z
->
-> Guys #day-of-the-dead is coming
-
----
-
-> Shinya Kato 🎃 @shinyakato.dev 2023-10-31T00:17:46.692Z
->
-> #👀
-
----
-
-> Shinya Kato 🎃 @shinyakato.dev 2023-10-30T23:12:40.960Z
->
-> This matrix is a tutorial
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
