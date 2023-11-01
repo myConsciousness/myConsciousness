@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-01T06:51:21.098Z
+>
+> The Dutch display language is currently a work in progress! But he seems to be busy, so you can help him if it's possible :)
+
+github.com/deckblue/l10...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-31T13:13:21.114Z
 >
 > deck.blueには日本語があってオプションも豊富です
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-10-31T12:53:00.337Z
 >
 > This is a feature of deck.blue that I can't tell you how many times I have mentioned it. I really like it. Besides we are using the official API to realize it!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-10-31T12:45:50.954Z
->
-> You can upload and play your GIFs in deck.blue. Look at this GIF in deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
