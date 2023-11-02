@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T12:47:38.557Z
+>
+> 👀
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T06:41:16.598Z
 >
 > Do you have any plans (or ideas) to build an instance using AT Protocol/Bluesky's PDS in the future?
@@ -89,12 +95,6 @@ But this may be something to consider, as it's not currently applied if there is
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T01:39:06.880Z
 >
 > Yay!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T00:40:47.620Z
->
-> Has anyone else noticed that deck.blue has added a feature that allows the emojis to appear larger in emoji-only posts? :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
