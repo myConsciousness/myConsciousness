@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T14:25:06.811Z
+>
+> 🎃🎃🎃
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T12:47:38.557Z
 >
 > 👀
@@ -89,12 +95,6 @@ But this may be something to consider, as it's not currently applied if there is
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T02:14:00.474Z
 >
 > It’s very cool
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T01:39:06.880Z
->
-> Yay!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
