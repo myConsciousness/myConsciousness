@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-01T23:07:29.813Z
+>
+> And I feel this is very cool
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-01T12:03:42.197Z
 >
 > Yes, and personally I'm curious to see how this spec will work with OAuth. The official app is also not be able to see the invite code with the app password, but I feel that the invite code should be visible when OAuth login becomes the standard (otherwise we can't see invite code at all)
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-01T07:35:13.348Z
 >
 > 公式のRichTextを使っているdeck.blue以外のクライアントは基本的に日本語が混ざったテキストの中にあるリンク等を正しく処理できないですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-01T06:51:21.098Z
->
-> The Dutch display language is currently a work in progress! But he seems to be busy, so you can help him if it's possible :)
-
-github.com/deckblue/l10...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
