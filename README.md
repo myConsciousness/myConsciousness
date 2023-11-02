@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T01:39:06.880Z
+>
+> Yay!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T00:40:47.620Z
 >
 > Has anyone else noticed that deck.blue has added a feature that allows the emojis to appear larger in emoji-only posts? :)
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-01T08:11:40.220Z
 >
 > deck.blue doesn't currently plan to actively support this feature. But of course we can implement this feature, and I think the rest would depend on user demand
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-01T07:45:06.524Z
->
-> deck.blueはTwitterのアルゴリズムをBluesky用に私が魔改造してるので基本的にTwitterと同じテキスト入力ができますけど、公式は今のところ英数字以外の文字の対応をするつもりはないみたいですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
