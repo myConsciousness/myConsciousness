@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T04:06:13.551Z
+>
+> Currently this style is applied to up to 20 emojis :) 
+
+But this may be something to consider, as it's not currently applied if there is space!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T02:14:00.474Z
 >
 > It’s very cool
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-01T23:07:29.813Z
 >
 > And I feel this is very cool
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-01T12:03:42.197Z
->
-> Yes, and personally I'm curious to see how this spec will work with OAuth. The official app is also not be able to see the invite code with the app password, but I feel that the invite code should be visible when OAuth login becomes the standard (otherwise we can't see invite code at all)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
