@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T02:14:00.474Z
+>
+> It’s very cool
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T01:39:06.880Z
 >
 > Yay!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-01T12:03:42.197Z
 >
 > Yes, and personally I'm curious to see how this spec will work with OAuth. The official app is also not be able to see the invite code with the app password, but I feel that the invite code should be visible when OAuth login becomes the standard (otherwise we can't see invite code at all)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-01T08:11:40.220Z
->
-> deck.blue doesn't currently plan to actively support this feature. But of course we can implement this feature, and I think the rest would depend on user demand
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
