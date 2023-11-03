@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-03T09:00:43.663Z
+>
+> This is deck.blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-02T14:25:06.811Z
 >
 > 🎃🎃🎃
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Currently this style is applied to up to 20 emojis :) 
 
 But this may be something to consider, as it's not currently applied if there is space!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T02:14:00.474Z
->
-> It’s very cool
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
