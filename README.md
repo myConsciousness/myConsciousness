@@ -66,6 +66,23 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-05T12:23:27.914Z
+>
+> My favorite 3rd party apps for Bluesky. These apps will make your Bluesky experience great! ✨
+
+- graysky.app (mobile)
+- skyfeed.app (feed builder)
+- SkyBridge (mastodon bridge)
+- deck.blue (web/tablet)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-05T12:02:50.847Z
+>
+> 本格的なTweetDeck風クライアントならdeck.blueもおすすめです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-05T12:00:35.391Z
 >
 > You can try deck.blue
@@ -81,18 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-05T02:45:23.703Z
 >
 > 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-03T09:00:43.663Z
->
-> This is deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-02T14:25:06.811Z
->
-> 🎃🎃🎃
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
