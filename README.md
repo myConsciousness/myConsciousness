@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-06T05:03:15.396Z
+>
+> TweetDeckみたいなクライアントであればdeck.blueがあります
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-05T12:23:27.914Z
 >
 > My favorite 3rd party apps for Bluesky. These apps will make your Bluesky experience great! ✨
@@ -92,12 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-05T02:54:50.669Z
 >
 > It would be fun if we could post images like WhatsApp stickers
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-05T02:45:23.703Z
->
-> 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
