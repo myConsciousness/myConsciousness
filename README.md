@@ -66,39 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:00:29.142Z
+>
+> デプロイ後はその辺の名前解決で不具合が出そうな気がしてますけど、まあ公式の仕事なので見守りましょう
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T10:53:58.988Z
+>
+> This tool requires quite a bit of tech knowledge, but deck.blue will provide a feature to schedule posts on the UI
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T10:51:20.268Z
+>
+> deck.blueに関する苦情・相談の受付窓口（日本語）はこちらのアカウントになります
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T10:36:34.547Z
+>
+> リクエスト時のサービスの指定は我々は意識しなくても大丈夫ですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T09:16:20.040Z
 >
 > たぶんですけど我々のアカウントはまだ移行の対象外ですね
 
 bsky.app/profile/jaco...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T09:00:56.334Z
->
-> plc.directory/did:plc:s4vv...
-
-bsky.socialですね
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T08:35:56.262Z
->
-> 🍻
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T08:25:16.320Z
->
-> There are currently only two devs in deck.blue, @deck.blue and me :)
-
-This is a 3rd party app and the official bsky team is not involved in its development
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T08:09:11.085Z
->
-> Graysky doesn't yet seem to support playback of uploaded GIFs, it works in deck.blue :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
