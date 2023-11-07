@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T07:59:13.364Z
+>
+> 面白い事象ですね、deck.blueでは公式と同じAPIを使用していますがそこで差があるとは思いませんでした
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T07:43:44.882Z
+>
+> カラムの設定から削除できないですか？
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T07:17:14.568Z
+>
+> You can even upload GIFs and it works in deck.blue 😄
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T06:40:00.571Z
 >
 > Yes, perhaps it could be used with other clients, but as the official documentation indicates, it's currently being actively tested with Ivory :)
@@ -75,26 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T06:27:53.036Z
 >
 > I hope this setup improves your Bluesky experience! 👍 Also note that this setting works only in deck.blue!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T06:21:03.345Z
->
-> Sure :)
-
-You can select the mute word menu from the settings icon to the right of the column title, as shown in the following image!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T06:12:25.590Z
->
-> Not officially supported, but deck.blue allows you to mute posts with certain words
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T01:56:22.193Z
->
-> #Federation is coming
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
