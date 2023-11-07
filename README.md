@@ -66,6 +66,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T09:16:20.040Z
+>
+> たぶんですけど我々のアカウントはまだ移行の対象外ですね
+
+bsky.app/profile/jaco...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T09:00:56.334Z
+>
+> plc.directory/did:plc:s4vv...
+
+bsky.socialですね
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T08:35:56.262Z
 >
 > 🍻
@@ -83,18 +99,6 @@ This is a 3rd party app and the official bsky team is not involved in its develo
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T08:09:11.085Z
 >
 > Graysky doesn't yet seem to support playback of uploaded GIFs, it works in deck.blue :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T07:59:13.364Z
->
-> 面白い事象ですね、deck.blueでは公式と同じAPIを使用していますがそこで差があるとは思いませんでした
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T07:43:44.882Z
->
-> カラムの設定から削除できないですか？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
