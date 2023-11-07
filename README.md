@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T12:05:49.415Z
+>
+> It's very fine if it's not spammy bot, and no need to let them know about your bot :)
+
+Join this discord channel, you will meet many Bluesky devs there!
+
+discord.gg/7AERjMa6
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:47:44.054Z
 >
 > Yes! You would need another account to automate. Use your invite code to create a BOT account the same way you created your account :)
@@ -95,18 +105,6 @@ github.com/myConsciousn...
 If you're interested in Go, then I guess you can use official indigo :)
 
 github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:16:25.566Z
->
-> I guess a simple bot can be created using only GitHub Actions :)
-
-If you need more advanced ops, you can use the official SDK. Or if you are interested in Dart, you can use my SDK!
-
-This is my APOD bot I developed with my SDK, you can see this :)
-
-github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
