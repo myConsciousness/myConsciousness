@@ -66,35 +66,47 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:00:29.142Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:47:44.054Z
 >
-> デプロイ後はその辺の名前解決で不具合が出そうな気がしてますけど、まあ公式の仕事なので見守りましょう
+> Yes! You would need another account to automate. Use your invite code to create a BOT account the same way you created your account :)
+
+Then you give the credentials for that new bot account to the program I created :)
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T10:53:58.988Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:36:02.603Z
 >
-> This tool requires quite a bit of tech knowledge, but deck.blue will provide a feature to schedule posts on the UI
+> At first I recommend you to fix these lines :)
+
+github.com/myConsciousn...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T10:51:20.268Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:34:12.327Z
 >
-> deck.blueに関する苦情・相談の受付窓口（日本語）はこちらのアカウントになります
+> There is no developer portal here like Twitter :) You just create an account for your bot and try to execute the program using the credentials of that bot account!
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T10:36:34.547Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:29:18.689Z
 >
-> リクエスト時のサービスの指定は我々は意識しなくても大丈夫ですね
+> Wow this is a wonderful coincidence! 🍻 
+
+If you're interested in Go, then I guess you can use official indigo :)
+
+github.com/bluesky-soci...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T09:16:20.040Z
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:16:25.566Z
 >
-> たぶんですけど我々のアカウントはまだ移行の対象外ですね
+> I guess a simple bot can be created using only GitHub Actions :)
 
-bsky.app/profile/jaco...
+If you need more advanced ops, you can use the official SDK. Or if you are interested in Dart, you can use my SDK!
+
+This is my APOD bot I developed with my SDK, you can see this :)
+
+github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
