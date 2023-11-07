@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-06T23:40:12.303Z
+>
+> Me too! And this is bsky team:
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-06T23:35:44.547Z
+>
+> I remembered this movie 🥲
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-06T23:08:42.432Z
+>
+> These spaces too
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-06T22:57:48.911Z
 >
 > Is it the time to move?!
@@ -75,29 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-06T22:55:09.035Z
 >
 > Paul is great
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-06T05:03:15.396Z
->
-> TweetDeckみたいなクライアントであればdeck.blueがあります
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-05T12:23:27.914Z
->
-> My favorite 3rd party apps for Bluesky. These apps will make your Bluesky experience great! ✨
-
-- graysky.app (mobile)
-- skyfeed.app (feed builder)
-- SkyBridge (mastodon bridge)
-- deck.blue (web/tablet)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-05T12:02:50.847Z
->
-> 本格的なTweetDeck風クライアントならdeck.blueもおすすめです
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
