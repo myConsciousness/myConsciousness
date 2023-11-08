@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T07:32:08.614Z
+>
+> deck.blue provides 13 languages as display languages, including English! These languages are not automatic translations, but are made possible by the contributions of deck.blue community members :)
+
+If you are interested in translating deck.blue, take a look at this repository ✨
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T05:07:57.309Z
 >
 > I'm monitoring my DID document
@@ -95,14 +103,6 @@ web.plc.directory/did/did:plc:...
 > atprotoにはもともとアップロードできるメディアの制約はないですね
 
 ただアップロードできるサイズの上限が1Mしかないので現状ではどうやってもGIFが限界です
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T02:35:04.947Z
->
-> アップロードしたGIFの再生をサポートしたのはdeck.blueが最初ですね
-
-その後にTOKIMEKIがdeck.blueに続いて、GrayskyはそもそもアップロードしたGIFの再生はサポートしてません
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
