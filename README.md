@@ -66,6 +66,30 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:45:39.494Z
+>
+> 理論上いけるはずですけど、実装コストが高いので積極的にはやりたくないやつですね
+
+あと公式Lexiconとの互換性がなくなるので、実際に公式が動画をサポートした時に今までポストした動画が他のクライアントで再生されないのが一番の難点ですね〜
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:37:26.511Z
+>
+> 昔からですね〜。atprotoでアップロードする際には制約がないですけど、現状はbskyのapp.bsky.embed.imagesで画像だけが許可されてる感じです
+
+ただ公式との互換性はなくなりますけど、動画を分割でアップロードしまくってクライアント独自のフィールドに載せればいけます
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:26:51.697Z
+>
+> atprotoにはもともとアップロードできるメディアの制約はないですね
+
+ただアップロードできるサイズの上限が1Mしかないので現状ではどうやってもGIFが限界です
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T02:35:04.947Z
 >
 > アップロードしたGIFの再生をサポートしたのはdeck.blueが最初ですね
@@ -77,24 +101,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T01:06:27.069Z
 >
 > You have earned that right, congrats!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T00:36:42.879Z
->
-> People who have not yet federated staring at those who have federated
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T00:32:44.688Z
->
-> I even write a script to detect it
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T23:07:23.984Z
->
-> Where will I be kidnapped to
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
