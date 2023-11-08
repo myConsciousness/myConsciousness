@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T02:35:04.947Z
+>
+> アップロードしたGIFの再生をサポートしたのはdeck.blueが最初ですね
+
+その後にTOKIMEKIがdeck.blueに続いて、GrayskyはそもそもアップロードしたGIFの再生はサポートしてません
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T01:06:27.069Z
 >
 > You have earned that right, congrats!
@@ -87,16 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T23:07:23.984Z
 >
 > Where will I be kidnapped to
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T12:05:49.415Z
->
-> It's very fine if it's not spammy bot, and no need to let them know about your bot :)
-
-Join this discord channel, you will meet many Bluesky devs there!
-
-discord.gg/7AERjMa6
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
