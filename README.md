@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T23:07:23.984Z
+>
+> Where will I be kidnapped to
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T12:05:49.415Z
 >
 > It's very fine if it's not spammy bot, and no need to let them know about your bot :)
@@ -95,16 +101,6 @@ github.com/myConsciousn...
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:34:12.327Z
 >
 > There is no developer portal here like Twitter :) You just create an account for your bot and try to execute the program using the credentials of that bot account!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:29:18.689Z
->
-> Wow this is a wonderful coincidence! 🍻 
-
-If you're interested in Go, then I guess you can use official indigo :)
-
-github.com/bluesky-soci...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
