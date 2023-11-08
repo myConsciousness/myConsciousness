@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T09:33:56.609Z
+>
+> lol she is always welcome! 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T07:32:08.614Z
 >
 > deck.blue provides 13 languages as display languages, including English! These languages are not automatic translations, but are made possible by the contributions of deck.blue community members :)
@@ -95,14 +101,6 @@ web.plc.directory/did/did:plc:...
 > 昔からですね〜。atprotoでアップロードする際には制約がないですけど、現状はbskyのapp.bsky.embed.imagesで画像だけが許可されてる感じです
 
 ただ公式との互換性はなくなりますけど、動画を分割でアップロードしまくってクライアント独自のフィールドに載せればいけます
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:26:51.697Z
->
-> atprotoにはもともとアップロードできるメディアの制約はないですね
-
-ただアップロードできるサイズの上限が1Mしかないので現状ではどうやってもGIFが限界です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
