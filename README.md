@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T05:07:57.309Z
+>
+> I'm monitoring my DID document
+
+web.plc.directory/did/did:plc:...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:45:39.494Z
 >
 > 理論上いけるはずですけど、実装コストが高いので積極的にはやりたくないやつですね
@@ -95,12 +103,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > アップロードしたGIFの再生をサポートしたのはdeck.blueが最初ですね
 
 その後にTOKIMEKIがdeck.blueに続いて、GrayskyはそもそもアップロードしたGIFの再生はサポートしてません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T01:06:27.069Z
->
-> You have earned that right, congrats!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
