@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T01:06:27.069Z
+>
+> You have earned that right, congrats!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T00:36:42.879Z
+>
+> People who have not yet federated staring at those who have federated
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T00:32:44.688Z
+>
+> I even write a script to detect it
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-07T23:07:23.984Z
 >
 > Where will I be kidnapped to
@@ -79,28 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 Join this discord channel, you will meet many Bluesky devs there!
 
 discord.gg/7AERjMa6
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:47:44.054Z
->
-> Yes! You would need another account to automate. Use your invite code to create a BOT account the same way you created your account :)
-
-Then you give the credentials for that new bot account to the program I created :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:36:02.603Z
->
-> At first I recommend you to fix these lines :)
-
-github.com/myConsciousn...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-07T11:34:12.327Z
->
-> There is no developer portal here like Twitter :) You just create an account for your bot and try to execute the program using the credentials of that bot account!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
