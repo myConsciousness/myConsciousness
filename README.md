@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-09T03:02:00.194Z
+>
+> deck.blueを使ってて気になったことがあったら日本語でいいので私にフィードバックをください
+
+「deck.blue」の単語が含まれるポストは基本的に全て見てるので、@deck.blueに投げてもいいです！
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-08T09:33:56.609Z
 >
 > lol she is always welcome! 😁
@@ -93,14 +101,6 @@ web.plc.directory/did/did:plc:...
 > 理論上いけるはずですけど、実装コストが高いので積極的にはやりたくないやつですね
 
 あと公式Lexiconとの互換性がなくなるので、実際に公式が動画をサポートした時に今までポストした動画が他のクライアントで再生されないのが一番の難点ですね〜
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:37:26.511Z
->
-> 昔からですね〜。atprotoでアップロードする際には制約がないですけど、現状はbskyのapp.bsky.embed.imagesで画像だけが許可されてる感じです
-
-ただ公式との互換性はなくなりますけど、動画を分割でアップロードしまくってクライアント独自のフィールドに載せればいけます
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
