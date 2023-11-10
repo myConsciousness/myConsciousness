@@ -66,41 +66,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-09T03:02:00.194Z
+> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-10T05:58:52.709Z
 >
-> deck.blueを使ってて気になったことがあったら日本語でいいので私にフィードバックをください
-
-「deck.blue」の単語が含まれるポストは基本的に全て見てるので、@deck.blueに投げてもいいです！
+> Guys look at this porcini
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T09:33:56.609Z
+> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-10T05:52:46.242Z
 >
-> lol she is always welcome! 😁
+> !jazbot whereami
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T07:32:08.614Z
+> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-10T05:49:22.315Z
 >
-> deck.blue provides 13 languages as display languages, including English! These languages are not automatic translations, but are made possible by the contributions of deck.blue community members :)
-
-If you are interested in translating deck.blue, take a look at this repository ✨
+> Yay! ✨
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T05:07:57.309Z
+> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-10T05:47:17.700Z
 >
-> I'm monitoring my DID document
+> This is my first federated post
+
+porcini.us-east.host.bsky.network
 
 web.plc.directory/did/did:plc:...
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-08T04:45:39.494Z
+> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-09T03:02:00.194Z
 >
-> 理論上いけるはずですけど、実装コストが高いので積極的にはやりたくないやつですね
+> deck.blueを使ってて気になったことがあったら日本語でいいので私にフィードバックをください
 
-あと公式Lexiconとの互換性がなくなるので、実際に公式が動画をサポートした時に今までポストした動画が他のクライアントで再生されないのが一番の難点ですね〜
+「deck.blue」の単語が含まれるポストは基本的に全て見てるので、@deck.blueに投げてもいいです！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
