@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-12T09:51:37.119Z
+>
+> We had a cozy day @meliplantitas.bsky.social
+
+---
+
 > Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-10T05:58:52.709Z
 >
 > Guys look at this porcini
@@ -91,14 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 porcini.us-east.host.bsky.network
 
 web.plc.directory/did/did:plc:...
-
----
-
-> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-09T03:02:00.194Z
->
-> deck.blueを使ってて気になったことがあったら日本語でいいので私にフィードバックをください
-
-「deck.blue」の単語が含まれるポストは基本的に全て見てるので、@deck.blueに投げてもいいです！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
