@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T12:10:51.735Z
+>
+> The deck for Bluesky: deck.blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T11:44:26.267Z
 >
 > Good catch! For past years, it would always be better to indicate the year
@@ -93,12 +99,6 @@ youtu.be/kJQP7kiw5Fk?...
 > Hey I understand the cause of this Issue! I have just released a patch to fix it with build number 328, now you can post as follows:
 
 https://bsky.app/profile/shinyakato.bsky.social/post/3kdzuprcjjd2k
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-13T00:06:10.534Z
->
-> Heroes always show up late
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
