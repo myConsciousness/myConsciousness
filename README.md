@@ -66,7 +66,7 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-13T09:52:01.748Z
+> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-13T09:52:01.748Z
 >
 > My mood 24/7
 
@@ -74,7 +74,7 @@ youtu.be/kJQP7kiw5Fk?...
 
 ---
 
-> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-13T01:42:44.212Z
+> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-13T01:42:44.212Z
 >
 > Hey I understand the cause of this Issue! I have just released a patch to fix it with build number 328, now you can post as follows:
 
@@ -82,19 +82,19 @@ https://bsky.app/profile/shinyakato.bsky.social/post/3kdzuprcjjd2k
 
 ---
 
-> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-13T00:06:10.534Z
+> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-13T00:06:10.534Z
 >
 > Heroes always show up late
 
 ---
 
-> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-12T09:51:37.119Z
+> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-12T09:51:37.119Z
 >
 > We had a cozy day @meliplantitas.bsky.social
 
 ---
 
-> Shinya Kato Porcini 🍄 @shinyakato.dev 2023-11-10T05:58:52.709Z
+> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-10T05:58:52.709Z
 >
 > Guys look at this porcini
 
