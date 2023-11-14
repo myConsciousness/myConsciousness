@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-14T01:01:49.773Z
+>
+> LGTM
+
+---
+
 > Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-13T09:52:01.748Z
 >
 > My mood 24/7
@@ -91,12 +97,6 @@ https://bsky.app/profile/shinyakato.bsky.social/post/3kdzuprcjjd2k
 > Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-12T09:51:37.119Z
 >
 > We had a cozy day @meliplantitas.bsky.social
-
----
-
-> Shinya Porcini Kato 🍄 @shinyakato.dev 2023-11-10T05:58:52.709Z
->
-> Guys look at this porcini
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
