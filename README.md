@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T11:44:26.267Z
+>
+> Good catch! For past years, it would always be better to indicate the year
+
+Let's see if we can fix deck.blue right away :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T01:01:49.773Z
 >
 > LGTM
@@ -91,12 +99,6 @@ https://bsky.app/profile/shinyakato.bsky.social/post/3kdzuprcjjd2k
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-13T00:06:10.534Z
 >
 > Heroes always show up late
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-12T09:51:37.119Z
->
-> We had a cozy day @meliplantitas.bsky.social
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
