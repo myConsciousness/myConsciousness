@@ -66,39 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:49:44.871Z
+>
+> Yay! 🍻
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:46:47.922Z
+>
+> Yes you just need to click it, but note that original moderation list is gone if you convert it to a user list!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:44:50.941Z
+>
+> Of course you can create a tool to migrate them with my packages like bluesky_cli and bluesky, but I didn’t provide a command for migration so you need to somehow implement it :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:39:20.120Z
+>
+> Do you want to convert to a user list from a moderation list? Then you already can with deck.blue easily :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T12:10:51.735Z
 >
 > The deck for Bluesky: deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T11:44:26.267Z
->
-> Good catch! For past years, it would always be better to indicate the year
-
-Let's see if we can fix deck.blue right away :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T01:01:49.773Z
->
-> LGTM
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-13T09:52:01.748Z
->
-> My mood 24/7
-
-youtu.be/kJQP7kiw5Fk?...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-13T01:42:44.212Z
->
-> Hey I understand the cause of this Issue! I have just released a patch to fix it with build number 328, now you can post as follows:
-
-https://bsky.app/profile/shinyakato.bsky.social/post/3kdzuprcjjd2k
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
