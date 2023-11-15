@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T02:50:16.125Z
+>
+> Hello 👋
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T02:25:09.843Z
+>
+> You can try deck.blue too for browsing!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-15T01:24:05.891Z
 >
 > Syntax other than markdown links may be added in the future! For compatibility with official app, we are keeping a close eye on the official bsky team :)
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:46:47.922Z
 >
 > Yes you just need to click it, but note that original moderation list is gone if you convert it to a user list!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:44:50.941Z
->
-> Of course you can create a tool to migrate them with my packages like bluesky_cli and bluesky, but I didn’t provide a command for migration so you need to somehow implement it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:39:20.120Z
->
-> Do you want to convert to a user list from a moderation list? Then you already can with deck.blue easily :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
