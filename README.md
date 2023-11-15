@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T06:56:39.192Z
+>
+> I have released the latest build of the atproto/bluesky package for #Dart & #Flutter :) 
+
+This is mainly for those who use #Firehose with these packages, and I fixed the default service to `bsky.network` when using subscribeRepoUpdates. All other endpoints default to `bsky.social` as before :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-15T02:50:16.125Z
 >
 > Hello 👋
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:49:44.871Z
 >
 > Yay! 🍻
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:46:47.922Z
->
-> Yes you just need to click it, but note that original moderation list is gone if you convert it to a user list!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
