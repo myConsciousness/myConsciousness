@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T01:24:05.891Z
+>
+> Syntax other than markdown links may be added in the future! For compatibility with official app, we are keeping a close eye on the official bsky team :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:49:44.871Z
 >
 > Yay! 🍻
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:39:20.120Z
 >
 > Do you want to convert to a user list from a moderation list? Then you already can with deck.blue easily :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T12:10:51.735Z
->
-> The deck for Bluesky: deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
