@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T00:56:12.614Z
+>
+> Yes atprotodart.com is my project! Very glad my document was helpful 😁
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-15T06:56:39.192Z
 >
 > I have released the latest build of the atproto/bluesky package for #Dart & #Flutter :) 
@@ -89,12 +95,6 @@ This is mainly for those who use #Firehose with these packages, and I fixed the 
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-15T01:24:05.891Z
 >
 > Syntax other than markdown links may be added in the future! For compatibility with official app, we are keeping a close eye on the official bsky team :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-14T13:49:44.871Z
->
-> Yay! 🍻
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
