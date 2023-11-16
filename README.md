@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T03:41:15.434Z
+>
+> This will be quite a task, but there will need to be documentation that organizes the syntax supported by Bluesky's search, like Twitter's Filtered Stream
+
+cc: @pfrazee.com @dholms.xyz @rose.bsky.team @emily.bsky.team
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T03:27:32.498Z
+>
+> Trying an advanced search query with deck.blue... 👀
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T03:21:30.497Z
+>
+> Great work!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-16T00:56:12.614Z
 >
 > Yes atprotodart.com is my project! Very glad my document was helpful 😁
@@ -77,24 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have released the latest build of the atproto/bluesky package for #Dart & #Flutter :) 
 
 This is mainly for those who use #Firehose with these packages, and I fixed the default service to `bsky.network` when using subscribeRepoUpdates. All other endpoints default to `bsky.social` as before :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T02:50:16.125Z
->
-> Hello 👋
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T02:25:09.843Z
->
-> You can try deck.blue too for browsing!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-15T01:24:05.891Z
->
-> Syntax other than markdown links may be added in the future! For compatibility with official app, we are keeping a close eye on the official bsky team :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
