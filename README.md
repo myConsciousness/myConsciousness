@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T12:17:09.757Z
+>
+> Hi Debbie, we are using the official new search API! Not many syntaxes seem to be supported yet, but we also look forward to seeing them expanded in the future :)
+
+If you're interested in the supported syntax, you can read the official documentation below!
+
+github.com/bluesky-soci...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-16T04:58:51.575Z
 >
 > 🍻
@@ -89,12 +99,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > This will be quite a task, but there will need to be documentation that organizes the syntax supported by Bluesky's search, like Twitter's Filtered Stream
 
 cc: @pfrazee.com @dholms.xyz @rose.bsky.team @emily.bsky.team
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T03:27:32.498Z
->
-> Trying an advanced search query with deck.blue... 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
