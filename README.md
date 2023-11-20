@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-20T05:19:03.231Z
+>
+> You can use deck.blue if you are searching the TweetDeck alternative for Bluesky :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-16T12:17:09.757Z
 >
 > Hi Debbie, we are using the official new search API! Not many syntaxes seem to be supported yet, but we also look forward to seeing them expanded in the future :)
@@ -91,14 +97,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-16T04:34:48.762Z
 >
 > ちなみにdeck.blueで試しましたがハッシュタグ検索は機能しません
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T03:41:15.434Z
->
-> This will be quite a task, but there will need to be documentation that organizes the syntax supported by Bluesky's search, like Twitter's Filtered Stream
-
-cc: @pfrazee.com @dholms.xyz @rose.bsky.team @emily.bsky.team
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
