@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T03:47:37.567Z
+>
+> Now it works with +366!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T03:01:59.418Z
+>
+> Interesting, let's see what happened!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:56:01.543Z
 >
 > No, at least now we have to copy from the menu!
@@ -85,22 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 Browser functionality doesn't properly copy shortened URLs or inline links, but deck.blue's copy function allows you to copy text without breaking these links :)
 
 cc: @deck.blue
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-20T05:19:03.231Z
->
-> You can use deck.blue if you are searching the TweetDeck alternative for Bluesky :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T12:17:09.757Z
->
-> Hi Debbie, we are using the official new search API! Not many syntaxes seem to be supported yet, but we also look forward to seeing them expanded in the future :)
-
-If you're interested in the supported syntax, you can read the official documentation below!
-
-github.com/bluesky-soci...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
