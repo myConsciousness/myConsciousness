@@ -66,6 +66,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:56:01.543Z
+>
+> No, at least now we have to copy from the menu!
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:51:10.968Z
+>
+> You can try it from this menu on deck.blue :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:48:02.208Z
+>
+> deck.blue now supports the ability to copy the text of a post! You can find `Copy text` from the post menu on deck.blue.
+
+Browser functionality doesn't properly copy shortened URLs or inline links, but deck.blue's copy function allows you to copy text without breaking these links :)
+
+cc: @deck.blue
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-20T05:19:03.231Z
 >
 > You can use deck.blue if you are searching the TweetDeck alternative for Bluesky :)
@@ -79,24 +101,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 If you're interested in the supported syntax, you can read the official documentation below!
 
 github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T04:58:51.575Z
->
-> 🍻
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T04:44:34.096Z
->
-> Hey Avi, I fixed this issue and you can search hashtags with deck.blue as before! Refresh your browser and please try it :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-16T04:34:48.762Z
->
-> ちなみにdeck.blueで試しましたがハッシュタグ検索は機能しません
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
