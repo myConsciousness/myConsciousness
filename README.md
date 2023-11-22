@@ -86,15 +86,19 @@ Also if you use my Bluesky related packages, I guarantee that you will maximize 
 
 ---
 
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:56:01.543Z
->
-> No, at least now we have to copy from the menu!
-
----
-
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:51:10.968Z
 >
 > You can try it from this menu on deck.blue :)
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:48:02.208Z
+>
+> deck.blue now supports the ability to copy the text of a post! You can find `Copy text` from the post menu on deck.blue.
+
+Browser functionality doesn't properly copy shortened URLs or inline links, but deck.blue's copy function allows you to copy text without breaking these links :)
+
+cc: @deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
