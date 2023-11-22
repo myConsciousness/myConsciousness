@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-22T03:01:08.706Z
+>
+> もしTweetDeckと同様の運用がしたければdeck.blueがオススメです。検索結果をボタン一つでカラムとして追加できて、タイムラインも自動更新されます
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-21T04:47:54.696Z
 >
 > #Dart is a very nice language! It has a powerful type system, 100% null safe and various APIs are easy to use to ensure your productivity.
@@ -89,16 +95,6 @@ Also if you use my Bluesky related packages, I guarantee that you will maximize 
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:51:10.968Z
 >
 > You can try it from this menu on deck.blue :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:48:02.208Z
->
-> deck.blue now supports the ability to copy the text of a post! You can find `Copy text` from the post menu on deck.blue.
-
-Browser functionality doesn't properly copy shortened URLs or inline links, but deck.blue's copy function allows you to copy text without breaking these links :)
-
-cc: @deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
