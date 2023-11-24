@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-24T05:21:55.515Z
+>
+> #ネイキッドインク #nakedinc #新宿御苑
+
+event.naked.works/shinjukugyoen/
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-22T03:01:08.706Z
 >
 > もしTweetDeckと同様の運用がしたければdeck.blueがオススメです。検索結果をボタン一つでカラムとして追加できて、タイムラインも自動更新されます
@@ -89,12 +97,6 @@ Also if you use my Bluesky related packages, I guarantee that you will maximize 
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-21T03:01:59.418Z
 >
 > Interesting, let's see what happened!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T02:51:10.968Z
->
-> You can try it from this menu on deck.blue :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
