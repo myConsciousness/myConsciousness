@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-24T13:20:02.674Z
+>
+> I have upgraded the bluesky-post functionality as v5. This workflow supports posting from GitHub Actions to Bluesky. 
+
+And with this upgrade, I have made it possible to set up #hashtags and links in markdown formats :)
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-24T05:21:55.515Z
 >
 > #ネイキッドインク #nakedinc #新宿御苑
@@ -91,12 +99,6 @@ Also if you use my Bluesky related packages, I guarantee that you will maximize 
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-21T03:47:37.567Z
 >
 > Now it works with +366!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T03:01:59.418Z
->
-> Interesting, let's see what happened!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
