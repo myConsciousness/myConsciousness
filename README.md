@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-11-25T00:41:13.217Z
+>
+> I have long noticed that only the inline links in this post don't render correctly! I remember the facets state was a little weird when I investigated it before, but I'll look into it again
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-24T13:20:02.674Z
 >
 > I have upgraded the bluesky-post functionality as v5. This workflow supports posting from GitHub Actions to Bluesky. 
@@ -93,12 +99,6 @@ event.naked.works/shinjukugyoen/
 > #Dart is a very nice language! It has a powerful type system, 100% null safe and various APIs are easy to use to ensure your productivity.
 
 Also if you use my Bluesky related packages, I guarantee that you will maximize your app development productivity :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-21T03:47:37.567Z
->
-> Now it works with +366!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
