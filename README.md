@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-02T22:37:06.923Z
+>
+> Uber Technologies' potential enterprise value has been significantly underestimated by many until now
+
+youtu.be/Kj9U1oJ4LYY?...
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-02T02:16:42.660Z
 >
 > cc: @amwg.bsky.social @deck.blue
@@ -93,14 +101,6 @@ youtu.be/-vkAYBi-FgQ?...
 > Shinya Kato 🤯 @shinyakato.dev 2023-11-25T00:41:13.217Z
 >
 > I have long noticed that only the inline links in this post don't render correctly! I remember the facets state was a little weird when I investigated it before, but I'll look into it again
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-24T13:20:02.674Z
->
-> I have upgraded the bluesky-post functionality as v5. This workflow supports posting from GitHub Actions to Bluesky. 
-
-And with this upgrade, I have made it possible to set up #hashtags and links in markdown formats :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
