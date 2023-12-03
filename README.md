@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-03T07:11:52.648Z
+>
+> You can try deck.blue!
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-02T22:37:06.923Z
 >
 > Uber Technologies' potential enterprise value has been significantly underestimated by many until now
@@ -95,12 +101,6 @@ bsky.app/profile/eart...
 > Pedazo de mi corazón
 
 youtu.be/-vkAYBi-FgQ?...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-11-25T00:41:13.217Z
->
-> I have long noticed that only the inline links in this post don't render correctly! I remember the facets state was a little weird when I investigated it before, but I'll look into it again
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
