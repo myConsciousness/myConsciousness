@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-04T22:26:51.060Z
+>
+> Excelente canción 
+
+youtu.be/St2MAMAqGXE?...
+
+---
+
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-04T22:05:05.459Z
+>
+> Is he real?
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-04T21:32:24.259Z
 >
 > deck.blue provides the TweetDeck-like experience for Bluesky
@@ -81,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-04T00:00:00.000Z
 >
 > Scheduled post via deck.blue!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-12-03T10:56:00.862Z
->
-> If anyone else is looking for a TweetDeck for Bluesky, tell them about deck.blue! :)
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-12-03T10:18:52.561Z
->
-> Please try deck.blue :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
