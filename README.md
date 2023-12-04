@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-04T00:29:04.559Z
+>
+> Now scheduled posts are available with deck.blue!  🎉
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-04T00:00:00.000Z
 >
 > Scheduled post via deck.blue!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-03T10:07:48.099Z
 >
 > You should try deck.blue!
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-12-03T07:11:52.648Z
->
-> You can try deck.blue!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
