@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-05T04:07:28.287Z
+>
+> No need because my code is always readable 🌮
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-05T03:07:04.195Z
 >
 > 👀
@@ -89,12 +95,6 @@ youtu.be/St2MAMAqGXE?...
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-04T22:05:05.459Z
 >
 > Is he real?
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-12-04T21:32:24.259Z
->
-> deck.blue provides the TweetDeck-like experience for Bluesky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
