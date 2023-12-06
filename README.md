@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-06T07:27:22.701Z
+>
+> BTCも現物で取引している間は一般的な株式と同じで極論0円になる可能性はあっても借金にはなり得ないですね。買ったコインの価値が下がって利益がマイナスになる可能性と、プラスの利益を確定した後で税金を払うことを忘れなければだいたい大丈夫です
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-05T04:07:28.287Z
 >
 > No need because my code is always readable 🌮
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Excelente canción 
 
 youtu.be/St2MAMAqGXE?...
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-12-04T22:05:05.459Z
->
-> Is he real?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
