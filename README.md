@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🤯 @shinyakato.dev 2023-12-07T15:55:34.514Z
+>
+> deck.blueがおすすめです
+
+---
+
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-06T08:12:17.224Z
 >
 > 仮想通貨は良くも悪くも材料次第で相場が急変するので投資経験がある人にとっても分析は難しいですね〜
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🤯 @shinyakato.dev 2023-12-05T03:07:04.195Z
 >
 > 👀
-
----
-
-> Shinya Kato 🤯 @shinyakato.dev 2023-12-05T03:03:17.548Z
->
-> Exciting
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
