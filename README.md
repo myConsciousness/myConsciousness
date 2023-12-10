@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-10T02:33:22.709Z
+>
+> 🫡
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-10T02:26:29.436Z
+>
+> A cool dog
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-08T17:15:53.402Z
 >
 > Tacos is among the finest dishes ever created by mankind 🌮
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-07T15:55:34.514Z
 >
 > deck.blueがおすすめです
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-06T08:12:17.224Z
->
-> 仮想通貨は良くも悪くも材料次第で相場が急変するので投資経験がある人にとっても分析は難しいですね〜
-
-一般的な企業に投資する時のように事業の将来性や財務諸表を分析して株式を保有し続けるか手放すかといった判断もほぼないので、値段が上がっている時に買ってスプレッドを見ながらちょっとでも下がり始めたら売るのがいいと思います
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-06T07:27:22.701Z
->
-> BTCも現物で取引している間は一般的な株式と同じで極論0円になる可能性はあっても借金にはなり得ないですね。買ったコインの価値が下がって利益がマイナスになる可能性と、プラスの利益を確定した後で税金を払うことを忘れなければだいたい大丈夫です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
