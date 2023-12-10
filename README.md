@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-10T19:34:52.684Z
+>
+> Creo que necesito más café
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-10T03:59:22.844Z
 >
 > He will do a good job! 😁
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-08T17:15:53.402Z
 >
 > Tacos is among the finest dishes ever created by mankind 🌮
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-08T17:13:44.380Z
->
-> deck.blue too
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
