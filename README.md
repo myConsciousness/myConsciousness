@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-11T08:58:15.261Z
+>
+> Markdown links can currently only be posted from deck.blue, but these markdown links are valid for any client :)
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-10T19:34:52.684Z
 >
 > Creo que necesito más café
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-10T02:26:29.436Z
 >
 > A cool dog
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-08T17:15:53.402Z
->
-> Tacos is among the finest dishes ever created by mankind 🌮
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
