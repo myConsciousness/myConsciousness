@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-12T08:47:09.375Z
+>
+> Nearly 2,000 productive lines of code, reducing 20,000 lines
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-11T09:51:14.519Z
 >
 > Hi @neverfadingwood.bsky.social! I have released a corrected build. You should be able to paste both markdown and other text without any problems now :)
@@ -89,12 +95,6 @@ cc: @deck.blue
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-10T19:34:52.684Z
 >
 > Creo que necesito más café
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-10T03:59:22.844Z
->
-> He will do a good job! 😁
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
