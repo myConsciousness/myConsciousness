@@ -66,6 +66,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T13:57:30.785Z
+>
+> #Productivity-Month: I automate some of my package development
+
+#Dart #Flutter
+
+github.com/myConsciousn...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T13:30:08.483Z
+>
+> deck.blueからならマークダウン形式でリンクを作れます
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-13T03:43:59.060Z
 >
 > This is a very cool story bro
@@ -81,18 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-12T09:06:48.960Z
 >
 > We can be more productive!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-12T08:47:09.375Z
->
-> Nearly 2,000 productive lines of code, reducing 20,000 lines
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-11T09:51:14.519Z
->
-> Hi @neverfadingwood.bsky.social! I have released a corrected build. You should be able to paste both markdown and other text without any problems now :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
