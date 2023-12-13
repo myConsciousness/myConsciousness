@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T14:56:13.835Z
+>
+> Chill out 
+
+youtu.be/_gU9kX7zBxc?...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T14:04:15.067Z
+>
+> はい、これは以前からあるBluesky APIの仕様なのでクライアントに依存せず表示が可能です！ただ投稿元のクライアントだけは選ぶ必要があって、例えばdeck.blueではこの仕様をマークダウン形式で誰でも簡単に使えるようにしています
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-13T13:57:30.785Z
 >
 > #Productivity-Month: I automate some of my package development
@@ -85,18 +99,6 @@ github.com/myConsciousn...
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-13T03:43:59.060Z
 >
 > This is a very cool story bro
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-12T11:01:23.454Z
->
-> this is the ascension
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-12T09:06:48.960Z
->
-> We can be more productive!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
