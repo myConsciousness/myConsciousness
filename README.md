@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T03:43:59.060Z
+>
+> This is a very cool story bro
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-12T11:01:23.454Z
 >
 > this is the ascension
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-11T09:51:14.519Z
 >
 > Hi @neverfadingwood.bsky.social! I have released a corrected build. You should be able to paste both markdown and other text without any problems now :)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-11T09:42:13.748Z
->
-> Hi @thenighttrain.co.uk! I have just released a corrected build. The new markdown pasting also works, and we can still paste text containing emojis, etc :)
-
-cc: @deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
