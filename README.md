@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-14T06:12:01.290Z
+>
+> ドル円なら円をドルに交換してBTC（とその他諸々）を買った人はドル安円高で円高になった分だけ損をしますね
+
+ただ日本円で買ったのであれば法定通貨の為替はあまり意識しなくてもいいです
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-14T05:24:15.973Z
 >
 > Lexicon must be visualized as a UI so that it's easy to move from ref to related-refs
@@ -91,16 +99,6 @@ youtu.be/_gU9kX7zBxc?...
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-13T14:04:15.067Z
 >
 > はい、これは以前からあるBluesky APIの仕様なのでクライアントに依存せず表示が可能です！ただ投稿元のクライアントだけは選ぶ必要があって、例えばdeck.blueではこの仕様をマークダウン形式で誰でも簡単に使えるようにしています
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T13:57:30.785Z
->
-> #Productivity-Month: I automate some of my package development
-
-#Dart #Flutter
-
-github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
