@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-14T05:24:15.973Z
+>
+> Lexicon must be visualized as a UI so that it's easy to move from ref to related-refs
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-14T05:14:27.847Z
+>
+> I have refactored the README for atproto.dart
+
+I mainly made the package section prettier and added Developer Quickstart section for contributors
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-13T14:56:13.835Z
 >
 > Chill out 
@@ -87,18 +101,6 @@ youtu.be/_gU9kX7zBxc?...
 #Dart #Flutter
 
 github.com/myConsciousn...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T13:30:08.483Z
->
-> deck.blueからならマークダウン形式でリンクを作れます
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T03:43:59.060Z
->
-> This is a very cool story bro
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
