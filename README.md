@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T10:57:22.162Z
+>
+> Simply converting the Lexicon files to markdown format made it very easy to follow the references
+
+github.com/myConsciousn...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-14T06:12:01.290Z
 >
 > ドル円なら円をドルに交換してBTC（とその他諸々）を買った人はドル安円高で円高になった分だけ損をしますね
@@ -93,12 +101,6 @@ I mainly made the package section prettier and added Developer Quickstart sectio
 > Chill out 
 
 youtu.be/_gU9kX7zBxc?...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T14:04:15.067Z
->
-> はい、これは以前からあるBluesky APIの仕様なのでクライアントに依存せず表示が可能です！ただ投稿元のクライアントだけは選ぶ必要があって、例えばdeck.blueではこの仕様をマークダウン形式で誰でも簡単に使えるようにしています
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
