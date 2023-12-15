@@ -66,41 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:41:44.442Z
+>
+> Markdown is great
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:25:56.053Z
+>
+> 🚀🚀🚀
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:13:03.407Z
+>
+> Honestly I thought I would put these resources on atprotodart.com, this web page is made by docusaurus!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:07:35.213Z
+>
+> I think atproto.com needs docs like this, but my doc generator is made by Dart 🥺
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-15T10:57:22.162Z
 >
 > Simply converting the Lexicon files to markdown format made it very easy to follow the references
 
 github.com/myConsciousn...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-14T06:12:01.290Z
->
-> ドル円なら円をドルに交換してBTC（とその他諸々）を買った人はドル安円高で円高になった分だけ損をしますね
-
-ただ日本円で買ったのであれば法定通貨の為替はあまり意識しなくてもいいです
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-14T05:24:15.973Z
->
-> Lexicon must be visualized as a UI so that it's easy to move from ref to related-refs
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-14T05:14:27.847Z
->
-> I have refactored the README for atproto.dart
-
-I mainly made the package section prettier and added Developer Quickstart section for contributors
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-13T14:56:13.835Z
->
-> Chill out 
-
-youtu.be/_gU9kX7zBxc?...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
