@@ -66,35 +66,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:19:50.257Z
+>
+> cc: @emily.bsky.team
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:12:02.450Z
+>
+> These documents I deployed on atprotodart.com will be automatically mapped to my package objects and endpoints in the near future
+
+atprotodart.com/docs/lexicon...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:08:15.755Z
+>
+> I have also added an easily accessible menu to the atprotodart.com navigation bar
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:03:05.922Z
+>
+> Progress since the following quoted post:
+
+I have deployed these documents on atprotodart.com. Now these documents are easily accessible to everyone
+
+atprotodart.com/docs/lexicon...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:41:44.442Z
 >
 > Markdown is great
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:25:56.053Z
->
-> 🚀🚀🚀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:13:03.407Z
->
-> Honestly I thought I would put these resources on atprotodart.com, this web page is made by docusaurus!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T11:07:35.213Z
->
-> I think atproto.com needs docs like this, but my doc generator is made by Dart 🥺
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-15T10:57:22.162Z
->
-> Simply converting the Lexicon files to markdown format made it very easy to follow the references
-
-github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
