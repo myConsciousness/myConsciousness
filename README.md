@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-17T01:54:16.255Z
+>
+> 🌳🦋🍄
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-16T09:40:13.286Z
 >
 > lexicon lacks a definition of whether authentication is required (or optional)
@@ -89,16 +95,6 @@ atprotodart.com/docs/lexicon...
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:08:15.755Z
 >
 > I have also added an easily accessible menu to the atprotodart.com navigation bar
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:03:05.922Z
->
-> Progress since the following quoted post:
-
-I have deployed these documents on atprotodart.com. Now these documents are easily accessible to everyone
-
-atprotodart.com/docs/lexicon...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
