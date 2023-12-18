@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-18T01:55:59.506Z
+>
+> Reminds me of Tom and Jerry
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-17T01:54:16.255Z
 >
 > 🌳🦋🍄
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > These documents I deployed on atprotodart.com will be automatically mapped to my package objects and endpoints in the near future
 
 atprotodart.com/docs/lexicon...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:08:15.755Z
->
-> I have also added an easily accessible menu to the atprotodart.com navigation bar
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
