@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-18T22:36:43.862Z
+>
+> Let’s see how it works
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-18T02:13:00.593Z
 >
 > I can’t wait to see your Flutter app! 😁
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-16T09:40:13.286Z
 >
 > lexicon lacks a definition of whether authentication is required (or optional)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:19:50.257Z
->
-> cc: @emily.bsky.team
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
