@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-18T02:13:00.593Z
+>
+> I can’t wait to see your Flutter app! 😁
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-18T01:55:59.506Z
 >
 > Reminds me of Tom and Jerry
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:19:50.257Z
 >
 > cc: @emily.bsky.team
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T03:12:02.450Z
->
-> These documents I deployed on atprotodart.com will be automatically mapped to my package objects and endpoints in the near future
-
-atprotodart.com/docs/lexicon...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
