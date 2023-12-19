@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T05:23:23.039Z
+>
+> #TweetDeck のようなクライアントであればdeck.blueがおすすめです
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-18T22:36:43.862Z
 >
 > Let’s see how it works
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-17T01:54:16.255Z
 >
 > 🌳🦋🍄
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-16T09:40:13.286Z
->
-> lexicon lacks a definition of whether authentication is required (or optional)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
