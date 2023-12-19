@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T19:45:24.769Z
+>
+> Thanks Paul! 🔥
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-19T15:05:38.341Z
 >
 > API rate limits must be visualized
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:53:01.498Z
 >
 > The growth rate of deck.blue is remarkable!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:51:20.827Z
->
-> As more and more docs are being added, I have added Algolia AI search to atprotodart.com :)
-
-For example, you can easily find #Lexicon's simplified matrix by searching as follows
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
