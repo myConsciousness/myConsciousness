@@ -66,33 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T05:23:23.039Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:57:44.129Z
 >
-> #TweetDeck のようなクライアントであればdeck.blueがおすすめです
+> 公式クライアントはハッシュタグの表示に対応していないだけなので、将来的にはdeck.blueから投稿したハッシュタグも公式クライアントでリンクとして表示されるようになります！
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-18T22:36:43.862Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:55:01.401Z
 >
-> Let’s see how it works
+> deck.blueなどがあります
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-18T02:13:00.593Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:53:01.498Z
 >
-> I can’t wait to see your Flutter app! 😁
+> The growth rate of deck.blue is remarkable!
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-18T01:55:59.506Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:51:20.827Z
 >
-> Reminds me of Tom and Jerry
+> As more and more docs are being added, I have added Algolia AI search to atprotodart.com :)
+
+For example, you can easily find #Lexicon's simplified matrix by searching as follows
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-17T01:54:16.255Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:17:06.599Z
 >
-> 🌳🦋🍄
+> 公式クライアントがハッシュタグの表示に対応していないだけで既にあります！deck.blueなどのクライアントではハッシュタグを投稿することやリンクとして表示することが可能です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
