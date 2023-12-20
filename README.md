@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-20T01:48:53.509Z
+>
+> Well-designed software is like the ship of Theseus
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-20T00:15:55.997Z
 >
 > I'm planning to change the method name of each endpoint to Lexicon's ID in my Dart/Flutter packages, atproto and bluesky
@@ -91,12 +97,6 @@ cc: @redsolver.dev @videah.net @deck.blue
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:57:44.129Z
 >
 > 公式クライアントはハッシュタグの表示に対応していないだけなので、将来的にはdeck.blueから投稿したハッシュタグも公式クライアントでリンクとして表示されるようになります！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T14:55:01.401Z
->
-> deck.blueなどがあります
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
