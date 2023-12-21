@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T16:00:05.968Z
+>
+> Fluttering like a butterfly in the blue sky!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T15:40:03.282Z
+>
+> gm gm!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T14:52:36.873Z
 >
 > Escucho esta canción mientras miro la luna
@@ -83,22 +95,6 @@ www.youtube.com/watch?v=pY7G...
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:41:34.672Z
 >
 > Welcome to #Bluesky
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:25:18.772Z
->
-> deck.blueのソースは将来的には公開する予定です！
-
-現在翻訳だけはコミュニティベースで行っています
-
-github.com/deckblue/l10n
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T04:51:19.569Z
->
-> 無効と判断された後もPDSには認証した時のハンドルが残ってるのでできますね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
