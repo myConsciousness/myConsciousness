@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T14:52:36.873Z
+>
+> Escucho esta canción mientras miro la luna
+
+www.youtube.com/watch?v=pY7G...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:44:03.197Z
 >
 > This is better
@@ -91,12 +99,6 @@ github.com/deckblue/l10n
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T04:51:19.569Z
 >
 > 無効と判断された後もPDSには認証した時のハンドルが残ってるのでできますね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T04:43:31.424Z
->
-> 私もその時間帯で強制ログアウト後に何回かリトライしても駄目だったのでおそらくそうですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
