@@ -66,37 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:44:45.761Z
+>
+> Delete `test` folder
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:38:18.366Z
+>
+> I always like agile software development!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:32:41.777Z
+>
+> We need a thorough streamlining of development productivity
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:11:30.233Z
+>
+> You can try deck.blue too!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T00:12:09.554Z
 >
 > I have already started the refactoring
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-20T01:48:53.509Z
->
-> Well-designed software is like the ship of Theseus
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-20T00:15:55.997Z
->
-> I'm planning to change the method name of each endpoint to Lexicon's ID in my Dart/Flutter packages, atproto and bluesky
-
-The type name to be returned will not be changed, and the existing methods will be deprecated and not completely removed for a while
-
-cc: @redsolver.dev @videah.net @deck.blue
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T19:45:24.769Z
->
-> Thanks Paul! 🔥
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-19T15:05:38.341Z
->
-> API rate limits must be visualized
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
