@@ -66,6 +66,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:44:03.197Z
+>
+> This is better
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:41:34.672Z
+>
+> Welcome to #Bluesky
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:25:18.772Z
+>
+> deck.blueのソースは将来的には公開する予定です！
+
+現在翻訳だけはコミュニティベースで行っています
+
+github.com/deckblue/l10n
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T04:51:19.569Z
 >
 > 無効と判断された後もPDSには認証した時のハンドルが残ってるのでできますね
@@ -75,26 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T04:43:31.424Z
 >
 > 私もその時間帯で強制ログアウト後に何回かリトライしても駄目だったのでおそらくそうですね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T04:41:19.325Z
->
-> 今日の日本時間の11時頃にBlueskyのサーバーが不調だったようでサードパーティクライアントも数分間くらい軒並み死んでました
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T03:55:28.980Z
->
-> invalid.handleは一度ハンドルに設定した独自ドメインが失効や何らかのシステム的な理由で認証できなかった場合に設定されるのでBANではないですね
-
-invalid.handleは独自ドメインを設定していて数カ月間ポストしてないアカウントで結構見られます
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:44:45.761Z
->
-> Delete `test` folder
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
