@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T03:55:28.980Z
+>
+> invalid.handleは一度ハンドルに設定した独自ドメインが失効や何らかのシステム的な理由で認証できなかった場合に設定されるのでBANではないですね
+
+invalid.handleは独自ドメインを設定していて数カ月間ポストしてないアカウントで結構見られます
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:44:45.761Z
 >
 > Delete `test` folder
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T02:11:30.233Z
 >
 > You can try deck.blue too!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T00:12:09.554Z
->
-> I have already started the refactoring
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
