@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-22T00:37:45.957Z
+>
+> When you see a birdapp outage
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T16:00:05.968Z
 >
 > Fluttering like a butterfly in the blue sky!
@@ -89,12 +95,6 @@ www.youtube.com/watch?v=pY7G...
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:44:03.197Z
 >
 > This is better
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T05:41:34.672Z
->
-> Welcome to #Bluesky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
