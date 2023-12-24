@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T02:03:10.236Z
+>
+> youtu.be/E8gmARGvPlI?...
+
+---
+
 > Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:45:17.237Z
 >
 > Waiting for you in #Whamhalla 👾
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:18:14.437Z
 >
 > The butterfly is a symbol of reincarnation
-
----
-
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:12:02.396Z
->
-> In Buddhism butterflies are also sacred creatures that carry souls to heaven :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
