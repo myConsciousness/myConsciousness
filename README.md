@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T14:29:31.998Z
+>
+> 🫂
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T12:01:52.603Z
 >
 > Expect Us
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 情報収集に便利なBlueskyクライアント「deck.blue」の使い方 #TweetDeck
 
 blanche-toile.com/tools/deckblue
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T02:03:10.236Z
->
-> youtu.be/E8gmARGvPlI?...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
