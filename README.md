@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T06:00:38.926Z
+>
+> 情報収集に便利なBlueskyクライアント「deck.blue」の使い方 #TweetDeck
+
+blanche-toile.com/tools/deckblue
+
+---
+
 > Shinya Kato 🦋 @shinyakato.dev 2023-12-24T02:03:10.236Z
 >
 > youtu.be/E8gmARGvPlI?...
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:26:51.727Z
 >
 > This is so beautiful
-
----
-
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:18:14.437Z
->
-> The butterfly is a symbol of reincarnation
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
