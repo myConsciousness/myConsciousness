@@ -66,7 +66,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T06:00:38.926Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T11:26:17.145Z
+>
+> You can try deck.blue
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T11:24:15.995Z
+>
+> Makes our heart Flutter
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T06:00:38.926Z
 >
 > 情報収集に便利なBlueskyクライアント「deck.blue」の使い方 #TweetDeck
 
@@ -74,27 +86,15 @@ blanche-toile.com/tools/deckblue
 
 ---
 
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T02:03:10.236Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T02:03:10.236Z
 >
 > youtu.be/E8gmARGvPlI?...
 
 ---
 
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:45:17.237Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T00:45:17.237Z
 >
 > Waiting for you in #Whamhalla 👾
-
----
-
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:37:22.764Z
->
-> Has anyone achieved #Whamageddon? I've heard it at least 5 times already this year
-
----
-
-> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:26:51.727Z
->
-> This is so beautiful
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
