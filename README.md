@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T00:00:02.340Z
+>
+> deck.blue
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-22T03:37:35.808Z
 >
 > 🫡
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-21T15:40:03.282Z
 >
 > gm gm!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T14:52:36.873Z
->
-> Escucho esta canción mientras miro la luna
-
-www.youtube.com/watch?v=pY7G...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
