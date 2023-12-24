@@ -66,33 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T00:00:02.340Z
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:45:17.237Z
 >
-> deck.blue
+> Waiting for you in #Whamhalla 👾
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-22T03:37:35.808Z
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:37:22.764Z
 >
-> 🫡
+> Has anyone achieved #Whamageddon? I've heard it at least 5 times already this year
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-22T00:37:45.957Z
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:26:51.727Z
 >
-> When you see a birdapp outage
+> This is so beautiful
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T16:00:05.968Z
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:18:14.437Z
 >
-> Fluttering like a butterfly in the blue sky!
+> The butterfly is a symbol of reincarnation
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-21T15:40:03.282Z
+> Shinya Kato 🦋 @shinyakato.dev 2023-12-24T00:12:02.396Z
 >
-> gm gm!
+> In Buddhism butterflies are also sacred creatures that carry souls to heaven :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
