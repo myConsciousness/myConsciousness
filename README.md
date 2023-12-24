@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T12:01:52.603Z
+>
+> Expect Us
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T11:26:17.145Z
 >
 > You can try deck.blue
@@ -89,12 +95,6 @@ blanche-toile.com/tools/deckblue
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T02:03:10.236Z
 >
 > youtu.be/E8gmARGvPlI?...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T00:45:17.237Z
->
-> Waiting for you in #Whamhalla 👾
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
