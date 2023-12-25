@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T01:46:20.101Z
+>
+> Cheers! 🥂
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T01:44:01.459Z
+>
+> Where is my tequila amigos
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T14:29:31.998Z
 >
 > 🫂
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T11:26:17.145Z
 >
 > You can try deck.blue
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T11:24:15.995Z
->
-> Makes our heart Flutter
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T06:00:38.926Z
->
-> 情報収集に便利なBlueskyクライアント「deck.blue」の使い方 #TweetDeck
-
-blanche-toile.com/tools/deckblue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
