@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T09:01:17.395Z
+>
+> Also I have added a feature to atprotodart.com that automatically generates a list of APIs that my packages support
+
+The list was made very clean by matching method names with Lexicon IDs
+
+atprotodart.com/docs/support...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T08:56:15.982Z
 >
 > I released atproto v0.11.0 and bluesky v0.15.1 for Dart/Flutter :)
@@ -89,12 +99,6 @@ As previously announced, the method name for each service has been modified to m
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T02:56:51.439Z
 >
 > deck.blueのようなクライアントを試してみるといいかもしれません
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T01:46:20.101Z
->
-> Cheers! 🥂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
