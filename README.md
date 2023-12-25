@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T04:46:58.008Z
+>
+> SkyFeedのタイムラインの流れが速すぎると感じたらdeck.blueも試してみてください！
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T02:56:51.439Z
 >
 > deck.blueのようなクライアントを試してみるといいかもしれません
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T14:29:31.998Z
 >
 > 🫂
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T12:01:52.603Z
->
-> Expect Us
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
