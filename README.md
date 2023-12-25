@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T02:56:51.439Z
+>
+> deck.blueのようなクライアントを試してみるといいかもしれません
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T01:46:20.101Z
 >
 > Cheers! 🥂
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-24T12:01:52.603Z
 >
 > Expect Us
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T11:26:17.145Z
->
-> You can try deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
