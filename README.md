@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T08:56:15.982Z
+>
+> I released atproto v0.11.0 and bluesky v0.15.1 for Dart/Flutter :)
+
+As previously announced, the method name for each service has been modified to match the Lexicon ID. All existing methods that do not match Lexicon IDs have been deprecated
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T08:45:13.060Z
+>
+> 🍾🍾🍾
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T04:46:58.008Z
 >
 > SkyFeedのタイムラインの流れが速すぎると感じたらdeck.blueも試してみてください！
@@ -81,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T01:46:20.101Z
 >
 > Cheers! 🥂
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T01:44:01.459Z
->
-> Where is my tequila amigos
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-24T14:29:31.998Z
->
-> 🫂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
