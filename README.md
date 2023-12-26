@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T08:17:23.775Z
+>
+> Hi, glad you like the deck.blue markdown link! Markdown is a very useful and portable format, but I don't think they will implement this (at least not soon)
+
+If they implement this, they will have to beef up their text parser considerably
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-26T07:44:45.063Z
 >
 > This is a shortcut to get to my profile
@@ -89,16 +97,6 @@ bsky.shinyakato.dev
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-26T03:06:31.426Z
 >
 > Merry Christmas! 🎄
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T09:01:17.395Z
->
-> Also I have added a feature to atprotodart.com that automatically generates a list of APIs that my packages support
-
-The list was made very clean by matching method names with Lexicon IDs
-
-atprotodart.com/docs/support...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
