@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T03:23:54.975Z
+>
+> It’s real ;)
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T03:06:31.426Z
+>
+> Merry Christmas! 🎄
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T09:01:17.395Z
 >
 > Also I have added a feature to atprotodart.com that automatically generates a list of APIs that my packages support
@@ -87,18 +99,6 @@ As previously announced, the method name for each service has been modified to m
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-25T08:45:13.060Z
 >
 > 🍾🍾🍾
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T04:46:58.008Z
->
-> SkyFeedのタイムラインの流れが速すぎると感じたらdeck.blueも試してみてください！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T02:56:51.439Z
->
-> deck.blueのようなクライアントを試してみるといいかもしれません
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
