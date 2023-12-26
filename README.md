@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T07:44:45.063Z
+>
+> This is a shortcut to get to my profile
+
+bsky.shinyakato.dev
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-26T06:05:46.193Z
 >
 > lmao
@@ -91,14 +99,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 The list was made very clean by matching method names with Lexicon IDs
 
 atprotodart.com/docs/support...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-25T08:56:15.982Z
->
-> I released atproto v0.11.0 and bluesky v0.15.1 for Dart/Flutter :)
-
-As previously announced, the method name for each service has been modified to match the Lexicon ID. All existing methods that do not match Lexicon IDs have been deprecated
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
