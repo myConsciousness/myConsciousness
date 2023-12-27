@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T03:36:03.514Z
+>
+> heard this app can play YouTube videos
+
+youtu.be/St2MAMAqGXE?...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T02:49:34.254Z
 >
 > Test. You can ignore this post.
@@ -91,14 +99,6 @@ Glad to know that the team had this idea too! 🍺
 > Hi, glad you like the deck.blue markdown link! Markdown is a very useful and portable format, but I don't think they will implement this (at least not soon)
 
 If they implement this, they will have to beef up their text parser considerably
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T07:44:45.063Z
->
-> This is a shortcut to get to my profile
-
-bsky.shinyakato.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
