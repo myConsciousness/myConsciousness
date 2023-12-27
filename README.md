@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T13:50:28.932Z
+>
+> Try setting up your custom domain again
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T12:23:01.592Z
 >
 > Goodbye Español
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:27:53.095Z
 >
 > 🎵💃🕺🎶
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:25:15.671Z
->
-> This is a lively party
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
