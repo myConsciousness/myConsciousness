@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T02:49:34.254Z
+>
+> Test. You can ignore this post.
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T01:40:41.528Z
 >
 > Hi Paul! Yes I don't think this feature is a high priority either, but I find this very useful to describe the user's condition such as busy, absence, detoxing and etc
@@ -93,12 +99,6 @@ If they implement this, they will have to beef up their text parser considerably
 > This is a shortcut to get to my profile
 
 bsky.shinyakato.dev
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T06:05:46.193Z
->
-> lmao
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
