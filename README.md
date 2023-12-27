@@ -66,39 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T03:36:03.514Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:38:12.833Z
 >
-> heard this app can play YouTube videos
-
-youtu.be/St2MAMAqGXE?...
+> 😌
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T02:49:34.254Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:37:57.218Z
 >
-> Test. You can ignore this post.
+> 🤝
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T01:40:41.528Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:27:53.095Z
 >
-> Hi Paul! Yes I don't think this feature is a high priority either, but I find this very useful to describe the user's condition such as busy, absence, detoxing and etc
-
-Glad to know that the team had this idea too! 🍺
+> 🎵💃🕺🎶
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T01:22:57.761Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:25:15.671Z
 >
-> A user status in the profile like whatsapp might be useful, other than `online`
+> This is a lively party
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-26T08:17:23.775Z
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:10:21.655Z
 >
-> Hi, glad you like the deck.blue markdown link! Markdown is a very useful and portable format, but I don't think they will implement this (at least not soon)
-
-If they implement this, they will have to beef up their text parser considerably
+> Next year will be even busier! 🔥
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
