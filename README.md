@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-28T03:47:02.094Z
+>
+> #Flutter is the future of app development
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T14:36:24.239Z
 >
 > cc: @emily.bsky.team
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T12:23:01.592Z
 >
 > Goodbye Español
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T10:38:12.833Z
->
-> 😌
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
