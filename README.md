@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T02:12:14.672Z
+>
+> 
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T02:08:10.469Z
+>
+> Age yourself with a movie you saw in the theater as a kid
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-29T01:04:46.909Z
 >
 > There are many Flutter devs (check @redsolver.dev @deck.blue) in Bluesky, you can learn a lot from them too! 🤝
@@ -83,18 +95,6 @@ Not only is Flutter itself attractive, but the #Dart language, which is 100% nul
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-28T03:47:02.094Z
 >
 > #Flutter is the future of app development
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T14:36:24.239Z
->
-> cc: @emily.bsky.team
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T14:26:11.964Z
->
-> At least I know of an account that has been in this handle for more than a few months, so it looks like we need to resolve this ourselves…👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
