@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T01:04:46.909Z
+>
+> There are many Flutter devs (check @redsolver.dev @deck.blue) in Bluesky, you can learn a lot from them too! 🤝
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T00:57:23.096Z
+>
+> It's worth a try! #Flutter is similar to React Native, but imo Flutter provides a better development experience for devs
+
+Not only is Flutter itself attractive, but the #Dart language, which is 100% null-safe and strictly type evaluated, is very powerful!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-28T03:47:02.094Z
 >
 > #Flutter is the future of app development
@@ -81,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-27T14:26:11.964Z
 >
 > At least I know of an account that has been in this handle for more than a few months, so it looks like we need to resolve this ourselves…👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T13:50:28.932Z
->
-> Try setting up your custom domain again
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-27T12:23:01.592Z
->
-> Goodbye Español
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
