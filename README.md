@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T12:54:37.212Z
+>
+> deck.blueを試してみるといいかもしれません
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-29T02:12:14.672Z
 >
 > 
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > It's worth a try! #Flutter is similar to React Native, but imo Flutter provides a better development experience for devs
 
 Not only is Flutter itself attractive, but the #Dart language, which is 100% null-safe and strictly type evaluated, is very powerful!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-28T03:47:02.094Z
->
-> #Flutter is the future of app development
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
