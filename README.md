@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T23:14:15.000Z
+>
+> They said they used Flutter for Google Classroom :)
+
+flutter.dev/showcase/goo...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T23:03:11.036Z
+>
+> Yeah many!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-29T12:54:37.212Z
 >
 > deck.blueを試してみるといいかもしれません
@@ -81,20 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-29T02:08:10.469Z
 >
 > Age yourself with a movie you saw in the theater as a kid
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T01:04:46.909Z
->
-> There are many Flutter devs (check @redsolver.dev @deck.blue) in Bluesky, you can learn a lot from them too! 🤝
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T00:57:23.096Z
->
-> It's worth a try! #Flutter is similar to React Native, but imo Flutter provides a better development experience for devs
-
-Not only is Flutter itself attractive, but the #Dart language, which is 100% null-safe and strictly type evaluated, is very powerful!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
