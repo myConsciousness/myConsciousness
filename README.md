@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-31T03:51:46.288Z
+>
+> 知の欺瞞
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2023-12-31T03:01:36.214Z
+>
+> 2024 will be a year of even greater progress 🦋
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-31T00:17:39.919Z
 >
 > deck.blueを試してみてください
@@ -83,18 +95,6 @@ flutter.dev/showcase/goo...
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-29T23:03:11.036Z
 >
 > Yeah many!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T12:54:37.212Z
->
-> deck.blueを試してみるといいかもしれません
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T02:12:14.672Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
