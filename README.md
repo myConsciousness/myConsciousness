@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T09:54:24.522Z
+>
+> deck.blueを試してみてください
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T08:07:15.184Z
 >
 > happy new year! 🍻
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-31T03:01:36.214Z
 >
 > 2024 will be a year of even greater progress 🦋
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-31T00:17:39.919Z
->
-> deck.blueを試してみてください
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
