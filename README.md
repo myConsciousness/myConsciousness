@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T08:07:15.184Z
+>
+> happy new year! 🍻
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-31T15:00:00.000Z
 >
 > I hope you guys have a #HappyNewYear! 🎉🥂
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-31T00:17:39.919Z
 >
 > deck.blueを試してみてください
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-29T23:14:15.000Z
->
-> They said they used Flutter for Google Classroom :)
-
-flutter.dev/showcase/goo...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
