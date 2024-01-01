@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:07:15.084Z
+>
+> I sent you an invitation!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:05:26.816Z
+>
+> Hey @matej.bsky.social, are you already in Discord's Bluesky developer channel?
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T09:54:24.522Z
 >
 > deck.blueを試してみてください
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2023-12-31T15:00:00.000Z
 >
 > I hope you guys have a #HappyNewYear! 🎉🥂
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-31T03:51:46.288Z
->
-> 知の欺瞞
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-31T03:01:36.214Z
->
-> 2024 will be a year of even greater progress 🦋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
