@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-02T04:45:24.684Z
+>
+> Happy New Year!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:07:15.084Z
 >
 > I sent you an invitation!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T08:07:15.184Z
 >
 > happy new year! 🍻
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2023-12-31T15:00:00.000Z
->
-> I hope you guys have a #HappyNewYear! 🎉🥂
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
