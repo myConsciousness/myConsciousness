@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-05T12:16:59.474Z
+>
+> I’m approaching the optimal solution
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-02T04:45:24.684Z
 >
 > Happy New Year!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T09:54:24.522Z
 >
 > deck.blueを試してみてください
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T08:07:15.184Z
->
-> happy new year! 🍻
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
