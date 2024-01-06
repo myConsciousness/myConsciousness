@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-06T12:46:45.934Z
+>
+> When I receive a scam message
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-05T12:16:59.474Z
 >
 > I’m approaching the optimal solution
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:05:26.816Z
 >
 > Hey @matej.bsky.social, are you already in Discord's Bluesky developer channel?
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T09:54:24.522Z
->
-> deck.blueを試してみてください
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
