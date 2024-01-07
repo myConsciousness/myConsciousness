@@ -66,6 +66,17 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-07T14:45:53.695Z
+>
+> Your Political Compass
+
+Economic Left/Right: 2.63
+Social Libertarian/Authoritarian: -7.52 
+
+politicalcompass.org
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-06T12:46:45.934Z
 >
 > When I receive a scam message
@@ -87,12 +98,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:07:15.084Z
 >
 > I sent you an invitation!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:05:26.816Z
->
-> Hey @matej.bsky.social, are you already in Discord's Bluesky developer channel?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
