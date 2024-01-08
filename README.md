@@ -66,7 +66,19 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-07T14:45:53.695Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-08T13:28:55.044Z
+>
+> I look forward to seeing if Apple will give up the number one market cap position to Microsoft this year. Also personally, I believe Amazon's value as undervalued
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-08T13:19:51.933Z
+>
+> 👀
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-07T14:45:53.695Z
 >
 > Your Political Compass
 
@@ -77,27 +89,15 @@ politicalcompass.org
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-06T12:46:45.934Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-06T12:46:45.934Z
 >
 > When I receive a scam message
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-05T12:16:59.474Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-05T12:16:59.474Z
 >
 > I’m approaching the optimal solution
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-02T04:45:24.684Z
->
-> Happy New Year!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-01T12:07:15.084Z
->
-> I sent you an invitation!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
