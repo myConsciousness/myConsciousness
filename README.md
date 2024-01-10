@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T14:55:01.742Z
+>
+> It’s more likely that NVIDIA will overtake Amazon's market cap this year before Amazon joins the $2 trillion club
+
+ca.finance.yahoo.com/news/nvidia-...
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T14:39:59.896Z
+>
+> At least there is no Elon and Jack on this platform. This is great
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T12:56:20.651Z
 >
 > I pity children who are expected to be 100X more productive
@@ -81,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T12:14:53.401Z
 >
 > “how to force push in git”
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T11:59:30.428Z
->
-> The current price target for NVIDIA reminds me of Tesla stock a few years ago
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-08T13:28:55.044Z
->
-> I look forward to seeing if Apple will give up the number one market cap position to Microsoft this year. Also personally, I believe Amazon's value as undervalued
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
