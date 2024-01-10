@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T11:59:30.428Z
+>
+> The current price target for NVIDIA reminds me of Tesla stock a few years ago
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-08T13:28:55.044Z
 >
 > I look forward to seeing if Apple will give up the number one market cap position to Microsoft this year. Also personally, I believe Amazon's value as undervalued
@@ -92,12 +98,6 @@ politicalcompass.org
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-06T12:46:45.934Z
 >
 > When I receive a scam message
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-05T12:16:59.474Z
->
-> I’m approaching the optimal solution
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
