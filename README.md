@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T00:05:15.791Z
+>
+> 
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T14:55:01.742Z
 >
 > It’s more likely that NVIDIA will overtake Amazon's market cap this year before Amazon joins the $2 trillion club
@@ -89,12 +95,6 @@ ca.finance.yahoo.com/news/nvidia-...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T12:48:05.209Z
 >
 > When will GPT free me from programming
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T12:14:53.401Z
->
-> “how to force push in git”
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
