@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T05:57:53.067Z
+>
+> I grew up on these streets
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T05:44:22.265Z
+>
+> Technology X
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T00:05:15.791Z
 >
 > 
@@ -83,18 +95,6 @@ ca.finance.yahoo.com/news/nvidia-...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T14:39:59.896Z
 >
 > At least there is no Elon and Jack on this platform. This is great
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T12:56:20.651Z
->
-> I pity children who are expected to be 100X more productive
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T12:48:05.209Z
->
-> When will GPT free me from programming
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
