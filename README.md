@@ -66,6 +66,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:31:36.520Z
+>
+> then we don't have to afraid of typo
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:29:05.484Z
+>
+> I would like to edit this post
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:16:26.204Z
+>
+> I have to write Dart code to recharge my energies
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T05:57:53.067Z
 >
 > I grew up on these streets
@@ -75,26 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T05:44:22.265Z
 >
 > Technology X
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T00:05:15.791Z
->
-> 
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T14:55:01.742Z
->
-> It’s more likely that NVIDIA will overtake Amazon's market cap this year before Amazon joins the $2 trillion club
-
-ca.finance.yahoo.com/news/nvidia-...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-10T14:39:59.896Z
->
-> At least there is no Elon and Jack on this platform. This is great
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
