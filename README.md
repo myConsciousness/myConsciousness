@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-12T16:59:41.872Z
+>
+> I share you a story of Nu Holdings from Brazil!
+
+seekingalpha.com/article/4636...
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-12T16:27:08.638Z
+>
+> I've been researching the fastest growing fintech companies in Latin American countries, and the background behind their rapid growth is quite interesting
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:31:36.520Z
 >
 > then we don't have to afraid of typo
@@ -81,18 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:16:26.204Z
 >
 > I have to write Dart code to recharge my energies
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T05:57:53.067Z
->
-> I grew up on these streets
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T05:44:22.265Z
->
-> Technology X
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
