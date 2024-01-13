@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T00:25:28.590Z
+>
+> BREAKING NEWS
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T00:02:24.449Z
+>
+> Vibes
+
+open.spotify.com/track/2EM9zp...
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-12T16:59:41.872Z
 >
 > I share you a story of Nu Holdings from Brazil!
@@ -83,18 +97,6 @@ seekingalpha.com/article/4636...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:31:36.520Z
 >
 > then we don't have to afraid of typo
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:29:05.484Z
->
-> I would like to edit this post
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:16:26.204Z
->
-> I have to write Dart code to recharge my energies
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
