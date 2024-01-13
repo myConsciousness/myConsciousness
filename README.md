@@ -66,6 +66,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T12:34:44.073Z
+>
+> This is the only package I could find
+
+pub.dev/packages/flu...
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T12:02:20.985Z
+>
+> I have only run the script a few times in testing but have now stopped, so I’ll wait!
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:59:45.902Z
 >
 > you're a very talkative jack
@@ -83,18 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Hi @emily.space 
 
 I will gradually index historical APOD data as in the following quoted post. With your feed the `createdAt` value set by the client doesn't seem to take precedence, so plz sort by `createdAt` if you don't need past posts at the top of the feed!
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T04:14:04.944Z
->
-> 世の中上手いことお金が回るようになってるのよね
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T03:42:28.096Z
->
-> If you have been manually scheduling posts, deck.blue is useful for you. Hashtags also work when you post from deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
