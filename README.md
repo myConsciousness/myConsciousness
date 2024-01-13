@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T04:14:04.944Z
+>
+> 世の中上手いことお金が回るようになってるのよね
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T03:42:28.096Z
 >
 > If you have been manually scheduling posts, deck.blue is useful for you. Hashtags also work when you post from deck.blue
@@ -89,14 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Vibes
 
 open.spotify.com/track/2EM9zp...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-12T16:59:41.872Z
->
-> I share you a story of Nu Holdings from Brazil!
-
-seekingalpha.com/article/4636...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
