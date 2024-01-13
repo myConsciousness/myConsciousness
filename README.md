@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T14:22:50.048Z
+>
+> deck.blueもオススメです
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T13:57:31.378Z
 >
 > Cure is great
@@ -91,12 +97,6 @@ pub.dev/packages/flu...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:59:45.902Z
 >
 > you're a very talkative jack
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:56:04.863Z
->
-> btw is the noise gone?
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
