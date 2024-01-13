@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T13:57:31.378Z
+>
+> Cure is great
+
+open.spotify.com/track/4Qlzka...
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T12:34:44.073Z
 >
 > This is the only package I could find
@@ -89,14 +97,6 @@ pub.dev/packages/flu...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:56:04.863Z
 >
 > btw is the noise gone?
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:21:38.038Z
->
-> Hi @emily.space 
-
-I will gradually index historical APOD data as in the following quoted post. With your feed the `createdAt` value set by the client doesn't seem to take precedence, so plz sort by `createdAt` if you don't need past posts at the top of the feed!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
