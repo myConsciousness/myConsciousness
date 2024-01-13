@@ -66,6 +66,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:59:45.902Z
+>
+> you're a very talkative jack
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:56:04.863Z
+>
+> btw is the noise gone?
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:21:38.038Z
+>
+> Hi @emily.space 
+
+I will gradually index historical APOD data as in the following quoted post. With your feed the `createdAt` value set by the client doesn't seem to take precedence, so plz sort by `createdAt` if you don't need past posts at the top of the feed!
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T04:14:04.944Z
 >
 > 世の中上手いことお金が回るようになってるのよね
@@ -75,26 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T03:42:28.096Z
 >
 > If you have been manually scheduling posts, deck.blue is useful for you. Hashtags also work when you post from deck.blue
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T03:38:19.919Z
->
-> Welcome! And has your organization ever manually scheduled posts?
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T00:25:28.590Z
->
-> BREAKING NEWS
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T00:02:24.449Z
->
-> Vibes
-
-open.spotify.com/track/2EM9zp...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
