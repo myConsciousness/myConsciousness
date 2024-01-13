@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T03:42:28.096Z
+>
+> If you have been manually scheduling posts, deck.blue is useful for you. Hashtags also work when you post from deck.blue
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T03:38:19.919Z
+>
+> Welcome! And has your organization ever manually scheduled posts?
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T00:25:28.590Z
 >
 > BREAKING NEWS
@@ -85,18 +97,6 @@ open.spotify.com/track/2EM9zp...
 > I share you a story of Nu Holdings from Brazil!
 
 seekingalpha.com/article/4636...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-12T16:27:08.638Z
->
-> I've been researching the fastest growing fintech companies in Latin American countries, and the background behind their rapid growth is quite interesting
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-11T14:31:36.520Z
->
-> then we don't have to afraid of typo
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
