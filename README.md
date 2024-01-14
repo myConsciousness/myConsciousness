@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:13:58.317Z
+>
+> Interesting! Though this is a big gamble, but Apple will even reach for a market cap of $4 trillion if their AI is awesome
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:01:42.932Z
 >
 > But I feel Alexa is more promising
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:10:37.066Z
 >
 > How practical this device will be remains to be seen, but it sounds interesting anyway
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T00:45:57.683Z
->
-> I feel this would be a disruptive innovation if incorporated into a device like Apple's Vision Pro (but smaller size is better)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
