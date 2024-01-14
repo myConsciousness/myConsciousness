@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T08:26:08.625Z
+>
+> Idk but Warren Buffett would sell all his Apple stock if it already existed
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T04:37:27.250Z
 >
 > 期間は絞れないですけど "from:fdmotita.bsky.social" みたいな検索は既にできますね
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:01:42.932Z
 >
 > But I feel Alexa is more promising
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:56:25.282Z
->
-> I’m very hungry
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
