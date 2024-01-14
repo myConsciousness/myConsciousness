@@ -66,33 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T08:26:08.625Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:40:00.233Z
 >
-> Idk but Warren Buffett would sell all his Apple stock if it already existed
+> I guess this would be the same for any company, but it’s just that some of their fictions haven't been brought to the public's attention yet
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T04:37:27.250Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:37:28.114Z
 >
-> 期間は絞れないですけど "from:fdmotita.bsky.social" みたいな検索は既にできますね
+> You’re welcome! 🤝
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T04:26:15.924Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:18:11.695Z
 >
-> I have been hoping for the last year that AI would take my task, but the increase in productivity has done the opposite
+> We already have hashtags, you can try it on deck.blue and so on
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:13:58.317Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:12:47.276Z
 >
-> Interesting! Though this is a big gamble, but Apple will even reach for a market cap of $4 trillion if their AI is awesome
+> Finally I can consider buying an electric car
+
+www.reuters.com/business/aut...
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:01:42.932Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:06:44.161Z
 >
-> But I feel Alexa is more promising
+> David broke app again
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
