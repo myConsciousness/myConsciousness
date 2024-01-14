@@ -66,33 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T01:16:52.368Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:01:42.932Z
+>
+> But I feel Alexa is more promising
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:56:25.282Z
+>
+> I’m very hungry
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:16:52.368Z
 >
 > What are the chances that in a few years the iPhone will lose its presence like the BlackBerry
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T01:10:37.066Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:10:37.066Z
 >
 > How practical this device will be remains to be seen, but it sounds interesting anyway
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T00:45:57.683Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T00:45:57.683Z
 >
 > I feel this would be a disruptive innovation if incorporated into a device like Apple's Vision Pro (but smaller size is better)
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T00:37:58.372Z
->
-> They can order Chinese food from Uber by just talking to them without installing the app 👀
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T00:31:52.395Z
->
-> rabbit sounds interesting, but some articles said OpenAI is also developing a similar device
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
