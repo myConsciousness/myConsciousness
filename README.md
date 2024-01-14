@@ -66,37 +66,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T14:22:50.048Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T01:16:52.368Z
 >
-> deck.blueもオススメです
+> What are the chances that in a few years the iPhone will lose its presence like the BlackBerry
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T13:57:31.378Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T01:10:37.066Z
 >
-> Cure is great
-
-open.spotify.com/track/4Qlzka...
+> How practical this device will be remains to be seen, but it sounds interesting anyway
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T12:34:44.073Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T00:45:57.683Z
 >
-> This is the only package I could find
-
-pub.dev/packages/flu...
+> I feel this would be a disruptive innovation if incorporated into a device like Apple's Vision Pro (but smaller size is better)
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T12:02:20.985Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T00:37:58.372Z
 >
-> I have only run the script a few times in testing but have now stopped, so I’ll wait!
+> They can order Chinese food from Uber by just talking to them without installing the app 👀
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-13T09:59:45.902Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-14T00:31:52.395Z
 >
-> you're a very talkative jack
+> rabbit sounds interesting, but some articles said OpenAI is also developing a similar device
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
