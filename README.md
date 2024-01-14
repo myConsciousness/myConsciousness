@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T04:37:27.250Z
+>
+> 期間は絞れないですけど "from:fdmotita.bsky.social" みたいな検索は既にできますね
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T04:26:15.924Z
+>
+> I have been hoping for the last year that AI would take my task, but the increase in productivity has done the opposite
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T02:13:58.317Z
 >
 > Interesting! Though this is a big gamble, but Apple will even reach for a market cap of $4 trillion if their AI is awesome
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:56:25.282Z
 >
 > I’m very hungry
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:16:52.368Z
->
-> What are the chances that in a few years the iPhone will lose its presence like the BlackBerry
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T01:10:37.066Z
->
-> How practical this device will be remains to be seen, but it sounds interesting anyway
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
