@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-15T02:03:54.753Z
+>
+> The best option is to close social media
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:40:00.233Z
 >
 > I guess this would be the same for any company, but it’s just that some of their fictions haven't been brought to the public's attention yet
@@ -89,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Finally I can consider buying an electric car
 
 www.reuters.com/business/aut...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:06:44.161Z
->
-> David broke app again
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
