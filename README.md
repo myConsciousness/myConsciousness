@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-15T06:18:45.297Z
+>
+> I've been reading too much Lexicon and Lexicon seems to be talking to me
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-15T03:30:34.149Z
 >
 > I like his YouTube channel
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:37:28.114Z
 >
 > You’re welcome! 🤝
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:18:11.695Z
->
-> We already have hashtags, you can try it on deck.blue and so on
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
