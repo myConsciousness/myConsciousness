@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-16T05:45:25.964Z
+>
+> Looking at the Republican Party's choice for presidential candidates, for better or worse, I feel that Trump's influence is enormous
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-15T06:18:45.297Z
 >
 > I've been reading too much Lexicon and Lexicon seems to be talking to me
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:40:00.233Z
 >
 > I guess this would be the same for any company, but it’s just that some of their fictions haven't been brought to the public's attention yet
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-14T13:37:28.114Z
->
-> You’re welcome! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
