@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-16T13:56:47.637Z
+>
+> I like this app icon
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-16T10:30:16.137Z
 >
 > wow it’s hot in Australia!
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-15T03:30:34.149Z
 >
 > I like his YouTube channel
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-15T02:03:54.753Z
->
-> The best option is to close social media
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
