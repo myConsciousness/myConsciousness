@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-19T08:26:12.194Z
+>
+> +1
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-17T00:36:12.948Z
 >
 > Yes you reminded me of the good old days 👀
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-16T05:45:25.964Z
 >
 > Looking at the Republican Party's choice for presidential candidates, for better or worse, I feel that Trump's influence is enormous
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-15T06:18:45.297Z
->
-> I've been reading too much Lexicon and Lexicon seems to be talking to me
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
