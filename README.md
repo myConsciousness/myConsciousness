@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-21T06:30:23.890Z
+>
+> 
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-21T03:35:10.049Z
 >
 > When handling union objects using Dart and freezed package
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-17T00:36:12.948Z
 >
 > Yes you reminded me of the good old days 👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-16T13:56:47.637Z
->
-> I like this app icon
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
