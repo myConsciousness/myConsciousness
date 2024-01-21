@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-21T11:36:10.989Z
+>
+> @redsolver.dev @videah.net @deck.blue 
+
+I notified you about the SDK refactoring on Discord, and I've released a version that includes the object name refactoring as a preview build! If you have any concerns with the results of this refactoring, please tell me :)
+
+pub.dev/packages/blu...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-21T06:30:23.890Z
 >
 > 
@@ -87,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-19T08:26:12.194Z
 >
 > +1
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-17T00:36:12.948Z
->
-> Yes you reminded me of the good old days 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
