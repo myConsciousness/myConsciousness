@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-21T03:35:10.049Z
+>
+> When handling union objects using Dart and freezed package
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-19T22:26:53.978Z
 >
 > I've decided on a refactoring policy for my SDK for Dart/Flutter and will release a preview build as early as this weekend
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-16T13:56:47.637Z
 >
 > I like this app icon
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-16T10:30:16.137Z
->
-> wow it’s hot in Australia!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
