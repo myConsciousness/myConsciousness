@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-22T15:14:12.327Z
+>
+> It's time for coding
+
+open.spotify.com/track/6habFh...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-21T11:36:10.989Z
 >
 > @redsolver.dev @videah.net @deck.blue 
@@ -91,12 +99,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-19T22:26:53.978Z
 >
 > I've decided on a refactoring policy for my SDK for Dart/Flutter and will release a preview build as early as this weekend
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-19T08:26:12.194Z
->
-> +1
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
