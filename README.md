@@ -66,39 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T01:11:36.426Z
+>
+> The blue bird metamorphosed into a blue butterfly
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T01:03:58.388Z
+>
+> there's not much of a cat factor in this social media tbh 👀
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T00:47:09.948Z
+>
+> This is our recommendation
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T00:34:43.308Z
+>
+> Apple gets its crown back. But the iPhone is the enemy of the iPhone, so Apple shareholders are very skeptical because they see no vision of a device from Apple that will be the next iPhone
+
+www.gizchina.com/2024/01/22/a...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-01-23T15:05:55.371Z
 >
 > Dog loves the snow ❄️
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-23T14:09:22.772Z
->
-> Everything is going well
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-22T15:14:12.327Z
->
-> It's time for coding
-
-open.spotify.com/track/6habFh...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-21T11:36:10.989Z
->
-> @redsolver.dev @videah.net @deck.blue 
-
-I notified you about the SDK refactoring on Discord, and I've released a version that includes the object name refactoring as a preview build! If you have any concerns with the results of this refactoring, please tell me :)
-
-pub.dev/packages/blu...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-21T06:30:23.890Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
