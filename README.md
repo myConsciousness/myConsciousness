@@ -66,35 +66,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T01:11:36.426Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T09:03:56.256Z
+>
+> It's hard work saving the world without people knowing
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T01:11:36.426Z
 >
 > The blue bird metamorphosed into a blue butterfly
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T01:03:58.388Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T01:03:58.388Z
 >
 > there's not much of a cat factor in this social media tbh 👀
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T00:47:09.948Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T00:47:09.948Z
 >
 > This is our recommendation
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-24T00:34:43.308Z
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T00:34:43.308Z
 >
 > Apple gets its crown back. But the iPhone is the enemy of the iPhone, so Apple shareholders are very skeptical because they see no vision of a device from Apple that will be the next iPhone
 
 www.gizchina.com/2024/01/22/a...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-01-23T15:05:55.371Z
->
-> Dog loves the snow ❄️
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
