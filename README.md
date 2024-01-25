@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:41:44.258Z
+>
+> This is greater than Disney characters!
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:28:52.433Z
+>
+> very cool art indeed
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T09:03:56.256Z
 >
 > It's hard work saving the world without people knowing
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T01:03:58.388Z
 >
 > there's not much of a cat factor in this social media tbh 👀
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T00:47:09.948Z
->
-> This is our recommendation
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T00:34:43.308Z
->
-> Apple gets its crown back. But the iPhone is the enemy of the iPhone, so Apple shareholders are very skeptical because they see no vision of a device from Apple that will be the next iPhone
-
-www.gizchina.com/2024/01/22/a...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
