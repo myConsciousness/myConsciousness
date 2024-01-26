@@ -66,6 +66,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-26T17:01:08.208Z
+>
+> Amazon of course
+
+finance.yahoo.com/news/best-ai...
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:41:44.258Z
 >
 > This is greater than Disney characters!
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T01:11:36.426Z
 >
 > The blue bird metamorphosed into a blue butterfly
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T01:03:58.388Z
->
-> there's not much of a cat factor in this social media tbh 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
