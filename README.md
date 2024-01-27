@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T08:03:54.297Z
+>
+> No, we’re waiting for a secure and an official thing that is compatible with AT Protocol :)
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T03:31:48.727Z
 >
 > Electric vehicles were too overrated. It’s not practical to use this as a private vehicle, at least in terms of battery life
@@ -93,12 +99,6 @@ techcrunch.com/2024/01/26/d...
 > Amazon of course
 
 finance.yahoo.com/news/best-ai...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:41:44.258Z
->
-> This is greater than Disney characters!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
