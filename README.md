@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-26T23:41:58.842Z
+>
+> deck.blue brings a #TweetDeck experience to Bluesky users
+
+#TechCrunch
+
+techcrunch.com/2024/01/26/d...
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-26T17:01:08.208Z
 >
 > Amazon of course
@@ -89,12 +99,6 @@ finance.yahoo.com/news/best-ai...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T09:03:56.256Z
 >
 > It's hard work saving the world without people knowing
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T01:11:36.426Z
->
-> The blue bird metamorphosed into a blue butterfly
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
