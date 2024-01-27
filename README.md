@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T01:38:34.399Z
+>
+> Today is the day to resolve the conflict with the main branch, give me power
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-26T23:41:58.842Z
 >
 > deck.blue brings a #TweetDeck experience to Bluesky users
@@ -93,12 +99,6 @@ finance.yahoo.com/news/best-ai...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:28:52.433Z
 >
 > very cool art indeed
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-24T09:03:56.256Z
->
-> It's hard work saving the world without people knowing
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
