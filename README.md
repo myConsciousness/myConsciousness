@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T03:31:48.727Z
+>
+> Electric vehicles were too overrated. It’s not practical to use this as a private vehicle, at least in terms of battery life
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T01:38:34.399Z
 >
 > Today is the day to resolve the conflict with the main branch, give me power
@@ -93,12 +99,6 @@ finance.yahoo.com/news/best-ai...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:41:44.258Z
 >
 > This is greater than Disney characters!
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-25T01:28:52.433Z
->
-> very cool art indeed
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
