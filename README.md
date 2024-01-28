@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-28T00:48:48.634Z
+>
+> It’s none other than the opposition media that is increasing Trump's influence
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T08:03:54.297Z
 >
 > No, we’re waiting for a secure and an official thing that is compatible with AT Protocol :)
@@ -91,14 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 #TechCrunch
 
 techcrunch.com/2024/01/26/d...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-26T17:01:08.208Z
->
-> Amazon of course
-
-finance.yahoo.com/news/best-ai...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
