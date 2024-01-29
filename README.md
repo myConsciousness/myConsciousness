@@ -66,6 +66,16 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-29T01:15:05.851Z
+>
+> I have long been a big fan of paper books, but recently switched to #Kindle and have been happy with it
+
+There are many experiences that you can only get from paper books, but it's not a big deal once you get used to them
+
+www.foxnews.com/lifestyle/ki...
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-28T00:48:48.634Z
 >
 > It’s none other than the opposition media that is increasing Trump's influence
@@ -87,16 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T01:38:34.399Z
 >
 > Today is the day to resolve the conflict with the main branch, give me power
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-26T23:41:58.842Z
->
-> deck.blue brings a #TweetDeck experience to Bluesky users
-
-#TechCrunch
-
-techcrunch.com/2024/01/26/d...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
