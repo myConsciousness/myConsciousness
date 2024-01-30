@@ -66,6 +66,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T02:45:58.405Z
+>
+> Sending a message to your brain… 📩
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T02:33:29.146Z
+>
+> With Neuralink I will invade your brain
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T00:41:46.465Z
 >
 > I'm trapped
@@ -85,18 +97,6 @@ www.foxnews.com/lifestyle/ki...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-28T00:48:48.634Z
 >
 > It’s none other than the opposition media that is increasing Trump's influence
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T08:03:54.297Z
->
-> No, we’re waiting for a secure and an official thing that is compatible with AT Protocol :)
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T03:31:48.727Z
->
-> Electric vehicles were too overrated. It’s not practical to use this as a private vehicle, at least in terms of battery life
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
