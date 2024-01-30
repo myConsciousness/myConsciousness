@@ -66,6 +66,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T00:41:46.465Z
+>
+> I'm trapped
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-29T01:15:05.851Z
 >
 > I have long been a big fan of paper books, but recently switched to #Kindle and have been happy with it
@@ -91,12 +97,6 @@ www.foxnews.com/lifestyle/ki...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T03:31:48.727Z
 >
 > Electric vehicles were too overrated. It’s not practical to use this as a private vehicle, at least in terms of battery life
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-27T01:38:34.399Z
->
-> Today is the day to resolve the conflict with the main branch, give me power
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
