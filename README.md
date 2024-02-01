@@ -13,8 +13,6 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 ## **_Featured Projects_** 🚀
 
-### **Awesome** ✨
-
 | &nbsp;&nbsp;Repositories&nbsp;&nbsp;                                           | &nbsp;&nbsp;&nbsp;&nbsp;Stars&nbsp;&nbsp;&nbsp;&nbsp;                                              | Descriptions                                                                                                                                                                                                                                                               |
 | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[atproto.dart](https://github.com/myConsciousness/atproto.dart)**            | ![GitHub stars](https://img.shields.io/github/stars/myConsciousness/atproto.dart?style=social)     | This is a monorepo project to manage a complete set of **[AT Protocol](https://atproto.com)** and **[Bluesky](https://blueskyweb.xyz)** APIs and other features for easy integration into Dart/Flutter apps.                                                               |
