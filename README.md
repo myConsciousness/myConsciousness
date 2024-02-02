@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-02T01:12:58.690Z
+>
+> It was an excellent financial result that showed the results of Amazon's streamlining of its operations and research and development over the past few years!
+
+www.barrons.com/livecoverage...
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T02:45:58.405Z
 >
 > Sending a message to your brain… 📩
@@ -89,12 +97,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 There are many experiences that you can only get from paper books, but it's not a big deal once you get used to them
 
 www.foxnews.com/lifestyle/ki...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-28T00:48:48.634Z
->
-> It’s none other than the opposition media that is increasing Trump's influence
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
