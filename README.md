@@ -64,6 +64,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-03T03:25:14.669Z
+>
+> With this #Dart spec addition, I’m now considering the possibility of dropping freezed and json_serializable from dependencies of my SDK
+
+github.com/dart-lang/la...
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-03T03:06:25.095Z
+>
+> Replacing time spent on a smartphone with a #Kindle is a highly beneficial life hack
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-02T01:12:58.690Z
 >
 > It was an excellent financial result that showed the results of Amazon's streamlining of its operations and research and development over the past few years!
@@ -81,22 +95,6 @@ www.barrons.com/livecoverage...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T02:33:29.146Z
 >
 > With Neuralink I will invade your brain
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T00:41:46.465Z
->
-> I'm trapped
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-29T01:15:05.851Z
->
-> I have long been a big fan of paper books, but recently switched to #Kindle and have been happy with it
-
-There are many experiences that you can only get from paper books, but it's not a big deal once you get used to them
-
-www.foxnews.com/lifestyle/ki...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
