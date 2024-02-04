@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:19:28.999Z
+>
+> cc: @deck.blue
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:10:34.159Z
+>
+> deck.blueからGIFをアップロードすると動きますが、公式アプリからアップロードすると動きません
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-03T03:25:14.669Z
 >
 > With this #Dart spec addition, I’m now considering the possibility of dropping freezed and json_serializable from dependencies of my SDK
@@ -83,18 +95,6 @@ github.com/dart-lang/la...
 > It was an excellent financial result that showed the results of Amazon's streamlining of its operations and research and development over the past few years!
 
 www.barrons.com/livecoverage...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T02:45:58.405Z
->
-> Sending a message to your brain… 📩
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-01-30T02:33:29.146Z
->
-> With Neuralink I will invade your brain
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
