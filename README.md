@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:29:15.060Z
+>
+> I also like the feature that a certain number of highlighted rows are shared! Ignoring whether the highlighted rows are really worth highlighting, we can see what other people are interested in. With the Kindle, boring time becomes fulfilling time :)
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:19:28.999Z
 >
 > cc: @deck.blue
@@ -87,14 +93,6 @@ github.com/dart-lang/la...
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-03T03:06:25.095Z
 >
 > Replacing time spent on a smartphone with a #Kindle is a highly beneficial life hack
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-02T01:12:58.690Z
->
-> It was an excellent financial result that showed the results of Amazon's streamlining of its operations and research and development over the past few years!
-
-www.barrons.com/livecoverage...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
