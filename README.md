@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T04:03:20.771Z
+>
+> Yes we’re using bluesky_text, this is a very core library in deck.blue :)
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T01:56:39.908Z
 >
 > Nice to meet you too! This is a very interesting project, you have made the world more productive :)
@@ -87,12 +93,6 @@ You might be interested in @deck.blue if you’re from Brazil. He is also from B
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T23:14:24.762Z
 >
 > Japan. I’m providing AT Protocol and Bluesky things for Dart/Flutter devs 🦋
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T23:07:13.668Z
->
-> Hi #Flutter dev 👋🏻
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
