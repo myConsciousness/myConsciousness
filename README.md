@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T23:14:24.762Z
+>
+> Japan. I’m providing AT Protocol and Bluesky things for Dart/Flutter devs 🦋
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T23:07:13.668Z
+>
+> Hi #Flutter dev 👋🏻
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:29:15.060Z
 >
 > I also like the feature that a certain number of highlighted rows are shared! Ignoring whether the highlighted rows are really worth highlighting, we can see what other people are interested in. With the Kindle, boring time becomes fulfilling time :)
@@ -79,20 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:10:34.159Z
 >
 > deck.blueからGIFをアップロードすると動きますが、公式アプリからアップロードすると動きません
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-03T03:25:14.669Z
->
-> With this #Dart spec addition, I’m now considering the possibility of dropping freezed and json_serializable from dependencies of my SDK
-
-github.com/dart-lang/la...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-03T03:06:25.095Z
->
-> Replacing time spent on a smartphone with a #Kindle is a highly beneficial life hack
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
