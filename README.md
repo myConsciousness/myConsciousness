@@ -64,6 +64,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T01:56:39.908Z
+>
+> Nice to meet you too! This is a very interesting project, you have made the world more productive :)
+
+You might be interested in @deck.blue if you’re from Brazil. He is also from Brazil and we’re building deck.blue together using Flutter :)
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T01:24:10.214Z
+>
+> yes kpop is generally such a thing. Sounds and dances are really cool
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T00:42:26.524Z
 >
 > imo I look forward to the development of autopilot and better electrification in future vehicles, but it does not have to be Tesla that makes this happen
@@ -79,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T23:07:13.668Z
 >
 > Hi #Flutter dev 👋🏻
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:29:15.060Z
->
-> I also like the feature that a certain number of highlighted rows are shared! Ignoring whether the highlighted rows are really worth highlighting, we can see what other people are interested in. With the Kindle, boring time becomes fulfilling time :)
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:19:28.999Z
->
-> cc: @deck.blue
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
