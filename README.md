@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T00:42:26.524Z
+>
+> imo I look forward to the development of autopilot and better electrification in future vehicles, but it does not have to be Tesla that makes this happen
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T23:14:24.762Z
 >
 > Japan. I’m providing AT Protocol and Bluesky things for Dart/Flutter devs 🦋
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:19:28.999Z
 >
 > cc: @deck.blue
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-04T01:10:34.159Z
->
-> deck.blueからGIFをアップロードすると動きますが、公式アプリからアップロードすると動きません
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
