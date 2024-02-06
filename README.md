@@ -64,35 +64,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:57:03.831Z
+>
+> Welcome 👋
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:30:54.221Z
+>
+> Bsky elder is like
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:16:09.932Z
+>
+> just setting up my bsky
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:08:09.399Z
+>
+> Bluesky is now open 🦋
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-06T12:07:07.475Z
 >
 > I will frame and display it
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T09:37:15.051Z
->
-> I would also like macros to have annotations to easily generate union types, but ideally Dart would support nominative union types
-
-github.com/dart-lang/la...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T05:14:43.573Z
->
-> Easter egg in Bluesky
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T01:12:56.947Z
->
-> Very cool! 🎉
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-05T13:47:18.762Z
->
-> She needs Vision Pro too
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
