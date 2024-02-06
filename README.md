@@ -64,7 +64,7 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-06T09:37:15.051Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T09:37:15.051Z
 >
 > I would also like macros to have annotations to easily generate union types, but ideally Dart would support nominative union types
 
@@ -72,25 +72,25 @@ github.com/dart-lang/la...
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-06T05:14:43.573Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T05:14:43.573Z
 >
 > Easter egg in Bluesky
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-06T01:12:56.947Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T01:12:56.947Z
 >
 > Very cool! 🎉
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T13:47:18.762Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-05T13:47:18.762Z
 >
 > She needs Vision Pro too
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T04:03:20.771Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-05T04:03:20.771Z
 >
 > Yes we’re using bluesky_text, this is a very core library in deck.blue :)
 
