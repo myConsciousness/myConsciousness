@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-06T05:14:43.573Z
+>
+> Easter egg in Bluesky
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-06T01:12:56.947Z
 >
 > Very cool! 🎉
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Nice to meet you too! This is a very interesting project, you have made the world more productive :)
 
 You might be interested in @deck.blue if you’re from Brazil. He is also from Brazil and we’re building deck.blue together using Flutter :)
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-05T01:24:10.214Z
->
-> yes kpop is generally such a thing. Sounds and dances are really cool
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
