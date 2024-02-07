@@ -64,33 +64,33 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T04:55:37.471Z
+>
+> deck.blueなどがあります
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T04:54:41.561Z
+>
+> deck.blueを試してみてください
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T04:54:13.917Z
+>
+> deck.blueを試してみてください
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T04:53:41.462Z
+>
+> deck.blueを試してみてください
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-07T03:35:19.266Z
 >
 > Already
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T02:51:34.658Z
->
-> You just need to verify DNS record again
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T02:36:34.553Z
->
-> 👋
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T02:18:53.384Z
->
-> Thanks! 🎯
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:57:03.831Z
->
-> Welcome 👋
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
