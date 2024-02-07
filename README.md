@@ -64,6 +64,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T02:51:34.658Z
+>
+> You just need to verify DNS record again
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T02:36:34.553Z
+>
+> 👋
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T02:18:53.384Z
+>
+> Thanks! 🎯
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:57:03.831Z
 >
 > Welcome 👋
@@ -73,24 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:30:54.221Z
 >
 > Bsky elder is like
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:16:09.932Z
->
-> just setting up my bsky
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T14:08:09.399Z
->
-> Bluesky is now open 🦋
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-06T12:07:07.475Z
->
-> I will frame and display it
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
