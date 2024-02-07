@@ -64,33 +64,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T05:49:57.596Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:53:26.941Z
 >
-> 今までのフィードバックを見てるとFirefoxで相性悪そうです。一番軽快に動くのはやはりChromeですね
+> Guys this is skyfall, welcome to Bluesky
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T05:46:22.783Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:41:10.295Z
 >
-> これは「カスタムフィード」と呼ばれる機能で時系列順のタイムラインではないです。時系列順のタイムラインはdeck.blueの左の「＋」アイコンから選択できます
+> I'm going to frame and display it, thank you @bsky.app!
+
+github.com/myConsciousn...
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T05:08:45.982Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:26:40.603Z
 >
-> 公式アプリがハッシュタグの表示に対応していないので紛らわしいですが、ハッシュタグは既に公式の機能として実装されていてdeck.blueから投稿したハッシュタグも他のアプリと共有されます
+> deck.blueとかがあります
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T05:03:19.725Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:21:35.410Z
 >
-> Hi Remi 👋Your packages are very useful!
+> Waiting for the newsky users like
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T04:55:37.471Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:06:06.831Z
 >
-> deck.blueなどがあります
+> カスタムフィードは実装者がタイムラインのアルゴリズムを自由に変えられる機能で、面白いものもたくさんあるのでいろいろためしてみるのをおすすめします！
+
+またもし自分で簡単にカスタムフィードを作成してみたい場合はskyfeed.appを試してみてください
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
