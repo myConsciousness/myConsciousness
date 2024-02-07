@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T07:02:03.699Z
+>
+> finally
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:53:26.941Z
 >
 > Guys this is skyfall, welcome to Bluesky
@@ -87,14 +93,6 @@ github.com/myConsciousn...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:21:35.410Z
 >
 > Waiting for the newsky users like
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:06:06.831Z
->
-> カスタムフィードは実装者がタイムラインのアルゴリズムを自由に変えられる機能で、面白いものもたくさんあるのでいろいろためしてみるのをおすすめします！
-
-またもし自分で簡単にカスタムフィードを作成してみたい場合はskyfeed.appを試してみてください
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
