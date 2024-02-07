@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T11:29:39.786Z
+>
+> Jack Dorseyなんて人は最初からいなかった、いいね？
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T11:08:55.120Z
+>
+> This is the energy drink for you 🥤
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-07T10:25:09.267Z
 >
 > it’s skyfall
@@ -79,20 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-07T07:02:03.699Z
 >
 > finally
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:53:26.941Z
->
-> Guys this is skyfall, welcome to Bluesky
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:41:10.295Z
->
-> I'm going to frame and display it, thank you @bsky.app!
-
-github.com/myConsciousn...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
