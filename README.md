@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T10:25:09.267Z
+>
+> it’s skyfall
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T10:13:13.811Z
+>
+> deck.blueからであればカラムの設定からできます
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-07T07:02:03.699Z
 >
 > finally
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I'm going to frame and display it, thank you @bsky.app!
 
 github.com/myConsciousn...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:26:40.603Z
->
-> deck.blueとかがあります
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T06:21:35.410Z
->
-> Waiting for the newsky users like
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
