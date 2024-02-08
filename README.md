@@ -64,33 +64,35 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T11:29:39.786Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:20:11.738Z
 >
-> Jack Dorseyなんて人は最初からいなかった、いいね？
+> 意図的に止めてましたね
+
+bsky.app/profile/jaz....
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T11:08:55.120Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:03:03.743Z
 >
-> This is the energy drink for you 🥤
+> The moment I posted this, skyfall occurred and I felt like I had done something serious
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T10:25:09.267Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T00:59:37.002Z
 >
-> it’s skyfall
+> This is how I will learn TypeScript this year
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T10:13:13.811Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T00:56:17.114Z
 >
-> deck.blueからであればカラムの設定からできます
+> Hey silicon valley insider! 👋 How are you doing these days?
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-07T07:02:03.699Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T00:53:57.343Z
 >
-> finally
+> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
