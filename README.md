@@ -64,6 +64,24 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T02:12:58.648Z
+>
+> Fine! I'm enjoying watching this platform grow :)
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T02:10:12.577Z
+>
+> It's just the beginning
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T02:09:01.360Z
+>
+> Hello #atdev
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:31:14.662Z
 >
 > Now our notification queue looks something like this
@@ -73,26 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:22:20.945Z
 >
 > いえいえ、deck.blueを使っていただきありがとうございます！またなにかあればメンションを付けていいので教えてください
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:20:11.738Z
->
-> 意図的に止めてましたね
-
-bsky.app/profile/jaz....
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:03:03.743Z
->
-> The moment I posted this, skyfall occurred and I felt like I had done something serious
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T00:59:37.002Z
->
-> This is how I will learn TypeScript this year
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
