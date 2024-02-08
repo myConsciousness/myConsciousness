@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T13:03:44.203Z
+>
+> deck.blue is growing steadily! I would like to see Google work to improve the performance of Flutter Web :)
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T13:01:21.450Z
+>
+> 🤫🤫🤫
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T07:24:23.439Z
 >
 > 全量取得ですね。現在カスタムフィードや対話型のBOTを開発している方は全員がこのAPIを使用していると思います
@@ -81,18 +93,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T04:52:07.791Z
 >
 > 👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T04:43:33.954Z
->
-> +1
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T04:41:12.553Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
