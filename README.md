@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T03:19:46.832Z
+>
+> high five
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T02:12:58.648Z
 >
 > Fine! I'm enjoying watching this platform grow :)
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:31:14.662Z
 >
 > Now our notification queue looks something like this
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T01:22:20.945Z
->
-> いえいえ、deck.blueを使っていただきありがとうございます！またなにかあればメンションを付けていいので教えてください
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
