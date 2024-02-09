@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:32:45.479Z
+>
+> it's been a while since I've tried to improve bluesky_text
+
+pub.dev/packages/blu...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:27:51.694Z
+>
+> viaは現在公式のAPIではサポートされていない項目で、一部の日本産クライアントでのみ設定されます
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:20:26.621Z
+>
+> Yay! 😄
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-09T09:39:02.175Z
 >
 > I added `.get` and `.post` methods to the bluesky package for Dart/Flutter :)
@@ -77,24 +97,6 @@ Using these methods, you can easily send requests to endpoints not implemented i
 > I have been using snappify.com to make cool images of code, but next time I will try codeimage.dev
 
 app.codeimage.dev
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T07:49:13.293Z
->
-> deck.blueを試してみてください
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T07:16:45.216Z
->
-> deck.blueなどがあります
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T04:48:30.812Z
->
-> zen-feed
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
