@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T03:35:32.050Z
+>
+> You should visit this place too!
+
+www.kamikochi.org
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T13:03:44.203Z
 >
 > deck.blue is growing steadily! I would like to see Google work to improve the performance of Flutter Web :)
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Firehoseですけど com.atproto.sync.subscribeRepos があります
 
 github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T04:52:07.791Z
->
-> 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
