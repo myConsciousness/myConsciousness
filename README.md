@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T04:48:30.812Z
+>
+> zen-feed
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T04:07:38.837Z
+>
+> We will get to the bottom of this case——
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-09T03:35:32.050Z
 >
 > You should visit this place too!
@@ -81,20 +93,6 @@ www.kamikochi.org
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-08T13:01:21.450Z
 >
 > 🤫🤫🤫
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T07:24:23.439Z
->
-> 全量取得ですね。現在カスタムフィードや対話型のBOTを開発している方は全員がこのAPIを使用していると思います
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-08T07:05:20.957Z
->
-> Firehoseですけど com.atproto.sync.subscribeRepos があります
-
-github.com/bluesky-soci...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
