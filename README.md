@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T00:30:30.461Z
+>
+> アプリパスワードがあります！公式アプリのSettingsから簡単に作成が可能で、不要になれば削除できます
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T00:02:45.214Z
+>
+> deck.blueなどがあります
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:32:45.479Z
 >
 > it's been a while since I've tried to improve bluesky_text
@@ -81,22 +93,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:20:26.621Z
 >
 > Yay! 😄
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T09:39:02.175Z
->
-> I added `.get` and `.post` methods to the bluesky package for Dart/Flutter :)
-
-Using these methods, you can easily send requests to endpoints not implemented in the bluesky package and receive response data of any type (include Map<String, dynamic>)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T07:53:55.305Z
->
-> I have been using snappify.com to make cool images of code, but next time I will try codeimage.dev
-
-app.codeimage.dev
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
