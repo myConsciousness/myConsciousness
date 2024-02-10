@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T02:54:07.440Z
+>
+> たぶんアカウント登録の時のおすすめ一覧に載ってますね
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T02:09:55.241Z
+>
+> deck.blueなどがあります
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-10T00:30:30.461Z
 >
 > アプリパスワードがあります！公式アプリのSettingsから簡単に作成が可能で、不要になれば削除できます
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > it's been a while since I've tried to improve bluesky_text
 
 pub.dev/packages/blu...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:27:51.694Z
->
-> viaは現在公式のAPIではサポートされていない項目で、一部の日本産クライアントでのみ設定されます
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-09T10:20:26.621Z
->
-> Yay! 😄
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
