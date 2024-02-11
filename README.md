@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T13:39:54.886Z
+>
+> 私は有料プランにしているので同じ表示にならないですけどたぶんPatreonで投稿したリリースノートの数ですね
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T10:25:02.489Z
 >
 > deck.blueは基本的に無料でも問題なく使えます！ただ複数アカウントや予約投稿などの機能は比較的高い維持費がかかるので課金制になっています
@@ -85,14 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T07:53:41.323Z
 >
 > Thank you Samir, we're very excited! This is a result of the efforts of @deck.blue :^)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T01:53:03.973Z
->
-> もしかすると脱線するかもしれないですけど、Blueskyに直接投稿できないサイズのデータをuploadBlobで弾かないのはatprotoとbskyでレイヤーが違うためですね
-
-例えばuploadBlobでBluesky (bsky)にしか投稿できない容量に制限してしまうと、将来的にAT Protocol (atproto)を使用してYouTubeやInstagramのような大容量データを扱うサービスを作ろうとした際に問題になります
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
