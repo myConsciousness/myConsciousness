@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T07:55:03.277Z
+>
+> Interesting, what do you think about it @deck.blue?
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T07:53:41.323Z
+>
+> Thank you Samir, we're very excited! This is a result of the efforts of @deck.blue :^)
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T01:53:03.973Z
 >
 > もしかすると脱線するかもしれないですけど、Blueskyに直接投稿できないサイズのデータをuploadBlobで弾かないのはatprotoとbskyでレイヤーが違うためですね
@@ -81,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T01:32:52.626Z
 >
 > ありがとうございます、こちらでも検証します！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T01:04:11.470Z
->
-> 同じアプリパスワードをdeck.blue以外のアプリで使い回すなどの理由でアカウントのセッションが切れてしまうことがあります
-
-deck.blueの左のメニューのアカウント管理アイコンから問題になっているアカウントの「再リンク」を試してみてください！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T00:53:52.193Z
->
-> deck.blueは既にPWAに対応済みです!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
