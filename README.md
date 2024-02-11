@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T01:04:11.470Z
+>
+> 同じアプリパスワードをdeck.blue以外のアプリで使い回すなどの理由でアカウントのセッションが切れてしまうことがあります
+
+deck.blueの左のメニューのアカウント管理アイコンから問題になっているアカウントの「再リンク」を試してみてください！
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T00:53:52.193Z
+>
+> deck.blueは既にPWAに対応済みです!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T00:44:09.076Z
+>
+> ありがとうございます、オプションを追加するかどうかを内部で検討します
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-10T03:51:05.126Z
 >
 > deck.blueなどを試してみてください
@@ -73,24 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-10T03:29:07.876Z
 >
 > インライン翻訳も実装予定です！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T02:54:07.440Z
->
-> たぶんアカウント登録の時のおすすめ一覧に載ってますね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T02:09:55.241Z
->
-> deck.blueなどがあります
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-10T00:30:30.461Z
->
-> アプリパスワードがあります！公式アプリのSettingsから簡単に作成が可能で、不要になれば削除できます
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
