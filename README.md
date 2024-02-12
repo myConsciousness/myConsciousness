@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:53:44.832Z
+>
+> Gallery mode in deck.blue works like this, it's very easy to set up 👀
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:20:06.671Z
+>
+> An event to eat chickens on the couch!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T13:39:54.886Z
 >
 > 私は有料プランにしているので同じ表示にならないですけどたぶんPatreonで投稿したリリースノートの数ですね
@@ -79,18 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T09:58:02.517Z
 >
 > someone's eyes on me when I'm writing code
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T07:55:03.277Z
->
-> Interesting, what do you think about it @deck.blue?
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T07:53:41.323Z
->
-> Thank you Samir, we're very excited! This is a result of the efforts of @deck.blue :^)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
