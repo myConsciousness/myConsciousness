@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-13T01:32:57.531Z
+>
+> We're preparing a feedback page :) Mention @deck.blue or me or email hello@deck.blue until this is ready!
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:53:44.832Z
 >
 > Gallery mode in deck.blue works like this, it's very easy to set up 👀
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T10:25:02.489Z
 >
 > deck.blueは基本的に無料でも問題なく使えます！ただ複数アカウントや予約投稿などの機能は比較的高い維持費がかかるので課金制になっています
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T09:58:02.517Z
->
-> someone's eyes on me when I'm writing code
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
