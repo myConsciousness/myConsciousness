@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T00:54:09.199Z
+>
+> Interesting, are you scraping trending words from @nowbreezing.ntw.app? 👀
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-13T01:32:57.531Z
 >
 > We're preparing a feedback page :) Mention @deck.blue or me or email hello@deck.blue until this is ready!
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T13:39:54.886Z
 >
 > 私は有料プランにしているので同じ表示にならないですけどたぶんPatreonで投稿したリリースノートの数ですね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T10:25:02.489Z
->
-> deck.blueは基本的に無料でも問題なく使えます！ただ複数アカウントや予約投稿などの機能は比較的高い維持費がかかるので課金制になっています
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
