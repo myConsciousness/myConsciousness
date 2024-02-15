@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T09:58:22.626Z
+>
+> You can try 15s, now this is the fastest setting for updating columns
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T09:46:11.996Z
+>
+> bluesky's inline tags are a lifesaver for programmers who don't want to write advanced parsers
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-15T08:51:25.324Z
 >
 > 数年前と比べるとFlutter Webもかなり改善されてますけどHTML/CSSベースのWebアプリで当たり前にできることが難しい（もしくは現状不可能）ということが結構ありますね
@@ -83,18 +95,6 @@ Blueskyではskyfeed.appとdeck.blueがFlutter Webで現状できることの限
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-15T00:54:09.199Z
 >
 > Interesting, are you scraping trending words from @nowbreezing.ntw.app? 👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-13T01:32:57.531Z
->
-> We're preparing a feedback page :) Mention @deck.blue or me or email hello@deck.blue until this is ready!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:53:44.832Z
->
-> Gallery mode in deck.blue works like this, it's very easy to set up 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
