@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T08:51:25.324Z
+>
+> 数年前と比べるとFlutter Webもかなり改善されてますけどHTML/CSSベースのWebアプリで当たり前にできることが難しい（もしくは現状不可能）ということが結構ありますね
+
+Blueskyではskyfeed.appとdeck.blueがFlutter Webで現状できることの限界に挑戦していて、GoogleのFlutter開発チームからもフレームワーク改善のためのフィードバックを求められてます
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-15T04:42:52.608Z
 >
 > deck.blueの開発方針として少なくとも近いうちにモバイル版を作ることはないのでデスクトップまたはタブレットから使用することをおすすめします
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:53:44.832Z
 >
 > Gallery mode in deck.blue works like this, it's very easy to set up 👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:20:06.671Z
->
-> An event to eat chickens on the couch!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
