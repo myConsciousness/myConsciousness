@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T04:42:52.608Z
+>
+> deck.blueの開発方針として少なくとも近いうちにモバイル版を作ることはないのでデスクトップまたはタブレットから使用することをおすすめします
+
+モバイル用のサードパーティアプリであればgraysky.appやSkeetsがおすすめです
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-15T00:54:09.199Z
 >
 > Interesting, are you scraping trending words from @nowbreezing.ntw.app? 👀
@@ -85,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-11T23:20:06.671Z
 >
 > An event to eat chickens on the couch!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-11T13:39:54.886Z
->
-> 私は有料プランにしているので同じ表示にならないですけどたぶんPatreonで投稿したリリースノートの数ですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
