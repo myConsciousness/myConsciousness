@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T10:41:57.481Z
+>
+> @skeetstats.xyz !optin
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-15T09:58:22.626Z
 >
 > You can try 15s, now this is the fastest setting for updating columns
@@ -89,12 +95,6 @@ Blueskyではskyfeed.appとdeck.blueがFlutter Webで現状できることの限
 > deck.blueの開発方針として少なくとも近いうちにモバイル版を作ることはないのでデスクトップまたはタブレットから使用することをおすすめします
 
 モバイル用のサードパーティアプリであればgraysky.appやSkeetsがおすすめです
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T00:54:09.199Z
->
-> Interesting, are you scraping trending words from @nowbreezing.ntw.app? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
