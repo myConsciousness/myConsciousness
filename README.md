@@ -64,6 +64,28 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-16T10:17:39.651Z
+>
+> Brainstorming what to do with a Flutter app with Gemini
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-16T10:11:50.112Z
+>
+> > The Google AI Dart SDK has been released to beta. This enables you to build generative AI features into your Dart or Flutter app, powered by Gemini, Google’s latest family of AI models. 
+
+medium.com/flutter/what...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-16T10:09:07.236Z
+>
+> So can we easily integrate a generative AI into Flutter app?
+
+pub.dev/packages/goo...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-16T02:03:39.100Z
 >
 > This is not my editor but codeimage.dev :)
@@ -73,24 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-16T01:13:26.103Z
 >
 > The option has been added to deck.blue to hide the number of reactions on posts! Use this option if you want to enjoy Bluesky without worrying about the numbers on posts
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T10:41:57.481Z
->
-> @skeetstats.xyz !optin
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T09:58:22.626Z
->
-> You can try 15s, now this is the fastest setting for updating columns
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-15T09:46:11.996Z
->
-> bluesky's inline tags are a lifesaver for programmers who don't want to write advanced parsers
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
