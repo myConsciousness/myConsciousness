@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:33:03.312Z
+>
+> よかったです、またなにかあればフィードバックください！
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:29:46.110Z
+>
+> The news you techies need to watch is on @techmeme.com
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:21:49.382Z
+>
+> 今こちらの環境で試しにNYTをリストに入れてカラムを追加してみましたが表示されました
+
+言語設定やカラムの設定でフィルタリングされてませんか？
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T00:55:43.862Z
 >
 > The package for automatically generating missing translations to arb files using Google Gemini LLM
@@ -75,28 +95,6 @@ pub.dev/packages/arb...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-16T10:17:39.651Z
 >
 > Brainstorming what to do with a Flutter app with Gemini
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-16T10:11:50.112Z
->
-> > The Google AI Dart SDK has been released to beta. This enables you to build generative AI features into your Dart or Flutter app, powered by Gemini, Google’s latest family of AI models. 
-
-medium.com/flutter/what...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-16T10:09:07.236Z
->
-> So can we easily integrate a generative AI into Flutter app?
-
-pub.dev/packages/goo...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-16T02:03:39.100Z
->
-> This is not my editor but codeimage.dev :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
