@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T11:08:08.449Z
+>
+> Are you talking about this feature? 👀
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T09:38:13.772Z
 >
 > 🤖 "stop Paul. don't talk about cheese. I ate way too much last night too."
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 今こちらの環境で試しにNYTをリストに入れてカラムを追加してみましたが表示されました
 
 言語設定やカラムの設定でフィルタリングされてませんか？
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T00:55:43.862Z
->
-> The package for automatically generating missing translations to arb files using Google Gemini LLM
-
-pub.dev/packages/arb...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
