@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T16:04:10.029Z
+>
+> This is a helpful warning when you've given up on creating a UI for mobile
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T15:40:26.551Z
 >
 > I created gemini_cli to experience #Gemini
@@ -89,12 +95,6 @@ twitter.com/MAAAAAAAASAH...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T11:08:08.449Z
 >
 > Are you talking about this feature? 👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T09:38:13.772Z
->
-> 🤖 "stop Paul. don't talk about cheese. I ate way too much last night too."
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
