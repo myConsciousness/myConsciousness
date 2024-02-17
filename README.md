@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T15:40:26.551Z
+>
+> I created gemini_cli to experience #Gemini
+
+pub.dev/packages/gem...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T12:12:14.487Z
 >
 > 俳優の井上正大さん、本物です
@@ -87,12 +95,6 @@ twitter.com/MAAAAAAAASAH...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T09:38:13.772Z
 >
 > 🤖 "stop Paul. don't talk about cheese. I ate way too much last night too."
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:33:03.312Z
->
-> よかったです、またなにかあればフィードバックください！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
