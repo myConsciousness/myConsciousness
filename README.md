@@ -64,6 +64,20 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T12:12:14.487Z
+>
+> 俳優の井上正大さん、本物です
+
+twitter.com/MAAAAAAAASAH...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T12:03:20.572Z
+>
+> ようこそ！👋
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T11:08:08.449Z
 >
 > Are you talking about this feature? 👀
@@ -79,20 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:33:03.312Z
 >
 > よかったです、またなにかあればフィードバックください！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:29:46.110Z
->
-> The news you techies need to watch is on @techmeme.com
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T02:21:49.382Z
->
-> 今こちらの環境で試しにNYTをリストに入れてカラムを追加してみましたが表示されました
-
-言語設定やカラムの設定でフィルタリングされてませんか？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
