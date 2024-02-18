@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T06:40:03.371Z
+>
+> Hey @emilyliu.me, it seems your @earthquake.bsky.social keeps using the deprecated `entities` property for inline links, can you switch it to `facets`? 👀
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T06:35:33.547Z
+>
+> 公式アプリで挙動が違うのはキャッシュとかビルドバージョンの差異からかもしれないですけど、そもそもこのBOTが破壊的変更前の`entities`プロパティを使い続けてるのが原因ですね！このプロパティは現在は非推奨になっててそもそもまったく使用してないクライアントのほうが多いと思います
+
+これがdeck.blueとかのクライアントで問題なく表示できてるのは私のSDKで非推奨の`entities`があったら`facets`にこっそりマージしてるからです
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T06:06:35.617Z
+>
+> インラインリンクが有効にならない件ですかね？
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-17T16:04:10.029Z
 >
 > This is a helpful warning when you've given up on creating a UI for mobile
@@ -75,26 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I created gemini_cli to experience #Gemini
 
 pub.dev/packages/gem...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T12:12:14.487Z
->
-> 俳優の井上正大さん、本物です
-
-twitter.com/MAAAAAAAASAH...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T12:03:20.572Z
->
-> ようこそ！👋
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T11:08:08.449Z
->
-> Are you talking about this feature? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
