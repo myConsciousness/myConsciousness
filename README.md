@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T11:27:34.453Z
+>
+> Looks so good 🔥
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-18T09:32:58.980Z
 >
 > // TODO: will implement later -- You, 2 years ago | 1 author (You)
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-18T06:06:35.617Z
 >
 > インラインリンクが有効にならない件ですかね？
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-17T16:04:10.029Z
->
-> This is a helpful warning when you've given up on creating a UI for mobile
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
