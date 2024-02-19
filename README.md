@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-19T06:53:10.478Z
+>
+> Female Chameleon Erupts with Color Before Death
+
+youtu.be/0LZ2K44LIxM?...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-18T11:27:34.453Z
 >
 > Looks so good 🔥
@@ -87,12 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 公式アプリで挙動が違うのはキャッシュとかビルドバージョンの差異からかもしれないですけど、そもそもこのBOTが破壊的変更前の`entities`プロパティを使い続けてるのが原因ですね！このプロパティは現在は非推奨になっててそもそもまったく使用してないクライアントのほうが多いと思います
 
 これがdeck.blueとかのクライアントで問題なく表示できてるのは私のSDKで非推奨の`entities`があったら`facets`にこっそりマージしてるからです
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T06:06:35.617Z
->
-> インラインリンクが有効にならない件ですかね？
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
