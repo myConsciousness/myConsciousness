@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-20T01:37:55.650Z
+>
+> I have found deck.blue's performance drops in Safari especially when scrolling
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-20T01:17:39.408Z
 >
 > It's surprising in a good way that the Belarusian community has a presence in Bluesky!
@@ -87,12 +93,6 @@ youtu.be/0LZ2K44LIxM?...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-18T09:32:58.980Z
 >
 > // TODO: will implement later -- You, 2 years ago | 1 author (You)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T06:40:03.371Z
->
-> Hey @emilyliu.me, it seems your @earthquake.bsky.social keeps using the deprecated `entities` property for inline links, can you switch it to `facets`? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
