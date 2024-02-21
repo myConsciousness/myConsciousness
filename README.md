@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T03:39:55.596Z
+>
+> 存在を忘れてたので動いてるかわからないです🌞
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T03:38:35.738Z
+>
+> “okay I received new lexicons, let's see what has changed”
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-21T02:44:28.260Z
 >
 > Wow!
@@ -81,20 +93,6 @@ Amazon set to join Dow Jones Index - www.bloomberg.com/news/article...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-20T01:17:39.408Z
 >
 > It's surprising in a good way that the Belarusian community has a presence in Bluesky!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-19T06:53:10.478Z
->
-> Female Chameleon Erupts with Color Before Death
-
-youtu.be/0LZ2K44LIxM?...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-18T11:27:34.453Z
->
-> Looks so good 🔥
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
