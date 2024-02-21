@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T04:42:08.842Z
+>
+> The title bar of deck.blue's PWA has been fixed to blue until now, but it now synchronizes with the user-selected color theme! If you're already using deck.blue's PWA, please reload the screen.
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-21T03:39:55.596Z
 >
 > 存在を忘れてたので動いてるかわからないです🌞
@@ -87,12 +93,6 @@ Amazon set to join Dow Jones Index - www.bloomberg.com/news/article...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-20T01:37:55.650Z
 >
 > I have found deck.blue's performance drops in Safari especially when scrolling
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-20T01:17:39.408Z
->
-> It's surprising in a good way that the Belarusian community has a presence in Bluesky!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
