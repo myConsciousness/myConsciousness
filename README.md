@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T02:59:01.159Z
+>
+> Nice, these settings should be always shared among clients
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T02:20:18.706Z
+>
+> Japanese posters are contributing chaotically
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-21T09:31:10.608Z
 >
 > 👀
@@ -79,20 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-21T03:39:55.596Z
 >
 > 存在を忘れてたので動いてるかわからないです🌞
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T03:38:35.738Z
->
-> “okay I received new lexicons, let's see what has changed”
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T02:44:28.260Z
->
-> Wow!
-
-Amazon set to join Dow Jones Index - www.bloomberg.com/news/article...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
