@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T13:18:43.013Z
+>
+> Thanks! We’re going to use these new features soon 😁👍
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T11:22:37.471Z
 >
 > Dart SDK 3.3 is required from this version! And some dependent packages use web v0.5.0, so you need to add the following override to pubspec.yaml if they are not compatible with your app
@@ -95,12 +101,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T04:05:36.830Z
 >
 > We’re watchinggggg
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:45:56.347Z
->
-> Very interesting, thank you for sharing!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
