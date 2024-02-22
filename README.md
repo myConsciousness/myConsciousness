@@ -64,33 +64,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T02:59:01.159Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:45:56.347Z
 >
-> Nice, these settings should be always shared among clients
+> Very interesting, thank you for sharing!
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T02:20:18.706Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:44:10.568Z
 >
-> Japanese posters are contributing chaotically
+> 米国株も日本株も好調で最近は無性にこれを聴きたくなるね
+
+youtu.be/1md3qCyBWvo?...
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T09:31:10.608Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:35:07.338Z
 >
-> 👀
+> いつ他の銘柄に利益を分配するか悩むくらいの勢いですね
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T04:42:08.842Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:33:03.023Z
 >
-> The title bar of deck.blue's PWA has been fixed to blue until now, but it now synchronizes with the user-selected color theme! If you're already using deck.blue's PWA, please reload the screen.
+> Oh I didn’t know that, did they have an OSS project? 👀
 
 ---
 
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-21T03:39:55.596Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:16:25.943Z
 >
-> 存在を忘れてたので動いてるかわからないです🌞
+> I recently researched a company called Palantir Technologies and found the CEO, Alex Karp, to be very unique and interesting more so than the company's products (of course their AI-applied solutions are great)
+
+www.palantir.com/newsroom/let...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
