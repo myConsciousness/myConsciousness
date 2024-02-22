@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T11:22:37.471Z
+>
+> Dart SDK 3.3 is required from this version! And some dependent packages use web v0.5.0, so you need to add the following override to pubspec.yaml if they are not compatible with your app
+
+```
+dependency_overrides:
+  http: ^1.2.0
+  web_socket_channel: ^2.4.3
+```
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T11:16:21.410Z
+>
+> I have released the latest builds of atproto and bluesky packages for Dart/Flutter :)
+
+This release includes account migration-related endpoints and new preferences related to mute items
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T09:21:15.231Z
 >
 > @esb.lol I was able to put these new objects in my preference, but why are these new objects not included in Lexicon's union refs?
@@ -81,20 +101,6 @@ github.com/bluesky-soci...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:45:56.347Z
 >
 > Very interesting, thank you for sharing!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:44:10.568Z
->
-> 米国株も日本株も好調で最近は無性にこれを聴きたくなるね
-
-youtu.be/1md3qCyBWvo?...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:35:07.338Z
->
-> いつ他の銘柄に利益を分配するか悩むくらいの勢いですね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
