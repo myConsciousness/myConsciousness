@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T09:21:15.231Z
+>
+> @esb.lol I was able to put these new objects in my preference, but why are these new objects not included in Lexicon's union refs?
+
+github.com/bluesky-soci...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T04:05:36.830Z
 >
 > We’re watchinggggg
@@ -87,12 +95,6 @@ youtu.be/1md3qCyBWvo?...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:35:07.338Z
 >
 > いつ他の銘柄に利益を分配するか悩むくらいの勢いですね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:33:03.023Z
->
-> Oh I didn’t know that, did they have an OSS project? 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
