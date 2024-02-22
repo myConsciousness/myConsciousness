@@ -64,6 +64,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T21:32:02.580Z
+>
+> This lecture is worth watching more than once.
+
+Instead of reinventing DOM-based frameworks like Vue and React, which are already successful with the DOM, Google's Flutter team is trying to invent a whole new framework based on new web standards like Canvas and WebAssembly
+
+youtu.be/PAOAjOR6K_Q?...
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T21:21:32.569Z
+>
+> #lgtm
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T13:18:43.013Z
 >
 > Thanks! We’re going to use these new features soon 😁👍
@@ -87,20 +103,6 @@ dependency_overrides:
 > I have released the latest builds of atproto and bluesky packages for Dart/Flutter :)
 
 This release includes account migration-related endpoints and new preferences related to mute items
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T09:21:15.231Z
->
-> @esb.lol I was able to put these new objects in my preference, but why are these new objects not included in Lexicon's union refs?
-
-github.com/bluesky-soci...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T04:05:36.830Z
->
-> We’re watchinggggg
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
