@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T04:05:36.830Z
+>
+> We’re watchinggggg
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:45:56.347Z
 >
 > Very interesting, thank you for sharing!
@@ -87,14 +93,6 @@ youtu.be/1md3qCyBWvo?...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:33:03.023Z
 >
 > Oh I didn’t know that, did they have an OSS project? 👀
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T03:16:25.943Z
->
-> I recently researched a company called Palantir Technologies and found the CEO, Alex Karp, to be very unique and interesting more so than the company's products (of course their AI-applied solutions are great)
-
-www.palantir.com/newsroom/let...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
