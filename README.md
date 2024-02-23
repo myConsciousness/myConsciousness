@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T07:32:49.778Z
+>
+> よかったです！👍
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T07:26:43.848Z
+>
+> エラーが出るのはポストボタンを押した時ですかね？もしそうであれば左端のアカウント管理のダイアログから予約アカウントの再リンクを試してみてください
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-23T05:29:16.500Z
 >
 > 以下のような感じで自分のDIDを乗せてAPIを叩くと所属してるPDSのサービス情報が返ってきます
@@ -81,22 +93,6 @@ plc.directory/did:plc:iijr...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:31:01.005Z
 >
 > メール通知の設定をしておくと監視が楽です
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:25:58.802Z
->
-> deck.blueは主にデスクトップから使用されることを想定しているのでキーボードショートカットを使えないとすると左端のカラムアイコンを選択するか手動で調整するしかないですね〜
-
-Chromiumベースのブラウザであればさほど差はない気がしますけどアプリの構造上あつかうデータ量が他の一般的なクライアントより多いのでデバイスの性能なども関係あるかもしれません
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:06:55.678Z
->
-> デスクトップからであればF1からF12のファンクションキーで任意のカラムに位置を合わせることができますね
-
-あとパフォーマンスについては基本的に使用しているブラウザに依存していて、SafariとFirefoxが我々が使ってるフレームワークと相性が悪いことがわかっているのでChromeやBraveなどから使用することをおすすめします
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
