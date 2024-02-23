@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T00:53:29.020Z
+>
+> people are watching like
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T00:41:27.679Z
+>
+> #200-OK
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T21:32:02.580Z
 >
 > This lecture is worth watching more than once.
@@ -83,26 +95,6 @@ youtu.be/PAOAjOR6K_Q?...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-22T13:18:43.013Z
 >
 > Thanks! We’re going to use these new features soon 😁👍
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T11:22:37.471Z
->
-> Dart SDK 3.3 is required from this version! And some dependent packages use web v0.5.0, so you need to add the following override to pubspec.yaml if they are not compatible with your app
-
-```
-dependency_overrides:
-  http: ^1.2.0
-  web_socket_channel: ^2.4.3
-```
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T11:16:21.410Z
->
-> I have released the latest builds of atproto and bluesky packages for Dart/Flutter :)
-
-This release includes account migration-related endpoints and new preferences related to mute items
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
