@@ -64,37 +64,37 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:37:00.813Z
+>
+> ありがとうございます！今のところdeck.blueのモバイル版を開発する計画はないので、モバイルから使用する場面ではモバイルデバイスに最適化されたクライアントを使用したほうがいいと思います
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:31:01.005Z
+>
+> メール通知の設定をしておくと監視が楽です
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:25:58.802Z
+>
+> deck.blueは主にデスクトップから使用されることを想定しているのでキーボードショートカットを使えないとすると左端のカラムアイコンを選択するか手動で調整するしかないですね〜
+
+Chromiumベースのブラウザであればさほど差はない気がしますけどアプリの構造上あつかうデータ量が他の一般的なクライアントより多いのでデバイスの性能なども関係あるかもしれません
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:06:55.678Z
+>
+> デスクトップからであればF1からF12のファンクションキーで任意のカラムに位置を合わせることができますね
+
+あとパフォーマンスについては基本的に使用しているブラウザに依存していて、SafariとFirefoxが我々が使ってるフレームワークと相性が悪いことがわかっているのでChromeやBraveなどから使用することをおすすめします
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-23T00:53:29.020Z
 >
 > people are watching like
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T00:41:27.679Z
->
-> #200-OK
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T21:32:02.580Z
->
-> This lecture is worth watching more than once.
-
-Instead of reinventing DOM-based frameworks like Vue and React, which are already successful with the DOM, Google's Flutter team is trying to invent a whole new framework based on new web standards like Canvas and WebAssembly
-
-youtu.be/PAOAjOR6K_Q?...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T21:21:32.569Z
->
-> #lgtm
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-22T13:18:43.013Z
->
-> Thanks! We’re going to use these new features soon 😁👍
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
