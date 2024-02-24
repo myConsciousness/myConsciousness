@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-24T01:16:58.863Z
+>
+> These options are very interesting 👀
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-23T07:32:49.778Z
 >
 > よかったです！👍
@@ -87,12 +93,6 @@ plc.directory/did:plc:iijr...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:37:00.813Z
 >
 > ありがとうございます！今のところdeck.blueのモバイル版を開発する計画はないので、モバイルから使用する場面ではモバイルデバイスに最適化されたクライアントを使用したほうがいいと思います
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:31:01.005Z
->
-> メール通知の設定をしておくと監視が楽です
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
