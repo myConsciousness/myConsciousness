@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-24T04:37:35.701Z
+>
+> ここも今のところは日本語クラスターが一大勢力みたいですけど最優先されるコンテンツは英語クラスター発のものですからね
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-24T01:16:58.863Z
 >
 > These options are very interesting 👀
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > 以下のような感じで自分のDIDを乗せてAPIを叩くと所属してるPDSのサービス情報が返ってきます
 
 plc.directory/did:plc:iijr...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T04:37:00.813Z
->
-> ありがとうございます！今のところdeck.blueのモバイル版を開発する計画はないので、モバイルから使用する場面ではモバイルデバイスに最適化されたクライアントを使用したほうがいいと思います
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
