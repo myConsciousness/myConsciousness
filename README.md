@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-26T02:52:09.957Z
+>
+> See how translatorbot works. Ignore this post
+
+translate
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-25T07:45:13.051Z
 >
 > クライアントによってカスタムフィードの見え方が異なるのは基本的にクライアント特有のフィルタリング機能や言語によるフィルタリングの設定のせいですね
@@ -85,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-23T07:32:49.778Z
 >
 > よかったです！👍
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-23T07:26:43.848Z
->
-> エラーが出るのはポストボタンを押した時ですかね？もしそうであれば左端のアカウント管理のダイアログから予約アカウントの再リンクを試してみてください
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
