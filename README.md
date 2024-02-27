@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-27T12:23:10.045Z
+>
+> I'm very curious as to who it was who recommended that they create this account
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-27T01:08:22.325Z
 >
 > Me when SAP HANA doesn't return results for almost an hour
@@ -87,12 +93,6 @@ translate
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-24T04:37:35.701Z
 >
 > ここも今のところは日本語クラスターが一大勢力みたいですけど最優先されるコンテンツは英語クラスター発のものですからね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-24T01:16:58.863Z
->
-> These options are very interesting 👀
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
