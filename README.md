@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-27T13:46:12.229Z
+>
+> gm gm!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-27T13:20:28.510Z
+>
+> One of the most interesting moment in software development is when I find a bug, I feel like I have found a treasure
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-27T12:23:10.045Z
 >
 > I'm very curious as to who it was who recommended that they create this account
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > See how translatorbot works. Ignore this post
 
 translate
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-25T07:45:13.051Z
->
-> クライアントによってカスタムフィードの見え方が異なるのは基本的にクライアント特有のフィルタリング機能や言語によるフィルタリングの設定のせいですね
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-24T04:37:35.701Z
->
-> ここも今のところは日本語クラスターが一大勢力みたいですけど最優先されるコンテンツは英語クラスター発のものですからね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
