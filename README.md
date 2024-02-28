@@ -64,6 +64,22 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-28T01:14:28.652Z
+>
+> I can't wait to see!
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-28T01:10:55.855Z
+>
+> Bluesky版TweetDeck「deck.blue」のアカウント作成方法
+
+How to create an account for Bluesky's TweetDeck-like client called deck.blue
+
+panadablog.com/deck-blue-in
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-27T13:46:12.229Z
 >
 > gm gm!
@@ -79,20 +95,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-27T12:23:10.045Z
 >
 > I'm very curious as to who it was who recommended that they create this account
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-27T01:08:22.325Z
->
-> Me when SAP HANA doesn't return results for almost an hour
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-26T02:52:09.957Z
->
-> See how translatorbot works. Ignore this post
-
-translate
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
