@@ -64,6 +64,26 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T06:51:15.991Z
+>
+> #🎉🎉
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T06:26:11.469Z
+>
+> Bluesky's #hashtag is chaotic at the moment
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T06:13:45.383Z
+>
+> メンションやリンクでも同じ仕組みなんですけどなにをハッシュタグとして扱うかは完全にクライアントの実装依存ですね
+
+特にアプリ開発に使用しているプログラミング言語やフレームワークなどの理由で公式アプリと同じライブラリを使えないサードパーティアプリではパーサーのアルゴリズムはアプリごとに異なります
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T00:56:42.796Z
 >
 > #nice-hash
@@ -73,28 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T00:32:55.403Z
 >
 > Paul is #great
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-28T01:14:28.652Z
->
-> I can't wait to see!
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-28T01:10:55.855Z
->
-> Bluesky版TweetDeck「deck.blue」のアカウント作成方法
-
-How to create an account for Bluesky's TweetDeck-like client called deck.blue
-
-panadablog.com/deck-blue-in
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-27T13:46:12.229Z
->
-> gm gm!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
