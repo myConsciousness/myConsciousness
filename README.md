@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T08:59:44.864Z
+>
+> 修正したのでブラウザのキャッシュをクリアして試してみてください！
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T07:10:25.121Z
 >
 > Time for debugging! 👾
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > メンションやリンクでも同じ仕組みなんですけどなにをハッシュタグとして扱うかは完全にクライアントの実装依存ですね
 
 特にアプリ開発に使用しているプログラミング言語やフレームワークなどの理由で公式アプリと同じライブラリを使えないサードパーティアプリではパーサーのアルゴリズムはアプリごとに異なります
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T00:56:42.796Z
->
-> #nice-hash
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
