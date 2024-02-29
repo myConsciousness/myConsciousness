@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T07:10:25.121Z
+>
+> Time for debugging! 👾
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T06:51:15.991Z
 >
 > #🎉🎉
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T00:56:42.796Z
 >
 > #nice-hash
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T00:32:55.403Z
->
-> Paul is #great
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
