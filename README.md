@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T09:08:53.048Z
+>
+> Are you using the official app? If so update the app if it's a mobile app, or reload your browser if it's a web app :)
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T08:59:44.864Z
 >
 > 修正したのでブラウザのキャッシュをクリアして試してみてください！
@@ -85,14 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T06:26:11.469Z
 >
 > Bluesky's #hashtag is chaotic at the moment
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T06:13:45.383Z
->
-> メンションやリンクでも同じ仕組みなんですけどなにをハッシュタグとして扱うかは完全にクライアントの実装依存ですね
-
-特にアプリ開発に使用しているプログラミング言語やフレームワークなどの理由で公式アプリと同じライブラリを使えないサードパーティアプリではパーサーのアルゴリズムはアプリごとに異なります
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
