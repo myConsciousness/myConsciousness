@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-03-03T02:43:45.235Z
+>
+> I was imagining the tool like this!!! 🎉
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-03-02T14:01:24.855Z
 >
 > You can check this
@@ -87,12 +93,6 @@ www.amazon.com/Amazon-Photo...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T08:59:44.864Z
 >
 > 修正したのでブラウザのキャッシュをクリアして試してみてください！
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T07:10:25.121Z
->
-> Time for debugging! 👾
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
