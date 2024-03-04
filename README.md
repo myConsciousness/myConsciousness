@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-03-04T00:48:44.420Z
+>
+> スマホからの確定申告は環境依存の不具合がなくてすごくいいね
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-03-03T02:43:45.235Z
 >
 > I was imagining the tool like this!!! 🎉
@@ -87,12 +93,6 @@ www.amazon.com/Amazon-Photo...
 > Shinya Kato 🌮 @shinyakato.dev 2024-02-29T09:08:53.048Z
 >
 > Are you using the official app? If so update the app if it's a mobile app, or reload your browser if it's a web app :)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-02-29T08:59:44.864Z
->
-> 修正したのでブラウザのキャッシュをクリアして試してみてください！
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
