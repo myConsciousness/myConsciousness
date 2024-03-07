@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T02:40:13.337Z
+>
+> I spawned this way a year ago using the invite code Paul gave me
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T01:07:36.048Z
 >
 > Thank you! 🤝
@@ -85,14 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-03T02:43:45.235Z
 >
 > I was imagining the tool like this!!! 🎉
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-02T14:01:24.855Z
->
-> You can check this
-
-www.amazon.com/Amazon-Photo...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
