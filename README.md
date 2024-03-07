@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T01:07:36.048Z
+>
+> Thank you! 🤝
+
+---
+
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T01:07:07.887Z
+>
+> Thanks to all those who have used my creations!
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-04T00:48:44.420Z
 >
 > スマホからの確定申告は環境依存の不具合がなくてすごくいいね
@@ -81,18 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > You can check this
 
 www.amazon.com/Amazon-Photo...
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-02T14:00:04.998Z
->
-> Why didn't I realize until now that Amazon Prime benefits allow unlimited photo uploads to Amazon Photos
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-02-29T09:08:53.048Z
->
-> Are you using the official app? If so update the app if it's a mobile app, or reload your browser if it's a web app :)
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
