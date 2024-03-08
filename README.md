@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-08T00:52:56.237Z
+>
+> I call @atproto.com Emily
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T02:40:13.337Z
 >
 > I spawned this way a year ago using the invite code Paul gave me
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-04T00:48:44.420Z
 >
 > スマホからの確定申告は環境依存の不具合がなくてすごくいいね
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-03T02:43:45.235Z
->
-> I was imagining the tool like this!!! 🎉
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
