@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-09T23:58:09.366Z
+>
+> When you hear someone on the street talking about Bluesky
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-08T00:52:56.237Z
 >
 > I call @atproto.com Emily
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T01:07:07.887Z
 >
 > Thanks to all those who have used my creations!
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-04T00:48:44.420Z
->
-> スマホからの確定申告は環境依存の不具合がなくてすごくいいね
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
