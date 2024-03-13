@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-13T07:49:37.143Z
+>
+> I wrote codes outside of work for the first time in about two weeks
+
+---
+
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-10T07:36:19.650Z
 >
 > 綺麗な青空です🕊️
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T02:40:13.337Z
 >
 > I spawned this way a year ago using the invite code Paul gave me
-
----
-
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-07T01:07:36.048Z
->
-> Thank you! 🤝
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
