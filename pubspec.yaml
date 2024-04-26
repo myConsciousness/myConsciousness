@@ -6,9 +6,9 @@ environment:
   sdk: ^3.0.0
 
 dependencies:
-  bluesky: ^0.8.2
+  bluesky: ^0.15.18
   html: ^0.15.1
-  http: ^1.1.0
+  http: ^1.2.1
   intl: ^0.18.0
 
 dev_dependencies:
