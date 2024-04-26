@@ -64,33 +64,39 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-14T00:37:54.773Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-04-25T06:23:17.835Z
 >
-> Looking forward to see when Nvidia will tulip because I already don't have a position
+> Can't wait!
+
+variety.com/2024/tv/news...
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-13T07:49:37.143Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-04-25T04:37:34.182Z
 >
-> I wrote codes outside of work for the first time in about two weeks
+> The AWS Lambda custom runtime for Dart developed by AWS Lab stopped being maintained about 4 years ago, so I released a Null Safety version for the latest Dart SDK instead
+
+pub.dev/packages/aws...
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-10T07:36:19.650Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-04-25T04:26:03.632Z
 >
-> 綺麗な青空です🕊️
+> I have released a package bluesky v0.15.18 for Dart/Flutter :) This release includes the addition of savedFeedsPrefV2 to preference
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-09T23:58:09.366Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-04-23T09:22:30.057Z
 >
-> When you hear someone on the street talking about Bluesky
+> I deployed @apod.shinyakato.dev to AWS Lambda, but the official custom runtime for Dart was a dinosaur and I had to implement it myself
 
 ---
 
-> Shinya Kato (busy) 🌮 @shinyakato.dev 2024-03-08T00:52:56.237Z
+> Shinya Kato 🌮 @shinyakato.dev 2024-04-22T00:29:02.862Z
 >
-> I call @atproto.com Emily
+> Try AWS Lambda with Dart runtime
+
+aws.amazon.com/de/blogs/ope...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
