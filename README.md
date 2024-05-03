@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-03T13:08:19.162Z
+>
+> Kusatsu Yubatake at night
+
+www.yumomi.net/senshitsusyu...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-04-25T06:23:17.835Z
 >
 > Can't wait!
@@ -89,14 +97,6 @@ pub.dev/packages/aws...
 > Shinya Kato 🌮 @shinyakato.dev 2024-04-23T09:22:30.057Z
 >
 > I deployed @apod.shinyakato.dev to AWS Lambda, but the official custom runtime for Dart was a dinosaur and I had to implement it myself
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-04-22T00:29:02.862Z
->
-> Try AWS Lambda with Dart runtime
-
-aws.amazon.com/de/blogs/ope...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
