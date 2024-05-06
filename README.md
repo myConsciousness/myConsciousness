@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-06T05:50:45.379Z
+>
+> #bluesky
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-03T13:08:19.162Z
 >
 > Kusatsu Yubatake at night
@@ -91,12 +97,6 @@ pub.dev/packages/aws...
 > Shinya Kato 🌮 @shinyakato.dev 2024-04-25T04:26:03.632Z
 >
 > I have released a package bluesky v0.15.18 for Dart/Flutter :) This release includes the addition of savedFeedsPrefV2 to preference
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-04-23T09:22:30.057Z
->
-> I deployed @apod.shinyakato.dev to AWS Lambda, but the official custom runtime for Dart was a dinosaur and I had to implement it myself
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
