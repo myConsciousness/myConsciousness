@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-06T07:05:53.021Z
+>
+> This is an awesome place :^)
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-06T05:50:45.379Z
 >
 > #bluesky
@@ -91,12 +97,6 @@ variety.com/2024/tv/news...
 > The AWS Lambda custom runtime for Dart developed by AWS Lab stopped being maintained about 4 years ago, so I released a Null Safety version for the latest Dart SDK instead
 
 pub.dev/packages/aws...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-04-25T04:26:03.632Z
->
-> I have released a package bluesky v0.15.18 for Dart/Flutter :) This release includes the addition of savedFeedsPrefV2 to preference
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
