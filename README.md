@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T08:58:41.592Z
+>
+> Investment in Southeast Asia will undoubtedly bring great returns in the future
+
+www.straitstimes.com/tech/amazon-...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-08T07:36:05.193Z
 >
 > How to Deploy Dart Functions to AWS Lambda
@@ -91,14 +99,6 @@ zenn.dev/kato_shinya/...
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-06T05:50:45.379Z
 >
 > #bluesky
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-03T13:08:19.162Z
->
-> Kusatsu Yubatake at night
-
-www.yumomi.net/senshitsusyu...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
