@@ -37,10 +37,10 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 <!-- MY-DEV-TO-ARTICLES:START - Do not remove or modify this section -->
 - [Dev.to](https://dev.to/shinyakato)
+  - 🆕 [How to Deploy Dart Functions to AWS Lambda](https://dev.to/shinyakato/how-to-deploy-dart-functions-to-aws-lambda-4h1b) (2024-05-08)
   - [How to Create Bluesky BOT using Dart and Firehose](https://dev.to/shinyakato/how-to-create-bluesky-bot-using-dart-and-firehose-bll) (2023-09-09)
   - [How to Update Your Profile from Dart/Flutter App using Bluesky API](https://dev.to/shinyakato/how-to-update-your-profile-from-dartflutter-app-using-bluesky-api-5cag) (2023-08-15)
   - [Let's Post to Bluesky Social easily with Dart and Flutter](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5) (2023-06-15)
-  - [Easily use Firehose API on Bluesky Social with Dart and Flutter](https://dev.to/shinyakato/easily-use-firehose-api-on-bluesky-social-with-dart-and-flutter-mdk) (2023-06-06)
 <!-- MY-DEV-TO-ARTICLES:END -->
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
@@ -62,6 +62,14 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky).
 
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T07:36:05.193Z
+>
+> How to Deploy Dart Functions to AWS Lambda
+
+dev.to/shinyakato/h...
+
 ---
 
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-08T06:41:49.274Z
@@ -91,14 +99,6 @@ zenn.dev/kato_shinya/...
 > Kusatsu Yubatake at night
 
 www.yumomi.net/senshitsusyu...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-04-25T06:23:17.835Z
->
-> Can't wait!
-
-variety.com/2024/tv/news...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
