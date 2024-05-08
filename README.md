@@ -64,6 +64,18 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:29:59.079Z
+>
+> I didn’t think they would publish the illustration. If they use a lot of illustrations, I would change it to "Picture"
+
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:21:21.341Z
+>
+> This bot is completely automated and there is no way to tell if this is an illustration or not when this bot works
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-08T08:58:41.592Z
 >
 > Investment in Southeast Asia will undoubtedly bring great returns in the future
@@ -87,18 +99,6 @@ dev.to/shinyakato/h...
 #zenn
 
 zenn.dev/kato_shinya/...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-06T07:05:53.021Z
->
-> This is an awesome place :^)
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-06T05:50:45.379Z
->
-> #bluesky
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
