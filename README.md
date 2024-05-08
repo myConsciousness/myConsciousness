@@ -45,11 +45,11 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
 - [Zenn.dev](https://zenn.dev/kato_shinya)
+  - 🆕 [Dartの関数をServerless Frameworkとカスタムランタイムを使用してAWS Lambdaにデプロイする](https://zenn.dev/kato_shinya/articles/aws-lambda-and-dart-custom-runtime) (2024-05-08)
   - [【Dart/Flutter】Bluesky APIからメディアを添付してBlueskyにポストする](https://zenn.dev/kato_shinya/articles/lets-post-with-media-and-dart-to-bluesky) (2023-07-25)
   - [【Dart/Flutter】DartでBlueskyのFirehose APIを簡単に使用する](https://zenn.dev/kato_shinya/articles/lets-use-bluesky-firehose-api-with-dart) (2023-06-10)
   - [GitHub ActionsからBluesky Socialへ簡単にポストする](https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions) (2023-05-20)
   - [bluesky_cliでコマンドラインから簡単にBluesky SocialのAPIを叩く](https://zenn.dev/kato_shinya/articles/lets-try-bluesky-cli) (2023-04-04)
-  - [誰でもできる、Blueskyでカスタムドメインを簡単に設定する方法](https://zenn.dev/kato_shinya/articles/lets-set-custom-domain-in-bluesky) (2023-03-14)
 <!-- MY-ZENN-ARTICLES:END -->
 
 ## **Feeds** 🔭
@@ -62,6 +62,16 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.dart/tree/main/packages/bluesky).
 
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
+---
+
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T06:41:49.274Z
+>
+> Dartの関数をServerless Frameworkとカスタムランタイムを使用してAWS Lambdaにデプロイする
+
+#zenn
+
+zenn.dev/kato_shinya/...
+
 ---
 
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-06T07:05:53.021Z
@@ -89,14 +99,6 @@ www.yumomi.net/senshitsusyu...
 > Can't wait!
 
 variety.com/2024/tv/news...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-04-25T04:37:34.182Z
->
-> The AWS Lambda custom runtime for Dart developed by AWS Lab stopped being maintained about 4 years ago, so I released a Null Safety version for the latest Dart SDK instead
-
-pub.dev/packages/aws...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
