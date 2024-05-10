@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-10T12:52:57.930Z
+>
+> The use of generative AI in manufacturing is very interesting. The key is the optimization and utilization strategy for business data.
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-10T00:56:48.556Z
 >
 > Jack is just a man
@@ -87,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Investment in Southeast Asia will undoubtedly bring great returns in the future
 
 www.straitstimes.com/tech/amazon-...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T07:36:05.193Z
->
-> How to Deploy Dart Functions to AWS Lambda
-
-dev.to/shinyakato/h...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
