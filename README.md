@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-10T00:56:48.556Z
+>
+> Jack is just a man
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:29:59.079Z
 >
 > I didn’t think they would publish the illustration. If they use a lot of illustrations, I would change it to "Picture"
@@ -89,16 +95,6 @@ www.straitstimes.com/tech/amazon-...
 > How to Deploy Dart Functions to AWS Lambda
 
 dev.to/shinyakato/h...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T06:41:49.274Z
->
-> Dartの関数をServerless Frameworkとカスタムランタイムを使用してAWS Lambdaにデプロイする
-
-#zenn
-
-zenn.dev/kato_shinya/...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
