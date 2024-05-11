@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-11T01:04:30.622Z
+>
+> 
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-10T12:52:57.930Z
 >
 > The use of generative AI in manufacturing is very interesting. The key is the optimization and utilization strategy for business data.
@@ -85,14 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:21:21.341Z
 >
 > This bot is completely automated and there is no way to tell if this is an illustration or not when this bot works
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T08:58:41.592Z
->
-> Investment in Southeast Asia will undoubtedly bring great returns in the future
-
-www.straitstimes.com/tech/amazon-...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
