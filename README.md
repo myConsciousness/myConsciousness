@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-11T02:02:05.503Z
+>
+> I have just finished watching the entire season of The Man in the High Catsle. There are stereotypes about Japanese culture, but they capture the characteristics of Japanese people very well.
+
+btw who would have realized that this film also came from a parallel universe…? 👾
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-11T01:04:30.622Z
 >
 > 
@@ -85,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:29:59.079Z
 >
 > I didn’t think they would publish the illustration. If they use a lot of illustrations, I would change it to "Picture"
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:21:21.341Z
->
-> This bot is completely automated and there is no way to tell if this is an illustration or not when this bot works
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
