@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-14T22:53:50.453Z
+>
+> Finally we can try #Dart macros! 🤖
+
+medium.com/dartlang/dar...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-13T23:32:51.265Z
 >
 > Anthropic共同創業者のJared Kaplan博士が #AWS-Summit-Japan に来てくれる
@@ -89,12 +97,6 @@ btw who would have realized that this film also came from a parallel universe…
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-10T12:52:57.930Z
 >
 > The use of generative AI in manufacturing is very interesting. The key is the optimization and utilization strategy for business data.
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-10T00:56:48.556Z
->
-> Jack is just a man
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
