@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-13T23:32:51.265Z
+>
+> Anthropic共同創業者のJared Kaplan博士が #AWS-Summit-Japan に来てくれる
+
+aws.amazon.com/jp/summits/j...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-11T02:02:05.503Z
 >
 > I have just finished watching the entire season of The Man in the High Catsle. There are stereotypes about Japanese culture, but they capture the characteristics of Japanese people very well.
@@ -87,12 +95,6 @@ btw who would have realized that this film also came from a parallel universe…
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-10T00:56:48.556Z
 >
 > Jack is just a man
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-08T12:29:59.079Z
->
-> I didn’t think they would publish the illustration. If they use a lot of illustrations, I would change it to "Picture"
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
