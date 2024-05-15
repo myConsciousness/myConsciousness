@@ -45,7 +45,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 <!-- MY-ZENN-ARTICLES:START - Do not remove or modify this section -->
 - [Zenn.dev](https://zenn.dev/kato_shinya)
-  - 🆕 [Dartの関数をServerless Frameworkとカスタムランタイムを使用してAWS Lambdaにデプロイする](https://zenn.dev/kato_shinya/articles/aws-lambda-and-dart-custom-runtime) (2024-05-08)
+  - [Dartの関数をServerless Frameworkとカスタムランタイムを使用してAWS Lambdaにデプロイする](https://zenn.dev/kato_shinya/articles/aws-lambda-and-dart-custom-runtime) (2024-05-08)
   - [【Dart/Flutter】Bluesky APIからメディアを添付してBlueskyにポストする](https://zenn.dev/kato_shinya/articles/lets-post-with-media-and-dart-to-bluesky) (2023-07-25)
   - [【Dart/Flutter】DartでBlueskyのFirehose APIを簡単に使用する](https://zenn.dev/kato_shinya/articles/lets-use-bluesky-firehose-api-with-dart) (2023-06-10)
   - [GitHub ActionsからBluesky Socialへ簡単にポストする](https://zenn.dev/kato_shinya/articles/send-post-to-bluesky-via-github-actions) (2023-05-20)
