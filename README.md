@@ -37,7 +37,7 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 
 <!-- MY-DEV-TO-ARTICLES:START - Do not remove or modify this section -->
 - [Dev.to](https://dev.to/shinyakato)
-  - 🆕 [How to Deploy Dart Functions to AWS Lambda](https://dev.to/shinyakato/how-to-deploy-dart-functions-to-aws-lambda-4h1b) (2024-05-08)
+  - [How to Deploy Dart Functions to AWS Lambda](https://dev.to/shinyakato/how-to-deploy-dart-functions-to-aws-lambda-4h1b) (2024-05-08)
   - [How to Create Bluesky BOT using Dart and Firehose](https://dev.to/shinyakato/how-to-create-bluesky-bot-using-dart-and-firehose-bll) (2023-09-09)
   - [How to Update Your Profile from Dart/Flutter App using Bluesky API](https://dev.to/shinyakato/how-to-update-your-profile-from-dartflutter-app-using-bluesky-api-5cag) (2023-08-15)
   - [Let's Post to Bluesky Social easily with Dart and Flutter](https://dev.to/shinyakato/lets-post-to-bluesky-social-easily-with-dart-and-flutter-dj5) (2023-06-15)
