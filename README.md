@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-16T05:36:37.555Z
+>
+> I have released a package for Dart/Flutter that supports the `chat.bsky.*` lexicon 👀
+
+pub.dev/packages/blu...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-15T00:13:34.872Z
 >
 > heard this social media has a chat
@@ -91,12 +99,6 @@ aws.amazon.com/jp/summits/j...
 > I have just finished watching the entire season of The Man in the High Catsle. There are stereotypes about Japanese culture, but they capture the characteristics of Japanese people very well.
 
 btw who would have realized that this film also came from a parallel universe…? 👾
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-11T01:04:30.622Z
->
-> 
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
