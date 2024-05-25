@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-25T13:42:12.573Z
+>
+> who stole my pajamas
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-22T05:13:37.084Z
 >
 > Wake me up when I can use my WhatsApp stored meme stickers in chat
@@ -89,14 +95,6 @@ pub.dev/packages/blu...
 > Finally we can try #Dart macros! 🤖
 
 medium.com/dartlang/dar...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-13T23:32:51.265Z
->
-> Anthropic共同創業者のJared Kaplan博士が #AWS-Summit-Japan に来てくれる
-
-aws.amazon.com/jp/summits/j...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
