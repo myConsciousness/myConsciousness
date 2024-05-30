@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-30T01:12:44.494Z
+>
+> I wanted to moderate moderation 👾
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-25T13:42:12.573Z
 >
 > who stole my pajamas
@@ -87,14 +93,6 @@ pub.dev/packages/blu...
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-15T00:13:34.872Z
 >
 > heard this social media has a chat
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-14T22:53:50.453Z
->
-> Finally we can try #Dart macros! 🤖
-
-medium.com/dartlang/dar...
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
