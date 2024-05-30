@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-30T02:45:54.781Z
+>
+> I don't understand why The Boys Diabolical is not rated higher, personally I enjoyed it more than Gen V
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-30T01:12:44.494Z
 >
 > I wanted to moderate moderation 👾
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > I have released a package for Dart/Flutter that supports the `chat.bsky.*` lexicon 👀
 
 pub.dev/packages/blu...
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-15T00:13:34.872Z
->
-> heard this social media has a chat
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
