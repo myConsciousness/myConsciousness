@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-30T05:29:34.128Z
+>
+> third party SDK devs
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-30T04:32:27.590Z
 >
 > We added SkyThrow, a Bluesky client for posting only, to atprotodart.com/showcase
@@ -87,12 +93,6 @@ Thank you @rukari.bsky.social and @hidea.bsky.social!
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-25T13:42:12.573Z
 >
 > who stole my pajamas
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-22T05:13:37.084Z
->
-> Wake me up when I can use my WhatsApp stored meme stickers in chat
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
