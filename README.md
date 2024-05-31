@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-05-31T16:51:23.547Z
+>
+> good vibes
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-30T05:29:34.128Z
 >
 > third party SDK devs
@@ -87,12 +93,6 @@ Thank you @rukari.bsky.social and @hidea.bsky.social!
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-30T01:12:44.494Z
 >
 > I wanted to moderate moderation 👾
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-25T13:42:12.573Z
->
-> who stole my pajamas
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
