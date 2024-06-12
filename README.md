@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-06-11T23:45:30.713Z
+>
+> This is a nice ebook
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-31T16:51:23.547Z
 >
 > good vibes
@@ -87,12 +93,6 @@ Thank you @rukari.bsky.social and @hidea.bsky.social!
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-30T02:45:54.781Z
 >
 > I don't understand why The Boys Diabolical is not rated higher, personally I enjoyed it more than Gen V
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-30T01:12:44.494Z
->
-> I wanted to moderate moderation 👾
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
