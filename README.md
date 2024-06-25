@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-06-25T07:30:05.286Z
+>
+> teamLab Azabudai Hills
+
+#teamLabBorderless
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-06-12T00:31:29.040Z
 >
 > I want to improve the usability of union with the development of lex gen
@@ -85,14 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-05-30T05:29:34.128Z
 >
 > third party SDK devs
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-30T04:32:27.590Z
->
-> We added SkyThrow, a Bluesky client for posting only, to atprotodart.com/showcase
-
-Thank you @rukari.bsky.social and @hidea.bsky.social!
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
