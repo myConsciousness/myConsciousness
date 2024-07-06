@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-07-06T04:13:13.028Z
+>
+> He cares about how he looks on camera
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-06-26T02:57:09.021Z
 >
 > Tokyo DisneySea
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-06-11T23:45:30.713Z
 >
 > This is a nice ebook
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-05-31T16:51:23.547Z
->
-> good vibes
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
