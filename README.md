@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-07-11T06:17:39.453Z
+>
+> I look forward to seeing what kind of experience we get from low code development using generative AI. At least the low code platforms I've used have had difficulties with the development experience and maintainability.
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-07-06T04:13:13.028Z
 >
 > He cares about how he looks on camera
@@ -87,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-06-12T00:31:29.040Z
 >
 > I want to improve the usability of union with the development of lex gen
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-06-11T23:45:30.713Z
->
-> This is a nice ebook
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
