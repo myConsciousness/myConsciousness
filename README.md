@@ -64,6 +64,14 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-08-31T14:05:51.009Z
+>
+> If you don't like Starlink because of Elon Musk, you should know about Amazon's upcoming launch of #Kuiper
+
+www.aboutamazon.com/what-we-do/d...
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-08-31T13:11:03.134Z
 >
 > Interesting, I'm counting on it 🇧🇷
@@ -85,12 +93,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-07-11T06:17:39.453Z
 >
 > I look forward to seeing what kind of experience we get from low code development using generative AI. At least the low code platforms I've used have had difficulties with the development experience and maintainability.
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-07-06T04:13:13.028Z
->
-> He cares about how he looks on camera
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
