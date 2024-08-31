@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-08-31T13:11:03.134Z
+>
+> Interesting, I'm counting on it 🇧🇷
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-08-31T12:26:59.646Z
 >
 > Brazil did a great job
@@ -85,12 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-07-06T04:13:13.028Z
 >
 > He cares about how he looks on camera
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-06-26T02:57:09.021Z
->
-> Tokyo DisneySea
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
