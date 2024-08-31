@@ -64,6 +64,12 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 <!-- MY-BSKY_TIMELINE:START - Do not remove or modify this section -->
 ---
 
+> Shinya Kato 🌮 @shinyakato.dev 2024-08-31T12:26:59.646Z
+>
+> Brazil did a great job
+
+---
+
 > Shinya Kato 🌮 @shinyakato.dev 2024-07-14T07:35:13.683Z
 >
 > Haha, everything returns to nature, Buddha too 🧘
@@ -85,14 +91,6 @@ This content is fetched by [bluesky](https://github.com/myConsciousness/atproto.
 > Shinya Kato 🌮 @shinyakato.dev 2024-06-26T02:57:09.021Z
 >
 > Tokyo DisneySea
-
----
-
-> Shinya Kato 🌮 @shinyakato.dev 2024-06-25T07:30:05.286Z
->
-> teamLab Azabudai Hills
-
-#teamLabBorderless
 
 ---
 <!-- MY-BSKY_TIMELINE:END -->
