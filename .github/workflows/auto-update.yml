@@ -3,7 +3,7 @@ name: Auto Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */1 * * *'
+    - cron: "0 */1 * * *"
 
 jobs:
   build:
@@ -29,7 +29,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: '[Scheduled] Auto Update'
+          commit_message: "[Scheduled] Auto Update"
           commit_user_name: myConsciousness
           commit_user_email: contact@shinyakato.dev
           commit_author: myConsciousness <contact@shinyakato.dev>
