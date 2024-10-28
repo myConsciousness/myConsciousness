@@ -23,12 +23,3 @@ If you are interested in what I do, you can hit the **_Follow_** button over the
 | **[mastodon-api](https://github.com/mastodon-dart/mastodon-api)**              | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-api?style=social)       | A library for easy integration of **[Mastodon API](https://docs.joinmastodon.org/api/)** into Dart/Flutter apps.                                                                                                                                                           |
 | **[mastodon-oauth2](https://github.com/mastodon-dart/mastodon-oauth2)**        | ![GitHub stars](https://img.shields.io/github/stars/mastodon-dart/mastodon-oauth2?style=social)    | A library to easily integrate **[Mastodon OAuth](https://docs.joinmastodon.org/spec/oauth/)** into your Flutter apps.                                                                                                                                                      |
 | **[batch.dart](https://github.com/batch-dart/batch.dart)**                     | ![GitHub stars](https://img.shields.io/github/stars/batch-dart/batch.dart?style=social)            | A **job scheduling framework** developed in Dart that supports scheduling jobs in [Cron](https://en.wikipedia.org/wiki/Cron) format and advanced parallel processing.                                                                                                      |
-
-### **Others** ✨
-
-- [flutter-ranking](https://github.com/myConsciousness/flutter-ranking)
-- [freezer](https://github.com/myConsciousness/freezer)
-- [duolingo4d](https://github.com/duolingo-dart/duolingo4d)
-- [tweet](https://github.com/marketplace/actions/send-tweet)
-- [nasa](https://github.com/myConsciousness/nasa-api)
-- [atproto-pds-search](https://github.com/myConsciousness/atproto-pds-search)
